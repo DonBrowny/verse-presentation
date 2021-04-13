@@ -1,8 +1,9 @@
 import React, { Suspense } from 'react';
 // import logo from './logo.svg';
 import './App.scss';
-import { BrowserRouter, Link } from 'react-router-dom';
+import { BrowserRouter, NavLink } from 'react-router-dom';
 import Router from './Router';
+import Header from './components/Header';
 
 const ROUTES = [
   {
@@ -26,9 +27,9 @@ const ROUTES = [
 function createLink(links) {
   return links.map((link) => {
     return (
-      <Link key={link.path} to={link.path}>
+      <NavLink activeClassName="active" exact key={link.path} to={link.path}>
         {link.name}
-      </Link>
+      </NavLink>
     );
   });
 }
@@ -37,7 +38,7 @@ function App() {
   return (
     <div className="app">
       <BrowserRouter>
-        <header className="app-header">{createLink(ROUTES)}</header>
+        <Header>{createLink(ROUTES)}</Header>
         <div className="app-content">
           <Suspense fallback={<div>Loading...</div>}>
             <Router />
