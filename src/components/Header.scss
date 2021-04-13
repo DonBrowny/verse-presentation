@@ -1,0 +1,61 @@
+.header {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--color-primary);
+  width: 100%;
+  height: 4rem;
+
+  a {
+    display: inline-flex;
+    height: 100%;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  &-logo {
+    width: 50px;
+    padding-left: 15px;
+  }
+  &-name {
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: var(--font-large);
+    font-weight: bold;
+    color: var(--color-font-primary);
+    padding-left: 15px;
+  }
+  &-links {
+    display: flex;
+    justify-content: space-between;
+
+    a {
+      position: relative;
+      font-size: var(--font-medium);
+      font-weight: bold;
+      color: var(--color-font-secondary);
+      transition: 0.5s ease-in-out;
+      padding: 0px 15px;
+    }
+
+    a::before {
+      position: absolute;
+      width: 80%;
+      opacity: 0;
+      content: '';
+      background-color: var(--color-font-primary);
+      height: 5px;
+      top: 40px;
+    }
+
+    .active,
+    a:hover {
+      color: var(--color-font-primary);
+    }
+
+    .active::before,
+    a:hover::before {
+      opacity: 1;
+    }
+  }
+}
