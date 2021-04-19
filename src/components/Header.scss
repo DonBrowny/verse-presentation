@@ -2,9 +2,9 @@
   display: inline-flex;
   align-items: center;
   justify-content: space-between;
-  background-color: var(--color-primary);
   width: 100%;
-  height: 4rem;
+  height: var(--header-height);
+  background-color: var(--color-primary);
 
   a {
     display: inline-flex;
@@ -19,7 +19,6 @@
     padding-left: 15px;
   }
   &-name {
-    font-family: 'Black Han Sans', sans-serif;
     font-size: var(--font-large);
     font-weight: bold;
     color: var(--color-font-primary);
