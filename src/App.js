@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react';
-// import logo from './logo.svg';
+import './i18n';
 import './App.scss';
 import { BrowserRouter, NavLink } from 'react-router-dom';
 import Router from './Router';
