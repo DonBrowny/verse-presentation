@@ -18,3 +18,24 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.button {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  height: 2rem;
+  color: #000;
+  background: var(--color-primary);
+  border: 1px solid black;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: var(--font-large);
+  transition: color ease-in-out 0.5s;
+}
+
+.button:hover {
+  color: var(--color-font-primary);
+}
