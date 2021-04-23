@@ -27,14 +27,8 @@ const ContentHeader = () => {
     isVisible && (
       <div className="content-header">
         <span>COMMON.{pathName.toUpperCase()}</span>
-        <img
-          src={process.env.PUBLIC_URL + '/icons/pause-circle.svg'}
-          alt="Play Icon"
-        />
-        <img
-          src={process.env.PUBLIC_URL + '/icons/play-circle.svg'}
-          alt="Play Icon"
-        />
+        <img src="/icons/pause-circle.svg" alt="Play Icon" />
+        <img src="/icons/play-circle.svg" alt="Play Icon" />
       </div>
     )
   );
