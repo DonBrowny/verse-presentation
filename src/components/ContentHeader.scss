@@ -1,0 +1,15 @@
+.content {
+  &-header {
+    width: 100%;
+
+    span {
+      float: left;
+    }
+    img {
+      float: right;
+      height: 32px;
+      margin: 5px 10px;
+      cursor: pointer;
+    }
+  }
+}
