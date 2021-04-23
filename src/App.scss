@@ -1,8 +1,9 @@
 .app {
   &-content {
+    width: calc(100% - 20px);
     position: absolute;
-    width: 100%;
     height: calc(100vh - var(--header-height));
+    padding: 10px;
     background-color: var(--color-secondary);
   }
 }

@@ -1,14 +1,15 @@
 .content {
   &-header {
-    width: 100%;
-
+    display: grid;
+    grid-template-columns: auto repeat(2, 30px);
+    grid-column-gap: 10px;
+    grid-column-start: 2;
+    align-items: center;
     span {
       float: left;
     }
     img {
       float: right;
-      height: 32px;
-      margin: 5px 10px;
       cursor: pointer;
     }
   }
