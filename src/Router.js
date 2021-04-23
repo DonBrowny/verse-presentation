@@ -7,7 +7,7 @@ const Settings = lazy(() => import('./components/Settings'));
 
 const ROUTES = [
   {
-    path: '/',
+    path: '/verse',
     component: <Verse />,
   },
   {

@@ -4,10 +4,11 @@ import './App.scss';
 import { BrowserRouter, NavLink } from 'react-router-dom';
 import Router from './Router';
 import Header from './components/Header';
+import ContentHeader from './components/ContentHeader';
 
 const ROUTES = [
   {
-    path: '/',
+    path: '/verse',
     name: 'Verse',
   },
   {
@@ -40,6 +41,7 @@ function App() {
       <BrowserRouter>
         <Header>{createLink(ROUTES)}</Header>
         <div className="app-content">
+          <ContentHeader />
           <Suspense fallback={<div>Loading...</div>}>
             <Router />
           </Suspense>
