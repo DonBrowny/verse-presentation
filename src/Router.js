@@ -1,11 +1,16 @@
 import React, { lazy } from 'react';
 import { Switch, Route } from 'react-router-dom';
+const Home = lazy(() => import('./components/Home'));
 const Verse = lazy(() => import('./components/Verse'));
 const Lyrics = lazy(() => import('./components/Lyrics'));
 const Layout = lazy(() => import('./components/Layout'));
 const Settings = lazy(() => import('./components/Settings'));
 
 const ROUTES = [
+  {
+    path: '/',
+    component: <Home />,
+  },
   {
     path: '/verse',
     component: <Verse />,

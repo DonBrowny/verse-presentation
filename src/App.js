@@ -8,6 +8,10 @@ import ContentHeader from './components/ContentHeader';
 
 const ROUTES = [
   {
+    path: '/',
+    name: 'Home',
+  },
+  {
     path: '/verse',
     name: 'Verse',
   },
