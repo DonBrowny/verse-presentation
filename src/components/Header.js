@@ -4,13 +4,13 @@ import Logo from '../logo.png';
 
 const Header = ({ children }) => {
   return (
-    <header className="header">
+    <nav className="header">
       <a href="/">
         <img className="header-logo" src={Logo} alt="Logo" />
         <span className="header-name">Verse Presentation</span>
       </a>
-      <nav className="header-links">{children}</nav>
-    </header>
+      <div className="header-links">{children}</div>
+    </nav>
   );
 };
 

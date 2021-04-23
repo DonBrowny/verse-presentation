@@ -25,11 +25,11 @@ const ContentHeader = () => {
 
   return (
     isVisible && (
-      <div className="content-header">
+      <header className="content-header">
         <span>COMMON.{pathName.toUpperCase()}</span>
         <img src="/icons/pause-circle.svg" alt="Play Icon" />
         <img src="/icons/play-circle.svg" alt="Play Icon" />
-      </div>
+      </header>
     )
   );
 };
