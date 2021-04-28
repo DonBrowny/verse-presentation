@@ -7,7 +7,7 @@
   font-weight: normal;
   font-style: normal;
   font-display: swap;
-  unicode-range: U+0964-0965, U+0B82-0BFA, U+200C-200D, U+20B9, U+25CC;
+  unicode-range: U+0964-0965, U+0B80-0BFF, U+200C-200D, U+20B9, U+25CC;
 }
 
 body {
@@ -17,6 +17,16 @@ body {
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  font: inherit;
+  cursor: pointer;
 }
 
 .button {

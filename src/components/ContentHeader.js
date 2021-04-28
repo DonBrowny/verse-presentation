@@ -27,8 +27,13 @@ const ContentHeader = () => {
     isVisible && (
       <header className="content-header">
         <span>COMMON.{pathName.toUpperCase()}</span>
-        <img src="/icons/pause-circle.svg" alt="Play Icon" />
+        <img src="/icons/language-solid.svg" alt="Change Language" />
+        <span>Language:</span>
+        <button className="trans-button ripple">Eng</button>
+        <button className="trans-button ripple">தமிழ்</button>
+
         <img src="/icons/play-circle.svg" alt="Play Icon" />
+        <img src="/icons/stop-circle.svg" alt="Play Icon" />
       </header>
     )
   );

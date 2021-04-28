@@ -1,16 +1,45 @@
 .content {
   &-header {
     display: grid;
-    grid-template-columns: auto repeat(2, 30px);
+    grid-template-columns: auto 40px 70px repeat(2, 50px) repeat(2, 30px);
     grid-column-gap: 10px;
     grid-column-start: 2;
     align-items: center;
-    span {
-      float: left;
-    }
+    font-size: var(--font-primary);
+
     img {
-      float: right;
       cursor: pointer;
+    }
+
+    .trans-button {
+      display: inline-block;
+      background: var(--color-font-secondary);
+      font-size: var(--font-small);
+      color: #fff;
+      text-shadow: 0px 0px 1px var(--color-font-secondary);
+      outline: 0;
+      border: 0;
+      border-radius: 0.25rem;
+      box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3); /* black with 30% opacity */
+    }
+
+    .ripple {
+      background-position: center;
+      transition: background 0.8s;
+    }
+    .ripple:hover {
+      background: var(--color-font-primary)
+        radial-gradient(circle, transparent 1%, var(--color-font-primary) 1%)
+        center/15000%;
+    }
+    .ripple:active {
+      background-color: #6eb9f7;
+      background-size: 100%;
+      transition: background 0s;
+    }
+
+    .active-button {
+      background: var(--color-font-primary);
     }
   }
 }
