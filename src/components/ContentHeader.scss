@@ -1,7 +1,7 @@
 .content {
   &-header {
     display: grid;
-    grid-template-columns: auto 40px 70px repeat(2, 50px) repeat(2, 30px);
+    grid-template-columns: auto 70px repeat(2, 50px) repeat(2, 30px);
     grid-column-gap: 10px;
     grid-column-start: 2;
     align-items: center;
@@ -38,7 +38,7 @@
       transition: background 0s;
     }
 
-    .active-button {
+    .active {
       background: var(--color-font-primary);
     }
   }

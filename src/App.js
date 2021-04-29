@@ -41,8 +41,8 @@ function App() {
       <BrowserRouter>
         <Header>{createLink(ROUTES)}</Header>
         <div className="app-content">
-          <ContentHeader />
           <Suspense fallback={<div>Loading...</div>}>
+            <ContentHeader />
             <Router />
           </Suspense>
         </div>
