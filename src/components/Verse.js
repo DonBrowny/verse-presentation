@@ -1,14 +1,16 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import './Verse.scss';
 
 const Verse = () => {
   const { t } = useTranslation('verse');
 
   return (
-    <div>
-      <h2>Verse</h2>
-      <p>{t('CHAPTERS.GENESIS')}</p>
-    </div>
+    // <p>{t('CHAPTERS.GENESIS')}</p>
+    <article className="verse">
+      <section>{t('FORM.VERSE_SEARCH')}</section>
+      <section>{t('FORM.SEARCH_RESULT')}</section>
+    </article>
   );
 };
 

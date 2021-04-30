@@ -1,0 +1,12 @@
+.verse {
+  margin: 10px 10px 10px 0px;
+  display: grid;
+  grid-template-columns: 30% 70%;
+  grid-template-rows: auto;
+  grid-column-gap: 10px;
+}
+
+section {
+  border: 2px solid var(--color-primary);
+  border-radius: 0.5rem;
+}

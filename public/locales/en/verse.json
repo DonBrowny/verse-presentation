@@ -1,4 +1,8 @@
 {
+  "FORM": {
+    "VERSE_SEARCH": "Verse Search",
+    "SEARCH_RESULT": "Search Results"
+  },
   "CHAPTERS": {
     "GENESIS": "Genesis",
     "EXODUS": "Exodus",

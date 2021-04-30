@@ -1,4 +1,8 @@
 {
+  "FORM": {
+    "VERSE_SEARCH": "வசனம் தேடல்",
+    "SEARCH_RESULT": "தேடல் முடிவுகள்"
+  },
   "CHAPTERS": {
     "GENESIS": "ஆதியாகமம்",
     "EXODUS": "யாத்திராகமம்",
