@@ -1,7 +1,11 @@
 {
   "FORM": {
+    "SEARCH": "தேடல்",
     "VERSE_SEARCH": "வசனம் தேடல்",
-    "SEARCH_RESULT": "தேடல் முடிவுகள்"
+    "SEARCH_RESULT": "தேடல் முடிவுகள்",
+    "BOOK": "ஆகமம்",
+    "CHAPTER": "அதிகாரம்",
+    "VERSE": "வசனம்"
   },
   "CHAPTERS": {
     "GENESIS": "ஆதியாகமம்",

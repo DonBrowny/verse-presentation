@@ -1,9 +1,22 @@
 .list {
   list-style-type: none;
+  border: 1px solid black;
   margin: 0;
-  padding: 0;
+  padding: 0px 5px;
+  overflow: auto;
+  background-color: white;
 
   li {
+    padding: 2px 0px;
     font-size: var(--font-primary);
+    cursor: pointer;
+
+    &:nth-child(even) {
+      background-color: var(--color-secondary);
+    }
+
+    &:hover {
+      background-color: var(--color-green-secondary);
+    }
   }
 }

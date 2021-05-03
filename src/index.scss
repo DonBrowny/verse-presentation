@@ -17,16 +17,43 @@ body {
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
 }
 
 a {
   text-decoration: none;
 }
 
+h1,
+h2,
+h3 {
+  margin: 0px;
+  padding: 0px;
+}
+
 button {
   border: none;
   font: inherit;
   cursor: pointer;
+}
+
+//Scroll Bar
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-green-secondary);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-primary);
 }
 
 .button {

@@ -80,13 +80,19 @@ const Verse = () => {
   };
 
   return (
-    // <p>{t('CHAPTERS.GENESIS')}</p>
     <article className="verse">
-      <section>
+      <section className="verse-search">
         <h3>{t('FORM.VERSE_SEARCH')}</h3>
+        <span>{t('FORM.BOOK')}:</span>
+        <span>{t('FORM.CHAPTER')}:</span>
+        <span>{t('FORM.VERSE')}:</span>
         <List items={transChapters()} translation="true" />
+        <List items={[]} />
+        <List items={[]} />
       </section>
-      <section>{t('FORM.SEARCH_RESULT')}</section>
+      <section className="verse-result">
+        <h3>{t('FORM.SEARCH_RESULT')}</h3>
+      </section>
     </article>
   );
 };

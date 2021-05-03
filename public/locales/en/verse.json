@@ -1,7 +1,11 @@
 {
   "FORM": {
+    "SEARCH": "Search",
     "VERSE_SEARCH": "Verse Search",
-    "SEARCH_RESULT": "Search Results"
+    "SEARCH_RESULT": "Search Results",
+    "BOOK": "Book",
+    "CHAPTER": "Chapter",
+    "VERSE": "Verse"
   },
   "CHAPTERS": {
     "GENESIS": "Genesis",
