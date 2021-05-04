@@ -37,7 +37,7 @@ const ContentHeader = () => {
   return (
     isVisible && (
       <header className="content-header">
-        <span>COMMON.{pathName.toUpperCase()}</span>
+        <h3>{pathName.toUpperCase()}</h3>
         <span>Language:</span>
         <button
           onClick={() => {

@@ -37,15 +37,13 @@ function createLink(links) {
 
 function App() {
   return (
-    <div className="app">
+    <div className="app app-content">
       <BrowserRouter>
         <Header>{createLink(ROUTES)}</Header>
-        <div className="app-content">
-          <Suspense fallback={<div>Loading...</div>}>
-            <ContentHeader />
-            <Router />
-          </Suspense>
-        </div>
+        <Suspense fallback={<div>Loading...</div>}>
+          <ContentHeader />
+          <Router />
+        </Suspense>
       </BrowserRouter>
     </div>
   );

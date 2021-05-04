@@ -1,9 +1,10 @@
 .app {
+  width: 100%;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr;
+
   &-content {
-    width: calc(100% - 20px);
-    position: absolute;
-    height: calc(100vh - 20px - var(--header-height));
-    padding: 10px;
-    background-color: var(--color-secondary);
+    grid-template-rows: var(--header-height) var(--contentHeader-height) 1fr;
   }
 }

@@ -1,23 +1,25 @@
 .verse {
-  margin: 10px 10px 10px 0px;
   display: grid;
-  grid-template-columns: 30% 69%;
+  grid-template-columns: 1fr 2fr;
   grid-template-rows: 1fr;
   grid-column-gap: 10px;
-  overflow: hidden;
+  padding: 5px;
 
   &-search {
     display: grid;
-    grid-template-columns: 50% 23% 23%;
-    grid-template-rows: 30px 20px;
-    grid-auto-rows: calc(
-      100vh - var(--contentHeader-height) - var(--header-height) - 90px - 25px
-    );
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 22fr;
     grid-column-gap: 10px;
     grid-row-gap: 5px;
 
     h3 {
       grid-column: 1 / span 3;
+    }
+
+    p {
+      overflow: auto;
+      position: absolute;
+      height: 100%;
     }
   }
 }

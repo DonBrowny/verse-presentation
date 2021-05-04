@@ -12,7 +12,11 @@ const List = ({ items, translation = false }) => {
     }
   };
 
-  return <ul className="list">{itemsToList()}</ul>;
+  return (
+    <div className="list">
+      <ul className="list-content">{itemsToList()}</ul>
+    </div>
+  );
 };
 
 export default List;
