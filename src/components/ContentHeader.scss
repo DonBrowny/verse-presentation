@@ -1,11 +1,12 @@
 .content {
   &-header {
     display: grid;
+    height: var(--contentHeader-height);
     grid-template-columns: auto 70px repeat(2, 50px) repeat(2, 30px);
     grid-column-gap: 10px;
     align-items: center;
     font-size: var(--font-primary);
-    padding: 5px;
+    margin: 5px 10px;
 
     img {
       cursor: pointer;

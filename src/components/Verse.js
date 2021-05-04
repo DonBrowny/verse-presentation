@@ -80,7 +80,7 @@ const Verse = () => {
   };
 
   return (
-    <article className="verse">
+    <article className="verse flex-stretch">
       <section className="verse-search">
         <h3>{t('FORM.VERSE_SEARCH')}</h3>
         <span>{t('FORM.BOOK')}:</span>

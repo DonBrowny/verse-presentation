@@ -1,5 +1,6 @@
 .header {
   display: inline-flex;
+  height: var(--header-height);
   align-items: center;
   justify-content: space-between;
   background-color: var(--color-primary);
@@ -41,7 +42,7 @@
       content: '';
       background-color: var(--color-font-primary);
       height: 5px;
-      top: 40px;
+      top: 33px;
     }
 
     .active,
