@@ -17,11 +17,9 @@ const List = ({ items, translation = false }) => {
   };
 
   return (
-    <div className="list">
-      <select multiple className="list-content">
-        {itemsToList()}
-      </select>
-    </div>
+    <select className="list" multiple>
+      {itemsToList()}
+    </select>
   );
 };
 

@@ -1,34 +1,29 @@
 .list {
-  position: relative;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0px;
+  list-style-type: none;
+  border: 1px solid black;
+  overflow-y: auto;
+  background-color: white;
 
-  &-content {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    margin: 0;
-    padding: 0px;
-    list-style-type: none;
-    border: 1px solid black;
-    overflow-y: auto;
-    background-color: white;
+  option {
+    padding: 2px 5px;
+    font-size: var(--font-primary);
+    cursor: pointer;
 
-    option {
-      padding: 2px 5px;
-      font-size: var(--font-primary);
-      cursor: pointer;
+    &:nth-child(even) {
+      background-color: var(--color-secondary);
+    }
 
-      &:nth-child(even) {
-        background-color: var(--color-secondary);
-      }
+    &:hover {
+      background-color: var(--color-green-secondary);
+    }
 
-      &:hover {
-        background-color: var(--color-green-secondary);
-      }
-
-      &:active,
-      &:checked {
-        background-color: var(--color-font-primary) !important;
-      }
+    &:active,
+    &:checked {
+      background-color: var(--color-font-primary) !important;
     }
   }
 }
