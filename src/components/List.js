@@ -7,14 +7,20 @@ const List = ({ items, translation = false }) => {
   const itemsToList = () => {
     if (items && items.length > 0) {
       return items.map((item) => {
-        return translation ? <li>{t(item)}</li> : <li>{item}</li>;
+        return translation ? (
+          <option>{t(item)}</option>
+        ) : (
+          <option>{item}</option>
+        );
       });
     }
   };
 
   return (
     <div className="list">
-      <ul className="list-content">{itemsToList()}</ul>
+      <select multiple className="list-content">
+        {itemsToList()}
+      </select>
     </div>
   );
 };

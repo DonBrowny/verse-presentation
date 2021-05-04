@@ -37,6 +37,10 @@ button {
   cursor: pointer;
 }
 
+select {
+  font-family: inherit;
+}
+
 //Scroll Bar
 ::-webkit-scrollbar {
   width: 10px;

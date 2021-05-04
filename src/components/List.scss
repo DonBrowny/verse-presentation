@@ -9,10 +9,10 @@
     padding: 0px;
     list-style-type: none;
     border: 1px solid black;
-    overflow: auto;
+    overflow-y: auto;
     background-color: white;
 
-    li {
+    option {
       padding: 2px 5px;
       font-size: var(--font-primary);
       cursor: pointer;
@@ -23,6 +23,11 @@
 
       &:hover {
         background-color: var(--color-green-secondary);
+      }
+
+      &:active,
+      &:checked {
+        background-color: var(--color-font-primary) !important;
       }
     }
   }
