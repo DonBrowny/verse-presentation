@@ -3,8 +3,8 @@ import './i18n';
 import './App.scss';
 import { BrowserRouter, NavLink } from 'react-router-dom';
 import Router from './Router';
+import NavBar from './components/NavBar';
 import Header from './components/Header';
-import ContentHeader from './components/ContentHeader';
 
 const ROUTES = [
   {
@@ -37,11 +37,11 @@ function createLink(links) {
 
 function App() {
   return (
-    <div className="app app-content">
+    <div className="app">
       <BrowserRouter>
-        <Header>{createLink(ROUTES)}</Header>
+        <NavBar>{createLink(ROUTES)}</NavBar>
         <Suspense fallback={<div>Loading...</div>}>
-          <ContentHeader />
+          <Header />
           <Router />
         </Suspense>
       </BrowserRouter>
