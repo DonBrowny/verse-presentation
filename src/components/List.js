@@ -1,26 +1,22 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { createArray } from '../utils/utils';
 import './List.scss';
 
 const List = ({
   listId,
-  items,
   selected,
+  items,
   onSelectionChange,
   translation = false,
 }) => {
   const { t } = useTranslation('verse');
-  const [state, setState] = useState([selected]);
+  let selectedValue = selected ? [selected.toString()] : [];
 
   const createOption = (option, value) => {
-    return translation ? (
-      <option key={value} value={value}>
-        {t(option)}
-      </option>
-    ) : (
-      <option key={value} value={value}>
-        {option}
+    return (
+      <option key={listId + value} value={value}>
+        {translation ? t(option) : option}
       </option>
     );
   };
@@ -34,12 +30,11 @@ const List = ({
 
   const change = (event) => {
     const value = event.target.value;
-    setState([value]);
-    onSelectionChange(listId, value);
+    onSelectionChange(listId, parseInt(value));
   };
 
   return (
-    <select className="list" multiple onChange={change} value={state}>
+    <select className="list" multiple onChange={change} value={selectedValue}>
       {itemsToList()}
     </select>
   );

@@ -5,6 +5,10 @@
   grid-column-gap: 10px;
   margin: 5px 10px;
 
+  h3 {
+    text-align: center;
+  }
+
   &-search {
     display: grid;
     grid-template-columns: 3fr 1fr 1fr;
@@ -14,15 +18,23 @@
 
     h3 {
       grid-column: 1 / span 3;
-      text-align: center;
-    }
-
-    p {
-      overflow: auto;
-      position: absolute;
-      height: 100%;
     }
   }
+
+  &-results {
+    position: relative;
+  }
+}
+
+.results-list {
+  position: absolute;
+  overflow: auto;
+  width: calc(100% - 20px - 4px);
+  height: calc(100% - 20px - 4px - 60px);
+  margin: 10px 10px 10px 0px;
+  border: 1px solid black;
+  border-radius: 2px;
+  top: 60px;
 }
 
 section {

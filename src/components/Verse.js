@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 import './Verse.scss';
 import List from './List';
@@ -74,34 +74,64 @@ const CHAPTERS = [
 ];
 
 const Verse = () => {
+  const refs = useRef([]);
   const { t, i18n } = useTranslation('verse');
-  const [form, setForm] = useState({ book: '', chapter: '', verse: '' });
-  const [book, setBook] = useState({});
-  const [chapterList, setChapterList] = useState([]);
-  const [verseList, setVerseList] = useState([]);
+
+  const [data, setData] = useState({});
+  const [book, setBook] = useState('');
+  const [chapter, setChapter] = useState('');
 
   const fetchBook = (path) => {
     fetchData(`${i18n.language}/${path}`).then((data) => {
-      setBook(data);
-      setChapterList(data.Chapter);
-      setVerseList([]);
+      setData(data);
     });
+  };
+
+  const result = (resultList) => {
+    if (resultList.length && resultList.length > 0) {
+      return resultList.map((verse, index) => {
+        return (
+          <div
+            key={verse.index}
+            data-verse={index}
+            ref={(element) => {
+              refs.current[index] = element;
+            }}
+            className="card "
+          >
+            <b>{index + 1}.</b> {verse.Verse}
+          </div>
+        );
+      });
+    }
   };
 
   const onFormChange = (key, value) => {
     switch (key) {
       case 'book':
         fetchBook(value);
+        setBook(value);
+        setChapter('');
         break;
 
       case 'chapter':
-        setVerseList(book.Chapter[value].Verse);
+        setChapter(value);
+        break;
+
+      case 'verse':
+        setTimeout(() => {
+          refs.current[value].scrollIntoView({ behavior: 'smooth' });
+        });
         break;
 
       default:
         break;
     }
-    setForm({ ...form, ...{ [key]: value } });
+  };
+
+  const searchSelect = (event) => {
+    let verse = event.target.getAttribute('data-verse');
+    console.log(verse);
   };
 
   const transChapters = () => {
@@ -117,26 +147,31 @@ const Verse = () => {
         <span>{t('FORM.VERSE')}:</span>
         <List
           listId="book"
+          selected={book}
           items={transChapters()}
           translation="true"
-          selected={form.book}
           onSelectionChange={onFormChange}
         />
         <List
           listId="chapter"
-          items={chapterList.length}
-          selected={form.chapter}
+          selected={chapter}
+          items={data.Chapter && data.Chapter.length}
           onSelectionChange={onFormChange}
         />
         <List
           listId="verse"
-          items={verseList.length}
-          selected={form.verse}
+          items={chapter && data.Chapter[chapter].Verse.length}
           onSelectionChange={onFormChange}
         />
       </section>
-      <section className="verse-result">
+      <section className="verse-results">
         <h3>{t('FORM.SEARCH_RESULT')}</h3>
+        <h3>
+          {chapter && `${t('CHAPTERS.' + CHAPTERS[book])}  ${chapter + 1}`}
+        </h3>
+        <div className="results-list" onClick={searchSelect}>
+          {chapter && result(data.Chapter[chapter].Verse)}
+        </div>
       </section>
     </article>
   );
