@@ -87,6 +87,18 @@ const Verse = () => {
     });
   };
 
+  const resetSearch = () => {
+    setData({});
+    setBook('');
+    setChapter('');
+  };
+
+  React.useEffect(() => {
+    return i18n.on('languageChanged', (lng) => {
+      resetSearch();
+    });
+  }, []);
+
   const result = (resultList) => {
     if (resultList.length && resultList.length > 0) {
       return resultList.map((verse, index) => {
