@@ -2,7 +2,7 @@ import React, { useState, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 import './Verse.scss';
 import List from './List';
-import { fetchData, createArray } from '../utils/utils';
+import { fetchData } from '../utils/utils';
 
 const CHAPTERS = [
   'GENESIS',
@@ -73,24 +73,21 @@ const CHAPTERS = [
   'REVELATION',
 ];
 
+const DEFAULT_VALUE = { data: {}, book: "", chapter: "" };
+
 const Verse = () => {
   const refs = useRef([]);
   const { t, i18n } = useTranslation('verse');
-
-  const [data, setData] = useState({});
-  const [book, setBook] = useState('');
-  const [chapter, setChapter] = useState('');
+  const [state, setState] = useState(DEFAULT_VALUE);
 
   const fetchBook = (path) => {
     fetchData(`${i18n.language}/${path}`).then((data) => {
-      setData(data);
+      setState({ data, book: path, chapter: "" });
     });
   };
 
   const resetSearch = () => {
-    setData({});
-    setBook('');
-    setChapter('');
+    setState(DEFAULT_VALUE)
   };
 
   React.useEffect(() => {
@@ -122,12 +119,10 @@ const Verse = () => {
     switch (key) {
       case 'book':
         fetchBook(value);
-        setBook(value);
-        setChapter('');
         break;
 
       case 'chapter':
-        setChapter(value);
+        setState({ ...state, chapter: value });
         break;
 
       case 'verse':
@@ -159,30 +154,30 @@ const Verse = () => {
         <span>{t('FORM.VERSE')}:</span>
         <List
           listId="book"
-          selected={book}
+          selected={state.book}
           items={transChapters()}
           translation="true"
           onSelectionChange={onFormChange}
         />
         <List
           listId="chapter"
-          selected={chapter}
-          items={data.Chapter && data.Chapter.length}
+          selected={state.chapter}
+          items={state.data.Chapter && state.data.Chapter.length}
           onSelectionChange={onFormChange}
         />
         <List
           listId="verse"
-          items={chapter && data.Chapter[chapter].Verse.length}
+          items={state.chapter && state.data.Chapter[state.chapter].Verse.length}
           onSelectionChange={onFormChange}
         />
       </section>
       <section className="verse-results">
         <h3>{t('FORM.SEARCH_RESULT')}</h3>
         <h3>
-          {chapter && `${t('CHAPTERS.' + CHAPTERS[book])}  ${chapter + 1}`}
+          {state.chapter && `${t('CHAPTERS.' + CHAPTERS[state.book])}  ${state.chapter + 1}`}
         </h3>
         <div className="results-list" onClick={searchSelect}>
-          {chapter && result(data.Chapter[chapter].Verse)}
+          {state.chapter && result(state.data.Chapter[state.chapter].Verse)}
         </div>
       </section>
     </article>
