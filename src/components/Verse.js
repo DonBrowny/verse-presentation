@@ -1,77 +1,9 @@
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef, useEffect, useCallback } from 'react';
 import { useTranslation } from 'react-i18next';
 import './Verse.scss';
 import List from './List';
 import { fetchData } from '../utils/utils';
-
-const BOOKS = [
-  'GENESIS',
-  'EXODUS',
-  'LEVITICUS',
-  'NUMBERS',
-  'DEUTERONOMY',
-  'JOSHUA',
-  'JUDGES',
-  'RUTH',
-  '1SAMUEL',
-  '2SAMUEL',
-  '1KINGS',
-  '2KINGS',
-  '1CHRONICLES',
-  '2CHRONICLES',
-  'EZRA',
-  'NEHEMIAH',
-  'ESTHER',
-  'JOB',
-  'PSALMS',
-  'PROVERBS',
-  'ECCLESIASTES',
-  'SONG OF SOLOMON',
-  'ISAIAH',
-  'JEREMIAH',
-  'LAMENTATIONS',
-  'EZEKIEL',
-  'DANIEL',
-  'HOSEA',
-  'JOEL',
-  'AMOS',
-  'OBADIAH',
-  'JONAH',
-  'MICAH',
-  'NAHUM',
-  'HABAKKUK',
-  'ZEPHANIAH',
-  'HAGGAI',
-  'ZECHARIAH',
-  'MALACHI',
-  'MATTHEW',
-  'MARK',
-  'LUKE',
-  'JOHN',
-  'ACTS',
-  'ROMANS',
-  '1CORINTHIANS',
-  '2CORINTHIANS',
-  'GALATIANS',
-  'EPHESIANS',
-  'PHILIPPIANS',
-  'COLOSSIANS',
-  '1THESSALONIANS',
-  '2THESSALONIANS',
-  '1TIMOTHY',
-  '2TIMOTHY',
-  'TITUS',
-  'PHILEMON',
-  'HEBREWS',
-  'JAMES',
-  '1PETER',
-  '2PETER',
-  '1JOHN',
-  '2JOHN',
-  '3JOHN',
-  'JUDE',
-  'REVELATION',
-];
+import { BOOKS } from '../utils/constants';
 
 const Verse = () => {
   const refs = useRef([]);
@@ -81,7 +13,6 @@ const Verse = () => {
   const [book, setBook] = useState('');
   const [chapter, setChapter] = useState('');
   const [searchResult, setSearchResult] = useState('');
-  const transBook = BOOKS.map((chap) => 'CHAPTERS.' + chap);
 
   const arrayToDiv = (resultList) => {
     if (resultList.length && resultList.length > 0) {
@@ -106,18 +37,18 @@ const Verse = () => {
     let cancel = false;
     if (!book) return;
     fetchData(`${i18n.language}/${book}`).then((data) => {
-      if (cancel) return
+      if (cancel) return;
       setData(data);
     });
-    return () => cancel = true;
-  }, [book, i18n.language])
+    return () => (cancel = true);
+  }, [book, i18n.language]);
 
   useEffect(() => {
     let result = data.Chapter && chapter ? data.Chapter[chapter].Verse : '';
-    setSearchResult(result)
-  }, [data, chapter])
+    setSearchResult(result);
+  }, [data, chapter]);
 
-  const onFormChange = (key, value) => {
+  const onFormChange = useCallback((key, value) => {
     switch (key) {
       case 'book':
         setBook(value);
@@ -137,7 +68,7 @@ const Verse = () => {
       default:
         break;
     }
-  };
+  }, []);
 
   const searchSelect = (event) => {
     let verse = event.target.getAttribute('data-verse');
@@ -154,7 +85,7 @@ const Verse = () => {
         <List
           listId="book"
           selected={book}
-          items={transBook}
+          items={BOOKS}
           translation="true"
           onSelectionChange={onFormChange}
         />
@@ -172,9 +103,7 @@ const Verse = () => {
       </section>
       <section className="verse-results">
         <h3>{t('FORM.SEARCH_RESULT')}</h3>
-        <h3>
-          {chapter && `${t('CHAPTERS.' + BOOKS[book])}  ${chapter + 1}`}
-        </h3>
+        <h3>{chapter && `${t(BOOKS[book])}  ${chapter + 1}`}</h3>
         <div className="results-list" onClick={searchSelect}>
           {searchResult && arrayToDiv(searchResult)}
         </div>

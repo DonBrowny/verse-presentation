@@ -33,11 +33,20 @@ const List = ({
     onSelectionChange(listId, parseInt(value));
   };
 
+  console.count(listId);
   return (
-    <select className="list" multiple onChange={change} value={selectedValue}>
+    <select
+      key={listId}
+      className="list"
+      multiple
+      onChange={change}
+      value={selectedValue}
+    >
       {itemsToList()}
     </select>
   );
 };
 
-export default List;
+List.whyDidYouRender = true;
+
+export default React.memo(List);

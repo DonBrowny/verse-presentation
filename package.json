@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@craco/craco": "^6.1.2",
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
+    "@welldone-software/why-did-you-render": "^6.1.1",
     "i18next": "^20.2.1",
     "i18next-browser-languagedetector": "^6.1.0",
     "i18next-http-backend": "^1.2.1",
@@ -31,6 +33,7 @@
   },
   "scripts": {
     "build-sw": "react-scripts build && node ./src/sw-build.js",
+    "start-cr": "craco start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
