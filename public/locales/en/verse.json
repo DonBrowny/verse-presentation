@@ -2,6 +2,8 @@
   "FORM": {
     "SEARCH": "Search",
     "VERSE_SEARCH": "Verse Search",
+    "WORD_SEARCH_IN": "Word Search In",
+    "WORD_SEARCH": "Search For Word",
     "SEARCH_RESULT": "Search Results",
     "BOOK": "Book",
     "CHAPTER": "Chapter",

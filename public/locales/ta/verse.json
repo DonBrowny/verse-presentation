@@ -2,6 +2,8 @@
   "FORM": {
     "SEARCH": "தேடல்",
     "VERSE_SEARCH": "வசனம் தேடல்",
+    "WORD_SEARCH_IN": "வசனம் தேடல்",
+    "WORD_SEARCH": "தேடவேண்டிய ஆகமம் / அதிகாரம்",
     "SEARCH_RESULT": "தேடல் முடிவுகள்",
     "BOOK": "ஆகமம்",
     "CHAPTER": "அதிகாரம்",

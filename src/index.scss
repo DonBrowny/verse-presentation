@@ -10,6 +10,11 @@
   unicode-range: U+0964-0965, U+0B80-0BFF, U+200C-200D, U+20B9, U+25CC;
 }
 
+* {
+  padding: 0;
+  margin: 0;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -41,6 +46,9 @@ select {
   font-family: inherit;
 }
 
+span {
+  font-size: var(--font-primary);
+}
 //Scroll Bar
 ::-webkit-scrollbar {
   width: 10px;
@@ -93,4 +101,12 @@ select {
   transition: all 0.2s ease-in-out;
   box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1), 0px 6px 12px rgba(0, 0, 0, 0.1),
     1px 3px 15px rgba(0, 0, 0, 0.1);
+}
+
+.icon-button {
+  background-color: var(--color-font-primary);
+}
+
+.bold {
+  font-weight: bold;
 }
