@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next';
 import { fetchData } from '../utils/utils';
 import { BOOKS } from '../utils/constants';
 import './VerseSearch.scss';
+import Badge from './Badge';
 
 function VerseSearch({ onResultAvailable, onVerseClick }) {
   const { t, i18n } = useTranslation('verse');
@@ -73,7 +74,18 @@ function VerseSearch({ onResultAvailable, onVerseClick }) {
         onSelectionChange={onFormChange}
       />
       <span className="row bold">{t('FORM.WORD_SEARCH_IN')}:</span>
-      <div className="row">{t('FORM.WORD_SEARCH')}:</div>
+      <div row>
+        {book ? (
+          <>
+            <Badge item={book ? BOOKS[book] : ''} />
+            <Badge item={chapter ? chapter + 1 : ''} />
+          </>
+        ) : (
+          <span>
+            <sup>*</sup>Select a book to search
+          </span>
+        )}
+      </div>
       <span className="row bold">{t('FORM.WORD_SEARCH')}:</span>
       <input className="row-2" type="text" name="" id="" />
       <button className="icon-button">
