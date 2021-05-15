@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import './Badges.scss';
+import './Badge.scss';
 
 function Badge({ item }) {
   const { t } = useTranslation();
@@ -8,9 +8,9 @@ function Badge({ item }) {
   return (
     <>
       {item && (
-        <div className="badge">
+        <div className="badge inline-flex">
           <span>{t(item)}</span>
-          <button>x</button>
+          <button className="badge-circle"></button>
         </div>
       )}
     </>

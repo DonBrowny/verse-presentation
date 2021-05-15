@@ -74,7 +74,7 @@ function VerseSearch({ onResultAvailable, onVerseClick }) {
         onSelectionChange={onFormChange}
       />
       <span className="row bold">{t('FORM.WORD_SEARCH_IN')}:</span>
-      <div row>
+      <div className="row inline-flex">
         {book ? (
           <>
             <Badge item={book ? BOOKS[book] : ''} />
