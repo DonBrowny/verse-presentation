@@ -1,25 +1,36 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import List from './List';
 import { useTranslation } from 'react-i18next';
-import { fetchData } from '../utils/utils';
+import { fetchData, convertToSelectObject } from '../utils/utils';
 import { BOOKS } from '../utils/constants';
 import './VerseSearch.scss';
 import Badge from './Badge';
 
 function VerseSearch({ onResultAvailable, onVerseClick }) {
   const { t, i18n } = useTranslation('verse');
+  let translatedArray = useCallback(
+    (arr) => {
+      return arr.map((x) => t(x));
+    },
+    [t]
+  );
+
+  const [bookList, setBookList] = useState(translatedArray(BOOKS));
   const [data, setData] = useState({});
-  const [book, setBook] = useState('');
-  const [chapter, setChapter] = useState('');
+  const [book, setBook] = useState();
+  const [chapter, setChapter] = useState();
 
   useEffect(() => {
-    let result = data.Chapter && chapter ? data.Chapter[chapter].Verse : '';
+    let result =
+      data.Chapter && typeof chapter === 'number'
+        ? data.Chapter[chapter].Verse
+        : '';
     onResultAvailable(result);
   }, [data, chapter, onResultAvailable]);
 
   useEffect(() => {
     let cancel = false;
-    if (!book) return;
+    if (typeof book === 'undefined') return;
     fetchData(`${i18n.language}/${book}`).then((data) => {
       if (cancel) return;
       setData(data);
@@ -27,8 +38,13 @@ function VerseSearch({ onResultAvailable, onVerseClick }) {
     return () => (cancel = true);
   }, [book, i18n.language]);
 
+  useEffect(() => {
+    setBookList(translatedArray(BOOKS));
+  }, [i18n.language]);
+
   const onFormChange = useCallback(
-    (key, value) => {
+    (key, selectedValue) => {
+      let { value } = selectedValue;
       switch (key) {
         case 'book':
           setBook(value);
@@ -58,27 +74,29 @@ function VerseSearch({ onResultAvailable, onVerseClick }) {
       <List
         listId="book"
         selected={book}
-        items={BOOKS}
-        translation="true"
+        items={convertToSelectObject(bookList)}
         onSelectionChange={onFormChange}
       />
       <List
         listId="chapter"
         selected={chapter}
-        items={data.Chapter && data.Chapter.length}
+        items={data.Chapter && convertToSelectObject(data.Chapter.length)}
         onSelectionChange={onFormChange}
       />
       <List
         listId="verse"
-        items={chapter && data.Chapter[chapter].Verse.length}
+        items={
+          typeof chapter === 'number' &&
+          convertToSelectObject(data.Chapter[chapter].Verse.length)
+        }
         onSelectionChange={onFormChange}
       />
       <span className="row bold">{t('FORM.WORD_SEARCH_IN')}:</span>
       <div className="row inline-flex">
         {book ? (
           <>
-            <Badge item={book ? BOOKS[book] : ''} />
-            <Badge item={chapter ? chapter + 1 : ''} />
+            <Badge item={book ? bookList[book] : ''} />
+            <Badge item={chapter ? chapter : ''} />
           </>
         ) : (
           <span>
