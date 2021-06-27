@@ -13,7 +13,7 @@ const Verse = () => {
     if (resultList.length && resultList.length > 0) {
       const id = resultList[0].Verseid;
       const book = parseInt(id.substring(0, 2), 10);
-      const chapter = parseInt(id.substring(0, 2), 10);
+      const chapter = parseInt(id.substring(2, 5), 10);
       return `${t(BOOKS[book])}  ${chapter + 1}`;
     }
   };

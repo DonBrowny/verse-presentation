@@ -93,10 +93,10 @@ function VerseSearch({ onResultAvailable, onVerseClick }) {
       />
       <span className="row bold">{t('FORM.WORD_SEARCH_IN')}:</span>
       <div className="row inline-flex">
-        {book ? (
+        {typeof book !== 'undefined' ? (
           <>
-            <Badge item={book ? bookList[book] : ''} />
-            <Badge item={chapter ? chapter : ''} />
+            <Badge item={bookList[book]} />
+            <Badge item={typeof chapter !== 'undefined' ? chapter + 1 : ''} />
           </>
         ) : (
           <span>
