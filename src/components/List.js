@@ -1,9 +1,11 @@
-import React from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import './List.scss';
 
 const List = ({ listId, selected, items, onSelectionChange }) => {
   let selectedValue =
     typeof selected !== 'undefined' ? [selected.toString()] : [];
+
+  let prevItems = usePrevious(items);
 
   const createOption = (items) => {
     if (!items || items.length <= 0) return;
@@ -16,9 +18,26 @@ const List = ({ listId, selected, items, onSelectionChange }) => {
     });
   };
 
-  const change = (event) => {
+  const [displayValues, setdisplayValues] = useState(items);
+  useEffect(() => {
+    if (!prevItems || prevItems.toString() !== items.toString()) {
+      setdisplayValues(items);
+    }
+  }, [items]);
+
+  const searchChange = (event) => {
     const selectedValue = event.target.value;
-    const selectedItem = items.find(({ value, text }) => {
+    const filteredItems = selectedValue
+      ? items.filter(({ text }) => {
+          return text.toLowerCase().includes(selectedValue.toLowerCase());
+        })
+      : items;
+    setdisplayValues(filteredItems);
+  };
+
+  const selectionChange = (event) => {
+    const selectedValue = event.target.value;
+    const selectedItem = items.find(({ value }) => {
       return value == selectedValue;
     });
     onSelectionChange(listId, selectedItem);
@@ -26,17 +45,28 @@ const List = ({ listId, selected, items, onSelectionChange }) => {
 
   console.count(listId);
   return (
-    <select
-      key={listId}
-      className="list"
-      multiple
-      onChange={change}
-      value={selectedValue}
-    >
-      {createOption(items)}
-    </select>
+    <div>
+      <input type="text" name="" id={listId} onChange={searchChange} />
+      <select
+        key={listId}
+        className="list"
+        multiple
+        onChange={selectionChange}
+        value={selectedValue}
+      >
+        {createOption(displayValues)}
+      </select>
+    </div>
   );
 };
+
+function usePrevious(value) {
+  const ref = useRef();
+  useEffect(() => {
+    ref.current = value;
+  }, [value]);
+  return ref.current;
+}
 
 List.whyDidYouRender = true;
 

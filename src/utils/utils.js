@@ -14,6 +14,6 @@ export function fetchData(path) {
 export function convertToSelectObject(array) {
   array = typeof array === 'number' ? createArray(array) : array;
   return array.map((value, index) => {
-    return { value: index, text: value };
+    return { value: index, text: value.toString() };
   });
 }
