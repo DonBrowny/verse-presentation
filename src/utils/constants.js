@@ -1,4 +1,23 @@
-export const BOOKS = [
+const ROUTES = [
+  {
+    path: '/verse',
+    name: 'Verse',
+  },
+  {
+    path: '/lyrics',
+    name: 'Lyrics',
+  },
+  {
+    path: '/layout',
+    name: 'Layout',
+  },
+  {
+    path: '/settings',
+    name: 'Settings',
+  },
+];
+
+const BOOKS = [
   'CHAPTERS.GENESIS',
   'CHAPTERS.EXODUS',
   'CHAPTERS.LEVITICUS',
@@ -66,3 +85,19 @@ export const BOOKS = [
   'CHAPTERS.JUDE',
   'CHAPTERS.REVELATION',
 ];
+
+const VISIBLE_ROUTES = ['verse', 'lyrics'];
+const DEFAULT_LANG = 'en';
+const PLAY_ICON = '/icons/play-circle.svg';
+const PAUSE_ICON = '/icons/pause-circle.svg';
+const STATUS = { OPEN: 'open', CLOSE: 'close', PAUSE: 'pause' };
+
+export {
+  ROUTES,
+  BOOKS,
+  VISIBLE_ROUTES,
+  DEFAULT_LANG,
+  PLAY_ICON,
+  PAUSE_ICON,
+  STATUS,
+};

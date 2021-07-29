@@ -2,13 +2,14 @@ import React, { useState, useEffect } from 'react';
 import { useHistory } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import './Header.scss';
-import { removeLeadingSlash } from '../utils/utils.js';
-
-const VISIBLE_ROUTES = ['verse', 'lyrics'];
-const DEFAULT_LANG = 'en';
-const playIcon = '/icons/play-circle.svg'
-const pauseIcon = '/icons/pause-circle.svg'
-const STATUS = { OPEN: 'open', CLOSE: 'close', PAUSE: 'pause' }
+import { removeLeadingSlash } from '../utils/utils';
+import {
+  VISIBLE_ROUTES,
+  DEFAULT_LANG,
+  PLAY_ICON,
+  PAUSE_ICON,
+  STATUS,
+} from '../utils/constants';
 
 const Header = () => {
   const { i18n } = useTranslation();
@@ -33,8 +34,7 @@ const Header = () => {
       window.PRESENTATION.startPresentation();
       setPresentationStatus(STATUS.OPEN);
       return;
-    }
-    else if (presentationStatus === STATUS.PAUSE) {
+    } else if (presentationStatus === STATUS.PAUSE) {
       window.PRESENTATION.reconnectPresentation();
       setPresentationStatus(STATUS.OPEN);
       return;
@@ -86,8 +86,16 @@ const Header = () => {
           தமிழ்
         </button>
 
-        <img src={presentationStatus === STATUS.OPEN ? pauseIcon : playIcon} alt="Play Icon" onClick={startOrPausePresentation} />
-        <img src="/icons/stop-circle.svg" alt="Play Icon" onClick={terminatePresentation} />
+        <img
+          src={presentationStatus === STATUS.OPEN ? PAUSE_ICON : PLAY_ICON}
+          alt="Play Icon"
+          onClick={startOrPausePresentation}
+        />
+        <img
+          src="/icons/stop-circle.svg"
+          alt="Play Icon"
+          onClick={terminatePresentation}
+        />
       </header>
     )
   );

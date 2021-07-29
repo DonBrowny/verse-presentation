@@ -6,25 +6,7 @@ import Router from './Router';
 import NavBar from './components/NavBar';
 import Header from './components/Header';
 import { PresentationApi } from './utils/Presentation';
-
-const ROUTES = [
-  {
-    path: '/verse',
-    name: 'Verse',
-  },
-  {
-    path: '/lyrics',
-    name: 'Lyrics',
-  },
-  {
-    path: '/layout',
-    name: 'Layout',
-  },
-  {
-    path: '/settings',
-    name: 'Settings',
-  },
-];
+import { ROUTES } from './utils/constants';
 
 function createLink(links) {
   return links.map((link) => {
@@ -37,16 +19,24 @@ function createLink(links) {
 }
 
 function App() {
-  window.PRESENTATION = new PresentationApi('/receiver');
+  if (typeof PresentationRequest !== 'undefined') {
+    window.PRESENTATION = new PresentationApi('/receiver');
+    return (
+      <div className="app">
+        <BrowserRouter>
+          <NavBar>{createLink(ROUTES)}</NavBar>
+          <Suspense fallback={<div>Loading...</div>}>
+            <Header />
+            <Router />
+          </Suspense>
+        </BrowserRouter>
+      </div>
+    );
+  }
   return (
-    <div className="app">
-      <BrowserRouter>
-        <NavBar>{createLink(ROUTES)}</NavBar>
-        <Suspense fallback={<div>Loading...</div>}>
-          <Header />
-          <Router />
-        </Suspense>
-      </BrowserRouter>
+    <div>
+      This browser doesn't support Presentation API. Please use Chrome 48+ or
+      Edge 79+
     </div>
   );
 }
