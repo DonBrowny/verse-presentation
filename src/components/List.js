@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
+import { compareArrayOfObjects } from '../utils/utils';
 import './List.scss';
 
 const List = ({ listId, selected, items, onSelectionChange }) => {
@@ -20,7 +21,7 @@ const List = ({ listId, selected, items, onSelectionChange }) => {
 
   const [displayValues, setdisplayValues] = useState(items);
   useEffect(() => {
-    if (!prevItems || prevItems.toString() !== items.toString()) {
+    if (!prevItems || !compareArrayOfObjects(prevItems, items)) {
       setdisplayValues(items);
     }
   }, [items]);

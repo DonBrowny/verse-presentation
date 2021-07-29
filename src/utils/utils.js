@@ -17,3 +17,13 @@ export function convertToSelectObject(array) {
     return { value: index, text: value.toString() };
   });
 }
+
+export function compareArrayOfObjects(srcArray, compArray) {
+  if (srcArray.length !== compArray.length) {
+    return false;
+  }
+  return srcArray.some(
+    (srcArrayObject, index) =>
+      JSON.stringify(srcArrayObject) === JSON.stringify(compArray[index])
+  );
+}
