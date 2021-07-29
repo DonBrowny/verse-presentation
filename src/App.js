@@ -5,6 +5,7 @@ import { BrowserRouter, NavLink } from 'react-router-dom';
 import Router from './Router';
 import NavBar from './components/NavBar';
 import Header from './components/Header';
+import { PresentationApi } from './utils/Presentation';
 
 const ROUTES = [
   {
@@ -36,6 +37,7 @@ function createLink(links) {
 }
 
 function App() {
+  window.PRESENTATION = new PresentationApi('/receiver');
   return (
     <div className="app">
       <BrowserRouter>
