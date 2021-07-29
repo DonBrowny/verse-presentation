@@ -43,7 +43,6 @@ const List = ({ listId, selected, items, onSelectionChange }) => {
     onSelectionChange(listId, selectedItem);
   };
 
-  console.count(listId);
   return (
     <div>
       <input type="text" name="" id={listId} onChange={searchChange} />
