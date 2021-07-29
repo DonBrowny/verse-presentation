@@ -91,6 +91,7 @@ const DEFAULT_LANG = 'en';
 const PLAY_ICON = '/icons/play-circle.svg';
 const PAUSE_ICON = '/icons/pause-circle.svg';
 const STATUS = { OPEN: 'open', CLOSE: 'close', PAUSE: 'pause' };
+const DISPLAY_TYPE = { VERSE: 'verse', LYRICS: 'lyrics' };
 
 export {
   ROUTES,
@@ -100,4 +101,5 @@ export {
   PLAY_ICON,
   PAUSE_ICON,
   STATUS,
+  DISPLAY_TYPE,
 };

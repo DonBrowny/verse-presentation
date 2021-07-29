@@ -1,34 +1,23 @@
 import React, { useEffect, useState } from 'react';
 
 const Receiver = () => {
-  const [content, setcontent] = useState({});
+  const [content, setcontent] = useState({
+    type: 'verse',
+    data: {
+      header: '2 சாமுவேல் : 7',
+      text: '7. நான் இஸ்ரவேலாகிய என் ஜனத்தை மேய்க்கும்படி கட்டளையிட்ட இஸ்ரவேல் கோத்திரங்களில் ஒரு கோத்திரத்தையாவது நோக்கி: நீங்கள் எனக்குக் கேதுருமரத்தால் செய்யப்பட்ட ஆலயத்தைக் கட்டாதிருக்கிறது என்ன என்று நான் இஸ்ரவேல் புத்திரருக்குள் உலாவிவந்த எவ்விடத்திலாவது யாதொரு வார்த்தையைச் சொன்னதுண்டோ?',
+    },
+  });
 
   let connectionIdx = 0;
-  let messageIdx = 0;
 
   function addConnection(connection) {
     connection.connectionId = ++connectionIdx;
-    addMessage('New connection #' + connectionIdx);
 
     connection.addEventListener('message', function (event) {
-      messageIdx++;
       const data = JSON.parse(event.data);
-      console.log(
-        `Message ${messageIdx} from connection #connection.connectionId : ${data}`
-      );
       addMessage(data);
-      connection.send('Received message ' + messageIdx);
-    });
-
-    connection.addEventListener('close', function (event) {
-      addMessage(
-        'Connection #' +
-          connection.connectionId +
-          ' closed, reason = ' +
-          event.reason +
-          ', message = ' +
-          event.message
-      );
+      // connection.send('Received message');
     });
   }
 
@@ -46,7 +35,12 @@ const Receiver = () => {
       });
     }
   }, []);
-  return <div>Presentation Receiver screen</div>;
+  return (
+    <div>
+      <h3>{content.data.header}</h3>
+      <div>{content.data.text}</div>
+    </div>
+  );
 };
 
 export default Receiver;

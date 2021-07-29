@@ -1,7 +1,7 @@
 import React, { useState, useRef, useCallback } from 'react';
 import { useTranslation } from 'react-i18next';
 import './Verse.scss';
-import { BOOKS } from '../utils/constants';
+import { BOOKS, DISPLAY_TYPE } from '../utils/constants';
 import VerseSearch from './VerseSearch';
 
 const Verse = () => {
@@ -14,7 +14,7 @@ const Verse = () => {
       const id = resultList[0].Verseid;
       const book = parseInt(id.substring(0, 2), 10);
       const chapter = parseInt(id.substring(2, 5), 10);
-      return `${t(BOOKS[book])}  ${chapter + 1}`;
+      return `${t(BOOKS[book])} : ${chapter + 1}`;
     }
   };
 
@@ -45,7 +45,16 @@ const Verse = () => {
 
   const searchSelect = (event) => {
     let verse = event.target.getAttribute('data-verse');
-    console.log(verse);
+    if (verse) {
+      const data = {
+        type: DISPLAY_TYPE.VERSE,
+        data: {
+          header: stringifyVerse(searchResult),
+          text: event.target.innerText,
+        },
+      };
+      console.log(data);
+    }
   };
 
   return (
