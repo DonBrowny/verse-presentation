@@ -5,6 +5,11 @@ export class PresentationApi {
     // Make this presentation the default one when using the "Cast" browser menu.
     navigator.presentation.defaultRequest = this.presentationRequest;
 
+    // close connection on exiting the page
+    window.addEventListener("beforeunload", () => {
+      this.terminatePresentation()
+    });
+
     this.presentationRequest.addEventListener(
       'connectionavailable',
       (event) => {
@@ -22,6 +27,10 @@ export class PresentationApi {
     );
   }
 
+  getConnectionId() {
+    return this.presentationConnection.id;
+  }
+
   startPresentation() {
     this.presentationRequest
       .start()
@@ -29,6 +38,7 @@ export class PresentationApi {
         console.log(
           '> Connected to ' + connection.url + ', id: ' + connection.id
         );
+        return connection.id;
       })
       .catch((error) => {
         console.log('> ' + error.name + ': ' + error.message);
@@ -43,9 +53,9 @@ export class PresentationApi {
     this.presentationConnection.terminate();
   }
 
-  reconnectPresentation(presentationId) {
+  reconnectPresentation() {
     this.presentationRequest
-      .reconnect()
+      .reconnect(this.presentationConnection.id)
       .then((connection) => console.log(connection))
       .catch((error) => {
         console.log(
@@ -62,7 +72,7 @@ export class PresentationApi {
     this.presentationRequest
       .getAvailability()
       .then((availability) => {
-        return availability;
+        return availability.value;
       })
       .catch((error) => {
         console.log(error);
