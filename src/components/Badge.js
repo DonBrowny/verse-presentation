@@ -2,15 +2,19 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import './Badge.scss';
 
-function Badge({ item }) {
+function Badge({ item, content, onClose }) {
   const { t } = useTranslation();
+
+  const onBadgeClose = () => {
+    onClose(item);
+  };
 
   return (
     <>
-      {item && (
+      {content && (
         <div className="badge inline-flex">
-          <span>{t(item)}</span>
-          <button className="badge-circle"></button>
+          <span>{t(content)}</span>
+          <button className="badge-circle" onClick={onBadgeClose}></button>
         </div>
       )}
     </>

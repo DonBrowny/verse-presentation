@@ -20,6 +20,13 @@ function VerseSearch({ onResultAvailable, onVerseClick }) {
   const [book, setBook] = useState();
   const [chapter, setChapter] = useState();
 
+  const onBadgeClose = (item) => {
+    setChapter();
+    if (item === 'book') {
+      setBook();
+    }
+  };
+
   useEffect(() => {
     let result =
       data.Chapter && typeof chapter === 'number'
@@ -95,8 +102,16 @@ function VerseSearch({ onResultAvailable, onVerseClick }) {
       <div className="row inline-flex">
         {typeof book !== 'undefined' ? (
           <>
-            <Badge item={bookList[book]} />
-            <Badge item={typeof chapter !== 'undefined' ? chapter + 1 : ''} />
+            <Badge
+              item="book"
+              onClose={onBadgeClose}
+              content={bookList[book]}
+            />
+            <Badge
+              item="chapter"
+              onClose={onBadgeClose}
+              content={chapter ? chapter + 1 : ''}
+            />
           </>
         ) : (
           <span>
