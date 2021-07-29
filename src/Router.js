@@ -5,6 +5,7 @@ const Verse = lazy(() => import('./components/Verse'));
 const Lyrics = lazy(() => import('./components/Lyrics'));
 const Layout = lazy(() => import('./components/Layout'));
 const Settings = lazy(() => import('./components/Settings'));
+const Receiver = lazy(() => import('./components/Receiver'));
 
 const ROUTES = [
   {
@@ -26,6 +27,10 @@ const ROUTES = [
   {
     path: '/settings',
     component: <Settings />,
+  },
+  {
+    path: '/receiver',
+    component: <Receiver />,
   },
 ];
 
