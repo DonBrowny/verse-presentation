@@ -1,12 +1,9 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useContext } from 'react';
 import './Receiver.scss';
 import fitty from 'fitty';
+import settingsContext from '../context/settingsContext';
 
 const Receiver = () => {
-  let fontOptions = {
-    minSize: 40,
-    maxSize: 60,
-  };
   let sampleData = [
     {
       type: 'verse',
@@ -32,6 +29,12 @@ const Receiver = () => {
     },
   ];
 
+  const { receiverSettings } = useContext(settingsContext);
+  let fontOptions = {
+    minSize: 40,
+    maxSize: 60,
+  };
+  console.log(receiverSettings);
   const [content, setcontent] = useState(sampleData[1]);
   let connectionIdx = 0;
 
@@ -62,15 +65,35 @@ const Receiver = () => {
 
   // update the font size after each render
   useEffect(() => {
-    var fitties = fitty('p', fontOptions);
+    var fitties = fitty('p', {
+      minSize: receiverSettings.contentMinSize,
+      maxSize: receiverSettings.contentMaxSize,
+    });
     fitties[0].fit();
-  });
+  }, [receiverSettings]);
 
   return (
-    <div className="receiver">
+    <div
+      className="receiver"
+      style={{
+        background: `rgba(${receiverSettings.backgroundColor.r}, ${receiverSettings.backgroundColor.g}, ${receiverSettings.backgroundColor.b}, ${receiverSettings.backgroundColor.a})`,
+      }}
+    >
       <div className="receiver-center">
-        <h1>{content.data.header}</h1>
-        <p>{content.data.text}</p>
+        <h1
+          style={{
+            color: `rgba(${receiverSettings.headerColor.r}, ${receiverSettings.headerColor.g}, ${receiverSettings.headerColor.b}, ${receiverSettings.headerColor.a})`,
+          }}
+        >
+          {content.data.header}
+        </h1>
+        <p
+          style={{
+            color: `rgba(${receiverSettings.contentColor.r}, ${receiverSettings.contentColor.g}, ${receiverSettings.contentColor.b}, ${receiverSettings.contentColor.a})`,
+          }}
+        >
+          {content.data.text}
+        </p>
       </div>
     </div>
   );

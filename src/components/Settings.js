@@ -1,8 +1,11 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import ColorButton from './ColorButton';
+import settingsContext from '../context/settingsContext';
 import './Settings.scss';
 
 const Settings = () => {
+  const { updateReceiverSettings } = useContext(settingsContext);
+
   return (
     <div className="settings">
       <h3 className="settings-header">Verse Settings</h3>
@@ -35,7 +38,7 @@ const Settings = () => {
         <span>Background color</span>
         <ColorButton
           onChangeCompleted={(color) => {
-            console.log(color);
+            updateReceiverSettings({ backgroundColor: color });
           }}
         />
       </div>
@@ -43,7 +46,7 @@ const Settings = () => {
         <span>Header color</span>
         <ColorButton
           onChangeCompleted={(color) => {
-            console.log(color);
+            updateReceiverSettings({ headerColor: color });
           }}
         />
       </div>
@@ -51,7 +54,7 @@ const Settings = () => {
         <span>Content color</span>
         <ColorButton
           onChangeCompleted={(color) => {
-            console.log(color);
+            updateReceiverSettings({ contentColor: color });
           }}
         />
       </div>
