@@ -1,14 +1,38 @@
 import React, { useEffect, useState } from 'react';
+import './Receiver.scss';
+import fitty from 'fitty';
 
 const Receiver = () => {
-  const [content, setcontent] = useState({
-    type: 'verse',
-    data: {
-      header: '2 சாமுவேல் : 7',
-      text: '7. நான் இஸ்ரவேலாகிய என் ஜனத்தை மேய்க்கும்படி கட்டளையிட்ட இஸ்ரவேல் கோத்திரங்களில் ஒரு கோத்திரத்தையாவது நோக்கி: நீங்கள் எனக்குக் கேதுருமரத்தால் செய்யப்பட்ட ஆலயத்தைக் கட்டாதிருக்கிறது என்ன என்று நான் இஸ்ரவேல் புத்திரருக்குள் உலாவிவந்த எவ்விடத்திலாவது யாதொரு வார்த்தையைச் சொன்னதுண்டோ?',
+  let fontOptions = {
+    minSize: 40,
+    maxSize: 60,
+  };
+  let sampleData = [
+    {
+      type: 'verse',
+      data: {
+        header: 'தானியேல் : 5',
+        text: '23. பரலோகத்தின் ஆண்டவருக்கு விரோதமாக உம்மை உயர்த்தினீர்; அவருடைய ஆலயத்தின் பாத்திரங்களை உமக்கு முன்பாகக் கொண்டுவந்தார்கள்; நீரும், உம்முடைய பிரபுக்களையும், உம்முடைய மனைவிகளும் உம்முடைய வைப்பாட்டிகளும் அவைகளில் திராட்சரசம் குடித்தீர்கள்; இதுவுமன்றி, தம்முடைய கையில் உமது சுவாசத்தை வைத்திருக்கிறவரும், உமது வழிகளுக்கு எல்லாம் அதிகாரியுமாகிய தேவனை நீர் மகிமைப்படுத்தாமல் காணாமலும் கேளாமலும் உணராமலும் இருக்கிற வெள்ளியும் பொன்னும் வெண்கலமும் இரும்பும் மரமும் கல்லுமாகிய தேவர்களைப் புகழ்ந்தீர்.',
+      },
     },
-  });
+    {
+      type: 'verse',
+      data: {
+        header: 'Esther : 8',
+        text: "9. Then were the king's scribes called at that time in the third month, that is, the month Sivan, on the three and twentieth day thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the lieutenants, and the deputies and rulers of the provinces which are from India unto Ethiopia, an hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language.",
+      },
+    },
 
+    {
+      type: 'verse',
+      data: {
+        header: 'John : 11',
+        text: '35. Jesus wept.',
+      },
+    },
+  ];
+
+  const [content, setcontent] = useState(sampleData[1]);
   let connectionIdx = 0;
 
   function addConnection(connection) {
@@ -35,10 +59,19 @@ const Receiver = () => {
       });
     }
   }, []);
+
+  // update the font size after each render
+  useEffect(() => {
+    var fitties = fitty('p', fontOptions);
+    fitties[0].fit();
+  });
+
   return (
-    <div>
-      <h3>{content.data.header}</h3>
-      <div>{content.data.text}</div>
+    <div className="receiver">
+      <div className="receiver-center">
+        <h1>{content.data.header}</h1>
+        <p>{content.data.text}</p>
+      </div>
     </div>
   );
 };

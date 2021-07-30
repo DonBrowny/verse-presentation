@@ -1,0 +1,18 @@
+.receiver {
+  width: 100vw;
+  height: 100%;
+  position: relative;
+
+  &-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 75%;
+
+    p {
+      font-weight: 900;
+    }
+  }
+}
