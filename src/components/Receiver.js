@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useContext } from 'react';
 import './Receiver.scss';
 import fitty from 'fitty';
-import settingsContext from '../context/settingsContext';
+import { DISPLAY_TYPE } from '../utils/constants';
 
 const Receiver = () => {
   let sampleData = [
@@ -29,27 +29,29 @@ const Receiver = () => {
     },
   ];
 
-  const { receiverSettings } = useContext(settingsContext);
-  let fontOptions = {
-    minSize: 40,
-    maxSize: 60,
-  };
-  console.log(receiverSettings);
-  const [content, setcontent] = useState(sampleData[1]);
+  const [content, setcontent] = useState(sampleData[0]);
+  const [receiverSettings, setReceiverSettings] = useState({
+    contentMinSize: 40,
+    contentMaxSize: 60,
+    contentColor: { r: 255, g: 255, b: 255, a: 1 },
+    headerColor: { r: 255, g: 255, b: 255, a: 1 },
+    backgroundColor: { r: 0, g: 0, b: 0, a: 1 },
+  })
   let connectionIdx = 0;
+  let newSettings = receiverSettings;
 
   function addConnection(connection) {
     connection.connectionId = ++connectionIdx;
 
-    connection.addEventListener('message', function (event) {
-      const data = JSON.parse(event.data);
-      addMessage(data);
-      // connection.send('Received message');
+    connection.addEventListener('message', (event) => {
+      const message = JSON.parse(event.data);
+      if (message.type === DISPLAY_TYPE.SETTINGS) {
+        newSettings = { ...newSettings, ...message.data }
+        setReceiverSettings(newSettings)
+      } else {
+        setcontent(message);
+      }
     });
-  }
-
-  function addMessage(content) {
-    setcontent(content);
   }
 
   useEffect(() => {
