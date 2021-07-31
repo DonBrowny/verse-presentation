@@ -2,9 +2,19 @@ import React, { useContext } from 'react';
 import ColorButton from './ColorButton';
 import settingsContext from '../context/settingsContext';
 import './Settings.scss';
+import { DISPLAY_TYPE } from '../utils/constants';
 
 const Settings = () => {
   const { updateReceiverSettings } = useContext(settingsContext);
+
+  function onSettingsChange(setting) {
+    updateReceiverSettings(setting);
+    let message = {
+      type: DISPLAY_TYPE.SETTINGS,
+      data: setting
+    }
+    window.PRESENTATION.sendMessage(JSON.stringify(message))
+  }
 
   return (
     <div className="settings">
@@ -38,7 +48,7 @@ const Settings = () => {
         <span>Background color</span>
         <ColorButton
           onChangeCompleted={(color) => {
-            updateReceiverSettings({ backgroundColor: color });
+            onSettingsChange({ backgroundColor: color });
           }}
         />
       </div>
@@ -46,7 +56,7 @@ const Settings = () => {
         <span>Header color</span>
         <ColorButton
           onChangeCompleted={(color) => {
-            updateReceiverSettings({ headerColor: color });
+            onSettingsChange({ headerColor: color });
           }}
         />
       </div>
@@ -54,7 +64,7 @@ const Settings = () => {
         <span>Content color</span>
         <ColorButton
           onChangeCompleted={(color) => {
-            updateReceiverSettings({ contentColor: color });
+            onSettingsChange({ contentColor: color });
           }}
         />
       </div>
