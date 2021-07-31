@@ -53,7 +53,7 @@ const Verse = () => {
           text: event.target.innerText,
         },
       };
-      console.log(data);
+      window.PRESENTATION.sendMessage(JSON.stringify(data));
     }
   };
 
