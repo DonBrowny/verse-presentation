@@ -1,7 +1,7 @@
-import React, { useEffect, useState, useContext } from 'react';
+import React, { useEffect, useState } from 'react';
 import './Receiver.scss';
 import fitty from 'fitty';
-import { DISPLAY_TYPE } from '../utils/constants';
+import { getFromStorage } from '../utils/utils';
 
 const Receiver = () => {
   let sampleData = [
@@ -30,29 +30,26 @@ const Receiver = () => {
   ];
 
   const [content, setcontent] = useState(sampleData[0]);
-  const [receiverSettings, setReceiverSettings] = useState({
-    contentMinSize: 40,
-    contentMaxSize: 60,
-    contentColor: { r: 255, g: 255, b: 255, a: 1 },
-    headerColor: { r: 255, g: 255, b: 255, a: 1 },
-    backgroundColor: { r: 0, g: 0, b: 0, a: 1 },
-  })
+  const [receiverSettings, setReceiverSettings] = useState(
+    getFromStorage('receiverSettings')
+  );
   let connectionIdx = 0;
-  let newSettings = receiverSettings;
 
   function addConnection(connection) {
     connection.connectionId = ++connectionIdx;
 
     connection.addEventListener('message', (event) => {
       const message = JSON.parse(event.data);
-      if (message.type === DISPLAY_TYPE.SETTINGS) {
-        newSettings = { ...newSettings, ...message.data }
-        setReceiverSettings(newSettings)
-      } else {
-        setcontent(message);
-      }
+      setcontent(message);
     });
   }
+
+  // Listen to storage for settings change and update receiver
+  useEffect(() => {
+    window.onstorage = () => {
+      setReceiverSettings(getFromStorage('receiverSettings'));
+    };
+  }, []);
 
   useEffect(() => {
     if (navigator.presentation.receiver) {

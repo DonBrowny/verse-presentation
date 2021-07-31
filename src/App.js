@@ -7,6 +7,7 @@ import NavBar from './components/NavBar';
 import Header from './components/Header';
 import { PresentationApi } from './utils/Presentation';
 import { ROUTES } from './utils/constants';
+import { getFromStorage, saveToStorage } from './utils/utils';
 
 function createLink(links) {
   return links.map((link) => {
@@ -21,6 +22,22 @@ function createLink(links) {
 function App() {
   if (typeof PresentationRequest !== 'undefined') {
     window.PRESENTATION = new PresentationApi('/receiver');
+
+    function setDefaultSettings() {
+      const receiverSettings = {
+        contentMinSize: 40,
+        contentMaxSize: 60,
+        contentColor: { r: 255, g: 255, b: 255, a: 1 },
+        headerColor: { r: 255, g: 255, b: 255, a: 1 },
+        backgroundColor: { r: 0, g: 0, b: 0, a: 1 },
+      };
+      saveToStorage('receiverSettings', receiverSettings);
+    }
+
+    if (!getFromStorage('receiverSettings')) {
+      setDefaultSettings();
+    }
+
     return (
       <div className="app">
         <BrowserRouter>

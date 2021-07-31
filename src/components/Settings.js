@@ -1,19 +1,19 @@
-import React, { useContext } from 'react';
+import React, { useState } from 'react';
+import { getFromStorage, saveToStorage } from '../utils/utils';
 import ColorButton from './ColorButton';
-import settingsContext from '../context/settingsContext';
 import './Settings.scss';
-import { DISPLAY_TYPE } from '../utils/constants';
 
 const Settings = () => {
-  const { updateReceiverSettings } = useContext(settingsContext);
+  const [receiverSettings, setReceiverSettings] = useState(
+    getFromStorage('receiverSettings')
+  );
 
   function onSettingsChange(setting) {
-    updateReceiverSettings(setting);
-    let message = {
-      type: DISPLAY_TYPE.SETTINGS,
-      data: setting
-    }
-    window.PRESENTATION.sendMessage(JSON.stringify(message))
+    setReceiverSettings({ ...receiverSettings, ...setting });
+  }
+
+  function saveChanges() {
+    saveToStorage('receiverSettings', receiverSettings);
   }
 
   return (
@@ -38,15 +38,30 @@ const Settings = () => {
       <h3 className="settings-header">Presentation Settings</h3>
       <div className="settings-content">
         <span>Minimum Font Size</span>
-        <input type="number" defaultValue="40" step="1" />
+        <input
+          type="number"
+          value={receiverSettings.contentMinSize}
+          step="1"
+          onChange={(event) => {
+            onSettingsChange({ contentMinSize: parseInt(event.target.value) });
+          }}
+        />
       </div>
       <div className="settings-content">
         <span>Maximum Font Size</span>
-        <input type="number" defaultValue="60" step="1" />
+        <input
+          type="number"
+          value={receiverSettings.contentMaxSize}
+          step="1"
+          onChange={(event) => {
+            onSettingsChange({ contentMaxSize: parseInt(event.target.value) });
+          }}
+        />
       </div>
       <div className="settings-content">
         <span>Background color</span>
         <ColorButton
+          selectedColor={receiverSettings.backgroundColor}
           onChangeCompleted={(color) => {
             onSettingsChange({ backgroundColor: color });
           }}
@@ -55,6 +70,7 @@ const Settings = () => {
       <div className="settings-content">
         <span>Header color</span>
         <ColorButton
+          selectedColor={receiverSettings.headerColor}
           onChangeCompleted={(color) => {
             onSettingsChange({ headerColor: color });
           }}
@@ -63,10 +79,14 @@ const Settings = () => {
       <div className="settings-content">
         <span>Content color</span>
         <ColorButton
+          selectedColor={receiverSettings.contentColor}
           onChangeCompleted={(color) => {
             onSettingsChange({ contentColor: color });
           }}
         />
+      </div>
+      <div className="settings-header">
+        <button onClick={saveChanges}>Save</button>
       </div>
     </div>
   );
