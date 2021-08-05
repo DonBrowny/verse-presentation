@@ -8,6 +8,7 @@ import Header from './components/Header';
 import { PresentationApi } from './utils/Presentation';
 import { ROUTES } from './utils/constants';
 import { getFromStorage, saveToStorage } from './utils/utils';
+import { PresentationProvider } from './context/PresentationContext';
 
 function createLink(links) {
   return links.map((link) => {
@@ -41,11 +42,13 @@ function App() {
     return (
       <div className="app">
         <BrowserRouter>
-          <NavBar>{createLink(ROUTES)}</NavBar>
-          <Suspense fallback={<div>Loading...</div>}>
-            <Header />
-            <Router />
-          </Suspense>
+          <PresentationProvider>
+            <NavBar>{createLink(ROUTES)}</NavBar>
+            <Suspense fallback={<div>Loading...</div>}>
+              <Header />
+              <Router />
+            </Suspense>
+          </PresentationProvider>
         </BrowserRouter>
       </div>
     );

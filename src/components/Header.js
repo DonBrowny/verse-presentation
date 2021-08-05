@@ -1,6 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useContext } from 'react';
 import { useHistory } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import { PresentationContext } from '../context/PresentationContext';
 import './Header.scss';
 import { removeLeadingSlash } from '../utils/utils';
 import {
@@ -22,6 +23,9 @@ const Header = () => {
   const [isVisible, setVisibility] = useState(checkVisibility(initialLocation));
   const [selectedLang, setLang] = useState(DEFAULT_LANG);
   const [presentationStatus, setPresentationStatus] = useState(STATUS.CLOSE);
+  const { availability, startPresentation } = useContext(PresentationContext);
+
+  console.log(availability);
 
   const changeLanguage = (lang) => {
     if (selectedLang === lang) return;
@@ -31,7 +35,7 @@ const Header = () => {
 
   function startOrPausePresentation() {
     if (presentationStatus === STATUS.CLOSE) {
-      window.PRESENTATION.startPresentation();
+      startPresentation();
       setPresentationStatus(STATUS.OPEN);
       return;
     } else if (presentationStatus === STATUS.PAUSE) {

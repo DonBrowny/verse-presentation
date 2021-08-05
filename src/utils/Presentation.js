@@ -6,8 +6,8 @@ export class PresentationApi {
     navigator.presentation.defaultRequest = this.presentationRequest;
 
     // close connection on exiting the page
-    window.addEventListener("beforeunload", () => {
-      this.terminatePresentation()
+    window.addEventListener('beforeunload', () => {
+      this.terminatePresentation();
     });
 
     this.presentationRequest.addEventListener(
