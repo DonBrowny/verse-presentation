@@ -1,504 +1,137 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "21000000",
-          "Verse": "The song of songs, which is Solomon's."
-        },
-        {
-          "Verseid": "21000001",
-          "Verse": "Let him kiss me with the kisses of his mouth: for your love is better than wine."
-        },
-        {
-          "Verseid": "21000002",
-          "Verse": "Because of the savour of your good ointments your name is as ointment poured forth, therefore do the virgins love you."
-        },
-        {
-          "Verseid": "21000003",
-          "Verse": "Draw me, we will run after you: the king has brought me into his chambers: we will be glad and rejoice in you, we will remember your love more than wine: the upright love you."
-        },
-        {
-          "Verseid": "21000004",
-          "Verse": "I am black, but comely, O all of you daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon."
-        },
-        {
-          "Verseid": "21000005",
-          "Verse": "Look not upon me, because I am black, because the sun has looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept."
-        },
-        {
-          "Verseid": "21000006",
-          "Verse": "Tell me, O you whom my soul loves, where you feed, where you make your flock to rest at noon: for why should I be as one that turns aside by the flocks of your companions?"
-        },
-        {
-          "Verseid": "21000007",
-          "Verse": "If you know not, O you fairest among women, go your way forth by the footsteps of the flock, and feed your kids beside the shepherds' tents."
-        },
-        {
-          "Verseid": "21000008",
-          "Verse": "I have compared you, O my love, to a company of horses in Pharaoh's chariots."
-        },
-        {
-          "Verseid": "21000009",
-          "Verse": "Your cheeks are comely with rows of jewels, your neck with chains of gold."
-        },
-        {
-          "Verseid": "21000010",
-          "Verse": "We will make you borders of gold with studs of silver."
-        },
-        {
-          "Verseid": "21000011",
-          "Verse": "While the king sits at his table, my spikenard sends forth the smell thereof."
-        },
-        {
-          "Verseid": "21000012",
-          "Verse": "A bundle of myrrh is my well-beloved unto me; he shall lie all night between my breasts."
-        },
-        {
-          "Verseid": "21000013",
-          "Verse": "My beloved is unto me as a cluster of camphire in the vineyards of Engedi."
-        },
-        {
-          "Verseid": "21000014",
-          "Verse": "Behold, you are fair, my love; behold, you are fair; you have doves' eyes."
-        },
-        {
-          "Verseid": "21000015",
-          "Verse": "Behold, you are fair, my beloved, yea, pleasant: also our bed is green."
-        },
-        {
-          "Verseid": "21000016",
-          "Verse": "The beams of our house are cedar, and our rafters of fir."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "21001000",
-          "Verse": "I am the rose of Sharon, and the lily of the valleys."
-        },
-        {
-          "Verseid": "21001001",
-          "Verse": "As the lily among thorns, so is my love among the daughters."
-        },
-        {
-          "Verseid": "21001002",
-          "Verse": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste."
-        },
-        {
-          "Verseid": "21001003",
-          "Verse": "He brought me to the banqueting house, and his banner over me was love."
-        },
-        {
-          "Verseid": "21001004",
-          "Verse": "Stay me with flagons, comfort me with apples: for I am sick of love."
-        },
-        {
-          "Verseid": "21001005",
-          "Verse": "His left hand is under my head, and his right hand does embrace me."
-        },
-        {
-          "Verseid": "21001006",
-          "Verse": "I charge you, O all of you daughters of Jerusalem, by the roes, and by the hinds of the field, that all of you stir not up, nor awake my love, till he please."
-        },
-        {
-          "Verseid": "21001007",
-          "Verse": "The voice of my beloved! behold, he comes leaping upon the mountains, skipping upon the hills."
-        },
-        {
-          "Verseid": "21001008",
-          "Verse": "My beloved is like a roe or a young hart: behold, he stands behind our wall, he looks forth at the windows, showing himself through the lattice."
-        },
-        {
-          "Verseid": "21001009",
-          "Verse": "My beloved spoke, and said unto me, Rise up, my love, my fair one, and come away."
-        },
-        {
-          "Verseid": "21001010",
-          "Verse": "For, lo, the winter is past, the rain is over and gone;"
-        },
-        {
-          "Verseid": "21001011",
-          "Verse": "The flowers appear on the earth; the time of the singing of birds has come, and the voice of the turtle is heard in our land;"
-        },
-        {
-          "Verseid": "21001012",
-          "Verse": "The fig tree puts forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away."
-        },
-        {
-          "Verseid": "21001013",
-          "Verse": "O my dove, that are in the clefts of the rock, in the secret places of the stairs, let me see your countenance, let me hear your voice; for sweet is your voice, and your countenance is comely."
-        },
-        {
-          "Verseid": "21001014",
-          "Verse": "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes."
-        },
-        {
-          "Verseid": "21001015",
-          "Verse": "My beloved is mine, and I am his: he feeds among the lilies."
-        },
-        {
-          "Verseid": "21001016",
-          "Verse": "Until the day break, and the shadows flee away, turn, my beloved, and be you like a roe or a young hart upon the mountains of Bether."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "21002000",
-          "Verse": "By night on my bed I sought him whom my soul loves: I sought him, but I found him not."
-        },
-        {
-          "Verseid": "21002001",
-          "Verse": "I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loves: I sought him, but I found him not."
-        },
-        {
-          "Verseid": "21002002",
-          "Verse": "The watchmen that go about the city found me: to whom I said, Saw all of you him whom my soul loves?"
-        },
-        {
-          "Verseid": "21002003",
-          "Verse": "It was but a little that I passed from them, but I found him whom my soul loves: I held him, and would not let him go, until I had brought him into my mother's house, and into the chamber of her that conceived me."
-        },
-        {
-          "Verseid": "21002004",
-          "Verse": "I charge you, O all of you daughters of Jerusalem, by the roes, and by the hinds of the field, that all of you stir not up, nor awake my love, till he please."
-        },
-        {
-          "Verseid": "21002005",
-          "Verse": "Who is this that comes out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?"
-        },
-        {
-          "Verseid": "21002006",
-          "Verse": "Behold his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel."
-        },
-        {
-          "Verseid": "21002007",
-          "Verse": "They all hold swords, being expert in war: every man has his sword upon his thigh because of fear in the night."
-        },
-        {
-          "Verseid": "21002008",
-          "Verse": "King Solomon made himself a chariot of the wood of Lebanon."
-        },
-        {
-          "Verseid": "21002009",
-          "Verse": "He made the pillars thereof of silver, the bottom thereof of gold, the covering of it of purple, the midst thereof being paved with love, for the daughters of Jerusalem."
-        },
-        {
-          "Verseid": "21002010",
-          "Verse": "Go forth, O all of you daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "21003000",
-          "Verse": "Behold, you are fair, my love; behold, you are fair; you have doves' eyes within your locks: your hair is as a flock of goats, that appear from mount Gilead."
-        },
-        {
-          "Verseid": "21003001",
-          "Verse": "Your teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them."
-        },
-        {
-          "Verseid": "21003002",
-          "Verse": "Your lips are like a thread of scarlet, and your speech is comely: your temples are like a piece of a pomegranate within your locks."
-        },
-        {
-          "Verseid": "21003003",
-          "Verse": "Your neck is like the tower of David built for an armoury, whereon there hang a thousand bucklers, all shields of mighty men."
-        },
-        {
-          "Verseid": "21003004",
-          "Verse": "Your two breasts are like two young roes that are twins, which feed among the lilies."
-        },
-        {
-          "Verseid": "21003005",
-          "Verse": "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense."
-        },
-        {
-          "Verseid": "21003006",
-          "Verse": "You are all fair, my love; there is no spot in you."
-        },
-        {
-          "Verseid": "21003007",
-          "Verse": "Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions' dens, from the mountains of the leopards."
-        },
-        {
-          "Verseid": "21003008",
-          "Verse": "You have ravished my heart, my sister, my spouse; you have ravished my heart with one of yours eyes, with one chain of your neck."
-        },
-        {
-          "Verseid": "21003009",
-          "Verse": "How fair is your love, my sister, my spouse! how much better is your love than wine! and the smell of yours ointments than all spices!"
-        },
-        {
-          "Verseid": "21003010",
-          "Verse": "Your lips, O my spouse, drop as the honeycomb: honey and milk are under your tongue; and the smell of your garments is like the smell of Lebanon."
-        },
-        {
-          "Verseid": "21003011",
-          "Verse": "A garden enclosed is my sister, my spouse; a spring shut up, a fountain sealed."
-        },
-        {
-          "Verseid": "21003012",
-          "Verse": "Your plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,"
-        },
-        {
-          "Verseid": "21003013",
-          "Verse": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:"
-        },
-        {
-          "Verseid": "21003014",
-          "Verse": "A fountain of gardens, a well of living waters, and streams from Lebanon."
-        },
-        {
-          "Verseid": "21003015",
-          "Verse": "Awake, O north wind; and come, you south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "21004000",
-          "Verse": "I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved."
-        },
-        {
-          "Verseid": "21004001",
-          "Verse": "I sleep, but my heart wakes: it is the voice of my beloved that knocks, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night."
-        },
-        {
-          "Verseid": "21004002",
-          "Verse": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?"
-        },
-        {
-          "Verseid": "21004003",
-          "Verse": "My beloved put in his hand by the hole of the door, and my bowels were moved for him."
-        },
-        {
-          "Verseid": "21004004",
-          "Verse": "I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock."
-        },
-        {
-          "Verseid": "21004005",
-          "Verse": "I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spoke: I sought him, but I could not find him; I called him, but he gave me no answer."
-        },
-        {
-          "Verseid": "21004006",
-          "Verse": "The watchmen that went about the city found me, they stroke me, they wounded me; the keepers of the walls took away my veil from me."
-        },
-        {
-          "Verseid": "21004007",
-          "Verse": "I charge you, O daughters of Jerusalem, if all of you find my beloved, that all of you tell him, that I am sick of love."
-        },
-        {
-          "Verseid": "21004008",
-          "Verse": "What is your beloved more than another beloved, O you fairest among women? what is your beloved more than another beloved, that you do so charge us?"
-        },
-        {
-          "Verseid": "21004009",
-          "Verse": "My beloved is white and rosy, the chiefest among ten thousand."
-        },
-        {
-          "Verseid": "21004010",
-          "Verse": "His head is as the most fine gold, his locks are bushy, and black as a raven."
-        },
-        {
-          "Verseid": "21004011",
-          "Verse": "His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set."
-        },
-        {
-          "Verseid": "21004012",
-          "Verse": "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh."
-        },
-        {
-          "Verseid": "21004013",
-          "Verse": "His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires."
-        },
-        {
-          "Verseid": "21004014",
-          "Verse": "His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars."
-        },
-        {
-          "Verseid": "21004015",
-          "Verse": "His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "21005000",
-          "Verse": "Where is your beloved gone, O you fairest among women? where is your beloved turned aside? that we may seek him with you."
-        },
-        {
-          "Verseid": "21005001",
-          "Verse": "My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies."
-        },
-        {
-          "Verseid": "21005002",
-          "Verse": "I am my beloved's, and my beloved is mine: he feeds among the lilies."
-        },
-        {
-          "Verseid": "21005003",
-          "Verse": "You are beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners."
-        },
-        {
-          "Verseid": "21005004",
-          "Verse": "Turn away yours eyes from me, for they have overcome me: your hair is as a flock of goats that appear from Gilead."
-        },
-        {
-          "Verseid": "21005005",
-          "Verse": "Your teeth are as a flock of sheep which go up from the washing, whereof every one bears twins, and there is not one barren among them."
-        },
-        {
-          "Verseid": "21005006",
-          "Verse": "As a piece of a pomegranate are your temples within your locks."
-        },
-        {
-          "Verseid": "21005007",
-          "Verse": "There are threescore queens, and fourscore concubines, and virgins without number."
-        },
-        {
-          "Verseid": "21005008",
-          "Verse": "My dove, my undefiled is but one; she is the only one of her mother, she is the choice one of her that bare her. The daughters saw her, and blessed her; yea, the queens and the concubines, and they praised her."
-        },
-        {
-          "Verseid": "21005009",
-          "Verse": "Who is she that looks forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?"
-        },
-        {
-          "Verseid": "21005010",
-          "Verse": "I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished and the pomegranates budded."
-        },
-        {
-          "Verseid": "21005011",
-          "Verse": "Before even I was aware, my soul made me like the chariots of Amminadib."
-        },
-        {
-          "Verseid": "21005012",
-          "Verse": "Return, return, O Shulamite; return, return, that we may look upon you. What will all of you see in the Shulamite? As it were the company of two armies."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "21006000",
-          "Verse": "How beautiful are your feet with shoes, O prince's daughter! the joints of your thighs are like jewels, the work of the hands of a cunning workman."
-        },
-        {
-          "Verseid": "21006001",
-          "Verse": "Your navel is like a round goblet, which wants not liquor: your belly is like an heap of wheat set about with lilies."
-        },
-        {
-          "Verseid": "21006002",
-          "Verse": "Your two breasts are like two young roes that are twins."
-        },
-        {
-          "Verseid": "21006003",
-          "Verse": "Your neck is as a tower of ivory; yours eyes like the pool in Heshbon, by the gate of Bathrabbim: your nose is as the tower of Lebanon which looks toward Damascus."
-        },
-        {
-          "Verseid": "21006004",
-          "Verse": "Yours head upon you is like Carmel, and the hair of yours head like purple; the king is held in the galleries."
-        },
-        {
-          "Verseid": "21006005",
-          "Verse": "How fair and how pleasant are you, O love, for delights!"
-        },
-        {
-          "Verseid": "21006006",
-          "Verse": "This your stature is like to a palm tree, and your breasts to clusters of grapes."
-        },
-        {
-          "Verseid": "21006007",
-          "Verse": "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also your breasts shall be as clusters of the vine, and the smell of your nose like apples;"
-        },
-        {
-          "Verseid": "21006008",
-          "Verse": "And the roof of your mouth like the best wine for my beloved, that goes down sweetly, causing the lips of those that are asleep to speak."
-        },
-        {
-          "Verseid": "21006009",
-          "Verse": "I am my beloved's, and his desire is toward me."
-        },
-        {
-          "Verseid": "21006010",
-          "Verse": "Come, my beloved, let us go forth into the field; let us lodge in the villages."
-        },
-        {
-          "Verseid": "21006011",
-          "Verse": "Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give you my loves."
-        },
-        {
-          "Verseid": "21006012",
-          "Verse": "The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for you, O my beloved."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "21007000",
-          "Verse": "O that you were as my brother, that sucked the breasts of my mother! when I should find you without, I would kiss you; yea, I should not be despised."
-        },
-        {
-          "Verseid": "21007001",
-          "Verse": "I would lead you, and bring you into my mother's house, who would instruct me: I would cause you to drink of spiced wine of the juice of my pomegranate."
-        },
-        {
-          "Verseid": "21007002",
-          "Verse": "His left hand should be under my head, and his right hand should embrace me."
-        },
-        {
-          "Verseid": "21007003",
-          "Verse": "I charge you, O daughters of Jerusalem, that all of you stir not up, nor awake my love, until he please."
-        },
-        {
-          "Verseid": "21007004",
-          "Verse": "Who is this that comes up from the wilderness, leaning upon her beloved? I raised you up under the apple tree: there your mother brought you forth: there she brought you forth that bare you."
-        },
-        {
-          "Verseid": "21007005",
-          "Verse": "Set me as a seal upon yours heart, as a seal upon yours arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which has a most vehement flame."
-        },
-        {
-          "Verseid": "21007006",
-          "Verse": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned."
-        },
-        {
-          "Verseid": "21007007",
-          "Verse": "We have a little sister, and she has no breasts: what shall we do for our sister in the day when she shall be spoken for?"
-        },
-        {
-          "Verseid": "21007008",
-          "Verse": "If she be a wall, we will build upon her a palace of silver: and if she be a door, we will enclose her with boards of cedar."
-        },
-        {
-          "Verseid": "21007009",
-          "Verse": "I am a wall, and my breasts like towers: then was I in his eyes as one that found favour."
-        },
-        {
-          "Verseid": "21007010",
-          "Verse": "Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand pieces of silver."
-        },
-        {
-          "Verseid": "21007011",
-          "Verse": "My vineyard, which is mine, is before me: you, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred."
-        },
-        {
-          "Verseid": "21007012",
-          "Verse": "You that dwell in the gardens, the companions hearken to your voice: cause me to hear it."
-        },
-        {
-          "Verseid": "21007013",
-          "Verse": "Make haste, my beloved, and be you like to a roe or to a young hart upon the mountains of spices."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "Solomon's Song Of Songs.",
+            "Let Him Kiss Me With The Kisses Of His Mouth- For Your Love Is More Delightful Than Wine.",
+            "Pleasing Is The Fragrance Of Your Perfumes; Your Name Is Like Perfume Poured Out. No Wonder The Maidens Love You!",
+            "Take Me Away With You-let Us Hurry! Let The King Bring Me Into His Chambers. We Rejoice And Delight In You ; We Will Praise Your Love More Than Wine. How Right They Are To Adore You!",
+            "Dark Am I, Yet Lovely, O Daughters Of Jerusalem, Dark Like The Tents Of Kedar, Like The Tent Curtains Of Solomon.",
+            "Do Not Stare At Me Because I Am Dark, Because I Am Darkened By The Sun. My Mother's Sons Were Angry With Me And Made Me Take Care Of The Vineyards; My Own Vineyard I Have Neglected.",
+            "Tell Me, You Whom I Love, Where You Graze Your Flock And Where You Rest Your Sheep At Midday. Why Should I Be Like A Veiled Woman Beside The Flocks Of Your Friends?",
+            "If You Do Not Know, Most Beautiful Of Women, Follow The Tracks Of The Sheep And Graze Your Young Goats By The Tents Of The Shepherds.",
+            "I Liken You, My Darling, To A Mare Harnessed To One Of The Chariots Of Pharaoh.",
+            "Your Cheeks Are Beautiful With Earrings, Your Neck With Strings Of Jewels.",
+            "We Will Make You Earrings Of Gold, Studded With Silver.",
+            "While The King Was At His Table, My Perfume Spread Its Fragrance.",
+            "My Lover Is To Me A Sachet Of Myrrh Resting Between My Breasts.",
+            "My Lover Is To Me A Cluster Of Henna Blossoms From The Vineyards Of En Gedi.",
+            "How Beautiful You Are, My Darling! Oh, How Beautiful! Your Eyes Are Doves.",
+            "How Handsome You Are, My Lover! Oh, How Charming! And Our Bed Is Verdant.",
+            "The Beams Of Our House Are Cedars; Our Rafters Are Firs."
+        ],
+        [
+            "I Am A Rose Of Sharon, A Lily Of The Valleys.",
+            "Like A Lily Among Thorns Is My Darling Among The Maidens.",
+            "Like An Apple Tree Among The Trees Of The Forest Is My Lover Among The Young Men. I Delight To Sit In His Shade, And His Fruit Is Sweet To My Taste.",
+            "He Has Taken Me To The Banquet Hall, And His Banner Over Me Is Love.",
+            "Strengthen Me With Raisins, Refresh Me With Apples, For I Am Faint With Love.",
+            "His Left Arm Is Under My Head, And His Right Arm Embraces Me.",
+            "Daughters Of Jerusalem, I Charge You By The Gazelles And By The Does Of The Field: Do Not Arouse Or Awaken Love Until It So Desires.",
+            "Listen! My Lover! Look! Here He Comes, Leaping Across The Mountains, Bounding Over The Hills.",
+            "My Lover Is Like A Gazelle Or A Young Stag. Look! There He Stands Behind Our Wall, Gazing Through The Windows, Peering Through The Lattice.",
+            "My Lover Spoke And Said To Me, \"Arise, My Darling, My Beautiful One, And Come With Me.",
+            "See! The Winter Is Past; The Rains Are Over And Gone.",
+            "Flowers Appear On The Earth; The Season Of Singing Has Come, The Cooing Of Doves Is Heard In Our Land.",
+            "The Fig Tree Forms Its Early Fruit; The Blossoming Vines Spread Their Fragrance. Arise, Come, My Darling; My Beautiful One, Come With Me.\"",
+            "My Dove In The Clefts Of The Rock, In The Hiding Places On The Mountainside, Show Me Your Face, Let Me Hear Your Voice; For Your Voice Is Sweet, And Your Face Is Lovely.",
+            "Catch For Us The Foxes, The Little Foxes That Ruin The Vineyards, Our Vineyards That Are In Bloom.",
+            "My Lover Is Mine And I Am His; He Browses Among The Lilies.",
+            "Until The Day Breaks And The Shadows Flee, Turn, My Lover, And Be Like A Gazelle Or Like A Young Stag On The Rugged Hills."
+        ],
+        [
+            "All Night Long On My Bed I Looked For The One My Heart Loves; I Looked For Him But Did Not Find Him.",
+            "I Will Get Up Now And Go About The City, Through Its Streets And Squares; I Will Search For The One My Heart Loves. So I Looked For Him But Did Not Find Him.",
+            "The Watchmen Found Me As They Made Their Rounds In The City. \"Have You Seen The One My Heart Loves?\"",
+            "Scarcely Had I Passed Them When I Found The One My Heart Loves. I Held Him And Would Not Let Him Go Till I Had Brought Him To My Mother's House, To The Room Of The One Who Conceived Me.",
+            "Daughters Of Jerusalem, I Charge You By The Gazelles And By The Does Of The Field: Do Not Arouse Or Awaken Love Until It So Desires.",
+            "Who Is This Coming Up From The Desert Like A Column Of Smoke, Perfumed With Myrrh And Incense Made From All The Spices Of The Merchant?",
+            "Look! It Is Solomon's Carriage, Escorted By Sixty Warriors, The Noblest Of Israel,",
+            "All Of Them Wearing The Sword, All Experienced In Battle, Each With His Sword At His Side, Prepared For The Terrors Of The Night.",
+            "King Solomon Made For Himself The Carriage; He Made It Of Wood From Lebanon.",
+            "Its Posts He Made Of Silver, Its Base Of Gold. Its Seat Was Upholstered With Purple, Its Interior Lovingly Inlaid By The Daughters Of Jerusalem.",
+            "Come Out, You Daughters Of Zion, And Look At King Solomon Wearing The Crown, The Crown With Which His Mother Crowned Him On The Day Of His Wedding, The Day His Heart Rejoiced."
+        ],
+        [
+            "How Beautiful You Are, My Darling! Oh, How Beautiful! Your Eyes Behind Your Veil Are Doves. Your Hair Is Like A Flock Of Goats Descending From Mount Gilead.",
+            "Your Teeth Are Like A Flock Of Sheep Just Shorn, Coming Up From The Washing. Each Has Its Twin; Not One Of Them Is Alone.",
+            "Your Lips Are Like A Scarlet Ribbon; Your Mouth Is Lovely. Your Temples Behind Your Veil Are Like The Halves Of A Pomegranate.",
+            "Your Neck Is Like The Tower Of David, Built With Elegance ; On It Hang A Thousand Shields, All Of Them Shields Of Warriors.",
+            "Your Two Breasts Are Like Two Fawns, Like Twin Fawns Of A Gazelle That Browse Among The Lilies.",
+            "Until The Day Breaks And The Shadows Flee, I Will Go To The Mountain Of Myrrh And To The Hill Of Incense.",
+            "All Beautiful You Are, My Darling; There Is No Flaw In You.",
+            "Come With Me From Lebanon, My Bride, Come With Me From Lebanon. Descend From The Crest Of Amana, From The Top Of Senir, The Summit Of Hermon, From The Lions' Dens And The Mountain Haunts Of The Leopards.",
+            "You Have Stolen My Heart, My Sister, My Bride; You Have Stolen My Heart With One Glance Of Your Eyes, With One Jewel Of Your Necklace.",
+            "How Delightful Is Your Love, My Sister, My Bride! How Much More Pleasing Is Your Love Than Wine, And The Fragrance Of Your Perfume Than Any Spice!",
+            "Your Lips Drop Sweetness As The Honeycomb, My Bride; Milk And Honey Are Under Your Tongue. The Fragrance Of Your Garments Is Like That Of Lebanon.",
+            "You Are A Garden Locked Up, My Sister, My Bride; You Are A Spring Enclosed, A Sealed Fountain.",
+            "Your Plants Are An Orchard Of Pomegranates With Choice Fruits, With Henna And Nard,",
+            "Nard And Saffron, Calamus And Cinnamon, With Every Kind Of Incense Tree, With Myrrh And Aloes And All The Finest Spices.",
+            "You Are A Garden Fountain, A Well Of Flowing Water Streaming Down From Lebanon.",
+            "Awake, North Wind, And Come, South Wind! Blow On My Garden, That Its Fragrance May Spread Abroad. Let My Lover Come Into His Garden And Taste Its Choice Fruits."
+        ],
+        [
+            "I Have Come Into My Garden, My Sister, My Bride; I Have Gathered My Myrrh With My Spice. I Have Eaten My Honeycomb And My Honey; I Have Drunk My Wine And My Milk. Eat, O Friends, And Drink; Drink Your Fill, O Lovers.",
+            "I Slept But My Heart Was Awake. Listen! My Lover Is Knocking: \"Open To Me, My Sister, My Darling, My Dove, My Flawless One. My Head Is Drenched With Dew, My Hair With The Dampness Of The Night.\"",
+            "I Have Taken Off My Robe- Must I Put It On Again? I Have Washed My Feet- Must I Soil Them Again?",
+            "My Lover Thrust His Hand Through The Latch-opening; My Heart Began To Pound For Him.",
+            "I Arose To Open For My Lover, And My Hands Dripped With Myrrh, My Fingers With Flowing Myrrh, On The Handles Of The Lock.",
+            "I Opened For My Lover, But My Lover Had Left; He Was Gone. My Heart Sank At His Departure. I Looked For Him But Did Not Find Him. I Called Him But He Did Not Answer.",
+            "The Watchmen Found Me As They Made Their Rounds In The City. They Beat Me, They Bruised Me; They Took Away My Cloak, Those Watchmen Of The Walls!",
+            "O Daughters Of Jerusalem, I Charge You- If You Find My Lover, What Will You Tell Him? Tell Him I Am Faint With Love.",
+            "How Is Your Beloved Better Than Others, Most Beautiful Of Women? How Is Your Beloved Better Than Others, That You Charge Us So?",
+            "My Lover Is Radiant And Ruddy, Outstanding Among Ten Thousand.",
+            "His Head Is Purest Gold; His Hair Is Wavy And Black As A Raven.",
+            "His Eyes Are Like Doves By The Water Streams, Washed In Milk, Mounted Like Jewels.",
+            "His Cheeks Are Like Beds Of Spice Yielding Perfume. His Lips Are Like Lilies Dripping With Myrrh.",
+            "His Arms Are Rods Of Gold Set With Chrysolite. His Body Is Like Polished Ivory Decorated With Sapphires.",
+            "His Legs Are Pillars Of Marble Set On Bases Of Pure Gold. His Appearance Is Like Lebanon, Choice As Its Cedars.",
+            "His Mouth Is Sweetness Itself; He Is Altogether Lovely. This Is My Lover, This My Friend, O Daughters Of Jerusalem."
+        ],
+        [
+            "Where Has Your Lover Gone, Most Beautiful Of Women? Which Way Did Your Lover Turn, That We May Look For Him With You?",
+            "My Lover Has Gone Down To His Garden, To The Beds Of Spices, To Browse In The Gardens And To Gather Lilies.",
+            "I Am My Lover's And My Lover Is Mine; He Browses Among The Lilies.",
+            "You Are Beautiful, My Darling, As Tirzah, Lovely As Jerusalem, Majestic As Troops With Banners.",
+            "Turn Your Eyes From Me; They Overwhelm Me. Your Hair Is Like A Flock Of Goats Descending From Gilead.",
+            "Your Teeth Are Like A Flock Of Sheep Coming Up From The Washing. Each Has Its Twin, Not One Of Them Is Alone.",
+            "Your Temples Behind Your Veil Are Like The Halves Of A Pomegranate.",
+            "Sixty Queens There May Be, And Eighty Concubines, And Virgins Beyond Number;",
+            "But My Dove, My Perfect One, Is Unique, The Only Daughter Of Her Mother, The Favorite Of The One Who Bore Her. The Maidens Saw Her And Called Her Blessed; The Queens And Concubines Praised Her.",
+            "Who Is This That Appears Like The Dawn, Fair As The Moon, Bright As The Sun, Majestic As The Stars In Procession?",
+            "I Went Down To The Grove Of Nut Trees To Look At The New Growth In The Valley, To See If The Vines Had Budded Or The Pomegranates Were In Bloom.",
+            "Before I Realized It, My Desire Set Me Among The Royal Chariots Of My People.",
+            "Come Back, Come Back, O Shulammite; Come Back, Come Back, That We May Gaze On You! Why Would You Gaze On The Shulammite As On The Dance Of Mahanaim?"
+        ],
+        [
+            "How Beautiful Your Sandaled Feet, O Prince's Daughter! Your Graceful Legs Are Like Jewels, The Work Of A Craftsman's Hands.",
+            "Your Navel Is A Rounded Goblet That Never Lacks Blended Wine. Your Waist Is A Mound Of Wheat Encircled By Lilies.",
+            "Your Breasts Are Like Two Fawns, Twins Of A Gazelle.",
+            "Your Neck Is Like An Ivory Tower. Your Eyes Are The Pools Of Heshbon By The Gate Of Bath Rabbim. Your Nose Is Like The Tower Of Lebanon Looking Toward Damascus.",
+            "Your Head Crowns You Like Mount Carmel. Your Hair Is Like Royal Tapestry; The King Is Held Captive By Its Tresses.",
+            "How Beautiful You Are And How Pleasing, O Love, With Your Delights!",
+            "Your Stature Is Like That Of The Palm, And Your Breasts Like Clusters Of Fruit.",
+            "I Said, \"I Will Climb The Palm Tree; I Will Take Hold Of Its Fruit.\" May Your Breasts Be Like The Clusters Of The Vine, The Fragrance Of Your Breath Like Apples,",
+            "And Your Mouth Like The Best Wine. May The Wine Go Straight To My Lover, Flowing Gently Over Lips And Teeth.",
+            "I Belong To My Lover, And His Desire Is For Me.",
+            "Come, My Lover, Let Us Go To The Countryside, Let Us Spend The Night In The Villages.",
+            "Let Us Go Early To The Vineyards To See If The Vines Have Budded, If Their Blossoms Have Opened, And If The Pomegranates Are In Bloom- There I Will Give You My Love.",
+            "The Mandrakes Send Out Their Fragrance, And At Our Door Is Every Delicacy, Both New And Old, That I Have Stored Up For You, My Lover."
+        ],
+        [
+            "If Only You Were To Me Like A Brother, Who Was Nursed At My Mother's Breasts! Then, If I Found You Outside, I Would Kiss You, And No One Would Despise Me.",
+            "I Would Lead You And Bring You To My Mother's House- She Who Has Taught Me. I Would Give You Spiced Wine To Drink, The Nectar Of My Pomegranates.",
+            "His Left Arm Is Under My Head And His Right Arm Embraces Me.",
+            "Daughters Of Jerusalem, I Charge You: Do Not Arouse Or Awaken Love Until It So Desires.",
+            "Who Is This Coming Up From The Desert Leaning On Her Lover? Under The Apple Tree I Roused You; There Your Mother Conceived You, There She Who Was In Labor Gave You Birth.",
+            "Place Me Like A Seal Over Your Heart, Like A Seal On Your Arm; For Love Is As Strong As Death, Its Jealousy Unyielding As The Grave. It Burns Like Blazing Fire, Like A Mighty Flame.",
+            "Many Waters Cannot Quench Love; Rivers Cannot Wash It Away. If One Were To Give All The Wealth Of His House For Love, It Would Be Utterly Scorned.",
+            "We Have A Young Sister, And Her Breasts Are Not Yet Grown. What Shall We Do For Our Sister For The Day She Is Spoken For?",
+            "If She Is A Wall, We Will Build Towers Of Silver On Her. If She Is A Door, We Will Enclose Her With Panels Of Cedar.",
+            "I Am A Wall, And My Breasts Are Like Towers. Thus I Have Become In His Eyes Like One Bringing Contentment.",
+            "Solomon Had A Vineyard In Baal Hamon; He Let Out His Vineyard To Tenants. Each Was To Bring For Its Fruit A Thousand Shekels Of Silver.",
+            "But My Own Vineyard Is Mine To Give; The Thousand Shekels Are For You, O Solomon, And Two Hundred Are For Those Who Tend Its Fruit.",
+            "You Who Dwell In The Gardens With Friends In Attendance, Let Me Hear Your Voice!",
+            "Come Away, My Lover, And Be Like A Gazelle Or Like A Young Stag On The Spice-laden Mountains."
+        ]
+    ]
 }

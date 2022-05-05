@@ -65,7 +65,7 @@ export class PresentationApi {
   }
 
   sendMessage(message) {
-    this.presentationConnection.send(message);
+    this.presentationConnection?.send(message);
   }
 
   checkAvailability() {

@@ -1,1800 +1,469 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "44000000",
-          "Verse": "Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,"
-        },
-        {
-          "Verseid": "44000001",
-          "Verse": "(Which he had promised before by his prophets in the holy scriptures,)"
-        },
-        {
-          "Verseid": "44000002",
-          "Verse": "Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;"
-        },
-        {
-          "Verseid": "44000003",
-          "Verse": "And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:"
-        },
-        {
-          "Verseid": "44000004",
-          "Verse": "By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:"
-        },
-        {
-          "Verseid": "44000005",
-          "Verse": "Among whom are all of you also the called of Jesus Christ:"
-        },
-        {
-          "Verseid": "44000006",
-          "Verse": "To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ."
-        },
-        {
-          "Verseid": "44000007",
-          "Verse": "First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world."
-        },
-        {
-          "Verseid": "44000008",
-          "Verse": "For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;"
-        },
-        {
-          "Verseid": "44000009",
-          "Verse": "Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you."
-        },
-        {
-          "Verseid": "44000010",
-          "Verse": "For I long to see you, that I may impart unto you some spiritual gift, to the end all of you may be established;"
-        },
-        {
-          "Verseid": "44000011",
-          "Verse": "That is, that I may be comforted together with you by the mutual faith both of you and me."
-        },
-        {
-          "Verseid": "44000012",
-          "Verse": "Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let until now,) that I might have some fruit among you also, even as among other Gentiles."
-        },
-        {
-          "Verseid": "44000013",
-          "Verse": "I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise."
-        },
-        {
-          "Verseid": "44000014",
-          "Verse": "So, as much as in me is, I am ready to preach the gospel to you that are at Rome also."
-        },
-        {
-          "Verseid": "44000015",
-          "Verse": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believes; to the Jew first, and also to the Greek."
-        },
-        {
-          "Verseid": "44000016",
-          "Verse": "For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith."
-        },
-        {
-          "Verseid": "44000017",
-          "Verse": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;"
-        },
-        {
-          "Verseid": "44000018",
-          "Verse": "Because that which may be known of God is manifest in them; for God has showed it unto them."
-        },
-        {
-          "Verseid": "44000019",
-          "Verse": "For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:"
-        },
-        {
-          "Verseid": "44000020",
-          "Verse": "Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened."
-        },
-        {
-          "Verseid": "44000021",
-          "Verse": "Professing themselves to be wise, they became fools,"
-        },
-        {
-          "Verseid": "44000022",
-          "Verse": "And changed the glory of the incorruptible God into an image made like to corruptible man, and to birds, and four-footed beasts, and creeping things."
-        },
-        {
-          "Verseid": "44000023",
-          "Verse": "Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves:"
-        },
-        {
-          "Verseid": "44000024",
-          "Verse": "Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."
-        },
-        {
-          "Verseid": "44000025",
-          "Verse": "For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:"
-        },
-        {
-          "Verseid": "44000026",
-          "Verse": "And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet."
-        },
-        {
-          "Verseid": "44000027",
-          "Verse": "And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;"
-        },
-        {
-          "Verseid": "44000028",
-          "Verse": "Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, ill will; whisperers,"
-        },
-        {
-          "Verseid": "44000029",
-          "Verse": "Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,"
-        },
-        {
-          "Verseid": "44000030",
-          "Verse": "Without understanding, covenant-breakers, without natural affection, refusing to reconcile, unmerciful:"
-        },
-        {
-          "Verseid": "44000031",
-          "Verse": "Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44001000",
-          "Verse": "Therefore you are inexcusable, O man, whosoever you are that judge: for wherein you judge another, you condemn yourself; for you that judge do the same things."
-        },
-        {
-          "Verseid": "44001001",
-          "Verse": "But we are sure that the judgment of God is according to truth against them which commit such things."
-        },
-        {
-          "Verseid": "44001002",
-          "Verse": "And think you this, O man, that judge them which do such things, and do the same, that you shall escape the judgment of God?"
-        },
-        {
-          "Verseid": "44001003",
-          "Verse": "Or despise you the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leads you to repentance?"
-        },
-        {
-          "Verseid": "44001004",
-          "Verse": "But after your hardness and refusing to repent heart treasure up unto yourself wrath against the day of wrath and revelation of the righteous judgment of God;"
-        },
-        {
-          "Verseid": "44001005",
-          "Verse": "Who will render to every man according to his deeds:"
-        },
-        {
-          "Verseid": "44001006",
-          "Verse": "To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:"
-        },
-        {
-          "Verseid": "44001007",
-          "Verse": "But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,"
-        },
-        {
-          "Verseid": "44001008",
-          "Verse": "Tribulation and anguish, upon every soul of man that does evil, of the Jew first, and also of the Gentile;"
-        },
-        {
-          "Verseid": "44001009",
-          "Verse": "But glory, honour, and peace, to every man that works good, to the Jew first, and also to the Gentile:"
-        },
-        {
-          "Verseid": "44001010",
-          "Verse": "For there is no respect of persons with God."
-        },
-        {
-          "Verseid": "44001011",
-          "Verse": "For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law;"
-        },
-        {
-          "Verseid": "44001012",
-          "Verse": "(For not the hearers of the law are just before God, but the doers of the law shall be justified."
-        },
-        {
-          "Verseid": "44001013",
-          "Verse": "For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:"
-        },
-        {
-          "Verseid": "44001014",
-          "Verse": "Which show the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)"
-        },
-        {
-          "Verseid": "44001015",
-          "Verse": "In the day when God shall judge the secrets of men by Jesus Christ according to my gospel."
-        },
-        {
-          "Verseid": "44001016",
-          "Verse": "Behold, you are called a Jew, and rest in the law, and make your boast of God,"
-        },
-        {
-          "Verseid": "44001017",
-          "Verse": "And know his will, and approve the things that are more excellent, being instructed out of the law;"
-        },
-        {
-          "Verseid": "44001018",
-          "Verse": "And are confident that you yourself are a guide of the blind, a light of them which are in darkness,"
-        },
-        {
-          "Verseid": "44001019",
-          "Verse": "An instructor of the foolish, a teacher of babes, which have the form of knowledge and of the truth in the law."
-        },
-        {
-          "Verseid": "44001020",
-          "Verse": "You therefore which teach another, teach you not yourself? you that preach a man should not steal, do you steal?"
-        },
-        {
-          "Verseid": "44001021",
-          "Verse": "You that says a man should not commit adultery, do you commit adultery? you that abhor idols, do you commit sacrilege?"
-        },
-        {
-          "Verseid": "44001022",
-          "Verse": "You that make your boast of the law, through breaking the law dishonour you God?"
-        },
-        {
-          "Verseid": "44001023",
-          "Verse": "For the name of God is blasphemed among the Gentiles through you, as it is written."
-        },
-        {
-          "Verseid": "44001024",
-          "Verse": "For circumcision verily profits, if you keep the law: but if you be a breaker of the law, your circumcision is made uncircumcision."
-        },
-        {
-          "Verseid": "44001025",
-          "Verse": "Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?"
-        },
-        {
-          "Verseid": "44001026",
-          "Verse": "And shall not uncircumcision which is by nature, if it fulfill the law, judge you, who by the letter and circumcision do transgress the law?"
-        },
-        {
-          "Verseid": "44001027",
-          "Verse": "For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:"
-        },
-        {
-          "Verseid": "44001028",
-          "Verse": "But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44002000",
-          "Verse": "What advantage then has the Jew? or what profit is there of circumcision?"
-        },
-        {
-          "Verseid": "44002001",
-          "Verse": "Much every way: chiefly, because that unto them were committed the oracles of God."
-        },
-        {
-          "Verseid": "44002002",
-          "Verse": "For what if some did not believe? shall their unbelief make the faith of God without effect?"
-        },
-        {
-          "Verseid": "44002003",
-          "Verse": "God forbid: yea, let God be true, but every man a liar; as it is written, That you might be justified in your sayings, and might overcome when you are judged."
-        },
-        {
-          "Verseid": "44002004",
-          "Verse": "But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who takes vengeance? (I speak as a man)"
-        },
-        {
-          "Verseid": "44002005",
-          "Verse": "God forbid: for then how shall God judge the world?"
-        },
-        {
-          "Verseid": "44002006",
-          "Verse": "For if the truth of God has more abounded through my lie unto his glory; why yet am I also judged as a sinner?"
-        },
-        {
-          "Verseid": "44002007",
-          "Verse": "And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just."
-        },
-        {
-          "Verseid": "44002008",
-          "Verse": "What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;"
-        },
-        {
-          "Verseid": "44002009",
-          "Verse": "As it is written, There is none righteous, no, not one:"
-        },
-        {
-          "Verseid": "44002010",
-          "Verse": "There is none that understands, there is none that seeks after God."
-        },
-        {
-          "Verseid": "44002011",
-          "Verse": "They are all gone out of the way, they are together become useless; there is none that does good, no, not one."
-        },
-        {
-          "Verseid": "44002012",
-          "Verse": "Their throat is an open tomb; with their tongues they have used deceit; the poison of asps is under their lips:"
-        },
-        {
-          "Verseid": "44002013",
-          "Verse": "Whose mouth is full of cursing and bitterness:"
-        },
-        {
-          "Verseid": "44002014",
-          "Verse": "Their feet are swift to shed blood:"
-        },
-        {
-          "Verseid": "44002015",
-          "Verse": "Destruction and misery are in their ways:"
-        },
-        {
-          "Verseid": "44002016",
-          "Verse": "And the way of peace have they not known:"
-        },
-        {
-          "Verseid": "44002017",
-          "Verse": "There is no fear of God before their eyes."
-        },
-        {
-          "Verseid": "44002018",
-          "Verse": "Now we know that what things whatsoever the law says, it says to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God."
-        },
-        {
-          "Verseid": "44002019",
-          "Verse": "Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin."
-        },
-        {
-          "Verseid": "44002020",
-          "Verse": "But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;"
-        },
-        {
-          "Verseid": "44002021",
-          "Verse": "Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:"
-        },
-        {
-          "Verseid": "44002022",
-          "Verse": "For all have sinned, and come short of the glory of God;"
-        },
-        {
-          "Verseid": "44002023",
-          "Verse": "Being justified freely by his grace through the redemption that is in Christ Jesus:"
-        },
-        {
-          "Verseid": "44002024",
-          "Verse": "Whom God has set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;"
-        },
-        {
-          "Verseid": "44002025",
-          "Verse": "To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believes in Jesus."
-        },
-        {
-          "Verseid": "44002026",
-          "Verse": "Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith."
-        },
-        {
-          "Verseid": "44002027",
-          "Verse": "Therefore we conclude that a man is justified by faith without the deeds of the law."
-        },
-        {
-          "Verseid": "44002028",
-          "Verse": "Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also:"
-        },
-        {
-          "Verseid": "44002029",
-          "Verse": "Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith."
-        },
-        {
-          "Verseid": "44002030",
-          "Verse": "Do we then make void the law through faith? God forbid: yea, we establish the law."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44003000",
-          "Verse": "What shall we say then that Abraham our father, as pertaining to the flesh, has found?"
-        },
-        {
-          "Verseid": "44003001",
-          "Verse": "For if Abraham were justified by works, he has whereof to glory; but not before God."
-        },
-        {
-          "Verseid": "44003002",
-          "Verse": "For what says the scripture? Abraham believed God, and it was counted unto him for righteousness."
-        },
-        {
-          "Verseid": "44003003",
-          "Verse": "Now to him that works is the reward not reckoned of grace, but of debt."
-        },
-        {
-          "Verseid": "44003004",
-          "Verse": "But to him that works not, but believes on him that justifies the ungodly, his faith is counted for righteousness."
-        },
-        {
-          "Verseid": "44003005",
-          "Verse": "Even as David also describes the blessedness of the man, unto whom God imputes righteousness without works,"
-        },
-        {
-          "Verseid": "44003006",
-          "Verse": "Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered."
-        },
-        {
-          "Verseid": "44003007",
-          "Verse": "Blessed is the man to whom the Lord will not impute sin."
-        },
-        {
-          "Verseid": "44003008",
-          "Verse": "Comes this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness."
-        },
-        {
-          "Verseid": "44003009",
-          "Verse": "How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision."
-        },
-        {
-          "Verseid": "44003010",
-          "Verse": "And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:"
-        },
-        {
-          "Verseid": "44003011",
-          "Verse": "And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised."
-        },
-        {
-          "Verseid": "44003012",
-          "Verse": "For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith."
-        },
-        {
-          "Verseid": "44003013",
-          "Verse": "For if they which are of the law be heirs, faith is made void, and the promise made of no effect:"
-        },
-        {
-          "Verseid": "44003014",
-          "Verse": "Because the law works wrath: for where no law is, there is no transgression."
-        },
-        {
-          "Verseid": "44003015",
-          "Verse": "Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,"
-        },
-        {
-          "Verseid": "44003016",
-          "Verse": "(As it is written, I have made you a father of many nations,) before him whom he believed, even God, who replenishes life to the dead, and calls those things which be not as though they were."
-        },
-        {
-          "Verseid": "44003017",
-          "Verse": "Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall your seed be."
-        },
-        {
-          "Verseid": "44003018",
-          "Verse": "And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sarah's womb:"
-        },
-        {
-          "Verseid": "44003019",
-          "Verse": "He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;"
-        },
-        {
-          "Verseid": "44003020",
-          "Verse": "And being fully persuaded that, what he had promised, he was able also to perform."
-        },
-        {
-          "Verseid": "44003021",
-          "Verse": "And therefore it was imputed to him for righteousness."
-        },
-        {
-          "Verseid": "44003022",
-          "Verse": "Now it was not written for his sake alone, that it was imputed to him;"
-        },
-        {
-          "Verseid": "44003023",
-          "Verse": "But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;"
-        },
-        {
-          "Verseid": "44003024",
-          "Verse": "Who was delivered for our offences, and was raised again for our justification."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44004000",
-          "Verse": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:"
-        },
-        {
-          "Verseid": "44004001",
-          "Verse": "By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God."
-        },
-        {
-          "Verseid": "44004002",
-          "Verse": "And not only so, but we glory in tribulations also: knowing that tribulation works patience;"
-        },
-        {
-          "Verseid": "44004003",
-          "Verse": "And patience, experience; and experience, hope:"
-        },
-        {
-          "Verseid": "44004004",
-          "Verse": "And hope makes not ashamed; because the love of God is shed abroad in our hearts by the Holy Spirit which is given unto us."
-        },
-        {
-          "Verseid": "44004005",
-          "Verse": "For when we were yet without strength, in due time Christ died for the ungodly."
-        },
-        {
-          "Verseid": "44004006",
-          "Verse": "For scarcely for a righteous man will one die: yet possibly for a good man some would even dare to die."
-        },
-        {
-          "Verseid": "44004007",
-          "Verse": "But God commends his love toward us, in that, while we were yet sinners, Christ died for us."
-        },
-        {
-          "Verseid": "44004008",
-          "Verse": "Much more then, being now justified by his blood, we shall be saved from wrath through him."
-        },
-        {
-          "Verseid": "44004009",
-          "Verse": "For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life."
-        },
-        {
-          "Verseid": "44004010",
-          "Verse": "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement."
-        },
-        {
-          "Verseid": "44004011",
-          "Verse": "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:"
-        },
-        {
-          "Verseid": "44004012",
-          "Verse": "(For until the law sin was in the world: but sin is not imputed when there is no law."
-        },
-        {
-          "Verseid": "44004013",
-          "Verse": "Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the embodiment of Adam's transgression, who is the figure of him that was to come."
-        },
-        {
-          "Verseid": "44004014",
-          "Verse": "But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, has abounded unto many."
-        },
-        {
-          "Verseid": "44004015",
-          "Verse": "And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification."
-        },
-        {
-          "Verseid": "44004016",
-          "Verse": "For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)"
-        },
-        {
-          "Verseid": "44004017",
-          "Verse": "Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life."
-        },
-        {
-          "Verseid": "44004018",
-          "Verse": "For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous."
-        },
-        {
-          "Verseid": "44004019",
-          "Verse": "Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:"
-        },
-        {
-          "Verseid": "44004020",
-          "Verse": "That as sin has reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44005000",
-          "Verse": "What shall we say then? Shall we continue in sin, that grace may abound?"
-        },
-        {
-          "Verseid": "44005001",
-          "Verse": "God forbid. How shall we, that are dead to sin, live any longer therein?"
-        },
-        {
-          "Verseid": "44005002",
-          "Verse": "Know all of you not, that so many of us as were baptized into Jesus Christ were baptized into his death?"
-        },
-        {
-          "Verseid": "44005003",
-          "Verse": "Therefore we are buried with him by baptism into death: that like Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life."
-        },
-        {
-          "Verseid": "44005004",
-          "Verse": "For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:"
-        },
-        {
-          "Verseid": "44005005",
-          "Verse": "Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin."
-        },
-        {
-          "Verseid": "44005006",
-          "Verse": "For he that is dead is freed from sin."
-        },
-        {
-          "Verseid": "44005007",
-          "Verse": "Now if we be dead with Christ, we believe that we shall also live with him:"
-        },
-        {
-          "Verseid": "44005008",
-          "Verse": "Knowing that Christ being raised from the dead dies no more; death has no more dominion over him."
-        },
-        {
-          "Verseid": "44005009",
-          "Verse": "For in that he died, he died unto sin once: but in that he lives, he lives unto God."
-        },
-        {
-          "Verseid": "44005010",
-          "Verse": "Likewise reckon all of you also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord."
-        },
-        {
-          "Verseid": "44005011",
-          "Verse": "Let not sin therefore reign in your mortal body, that all of you should obey it in the lusts thereof."
-        },
-        {
-          "Verseid": "44005012",
-          "Verse": "Neither yield all of you your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God."
-        },
-        {
-          "Verseid": "44005013",
-          "Verse": "For sin shall not have dominion over you: for all of you are not under the law, but under grace."
-        },
-        {
-          "Verseid": "44005014",
-          "Verse": "What then? shall we sin, because we are not under the law, but under grace? God forbid."
-        },
-        {
-          "Verseid": "44005015",
-          "Verse": "Know all of you not, that to whom all of you yield yourselves servants to obey, his servants all of you are to whom all of you obey; whether of sin unto death, or of obedience unto righteousness?"
-        },
-        {
-          "Verseid": "44005016",
-          "Verse": "But God be thanked, that all of you were the servants of sin, but all of you have obeyed from the heart that form of doctrine which was delivered you."
-        },
-        {
-          "Verseid": "44005017",
-          "Verse": "Being then made free from sin, all of you became the servants of righteousness."
-        },
-        {
-          "Verseid": "44005018",
-          "Verse": "I speak after the manner of men because of the infirmity of your flesh: for as all of you have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness."
-        },
-        {
-          "Verseid": "44005019",
-          "Verse": "For when all of you were the servants of sin, all of you were free from righteousness."
-        },
-        {
-          "Verseid": "44005020",
-          "Verse": "What fruit had all of you then in those things whereof all of you are now ashamed? for the end of those things is death."
-        },
-        {
-          "Verseid": "44005021",
-          "Verse": "But now being made free from sin, and become servants to God, all of you have your fruit unto holiness, and the end everlasting life."
-        },
-        {
-          "Verseid": "44005022",
-          "Verse": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44006000",
-          "Verse": "Know all of you not, brethren, (for I speak to them that know the law,) how that the law has dominion over a man as long as he lives?"
-        },
-        {
-          "Verseid": "44006001",
-          "Verse": "For the woman which has an husband is bound by the law to her husband so long as he lives; but if the husband be dead, she is loosed from the law of her husband."
-        },
-        {
-          "Verseid": "44006002",
-          "Verse": "So then if, while her husband lives, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man."
-        },
-        {
-          "Verseid": "44006003",
-          "Verse": "Wherefore, my brethren, all of you also are become dead to the law by the body of Christ; that all of you should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God."
-        },
-        {
-          "Verseid": "44006004",
-          "Verse": "For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death."
-        },
-        {
-          "Verseid": "44006005",
-          "Verse": "But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter."
-        },
-        {
-          "Verseid": "44006006",
-          "Verse": "What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, You shall not covet."
-        },
-        {
-          "Verseid": "44006007",
-          "Verse": "But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead."
-        },
-        {
-          "Verseid": "44006008",
-          "Verse": "For I was alive without the law once: but when the commandment came, sin revived, and I died."
-        },
-        {
-          "Verseid": "44006009",
-          "Verse": "And the commandment, which was ordained to life, I found to be unto death."
-        },
-        {
-          "Verseid": "44006010",
-          "Verse": "For sin, taking occasion by the commandment, deceived me, and by it slew me."
-        },
-        {
-          "Verseid": "44006011",
-          "Verse": "Wherefore the law is holy, and the commandment holy, and just, and good."
-        },
-        {
-          "Verseid": "44006012",
-          "Verse": "Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful."
-        },
-        {
-          "Verseid": "44006013",
-          "Verse": "For we know that the law is spiritual: but I am carnal, sold under sin."
-        },
-        {
-          "Verseid": "44006014",
-          "Verse": "For that which I do I allow not: for what I would, that do I not; but what I hate, that do I."
-        },
-        {
-          "Verseid": "44006015",
-          "Verse": "If then I do that which I would not, I consent unto the law that it is good."
-        },
-        {
-          "Verseid": "44006016",
-          "Verse": "Now then it is no more I that do it, but sin that dwells in me."
-        },
-        {
-          "Verseid": "44006017",
-          "Verse": "For I know that in me (that is, in my flesh,) dwells no good thing: in order to will is present with me; but how to perform that which is good I find not."
-        },
-        {
-          "Verseid": "44006018",
-          "Verse": "For the good that I would I do not: but the evil which I would not, that I do."
-        },
-        {
-          "Verseid": "44006019",
-          "Verse": "Now if I do that I would not, it is no more I that do it, but sin that dwells in me."
-        },
-        {
-          "Verseid": "44006020",
-          "Verse": "I find then a law, that, when I would do good, evil is present with me."
-        },
-        {
-          "Verseid": "44006021",
-          "Verse": "For I delight in the law of God after the inward man:"
-        },
-        {
-          "Verseid": "44006022",
-          "Verse": "But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members."
-        },
-        {
-          "Verseid": "44006023",
-          "Verse": "O wretched man that I am! who shall deliver me from the body of this death?"
-        },
-        {
-          "Verseid": "44006024",
-          "Verse": "I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44007000",
-          "Verse": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit."
-        },
-        {
-          "Verseid": "44007001",
-          "Verse": "For the law of the Spirit of life in Christ Jesus has made me free from the law of sin and death."
-        },
-        {
-          "Verseid": "44007002",
-          "Verse": "For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:"
-        },
-        {
-          "Verseid": "44007003",
-          "Verse": "That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit."
-        },
-        {
-          "Verseid": "44007004",
-          "Verse": "For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit."
-        },
-        {
-          "Verseid": "44007005",
-          "Verse": "In order to be carnally minded is death; but to be spiritually minded is life and peace."
-        },
-        {
-          "Verseid": "44007006",
-          "Verse": "Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be."
-        },
-        {
-          "Verseid": "44007007",
-          "Verse": "So then they that are in the flesh cannot please God."
-        },
-        {
-          "Verseid": "44007008",
-          "Verse": "But all of you are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his."
-        },
-        {
-          "Verseid": "44007009",
-          "Verse": "And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness."
-        },
-        {
-          "Verseid": "44007010",
-          "Verse": "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also retore life in your mortal bodies by his Spirit that dwells in you."
-        },
-        {
-          "Verseid": "44007011",
-          "Verse": "Therefore, brethren, we are debtors, not to the flesh, to live after the flesh."
-        },
-        {
-          "Verseid": "44007012",
-          "Verse": "For if all of you live after the flesh, all of you shall die: but if all of you through the Spirit do mortify the deeds of the body, all of you shall live."
-        },
-        {
-          "Verseid": "44007013",
-          "Verse": "For as many as are led by the Spirit of God, they are the sons of God."
-        },
-        {
-          "Verseid": "44007014",
-          "Verse": "For all of you have not received the spirit of bondage again to fear; but all of you have received the Spirit of adoption, whereby we cry, Abba, Father."
-        },
-        {
-          "Verseid": "44007015",
-          "Verse": "The Spirit itself bears witness with our spirit, that we are the children of God:"
-        },
-        {
-          "Verseid": "44007016",
-          "Verse": "And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together."
-        },
-        {
-          "Verseid": "44007017",
-          "Verse": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."
-        },
-        {
-          "Verseid": "44007018",
-          "Verse": "For the earn expectation of the creature waits for the manifestation of the sons of God."
-        },
-        {
-          "Verseid": "44007019",
-          "Verse": "For the creature was made subject to vanity, not willingly, but by reason of him who has subjected the same in hope,"
-        },
-        {
-          "Verseid": "44007020",
-          "Verse": "Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God."
-        },
-        {
-          "Verseid": "44007021",
-          "Verse": "For we know that the whole creation groans and labors in pain together until now."
-        },
-        {
-          "Verseid": "44007022",
-          "Verse": "And not only they, but ourselves also, which have the first-fruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to know, the redemption of our body."
-        },
-        {
-          "Verseid": "44007023",
-          "Verse": "For we are saved by hope: but hope that is seen is not hope: for what a man sees, why does he yet hope for?"
-        },
-        {
-          "Verseid": "44007024",
-          "Verse": "But if we hope for that we see not, then do we with patience wait for it."
-        },
-        {
-          "Verseid": "44007025",
-          "Verse": "Likewise the Spirit also helps our infirmities: for we know not what we should pray for as we ought: but the Spirit itself makes intercession for us with groanings which cannot be uttered."
-        },
-        {
-          "Verseid": "44007026",
-          "Verse": "And he that searches the hearts knows what is the mind of the Spirit, because he makes intercession for the saints according to the will of God."
-        },
-        {
-          "Verseid": "44007027",
-          "Verse": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
-        },
-        {
-          "Verseid": "44007028",
-          "Verse": "For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren."
-        },
-        {
-          "Verseid": "44007029",
-          "Verse": "Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified."
-        },
-        {
-          "Verseid": "44007030",
-          "Verse": "What shall we then say to these things? If God be for us, who can be against us?"
-        },
-        {
-          "Verseid": "44007031",
-          "Verse": "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?"
-        },
-        {
-          "Verseid": "44007032",
-          "Verse": "Who shall lay any thing to the charge of God's elect? It is God that justifies."
-        },
-        {
-          "Verseid": "44007033",
-          "Verse": "Who is he that condemns? It is Christ that died, yea rather, that has risen again, who is even at the right hand of God, who also makes intercession for us."
-        },
-        {
-          "Verseid": "44007034",
-          "Verse": "Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?"
-        },
-        {
-          "Verseid": "44007035",
-          "Verse": "As it is written, For your sake we are killed all the day long; we are accounted as sheep for the slaughter."
-        },
-        {
-          "Verseid": "44007036",
-          "Verse": "Nay, in all these things we are more than conquerors through him that loved us."
-        },
-        {
-          "Verseid": "44007037",
-          "Verse": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,"
-        },
-        {
-          "Verseid": "44007038",
-          "Verse": "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44008000",
-          "Verse": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Spirit,"
-        },
-        {
-          "Verseid": "44008001",
-          "Verse": "That I have great heaviness and continual sorrow in my heart."
-        },
-        {
-          "Verseid": "44008002",
-          "Verse": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:"
-        },
-        {
-          "Verseid": "44008003",
-          "Verse": "Who are Israelites; to whom pertains the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;"
-        },
-        {
-          "Verseid": "44008004",
-          "Verse": "Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen."
-        },
-        {
-          "Verseid": "44008005",
-          "Verse": "Not as though the word of God has taken no effect. For they are not all Israel, which are of Israel:"
-        },
-        {
-          "Verseid": "44008006",
-          "Verse": "Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall your seed be called."
-        },
-        {
-          "Verseid": "44008007",
-          "Verse": "That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed."
-        },
-        {
-          "Verseid": "44008008",
-          "Verse": "For this is the word of promise, At this time will I come, and Sarah shall have a son."
-        },
-        {
-          "Verseid": "44008009",
-          "Verse": "And not only this; but when Rebecca also had conceived by one, even by our father Isaac;"
-        },
-        {
-          "Verseid": "44008010",
-          "Verse": "(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calls;)"
-        },
-        {
-          "Verseid": "44008011",
-          "Verse": "It was said unto her, The elder shall serve the younger."
-        },
-        {
-          "Verseid": "44008012",
-          "Verse": "As it is written, Jacob have I loved, but Esau have I hated."
-        },
-        {
-          "Verseid": "44008013",
-          "Verse": "What shall we say then? Is there unrighteousness with God? God forbid."
-        },
-        {
-          "Verseid": "44008014",
-          "Verse": "For he says to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion."
-        },
-        {
-          "Verseid": "44008015",
-          "Verse": "So then it is not of him that wills, nor of him that runs, but of God that shows mercy."
-        },
-        {
-          "Verseid": "44008016",
-          "Verse": "For the scripture says unto Pharaoh, Even for this same purpose have I raised you up, that I might show my power in you, and that my name might be declared throughout all the earth."
-        },
-        {
-          "Verseid": "44008017",
-          "Verse": "Therefore has he mercy on whom he will have mercy, and whom he will he hardens."
-        },
-        {
-          "Verseid": "44008018",
-          "Verse": "You will say then unto me, Why does he yet find fault? For who has resisted his will?"
-        },
-        {
-          "Verseid": "44008019",
-          "Verse": "On the contrary;, O man, who are you that reply against God? Shall the thing formed say to him that formed it, Why have you made me thus?"
-        },
-        {
-          "Verseid": "44008020",
-          "Verse": "Has not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?"
-        },
-        {
-          "Verseid": "44008021",
-          "Verse": "What if God, willing to show his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:"
-        },
-        {
-          "Verseid": "44008022",
-          "Verse": "And that he might make known the riches of his glory on the vessels of mercy, which he had before prepared unto glory,"
-        },
-        {
-          "Verseid": "44008023",
-          "Verse": "Even us, whom he has called, not of the Jews only, but also of the Gentiles?"
-        },
-        {
-          "Verseid": "44008024",
-          "Verse": "As he says also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved."
-        },
-        {
-          "Verseid": "44008025",
-          "Verse": "And it shall come to pass, that in the place where it was said unto them, All of you are not my people; there shall they be called the children of the living God."
-        },
-        {
-          "Verseid": "44008026",
-          "Verse": "Isaiah also cries concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:"
-        },
-        {
-          "Verseid": "44008027",
-          "Verse": "For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth."
-        },
-        {
-          "Verseid": "44008028",
-          "Verse": "And as Isaiah said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha."
-        },
-        {
-          "Verseid": "44008029",
-          "Verse": "What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith."
-        },
-        {
-          "Verseid": "44008030",
-          "Verse": "But Israel, which followed after the law of righteousness, has not attained to the law of righteousness."
-        },
-        {
-          "Verseid": "44008031",
-          "Verse": "Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumbling stone;"
-        },
-        {
-          "Verseid": "44008032",
-          "Verse": "As it is written, Behold, I lay in Sion a stumbling stone and rock of offence: and whosoever believes on him shall not be ashamed."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44009000",
-          "Verse": "Brethren, my heart's desire and prayer to God for Israel is, that they might be saved."
-        },
-        {
-          "Verseid": "44009001",
-          "Verse": "For I bear them record that they have a zeal of God, but not according to knowledge."
-        },
-        {
-          "Verseid": "44009002",
-          "Verse": "For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God."
-        },
-        {
-          "Verseid": "44009003",
-          "Verse": "For Christ is the end of the law for righteousness to every one that believes."
-        },
-        {
-          "Verseid": "44009004",
-          "Verse": "For Moses describes the righteousness which is of the law, That the man which does those things shall live by them."
-        },
-        {
-          "Verseid": "44009005",
-          "Verse": "But the righteousness which is of faith speaks likewise, Say not in yours heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)"
-        },
-        {
-          "Verseid": "44009006",
-          "Verse": "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)"
-        },
-        {
-          "Verseid": "44009007",
-          "Verse": "But what says it? The word is nigh you, even in your mouth, and in your heart: that is, the word of faith, which we preach;"
-        },
-        {
-          "Verseid": "44009008",
-          "Verse": "That if you shall confess with your mouth the Lord Jesus, and shall believe in yours heart that God has raised him from the dead, you shall be saved."
-        },
-        {
-          "Verseid": "44009009",
-          "Verse": "For with the heart man believes unto righteousness; and with the mouth confession is made unto salvation."
-        },
-        {
-          "Verseid": "44009010",
-          "Verse": "For the scripture says, Whosoever believes on him shall not be ashamed."
-        },
-        {
-          "Verseid": "44009011",
-          "Verse": "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him."
-        },
-        {
-          "Verseid": "44009012",
-          "Verse": "For whosoever shall call upon the name of the Lord shall be saved."
-        },
-        {
-          "Verseid": "44009013",
-          "Verse": "How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?"
-        },
-        {
-          "Verseid": "44009014",
-          "Verse": "And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!"
-        },
-        {
-          "Verseid": "44009015",
-          "Verse": "But they have not all obeyed the gospel. For Isaiah says, Lord, who has believed our report?"
-        },
-        {
-          "Verseid": "44009016",
-          "Verse": "So then faith comes by hearing, and hearing by the word of God."
-        },
-        {
-          "Verseid": "44009017",
-          "Verse": "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world."
-        },
-        {
-          "Verseid": "44009018",
-          "Verse": "But I say, Did not Israel know? First Moses says, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you."
-        },
-        {
-          "Verseid": "44009019",
-          "Verse": "But Isaiah is very bold, and says, I was found of them that sought me not; I was made manifest unto them that asked not after me."
-        },
-        {
-          "Verseid": "44009020",
-          "Verse": "But to Israel he says, All day long I have stretched forth my hands unto a disobedient and gainsaying people."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44010000",
-          "Verse": "I say then, Has God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin."
-        },
-        {
-          "Verseid": "44010001",
-          "Verse": "God has not cast away his people which he foreknew. Know all of you not what the scripture says of Elijah? how he makes intercession to God against Israel saying,"
-        },
-        {
-          "Verseid": "44010002",
-          "Verse": "Lord, they have killed your prophets, and dug down yours altars; and I am left alone, and they seek my life."
-        },
-        {
-          "Verseid": "44010003",
-          "Verse": "But what says the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal."
-        },
-        {
-          "Verseid": "44010004",
-          "Verse": "Even so then at this present time also there is a remnant according to the election of grace."
-        },
-        {
-          "Verseid": "44010005",
-          "Verse": "And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then it is no more grace: otherwise work is no more work."
-        },
-        {
-          "Verseid": "44010006",
-          "Verse": "What then? Israel has not obtained that which he seeks for; but the election has obtained it, and the rest were blinded."
-        },
-        {
-          "Verseid": "44010007",
-          "Verse": "(According as it is written, God has given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day."
-        },
-        {
-          "Verseid": "44010008",
-          "Verse": "And David says, Let their table be made a snare, and a trap, and a stumbling block, and a recompence unto them:"
-        },
-        {
-          "Verseid": "44010009",
-          "Verse": "Let their eyes be darkened, that they may not see, and bow down their back always."
-        },
-        {
-          "Verseid": "44010010",
-          "Verse": "I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation has come unto the Gentiles, in order to provoke them to jealousy."
-        },
-        {
-          "Verseid": "44010011",
-          "Verse": "Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fullness?"
-        },
-        {
-          "Verseid": "44010012",
-          "Verse": "For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:"
-        },
-        {
-          "Verseid": "44010013",
-          "Verse": "If by any means I may provoke to awaken jealousy in them which are my flesh, and might save some of them."
-        },
-        {
-          "Verseid": "44010014",
-          "Verse": "For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?"
-        },
-        {
-          "Verseid": "44010015",
-          "Verse": "For if the first-fruit be holy, the lump is also holy: and if the root be holy, so are the branches."
-        },
-        {
-          "Verseid": "44010016",
-          "Verse": "And if some of the branches be broken off, and you, being a wild olive tree, were grafted in among them, and with them partake of the root and fatness of the olive tree;"
-        },
-        {
-          "Verseid": "44010017",
-          "Verse": "Boast not against the branches. But if you boast, you bear not the root, but the root you."
-        },
-        {
-          "Verseid": "44010018",
-          "Verse": "You will say then, The branches were broken off, that I might be grafted in."
-        },
-        {
-          "Verseid": "44010019",
-          "Verse": "Well; because of unbelief they were broken off, and you stand by faith. Be not high-minded, but fear:"
-        },
-        {
-          "Verseid": "44010020",
-          "Verse": "For if God spared not the natural branches, take heed lest he also spare not you."
-        },
-        {
-          "Verseid": "44010021",
-          "Verse": "Behold therefore the goodness and severity of God: on them which fell, severity; but toward you, goodness, if you continue in his goodness: otherwise you also shall be cut off."
-        },
-        {
-          "Verseid": "44010022",
-          "Verse": "And they also, if they abide not still in unbelief, shall be grafted in: for God is able to graft them in again."
-        },
-        {
-          "Verseid": "44010023",
-          "Verse": "For if you were cut out of the olive tree which is wild by nature, and were grafted contrary to nature into a good olive tree: how much more shall these, which be the natural branches, be grafted into their own olive tree?"
-        },
-        {
-          "Verseid": "44010024",
-          "Verse": "For I would not, brethren, that all of you should be ignorant of this mystery, lest all of you should be wise in your own conceits; that blindness in part is happened to Israel, until the fullness of the Gentiles be come in."
-        },
-        {
-          "Verseid": "44010025",
-          "Verse": "And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:"
-        },
-        {
-          "Verseid": "44010026",
-          "Verse": "For this is my covenant unto them, when I shall take away their sins."
-        },
-        {
-          "Verseid": "44010027",
-          "Verse": "As concerning the gospel, they are enemies for your sakes: but as concerning the election, they are beloved for the father's sakes."
-        },
-        {
-          "Verseid": "44010028",
-          "Verse": "For the gifts and calling of God are without repentance."
-        },
-        {
-          "Verseid": "44010029",
-          "Verse": "For as all of you in times past have not believed God, yet have now obtained mercy through their unbelief:"
-        },
-        {
-          "Verseid": "44010030",
-          "Verse": "Even so have these also now not believed, that through your mercy they also may obtain mercy."
-        },
-        {
-          "Verseid": "44010031",
-          "Verse": "For God has concluded them all in unbelief, that he might have mercy upon all."
-        },
-        {
-          "Verseid": "44010032",
-          "Verse": "O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!"
-        },
-        {
-          "Verseid": "44010033",
-          "Verse": "For who has known the mind of the Lord? or who has been his counsellor?"
-        },
-        {
-          "Verseid": "44010034",
-          "Verse": "Or who has first given to him, and it shall be recompensed unto him again?"
-        },
-        {
-          "Verseid": "44010035",
-          "Verse": "For of him, and through him, and to him, are all things: to whom be glory for ever. Amen."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44011000",
-          "Verse": "I plead to you therefore, brethren, by the mercies of God, that all of you present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service."
-        },
-        {
-          "Verseid": "44011001",
-          "Verse": "And be not conformed to this world: but be all of you transformed by the renewing of your mind, that all of you may prove what is that good, and acceptable, and perfect, will of God."
-        },
-        {
-          "Verseid": "44011002",
-          "Verse": "For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God has dealt to every man the measure of faith."
-        },
-        {
-          "Verseid": "44011003",
-          "Verse": "For as we have many members in one body, and all members have not the same office:"
-        },
-        {
-          "Verseid": "44011004",
-          "Verse": "So we, being many, are one body in Christ, and every one members one of another."
-        },
-        {
-          "Verseid": "44011005",
-          "Verse": "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;"
-        },
-        {
-          "Verseid": "44011006",
-          "Verse": "Or ministry, let us wait on our ministering: or he that teaches, on teaching;"
-        },
-        {
-          "Verseid": "44011007",
-          "Verse": "Or he that exhorts, on exhortation: he that gives, let him do it with simplicity; he that rules, with diligence; he that shows mercy, with cheerfulness."
-        },
-        {
-          "Verseid": "44011008",
-          "Verse": "Let love be without dissimulation. Detest that which is evil; cleave to that which is good."
-        },
-        {
-          "Verseid": "44011009",
-          "Verse": "Be kindly affectionate one to another with brotherly love; in honour preferring one another;"
-        },
-        {
-          "Verseid": "44011010",
-          "Verse": "Not slothful in business; fervent in spirit; serving the Lord;"
-        },
-        {
-          "Verseid": "44011011",
-          "Verse": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;"
-        },
-        {
-          "Verseid": "44011012",
-          "Verse": "Distributing to the necessity of saints; given to hospitality."
-        },
-        {
-          "Verseid": "44011013",
-          "Verse": "Bless them which persecute you: bless, and curse not."
-        },
-        {
-          "Verseid": "44011014",
-          "Verse": "Rejoice with them that do rejoice, and weep with them that weep."
-        },
-        {
-          "Verseid": "44011015",
-          "Verse": "Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits."
-        },
-        {
-          "Verseid": "44011016",
-          "Verse": "Recompense to no man evil for evil. Provide things honest in the sight of all men."
-        },
-        {
-          "Verseid": "44011017",
-          "Verse": "If it be possible, as much as lies in you, live peaceably with all men."
-        },
-        {
-          "Verseid": "44011018",
-          "Verse": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, says the Lord."
-        },
-        {
-          "Verseid": "44011019",
-          "Verse": "Therefore if yours enemy hunger, feed him; if he thirst, give him drink: for in so doing you shall heap coals of fire on his head."
-        },
-        {
-          "Verseid": "44011020",
-          "Verse": "Be not overcome of evil, but overcome evil with good."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44012000",
-          "Verse": "Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God."
-        },
-        {
-          "Verseid": "44012001",
-          "Verse": "Whosoever therefore resists the power, resists the ordinance of God: and they that resist shall receive to themselves damnation."
-        },
-        {
-          "Verseid": "44012002",
-          "Verse": "For rulers are not a terror to good works, but to the evil. Will you then not be afraid of the power? do that which is good, and you shall have praise of the same:"
-        },
-        {
-          "Verseid": "44012003",
-          "Verse": "For he is the minister of God to you for good. But if you do that which is evil, be afraid; for he bears not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that does evil."
-        },
-        {
-          "Verseid": "44012004",
-          "Verse": "Wherefore all of you must essentially be subject, not only for wrath, but also for conscience sake."
-        },
-        {
-          "Verseid": "44012005",
-          "Verse": "For for this cause pay all of you tribute also: for they are God's ministers, attending continually upon this very thing."
-        },
-        {
-          "Verseid": "44012006",
-          "Verse": "Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour."
-        },
-        {
-          "Verseid": "44012007",
-          "Verse": "Owe no man any thing, but to love one another: for he that loves another has fulfilled the law."
-        },
-        {
-          "Verseid": "44012008",
-          "Verse": "For this, You shall not commit adultery, You shall not kill, You shall not steal, You shall not bear false witness, You shall not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, You shall love your neighbour as yourself."
-        },
-        {
-          "Verseid": "44012009",
-          "Verse": "Love works no ill to his neighbour: therefore love is the fulfilling of the law."
-        },
-        {
-          "Verseid": "44012010",
-          "Verse": "And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed."
-        },
-        {
-          "Verseid": "44012011",
-          "Verse": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light."
-        },
-        {
-          "Verseid": "44012012",
-          "Verse": "Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying."
-        },
-        {
-          "Verseid": "44012013",
-          "Verse": "But put all of you on the Lord Jesus Christ, and make not provision for the flesh, to fulfill the lusts thereof."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44013000",
-          "Verse": "Him that is weak in the faith receive all of you, but not to doubtful disputations."
-        },
-        {
-          "Verseid": "44013001",
-          "Verse": "For one believes that he may eat all things: another, who is weak, eats herbs."
-        },
-        {
-          "Verseid": "44013002",
-          "Verse": "Let not him that eats despise him that eats not; and let not him which eats not judge him that eats: for God has received him."
-        },
-        {
-          "Verseid": "44013003",
-          "Verse": "Who are you that judge another man's servant? to his own master he stands or falls. Yea, he shall be held up: for God is able to make him stand."
-        },
-        {
-          "Verseid": "44013004",
-          "Verse": "One man esteems one day above another: another esteems every day alike. Let every man be fully persuaded in his own mind."
-        },
-        {
-          "Verseid": "44013005",
-          "Verse": "He that regards the day, regards it unto the Lord; and he that regards not the day, to the Lord he does not regard it. He that eats, eats to the Lord, for he gives God thanks; and he that eats not, to the Lord he eats not, and gives God thanks."
-        },
-        {
-          "Verseid": "44013006",
-          "Verse": "For none of us lives to himself, and no man dies to himself."
-        },
-        {
-          "Verseid": "44013007",
-          "Verse": "For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord's."
-        },
-        {
-          "Verseid": "44013008",
-          "Verse": "In order to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living."
-        },
-        {
-          "Verseid": "44013009",
-          "Verse": "But why do you judge your brother? or why do you set at nothing your brother? for we shall all stand before the judgment seat of Christ."
-        },
-        {
-          "Verseid": "44013010",
-          "Verse": "For it is written, As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God."
-        },
-        {
-          "Verseid": "44013011",
-          "Verse": "So then every one of us shall give account of himself to God."
-        },
-        {
-          "Verseid": "44013012",
-          "Verse": "Let us not therefore judge one another any more: but judge this rather, that no man put a stumbling block or an occasion to fall in his brother's way."
-        },
-        {
-          "Verseid": "44013013",
-          "Verse": "I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteems any thing to be unclean, to him it is unclean."
-        },
-        {
-          "Verseid": "44013014",
-          "Verse": "But if your brother be grieved with your food, now walk you not charitably. Destroy not him with your food, for whom Christ died."
-        },
-        {
-          "Verseid": "44013015",
-          "Verse": "Let not then your good be evil spoken of:"
-        },
-        {
-          "Verseid": "44013016",
-          "Verse": "For the kingdom of God is not food and drink; but righteousness, and peace, and joy in the Holy Spirit."
-        },
-        {
-          "Verseid": "44013017",
-          "Verse": "For he that in these things serves Christ is acceptable to God, and approved of men."
-        },
-        {
-          "Verseid": "44013018",
-          "Verse": "Let us therefore follow after the things which make for peace, and things wherewith one may edify another."
-        },
-        {
-          "Verseid": "44013019",
-          "Verse": "For food destroy not the work of God. All things indeed are pure; but it is evil for that man who eats with offence."
-        },
-        {
-          "Verseid": "44013020",
-          "Verse": "It is good neither to eat flesh, nor to drink wine, nor any thing whereby your brother stumbles, or is offended, or is made weak."
-        },
-        {
-          "Verseid": "44013021",
-          "Verse": "Have you faith? have it to yourself before God. Happy is he that condemns not himself in that thing which he allows."
-        },
-        {
-          "Verseid": "44013022",
-          "Verse": "And he that doubts is damned if he eat, because he eats not of faith: for whatsoever is not of faith is sin."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44014000",
-          "Verse": "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves."
-        },
-        {
-          "Verseid": "44014001",
-          "Verse": "Let every one of us please his neighbour for his good to edification."
-        },
-        {
-          "Verseid": "44014002",
-          "Verse": "For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached you fell on me."
-        },
-        {
-          "Verseid": "44014003",
-          "Verse": "For whatsoever things were written in old times were written for our learning, that we through patience and comfort of the scriptures might have hope."
-        },
-        {
-          "Verseid": "44014004",
-          "Verse": "Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:"
-        },
-        {
-          "Verseid": "44014005",
-          "Verse": "That all of you may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ."
-        },
-        {
-          "Verseid": "44014006",
-          "Verse": "Wherefore receive all of you one another, as Christ also received us to the glory of God."
-        },
-        {
-          "Verseid": "44014007",
-          "Verse": "Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:"
-        },
-        {
-          "Verseid": "44014008",
-          "Verse": "And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to you among the Gentiles, and sing unto your name."
-        },
-        {
-          "Verseid": "44014009",
-          "Verse": "And again he says, Rejoice, all of you Gentiles, with his people."
-        },
-        {
-          "Verseid": "44014010",
-          "Verse": "And again, Praise the Lord, all you Gentiles; and extol him, all you people."
-        },
-        {
-          "Verseid": "44014011",
-          "Verse": "And again, Isaiah says, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust."
-        },
-        {
-          "Verseid": "44014012",
-          "Verse": "Now the God of hope fill you with all joy and peace in believing, that all of you may abound in hope, through the power of the Holy Spirit."
-        },
-        {
-          "Verseid": "44014013",
-          "Verse": "And I myself also am persuaded of you, my brethren, that all of you also are full of goodness, filled with all knowledge, able also to admonish one another."
-        },
-        {
-          "Verseid": "44014014",
-          "Verse": "Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,"
-        },
-        {
-          "Verseid": "44014015",
-          "Verse": "That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Spirit."
-        },
-        {
-          "Verseid": "44014016",
-          "Verse": "I have therefore whereof I may glory through Jesus Christ in those things which pertain to God."
-        },
-        {
-          "Verseid": "44014017",
-          "Verse": "For I will not dare to speak of any of those things which Christ has not wrought by me, to make the Gentiles obedient, by word and deed,"
-        },
-        {
-          "Verseid": "44014018",
-          "Verse": "Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ."
-        },
-        {
-          "Verseid": "44014019",
-          "Verse": "Yea, so have I strived to preach the gospel, not where Christ was named, lest I should build upon another man's foundation:"
-        },
-        {
-          "Verseid": "44014020",
-          "Verse": "But as it is written, To whom he was not spoken of, they shall see: and they that have not heard shall understand."
-        },
-        {
-          "Verseid": "44014021",
-          "Verse": "For which cause also I have been much hindered from coming to you."
-        },
-        {
-          "Verseid": "44014022",
-          "Verse": "But now having no more place in these parts, and having a great desire these many years to come unto you;"
-        },
-        {
-          "Verseid": "44014023",
-          "Verse": "Whenever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way in that direction by you, if first I be somewhat filled with your company."
-        },
-        {
-          "Verseid": "44014024",
-          "Verse": "But now I go unto Jerusalem to minister unto the saints."
-        },
-        {
-          "Verseid": "44014025",
-          "Verse": "For it has pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem."
-        },
-        {
-          "Verseid": "44014026",
-          "Verse": "It has pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things."
-        },
-        {
-          "Verseid": "44014027",
-          "Verse": "When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain."
-        },
-        {
-          "Verseid": "44014028",
-          "Verse": "And I am sure that, when I come unto you, I shall come in the fullness of the blessing of the gospel of Christ."
-        },
-        {
-          "Verseid": "44014029",
-          "Verse": "Now I plead to you, brethren, for the Lord Jesus Christ's sake, and for the love of the Spirit, that all of you strive together with me in your prayers to God for me;"
-        },
-        {
-          "Verseid": "44014030",
-          "Verse": "That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints;"
-        },
-        {
-          "Verseid": "44014031",
-          "Verse": "That I may come unto you with joy by the will of God, and may with you be refreshed."
-        },
-        {
-          "Verseid": "44014032",
-          "Verse": "Now the God of peace be with you all. Amen."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "44015000",
-          "Verse": "I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:"
-        },
-        {
-          "Verseid": "44015001",
-          "Verse": "That all of you receive her in the Lord, as becomes saints, and that all of you assist her in whatsoever business she has need of you: for she has been a supporter of many, and of myself also."
-        },
-        {
-          "Verseid": "44015002",
-          "Verse": "Greet Priscilla and Aquila my helpers in Christ Jesus:"
-        },
-        {
-          "Verseid": "44015003",
-          "Verse": "Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles."
-        },
-        {
-          "Verseid": "44015004",
-          "Verse": "Likewise greet the church that is in their house. Salute my well-beloved Epaenetus, who is the first- fruits of Achaia unto Christ."
-        },
-        {
-          "Verseid": "44015005",
-          "Verse": "Greet Mary, who bestowed much labour on us."
-        },
-        {
-          "Verseid": "44015006",
-          "Verse": "Salute Andronicus and Junia, my kinsmen, and my fellow-prisoners, who are of note among the apostles, who also were in Christ before me."
-        },
-        {
-          "Verseid": "44015007",
-          "Verse": "Greet Amplias my beloved in the Lord."
-        },
-        {
-          "Verseid": "44015008",
-          "Verse": "Salute Urbane, our helper in Christ, and Stachys my beloved."
-        },
-        {
-          "Verseid": "44015009",
-          "Verse": "Salute Apelles approved in Christ. Salute them which are of Aristobulus' household."
-        },
-        {
-          "Verseid": "44015010",
-          "Verse": "Salute Herodion my kinsman. Greet them that be of the household of Narcissus, which are in the Lord."
-        },
-        {
-          "Verseid": "44015011",
-          "Verse": "Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord."
-        },
-        {
-          "Verseid": "44015012",
-          "Verse": "Salute Rufus chosen in the Lord, and his mother and mine."
-        },
-        {
-          "Verseid": "44015013",
-          "Verse": "Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them."
-        },
-        {
-          "Verseid": "44015014",
-          "Verse": "Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them."
-        },
-        {
-          "Verseid": "44015015",
-          "Verse": "Salute one another with an holy kiss. The churches of Christ salute you."
-        },
-        {
-          "Verseid": "44015016",
-          "Verse": "Now I plead to you, brethren, mark them which cause divisions and offences contrary to the doctrine which all of you have learned; and avoid them."
-        },
-        {
-          "Verseid": "44015017",
-          "Verse": "For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple."
-        },
-        {
-          "Verseid": "44015018",
-          "Verse": "For your obedience has come abroad unto all men. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil."
-        },
-        {
-          "Verseid": "44015019",
-          "Verse": "And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen."
-        },
-        {
-          "Verseid": "44015020",
-          "Verse": "Timotheus my fellow worker, and Lucius, and Jason, and Sosipater, my kinsmen, salute you."
-        },
-        {
-          "Verseid": "44015021",
-          "Verse": "I Tertius, who wrote this epistle, salute you in the Lord."
-        },
-        {
-          "Verseid": "44015022",
-          "Verse": "Gaius mine host, and of the whole church, salutes you. Erastus the chamberlain of the city salutes you, and Quartus a brother."
-        },
-        {
-          "Verseid": "44015023",
-          "Verse": "The grace of our Lord Jesus Christ be with you all. Amen."
-        },
-        {
-          "Verseid": "44015024",
-          "Verse": "Now to him that is of power to establish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,"
-        },
-        {
-          "Verseid": "44015025",
-          "Verse": "But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:"
-        },
-        {
-          "Verseid": "44015026",
-          "Verse": "To God only wise, be glory through Jesus Christ for ever. Amen."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "Paul, A Servant Of Christ Jesus, Called To Be An Apostle And Set Apart For The Gospel Of God--",
+            "The Gospel He Promised Beforehand Through His Prophets In The Holy Scriptures",
+            "Regarding His Son, Who As To His Human Nature Was A Descendant Of David,",
+            "And Who Through The Spirit Of Holiness Was Declared With Power To Be The Son Of God By His Resurrection From The Dead: Jesus Christ Our Lord.",
+            "Through Him And For His Name's Sake, We Received Grace And Apostleship To Call People From Among All The Gentiles To The Obedience That Comes From Faith.",
+            "And You Also Are Among Those Who Are Called To Belong To Jesus Christ.",
+            "To All In Rome Who Are Loved By God And Called To Be Saints: Grace And Peace To You From God Our Father And From The Lord Jesus Christ.",
+            "First, I Thank My God Through Jesus Christ For All Of You, Because Your Faith Is Being Reported All Over The World.",
+            "God, Whom I Serve With My Whole Heart In Preaching The Gospel Of His Son, Is My Witness How Constantly I Remember You",
+            "In My Prayers At All Times; And I Pray That Now At Last By God's Will The Way May Be Opened For Me To Come To You.",
+            "I Long To See You So That I May Impart To You Some Spiritual Gift To Make You Strong--",
+            "That Is, That You And I May Be Mutually Encouraged By Each Other's Faith.",
+            "I Do Not Want You To Be Unaware, Brothers, That I Planned Many Times To Come To You (But Have Been Prevented From Doing So Until Now) In Order That I Might Have A Harvest Among You, Just As I Have Had Among The Other Gentiles.",
+            "I Am Obligated Both To Greeks And Non-greeks, Both To The Wise And The Foolish.",
+            "That Is Why I Am So Eager To Preach The Gospel Also To You Who Are At Rome.",
+            "I Am Not Ashamed Of The Gospel, Because It Is The Power Of God For The Salvation Of Everyone Who Believes: First For The Jew, Then For The Gentile.",
+            "For In The Gospel A Righteousness From God Is Revealed, A Righteousness That Is By Faith From First To Last, Just As It Is Written: \"The Righteous Will Live By Faith.\"",
+            "The Wrath Of God Is Being Revealed From Heaven Against All The Godlessness And Wickedness Of Men Who Suppress The Truth By Their Wickedness,",
+            "Since What May Be Known About God Is Plain To Them, Because God Has Made It Plain To Them.",
+            "For Since The Creation Of The World God's Invisible Qualities--his Eternal Power And Divine Nature--have Been Clearly Seen, Being Understood From What Has Been Made, So That Men Are Without Excuse.",
+            "For Although They Knew God, They Neither Glorified Him As God Nor Gave Thanks To Him, But Their Thinking Became Futile And Their Foolish Hearts Were Darkened.",
+            "Although They Claimed To Be Wise, They Became Fools",
+            "And Exchanged The Glory Of The Immortal God For Images Made To Look Like Mortal Man And Birds And Animals And Reptiles.",
+            "Therefore God Gave Them Over In The Sinful Desires Of Their Hearts To Sexual Impurity For The Degrading Of Their Bodies With One Another.",
+            "They Exchanged The Truth Of God For A Lie, And Worshiped And Served Created Things Rather Than The Creator--who Is Forever Praised. Amen.",
+            "Because Of This, God Gave Them Over To Shameful Lusts. Even Their Women Exchanged Natural Relations For Unnatural Ones.",
+            "In The Same Way The Men Also Abandoned Natural Relations With Women And Were Inflamed With Lust For One Another. Men Committed Indecent Acts With Other Men, And Received In Themselves The Due Penalty For Their Perversion.",
+            "Furthermore, Since They Did Not Think It Worthwhile To Retain The Knowledge Of God, He Gave Them Over To A Depraved Mind, To Do What Ought Not To Be Done.",
+            "They Have Become Filled With Every Kind Of Wickedness, Evil, Greed And Depravity. They Are Full Of Envy, Murder, Strife, Deceit And Malice. They Are Gossips,",
+            "Slanderers, God-haters, Insolent, Arrogant And Boastful; They Invent Ways Of Doing Evil; They Disobey Their Parents;",
+            "They Are Senseless, Faithless, Heartless, Ruthless.",
+            "Although They Know God's Righteous Decree That Those Who Do Such Things Deserve Death, They Not Only Continue To Do These Very Things But Also Approve Of Those Who Practice Them."
+        ],
+        [
+            "You, Therefore, Have No Excuse, You Who Pass Judgment On Someone Else, For At Whatever Point You Judge The Other, You Are Condemning Yourself, Because You Who Pass Judgment Do The Same Things.",
+            "Now We Know That God's Judgment Against Those Who Do Such Things Is Based On Truth.",
+            "So When You, A Mere Man, Pass Judgment On Them And Yet Do The Same Things, Do You Think You Will Escape God's Judgment?",
+            "Or Do You Show Contempt For The Riches Of His Kindness, Tolerance And Patience, Not Realizing That God's Kindness Leads You Toward Repentance?",
+            "But Because Of Your Stubbornness And Your Unrepentant Heart, You Are Storing Up Wrath Against Yourself For The Day Of God's Wrath, When His Righteous Judgment Will Be Revealed.",
+            "God \"Will Give To Each Person According To What He Has Done.\"",
+            "To Those Who By Persistence In Doing Good Seek Glory, Honor And Immortality, He Will Give Eternal Life.",
+            "But For Those Who Are Self-seeking And Who Reject The Truth And Follow Evil, There Will Be Wrath And Anger.",
+            "There Will Be Trouble And Distress For Every Human Being Who Does Evil: First For The Jew, Then For The Gentile;",
+            "But Glory, Honor And Peace For Everyone Who Does Good: First For The Jew, Then For The Gentile.",
+            "For God Does Not Show Favoritism.",
+            "All Who Sin Apart From The Law Will Also Perish Apart From The Law, And All Who Sin Under The Law Will Be Judged By The Law.",
+            "For It Is Not Those Who Hear The Law Who Are Righteous In God's Sight, But It Is Those Who Obey The Law Who Will Be Declared Righteous.",
+            "(Indeed, When Gentiles, Who Do Not Have The Law, Do By Nature Things Required By The Law, They Are A Law For Themselves, Even Though They Do Not Have The Law,",
+            "Since They Show That The Requirements Of The Law Are Written On Their Hearts, Their Consciences Also Bearing Witness, And Their Thoughts Now Accusing, Now Even Defending Them.)",
+            "This Will Take Place On The Day When God Will Judge Men's Secrets Through Jesus Christ, As My Gospel Declares.",
+            "Now You, If You Call Yourself A Jew; If You Rely On The Law And Brag About Your Relationship To God;",
+            "If You Know His Will And Approve Of What Is Superior Because You Are Instructed By The Law;",
+            "If You Are Convinced That You Are A Guide For The Blind, A Light For Those Who Are In The Dark,",
+            "An Instructor Of The Foolish, A Teacher Of Infants, Because You Have In The Law The Embodiment Of Knowledge And Truth--",
+            "You, Then, Who Teach Others, Do You Not Teach Yourself? You Who Preach Against Stealing, Do You Steal?",
+            "You Who Say That People Should Not Commit Adultery, Do You Commit Adultery? You Who Abhor Idols, Do You Rob Temples?",
+            "You Who Brag About The Law, Do You Dishonor God By Breaking The Law?",
+            "As It Is Written: \"God's Name Is Blasphemed Among The Gentiles Because Of You.\"",
+            "Circumcision Has Value If You Observe The Law, But If You Break The Law, You Have Become As Though You Had Not Been Circumcised.",
+            "If Those Who Are Not Circumcised Keep The Law's Requirements, Will They Not Be Regarded As Though They Were Circumcised?",
+            "The One Who Is Not Circumcised Physically And Yet Obeys The Law Will Condemn You Who, Even Though You Have The Written Code And Circumcision, Are A Lawbreaker.",
+            "A Man Is Not A Jew If He Is Only One Outwardly, Nor Is Circumcision Merely Outward And Physical.",
+            "No, A Man Is A Jew If He Is One Inwardly; And Circumcision Is Circumcision Of The Heart, By The Spirit, Not By The Written Code. Such A Man's Praise Is Not From Men, But From God."
+        ],
+        [
+            "What Advantage, Then, Is There In Being A Jew, Or What Value Is There In Circumcision?",
+            "Much In Every Way! First Of All, They Have Been Entrusted With The Very Words Of God.",
+            "What If Some Did Not Have Faith? Will Their Lack Of Faith Nullify God's Faithfulness?",
+            "Not At All! Let God Be True, And Every Man A Liar. As It Is Written: \"So That You May Be Proved Right When You Speak And Prevail When You Judge.\"",
+            "But If Our Unrighteousness Brings Out God's Righteousness More Clearly, What Shall We Say? That God Is Unjust In Bringing His Wrath On Us? (I Am Using A Human Argument.)",
+            "Certainly Not! If That Were So, How Could God Judge The World?",
+            "Someone Might Argue, \"If My Falsehood Enhances God's Truthfulness And So Increases His Glory, Why Am I Still Condemned As A Sinner?\"",
+            "Why Not Say--as We Are Being Slanderously Reported As Saying And As Some Claim That We Say--\"let Us Do Evil That Good May Result\"? Their Condemnation Is Deserved.",
+            "What Shall We Conclude Then? Are We Any Better ? Not At All! We Have Already Made The Charge That Jews And Gentiles Alike Are All Under Sin.",
+            "As It Is Written: \"There Is No One Righteous, Not Even One;",
+            "There Is No One Who Understands, No One Who Seeks God.",
+            "All Have Turned Away, They Have Together Become Worthless; There Is No One Who Does Good, Not Even One.\"",
+            "\"Their Throats Are Open Graves; Their Tongues Practice Deceit.\" \"The Poison Of Vipers Is On Their Lips.\"",
+            "\"Their Mouths Are Full Of Cursing And Bitterness.\"",
+            "\"Their Feet Are Swift To Shed Blood;",
+            "Ruin And Misery Mark Their Ways,",
+            "And The Way Of Peace They Do Not Know.\"",
+            "\"There Is No Fear Of God Before Their Eyes.\"",
+            "Now We Know That Whatever The Law Says, It Says To Those Who Are Under The Law, So That Every Mouth May Be Silenced And The Whole World Held Accountable To God.",
+            "Therefore No One Will Be Declared Righteous In His Sight By Observing The Law; Rather, Through The Law We Become Conscious Of Sin.",
+            "But Now A Righteousness From God, Apart From Law, Has Been Made Known, To Which The Law And The Prophets Testify.",
+            "This Righteousness From God Comes Through Faith In Jesus Christ To All Who Believe. There Is No Difference,",
+            "For All Have Sinned And Fall Short Of The Glory Of God,",
+            "And Are Justified Freely By His Grace Through The Redemption That Came By Christ Jesus.",
+            "God Presented Him As A Sacrifice Of Atonement, Through Faith In His Blood. He Did This To Demonstrate His Justice, Because In His Forbearance He Had Left The Sins Committed Beforehand Unpunished--",
+            "He Did It To Demonstrate His Justice At The Present Time, So As To Be Just And The One Who Justifies Those Who Have Faith In Jesus.",
+            "Where, Then, Is Boasting? It Is Excluded. On What Principle? On That Of Observing The Law? No, But On That Of Faith.",
+            "For We Maintain That A Man Is Justified By Faith Apart From Observing The Law.",
+            "Is God The God Of Jews Only? Is He Not The God Of Gentiles Too? Yes, Of Gentiles Too,",
+            "Since There Is Only One God, Who Will Justify The Circumcised By Faith And The Uncircumcised Through That Same Faith.",
+            "Do We, Then, Nullify The Law By This Faith? Not At All! Rather, We Uphold The Law."
+        ],
+        [
+            "What Then Shall We Say That Abraham, Our Forefather, Discovered In This Matter?",
+            "If, In Fact, Abraham Was Justified By Works, He Had Something To Boast About--but Not Before God.",
+            "What Does The Scripture Say? \"Abraham Believed God, And It Was Credited To Him As Righteousness.\"",
+            "Now When A Man Works, His Wages Are Not Credited To Him As A Gift, But As An Obligation.",
+            "However, To The Man Who Does Not Work But Trusts God Who Justifies The Wicked, His Faith Is Credited As Righteousness.",
+            "David Says The Same Thing When He Speaks Of The Blessedness Of The Man To Whom God Credits Righteousness Apart From Works:",
+            "\"Blessed Are They Whose Transgressions Are Forgiven, Whose Sins Are Covered.",
+            "Blessed Is The Man Whose Sin The Lord Will Never Count Against Him.\"",
+            "Is This Blessedness Only For The Circumcised, Or Also For The Uncircumcised? We Have Been Saying That Abraham's Faith Was Credited To Him As Righteousness.",
+            "Under What Circumstances Was It Credited? Was It After He Was Circumcised, Or Before? It Was Not After, But Before!",
+            "And He Received The Sign Of Circumcision, A Seal Of The Righteousness That He Had By Faith While He Was Still Uncircumcised. So Then, He Is The Father Of All Who Believe But Have Not Been Circumcised, In Order That Righteousness Might Be Credited To Them.",
+            "And He Is Also The Father Of The Circumcised Who Not Only Are Circumcised But Who Also Walk In The Footsteps Of The Faith That Our Father Abraham Had Before He Was Circumcised.",
+            "It Was Not Through Law That Abraham And His Offspring Received The Promise That He Would Be Heir Of The World, But Through The Righteousness That Comes By Faith.",
+            "For If Those Who Live By Law Are Heirs, Faith Has No Value And The Promise Is Worthless,",
+            "Because Law Brings Wrath. And Where There Is No Law There Is No Transgression.",
+            "Therefore, The Promise Comes By Faith, So That It May Be By Grace And May Be Guaranteed To All Abraham's Offspring--not Only To Those Who Are Of The Law But Also To Those Who Are Of The Faith Of Abraham. He Is The Father Of Us All.",
+            "As It Is Written: \"I Have Made You A Father Of Many Nations.\" He Is Our Father In The Sight Of God, In Whom He Believed--the God Who Gives Life To The Dead And Calls Things That Are Not As Though They Were.",
+            "Against All Hope, Abraham In Hope Believed And So Became The Father Of Many Nations, Just As It Had Been Said To Him, \"So Shall Your Offspring Be.\"",
+            "Without Weakening In His Faith, He Faced The Fact That His Body Was As Good As Dead--since He Was About A Hundred Years Old--and That Sarah's Womb Was Also Dead.",
+            "Yet He Did Not Waver Through Unbelief Regarding The Promise Of God, But Was Strengthened In His Faith And Gave Glory To God,",
+            "Being Fully Persuaded That God Had Power To Do What He Had Promised.",
+            "This Is Why \"It Was Credited To Him As Righteousness.\"",
+            "The Words \"It Was Credited To Him\" Were Written Not For Him Alone,",
+            "But Also For Us, To Whom God Will Credit Righteousness--for Us Who Believe In Him Who Raised Jesus Our Lord From The Dead.",
+            "He Was Delivered Over To Death For Our Sins And Was Raised To Life For Our Justification."
+        ],
+        [
+            "Therefore, Since We Have Been Justified Through Faith, We Have Peace With God Through Our Lord Jesus Christ,",
+            "Through Whom We Have Gained Access By Faith Into This Grace In Which We Now Stand. And We Rejoice In The Hope Of The Glory Of God.",
+            "Not Only So, But We Also Rejoice In Our Sufferings, Because We Know That Suffering Produces Perseverance;",
+            "Perseverance, Character; And Character, Hope.",
+            "And Hope Does Not Disappoint Us, Because God Has Poured Out His Love Into Our Hearts By The Holy Spirit, Whom He Has Given Us.",
+            "You See, At Just The Right Time, When We Were Still Powerless, Christ Died For The Ungodly.",
+            "Very Rarely Will Anyone Die For A Righteous Man, Though For A Good Man Someone Might Possibly Dare To Die.",
+            "But God Demonstrates His Own Love For Us In This: While We Were Still Sinners, Christ Died For Us.",
+            "Since We Have Now Been Justified By His Blood, How Much More Shall We Be Saved From God's Wrath Through Him!",
+            "For If, When We Were God's Enemies, We Were Reconciled To Him Through The Death Of His Son, How Much More, Having Been Reconciled, Shall We Be Saved Through His Life!",
+            "Not Only Is This So, But We Also Rejoice In God Through Our Lord Jesus Christ, Through Whom We Have Now Received Reconciliation.",
+            "Therefore, Just As Sin Entered The World Through One Man, And Death Through Sin, And In This Way Death Came To All Men, Because All Sinned--",
+            "For Before The Law Was Given, Sin Was In The World. But Sin Is Not Taken Into Account When There Is No Law.",
+            "Nevertheless, Death Reigned From The Time Of Adam To The Time Of Moses, Even Over Those Who Did Not Sin By Breaking A Command, As Did Adam, Who Was A Pattern Of The One To Come.",
+            "But The Gift Is Not Like The Trespass. For If The Many Died By The Trespass Of The One Man, How Much More Did God's Grace And The Gift That Came By The Grace Of The One Man, Jesus Christ, Overflow To The Many!",
+            "Again, The Gift Of God Is Not Like The Result Of The One Man's Sin: The Judgment Followed One Sin And Brought Condemnation, But The Gift Followed Many Trespasses And Brought Justification.",
+            "For If, By The Trespass Of The One Man, Death Reigned Through That One Man, How Much More Will Those Who Receive God's Abundant Provision Of Grace And Of The Gift Of Righteousness Reign In Life Through The One Man, Jesus Christ.",
+            "Consequently, Just As The Result Of One Trespass Was Condemnation For All Men, So Also The Result Of One Act Of Righteousness Was Justification That Brings Life For All Men.",
+            "For Just As Through The Disobedience Of The One Man The Many Were Made Sinners, So Also Through The Obedience Of The One Man The Many Will Be Made Righteous.",
+            "The Law Was Added So That The Trespass Might Increase. But Where Sin Increased, Grace Increased All The More,",
+            "So That, Just As Sin Reigned In Death, So Also Grace Might Reign Through Righteousness To Bring Eternal Life Through Jesus Christ Our Lord."
+        ],
+        [
+            "What Shall We Say, Then? Shall We Go On Sinning So That Grace May Increase?",
+            "By No Means! We Died To Sin; How Can We Live In It Any Longer?",
+            "Or Don't You Know That All Of Us Who Were Baptized Into Christ Jesus Were Baptized Into His Death?",
+            "We Were Therefore Buried With Him Through Baptism Into Death In Order That, Just As Christ Was Raised From The Dead Through The Glory Of The Father, We Too May Live A New Life.",
+            "If We Have Been United With Him Like This In His Death, We Will Certainly Also Be United With Him In His Resurrection.",
+            "For We Know That Our Old Self Was Crucified With Him So That The Body Of Sin Might Be Done Away With, That We Should No Longer Be Slaves To Sin--",
+            "Because Anyone Who Has Died Has Been Freed From Sin.",
+            "Now If We Died With Christ, We Believe That We Will Also Live With Him.",
+            "For We Know That Since Christ Was Raised From The Dead, He Cannot Die Again; Death No Longer Has Mastery Over Him.",
+            "The Death He Died, He Died To Sin Once For All; But The Life He Lives, He Lives To God.",
+            "In The Same Way, Count Yourselves Dead To Sin But Alive To God In Christ Jesus.",
+            "Therefore Do Not Let Sin Reign In Your Mortal Body So That You Obey Its Evil Desires.",
+            "Do Not Offer The Parts Of Your Body To Sin, As Instruments Of Wickedness, But Rather Offer Yourselves To God, As Those Who Have Been Brought From Death To Life; And Offer The Parts Of Your Body To Him As Instruments Of Righteousness.",
+            "For Sin Shall Not Be Your Master, Because You Are Not Under Law, But Under Grace.",
+            "What Then? Shall We Sin Because We Are Not Under Law But Under Grace? By No Means!",
+            "Don't You Know That When You Offer Yourselves To Someone To Obey Him As Slaves, You Are Slaves To The One Whom You Obey--whether You Are Slaves To Sin, Which Leads To Death, Or To Obedience, Which Leads To Righteousness?",
+            "But Thanks Be To God That, Though You Used To Be Slaves To Sin, You Wholeheartedly Obeyed The Form Of Teaching To Which You Were Entrusted.",
+            "You Have Been Set Free From Sin And Have Become Slaves To Righteousness.",
+            "I Put This In Human Terms Because You Are Weak In Your Natural Selves. Just As You Used To Offer The Parts Of Your Body In Slavery To Impurity And To Ever-increasing Wickedness, So Now Offer Them In Slavery To Righteousness Leading To Holiness.",
+            "When You Were Slaves To Sin, You Were Free From The Control Of Righteousness.",
+            "What Benefit Did You Reap At That Time From The Things You Are Now Ashamed Of? Those Things Result In Death!",
+            "But Now That You Have Been Set Free From Sin And Have Become Slaves To God, The Benefit You Reap Leads To Holiness, And The Result Is Eternal Life.",
+            "For The Wages Of Sin Is Death, But The Gift Of God Is Eternal Life In Christ Jesus Our Lord."
+        ],
+        [
+            "Do You Not Know, Brothers--for I Am Speaking To Men Who Know The Law--that The Law Has Authority Over A Man Only As Long As He Lives?",
+            "For Example, By Law A Married Woman Is Bound To Her Husband As Long As He Is Alive, But If Her Husband Dies, She Is Released From The Law Of Marriage.",
+            "So Then, If She Marries Another Man While Her Husband Is Still Alive, She Is Called An Adulteress. But If Her Husband Dies, She Is Released From That Law And Is Not An Adulteress, Even Though She Marries Another Man.",
+            "So, My Brothers, You Also Died To The Law Through The Body Of Christ, That You Might Belong To Another, To Him Who Was Raised From The Dead, In Order That We Might Bear Fruit To God.",
+            "For When We Were Controlled By The Sinful Nature, The Sinful Passions Aroused By The Law Were At Work In Our Bodies, So That We Bore Fruit For Death.",
+            "But Now, By Dying To What Once Bound Us, We Have Been Released From The Law So That We Serve In The New Way Of The Spirit, And Not In The Old Way Of The Written Code.",
+            "What Shall We Say, Then? Is The Law Sin? Certainly Not! Indeed I Would Not Have Known What Sin Was Except Through The Law. For I Would Not Have Known What Coveting Really Was If The Law Had Not Said, \"Do Not Covet.\"",
+            "But Sin, Seizing The Opportunity Afforded By The Commandment, Produced In Me Every Kind Of Covetous Desire. For Apart From Law, Sin Is Dead.",
+            "Once I Was Alive Apart From Law; But When The Commandment Came, Sin Sprang To Life And I Died.",
+            "I Found That The Very Commandment That Was Intended To Bring Life Actually Brought Death.",
+            "For Sin, Seizing The Opportunity Afforded By The Commandment, Deceived Me, And Through The Commandment Put Me To Death.",
+            "So Then, The Law Is Holy, And The Commandment Is Holy, Righteous And Good.",
+            "Did That Which Is Good, Then, Become Death To Me? By No Means! But In Order That Sin Might Be Recognized As Sin, It Produced Death In Me Through What Was Good, So That Through The Commandment Sin Might Become Utterly Sinful.",
+            "We Know That The Law Is Spiritual; But I Am Unspiritual, Sold As A Slave To Sin.",
+            "I Do Not Understand What I Do. For What I Want To Do I Do Not Do, But What I Hate I Do.",
+            "And If I Do What I Do Not Want To Do, I Agree That The Law Is Good.",
+            "As It Is, It Is No Longer I Myself Who Do It, But It Is Sin Living In Me.",
+            "I Know That Nothing Good Lives In Me, That Is, In My Sinful Nature. For I Have The Desire To Do What Is Good, But I Cannot Carry It Out.",
+            "For What I Do Is Not The Good I Want To Do; No, The Evil I Do Not Want To Do--this I Keep On Doing.",
+            "Now If I Do What I Do Not Want To Do, It Is No Longer I Who Do It, But It Is Sin Living In Me That Does It.",
+            "So I Find This Law At Work: When I Want To Do Good, Evil Is Right There With Me.",
+            "For In My Inner Being I Delight In God's Law;",
+            "But I See Another Law At Work In The Members Of My Body, Waging War Against The Law Of My Mind And Making Me A Prisoner Of The Law Of Sin At Work Within My Members.",
+            "What A Wretched Man I Am! Who Will Rescue Me From This Body Of Death?",
+            "Thanks Be To God--through Jesus Christ Our Lord! So Then, I Myself In My Mind Am A Slave To God's Law, But In The Sinful Nature A Slave To The Law Of Sin."
+        ],
+        [
+            "Therefore, There Is Now No Condemnation For Those Who Are In Christ Jesus,",
+            "Because Through Christ Jesus The Law Of The Spirit Of Life Set Me Free From The Law Of Sin And Death.",
+            "For What The Law Was Powerless To Do In That It Was Weakened By The Sinful Nature, God Did By Sending His Own Son In The Likeness Of Sinful Man To Be A Sin Offering. And So He Condemned Sin In Sinful Man,",
+            "In Order That The Righteous Requirements Of The Law Might Be Fully Met In Us, Who Do Not Live According To The Sinful Nature But According To The Spirit.",
+            "Those Who Live According To The Sinful Nature Have Their Minds Set On What That Nature Desires; But Those Who Live In Accordance With The Spirit Have Their Minds Set On What The Spirit Desires.",
+            "The Mind Of Sinful Man Is Death, But The Mind Controlled By The Spirit Is Life And Peace;",
+            "The Sinful Mind Is Hostile To God. It Does Not Submit To God's Law, Nor Can It Do So.",
+            "Those Controlled By The Sinful Nature Cannot Please God.",
+            "You, However, Are Controlled Not By The Sinful Nature But By The Spirit, If The Spirit Of God Lives In You. And If Anyone Does Not Have The Spirit Of Christ, He Does Not Belong To Christ.",
+            "But If Christ Is In You, Your Body Is Dead Because Of Sin, Yet Your Spirit Is Alive Because Of Righteousness.",
+            "And If The Spirit Of Him Who Raised Jesus From The Dead Is Living In You, He Who Raised Christ From The Dead Will Also Give Life To Your Mortal Bodies Through His Spirit, Who Lives In You.",
+            "Therefore, Brothers, We Have An Obligation--but It Is Not To The Sinful Nature, To Live According To It.",
+            "For If You Live According To The Sinful Nature, You Will Die; But If By The Spirit You Put To Death The Misdeeds Of The Body, You Will Live,",
+            "Because Those Who Are Led By The Spirit Of God Are Sons Of God.",
+            "For You Did Not Receive A Spirit That Makes You A Slave Again To Fear, But You Received The Spirit Of Sonship. And By Him We Cry, \"Abba, Father.\"",
+            "The Spirit Himself Testifies With Our Spirit That We Are God's Children.",
+            "Now If We Are Children, Then We Are Heirs--heirs Of God And Co-heirs With Christ, If Indeed We Share In His Sufferings In Order That We May Also Share In His Glory.",
+            "I Consider That Our Present Sufferings Are Not Worth Comparing With The Glory That Will Be Revealed In Us.",
+            "The Creation Waits In Eager Expectation For The Sons Of God To Be Revealed.",
+            "For The Creation Was Subjected To Frustration, Not By Its Own Choice, But By The Will Of The One Who Subjected It, In Hope",
+            "That The Creation Itself Will Be Liberated From Its Bondage To Decay And Brought Into The Glorious Freedom Of The Children Of God.",
+            "We Know That The Whole Creation Has Been Groaning As In The Pains Of Childbirth Right Up To The Present Time.",
+            "Not Only So, But We Ourselves, Who Have The Firstfruits Of The Spirit, Groan Inwardly As We Wait Eagerly For Our Adoption As Sons, The Redemption Of Our Bodies.",
+            "For In This Hope We Were Saved. But Hope That Is Seen Is No Hope At All. Who Hopes For What He Already Has?",
+            "But If We Hope For What We Do Not Yet Have, We Wait For It Patiently.",
+            "In The Same Way, The Spirit Helps Us In Our Weakness. We Do Not Know What We Ought To Pray For, But The Spirit Himself Intercedes For Us With Groans That Words Cannot Express.",
+            "And He Who Searches Our Hearts Knows The Mind Of The Spirit, Because The Spirit Intercedes For The Saints In Accordance With God's Will.",
+            "And We Know That In All Things God Works For The Good Of Those Who Love Him, Who Have Been Called According To His Purpose.",
+            "For Those God Foreknew He Also Predestined To Be Conformed To The Likeness Of His Son, That He Might Be The Firstborn Among Many Brothers.",
+            "And Those He Predestined, He Also Called; Those He Called, He Also Justified; Those He Justified, He Also Glorified.",
+            "What, Then, Shall We Say In Response To This? If God Is For Us, Who Can Be Against Us?",
+            "He Who Did Not Spare His Own Son, But Gave Him Up For Us All--how Will He Not Also, Along With Him, Graciously Give Us All Things?",
+            "Who Will Bring Any Charge Against Those Whom God Has Chosen? It Is God Who Justifies.",
+            "Who Is He That Condemns? Christ Jesus, Who Died--more Than That, Who Was Raised To Life--is At The Right Hand Of God And Is Also Interceding For Us.",
+            "Who Shall Separate Us From The Love Of Christ? Shall Trouble Or Hardship Or Persecution Or Famine Or Nakedness Or Danger Or Sword?",
+            "As It Is Written: \"For Your Sake We Face Death All Day Long; We Are Considered As Sheep To Be Slaughtered.\"",
+            "No, In All These Things We Are More Than Conquerors Through Him Who Loved Us.",
+            "For I Am Convinced That Neither Death Nor Life, Neither Angels Nor Demons, Neither The Present Nor The Future, Nor Any Powers,",
+            "Neither Height Nor Depth, Nor Anything Else In All Creation, Will Be Able To Separate Us From The Love Of God That Is In Christ Jesus Our Lord."
+        ],
+        [
+            "I Speak The Truth In Christ--i Am Not Lying, My Conscience Confirms It In The Holy Spirit--",
+            "I Have Great Sorrow And Unceasing Anguish In My Heart.",
+            "For I Could Wish That I Myself Were Cursed And Cut Off From Christ For The Sake Of My Brothers, Those Of My Own Race,",
+            "The People Of Israel. Theirs Is The Adoption As Sons; Theirs The Divine Glory, The Covenants, The Receiving Of The Law, The Temple Worship And The Promises.",
+            "Theirs Are The Patriarchs, And From Them Is Traced The Human Ancestry Of Christ, Who Is God Over All, Forever Praised! Amen.",
+            "It Is Not As Though God's Word Had Failed. For Not All Who Are Descended From Israel Are Israel.",
+            "Nor Because They Are His Descendants Are They All Abraham's Children. On The Contrary, \"It Is Through Isaac That Your Offspring Will Be Reckoned.\"",
+            "In Other Words, It Is Not The Natural Children Who Are God's Children, But It Is The Children Of The Promise Who Are Regarded As Abraham's Offspring.",
+            "For This Was How The Promise Was Stated: \"At The Appointed Time I Will Return, And Sarah Will Have A Son.\"",
+            "Not Only That, But Rebekah's Children Had One And The Same Father, Our Father Isaac.",
+            "Yet, Before The Twins Were Born Or Had Done Anything Good Or Bad--in Order That God's Purpose In Election Might Stand:",
+            "Not By Works But By Him Who Calls--she Was Told, \"The Older Will Serve The Younger.\"",
+            "Just As It Is Written: \"Jacob I Loved, But Esau I Hated.\"",
+            "What Then Shall We Say? Is God Unjust? Not At All!",
+            "For He Says To Moses, \"I Will Have Mercy On Whom I Have Mercy, And I Will Have Compassion On Whom I Have Compassion.\"",
+            "It Does Not, Therefore, Depend On Man's Desire Or Effort, But On God's Mercy.",
+            "For The Scripture Says To Pharaoh: \"I Raised You Up For This Very Purpose, That I Might Display My Power In You And That My Name Might Be Proclaimed In All The Earth.\"",
+            "Therefore God Has Mercy On Whom He Wants To Have Mercy, And He Hardens Whom He Wants To Harden.",
+            "One Of You Will Say To Me: \"Then Why Does God Still Blame Us? For Who Resists His Will?\"",
+            "But Who Are You, O Man, To Talk Back To God? \"Shall What Is Formed Say To Him Who Formed It, 'Why Did You Make Me Like This?' \"",
+            "Does Not The Potter Have The Right To Make Out Of The Same Lump Of Clay Some Pottery For Noble Purposes And Some For Common Use?",
+            "What If God, Choosing To Show His Wrath And Make His Power Known, Bore With Great Patience The Objects Of His Wrath--prepared For Destruction?",
+            "What If He Did This To Make The Riches Of His Glory Known To The Objects Of His Mercy, Whom He Prepared In Advance For Glory--",
+            "Even Us, Whom He Also Called, Not Only From The Jews But Also From The Gentiles?",
+            "As He Says In Hosea: \"I Will Call Them 'My People' Who Are Not My People; And I Will Call Her 'My Loved One' Who Is Not My Loved One,\"",
+            "And, \"It Will Happen That In The Very Place Where It Was Said To Them, 'You Are Not My People,' They Will Be Called 'Sons Of The Living God.' \"",
+            "Isaiah Cries Out Concerning Israel: \"Though The Number Of The Israelites Be Like The Sand By The Sea, Only The Remnant Will Be Saved.",
+            "For The Lord Will Carry Out His Sentence On Earth With Speed And Finality.\"",
+            "It Is Just As Isaiah Said Previously: \"Unless The Lord Almighty Had Left Us Descendants, We Would Have Become Like Sodom, We Would Have Been Like Gomorrah.\"",
+            "What Then Shall We Say? That The Gentiles, Who Did Not Pursue Righteousness, Have Obtained It, A Righteousness That Is By Faith;",
+            "But Israel, Who Pursued A Law Of Righteousness, Has Not Attained It.",
+            "Why Not? Because They Pursued It Not By Faith But As If It Were By Works. They Stumbled Over The \"Stumbling Stone.\"",
+            "As It Is Written: \"See, I Lay In Zion A Stone That Causes Men To Stumble And A Rock That Makes Them Fall, And The One Who Trusts In Him Will Never Be Put To Shame.\""
+        ],
+        [
+            "Brothers, My Heart's Desire And Prayer To God For The Israelites Is That They May Be Saved.",
+            "For I Can Testify About Them That They Are Zealous For God, But Their Zeal Is Not Based On Knowledge.",
+            "Since They Did Not Know The Righteousness That Comes From God And Sought To Establish Their Own, They Did Not Submit To God's Righteousness.",
+            "Christ Is The End Of The Law So That There May Be Righteousness For Everyone Who Believes.",
+            "Moses Describes In This Way The Righteousness That Is By The Law: \"The Man Who Does These Things Will Live By Them.\"",
+            "But The Righteousness That Is By Faith Says: \"Do Not Say In Your Heart, 'Who Will Ascend Into Heaven?' \" (That Is, To Bring Christ Down)",
+            "\"Or 'Who Will Descend Into The Deep?' \" (That Is, To Bring Christ Up From The Dead).",
+            "But What Does It Say? \"The Word Is Near You; It Is In Your Mouth And In Your Heart,\" That Is, The Word Of Faith We Are Proclaiming:",
+            "That If You Confess With Your Mouth, \"Jesus Is Lord,\" And Believe In Your Heart That God Raised Him From The Dead, You Will Be Saved.",
+            "For It Is With Your Heart That You Believe And Are Justified, And It Is With Your Mouth That You Confess And Are Saved.",
+            "As The Scripture Says, \"Anyone Who Trusts In Him Will Never Be Put To Shame.\"",
+            "For There Is No Difference Between Jew And Gentile--the Same Lord Is Lord Of All And Richly Blesses All Who Call On Him,",
+            "For, \"Everyone Who Calls On The Name Of The Lord Will Be Saved.\"",
+            "How, Then, Can They Call On The One They Have Not Believed In? And How Can They Believe In The One Of Whom They Have Not Heard? And How Can They Hear Without Someone Preaching To Them?",
+            "And How Can They Preach Unless They Are Sent? As It Is Written, \"How Beautiful Are The Feet Of Those Who Bring Good News!\"",
+            "But Not All The Israelites Accepted The Good News. For Isaiah Says, \"Lord, Who Has Believed Our Message?\"",
+            "Consequently, Faith Comes From Hearing The Message, And The Message Is Heard Through The Word Of Christ.",
+            "But I Ask: Did They Not Hear? Of Course They Did: \"Their Voice Has Gone Out Into All The Earth, Their Words To The Ends Of The World.\"",
+            "Again I Ask: Did Israel Not Understand? First, Moses Says, \"I Will Make You Envious By Those Who Are Not A Nation; I Will Make You Angry By A Nation That Has No Understanding.\"",
+            "And Isaiah Boldly Says, \"I Was Found By Those Who Did Not Seek Me; I Revealed Myself To Those Who Did Not Ask For Me.\"",
+            "But Concerning Israel He Says, \"All Day Long I Have Held Out My Hands To A Disobedient And Obstinate People.\""
+        ],
+        [
+            "I Ask Then: Did God Reject His People? By No Means! I Am An Israelite Myself, A Descendant Of Abraham, From The Tribe Of Benjamin.",
+            "God Did Not Reject His People, Whom He Foreknew. Don't You Know What The Scripture Says In The Passage About Elijah--how He Appealed To God Against Israel:",
+            "\"Lord, They Have Killed Your Prophets And Torn Down Your Altars; I Am The Only One Left, And They Are Trying To Kill Me\" ?",
+            "And What Was God's Answer To Him? \"I Have Reserved For Myself Seven Thousand Who Have Not Bowed The Knee To Baal.\"",
+            "So Too, At The Present Time There Is A Remnant Chosen By Grace.",
+            "And If By Grace, Then It Is No Longer By Works; If It Were, Grace Would No Longer Be Grace.",
+            "What Then? What Israel Sought So Earnestly It Did Not Obtain, But The Elect Did. The Others Were Hardened,",
+            "As It Is Written: \"God Gave Them A Spirit Of Stupor, Eyes So That They Could Not See And Ears So That They Could Not Hear, To This Very Day.\"",
+            "And David Says: \"May Their Table Become A Snare And A Trap, A Stumbling Block And A Retribution For Them.",
+            "May Their Eyes Be Darkened So They Cannot See, And Their Backs Be Bent Forever.\"",
+            "Again I Ask: Did They Stumble So As To Fall Beyond Recovery? Not At All! Rather, Because Of Their Transgression, Salvation Has Come To The Gentiles To Make Israel Envious.",
+            "But If Their Transgression Means Riches For The World, And Their Loss Means Riches For The Gentiles, How Much Greater Riches Will Their Fullness Bring!",
+            "I Am Talking To You Gentiles. Inasmuch As I Am The Apostle To The Gentiles, I Make Much Of My Ministry",
+            "In The Hope That I May Somehow Arouse My Own People To Envy And Save Some Of Them.",
+            "For If Their Rejection Is The Reconciliation Of The World, What Will Their Acceptance Be But Life From The Dead?",
+            "If The Part Of The Dough Offered As Firstfruits Is Holy, Then The Whole Batch Is Holy; If The Root Is Holy, So Are The Branches.",
+            "If Some Of The Branches Have Been Broken Off, And You, Though A Wild Olive Shoot, Have Been Grafted In Among The Others And Now Share In The Nourishing Sap From The Olive Root,",
+            "Do Not Boast Over Those Branches. If You Do, Consider This: You Do Not Support The Root, But The Root Supports You.",
+            "You Will Say Then, \"Branches Were Broken Off So That I Could Be Grafted In.\"",
+            "Granted. But They Were Broken Off Because Of Unbelief, And You Stand By Faith. Do Not Be Arrogant, But Be Afraid.",
+            "For If God Did Not Spare The Natural Branches, He Will Not Spare You Either.",
+            "Consider Therefore The Kindness And Sternness Of God: Sternness To Those Who Fell, But Kindness To You, Provided That You Continue In His Kindness. Otherwise, You Also Will Be Cut Off.",
+            "And If They Do Not Persist In Unbelief, They Will Be Grafted In, For God Is Able To Graft Them In Again.",
+            "After All, If You Were Cut Out Of An Olive Tree That Is Wild By Nature, And Contrary To Nature Were Grafted Into A Cultivated Olive Tree, How Much More Readily Will These, The Natural Branches, Be Grafted Into Their Own Olive Tree!",
+            "I Do Not Want You To Be Ignorant Of This Mystery, Brothers, So That You May Not Be Conceited: Israel Has Experienced A Hardening In Part Until The Full Number Of The Gentiles Has Come In.",
+            "And So All Israel Will Be Saved, As It Is Written: \"The Deliverer Will Come From Zion; He Will Turn Godlessness Away From Jacob.",
+            "And This Is My Covenant With Them When I Take Away Their Sins.\"",
+            "As Far As The Gospel Is Concerned, They Are Enemies On Your Account; But As Far As Election Is Concerned, They Are Loved On Account Of The Patriarchs,",
+            "For God's Gifts And His Call Are Irrevocable.",
+            "Just As You Who Were At One Time Disobedient To God Have Now Received Mercy As A Result Of Their Disobedience,",
+            "So They Too Have Now Become Disobedient In Order That They Too May Now Receive Mercy As A Result Of God's Mercy To You.",
+            "For God Has Bound All Men Over To Disobedience So That He May Have Mercy On Them All.",
+            "Oh, The Depth Of The Riches Of The Wisdom And Knowledge Of God! How Unsearchable His Judgments, And His Paths Beyond Tracing Out!",
+            "\"Who Has Known The Mind Of The Lord? Or Who Has Been His Counselor?\"",
+            "\"Who Has Ever Given To God, That God Should Repay Him?\"",
+            "For From Him And Through Him And To Him Are All Things. To Him Be The Glory Forever! Amen."
+        ],
+        [
+            "Therefore, I Urge You, Brothers, In View Of God's Mercy, To Offer Your Bodies As Living Sacrifices, Holy And Pleasing To God--this Is Your Spiritual Act Of Worship.",
+            "Do Not Conform Any Longer To The Pattern Of This World, But Be Transformed By The Renewing Of Your Mind. Then You Will Be Able To Test And Approve What God's Will Is--his Good, Pleasing And Perfect Will.",
+            "For By The Grace Given Me I Say To Every One Of You: Do Not Think Of Yourself More Highly Than You Ought, But Rather Think Of Yourself With Sober Judgment, In Accordance With The Measure Of Faith God Has Given You.",
+            "Just As Each Of Us Has One Body With Many Members, And These Members Do Not All Have The Same Function,",
+            "So In Christ We Who Are Many Form One Body, And Each Member Belongs To All The Others.",
+            "We Have Different Gifts, According To The Grace Given Us. If A Man's Gift Is Prophesying, Let Him Use It In Proportion To His Faith.",
+            "If It Is Serving, Let Him Serve; If It Is Teaching, Let Him Teach;",
+            "If It Is Encouraging, Let Him Encourage; If It Is Contributing To The Needs Of Others, Let Him Give Generously; If It Is Leadership, Let Him Govern Diligently; If It Is Showing Mercy, Let Him Do It Cheerfully.",
+            "Love Must Be Sincere. Hate What Is Evil; Cling To What Is Good.",
+            "Be Devoted To One Another In Brotherly Love. Honor One Another Above Yourselves.",
+            "Never Be Lacking In Zeal, But Keep Your Spiritual Fervor, Serving The Lord.",
+            "Be Joyful In Hope, Patient In Affliction, Faithful In Prayer.",
+            "Share With God's People Who Are In Need. Practice Hospitality.",
+            "Bless Those Who Persecute You; Bless And Do Not Curse.",
+            "Rejoice With Those Who Rejoice; Mourn With Those Who Mourn.",
+            "Live In Harmony With One Another. Do Not Be Proud, But Be Willing To Associate With People Of Low Position. Do Not Be Conceited.",
+            "Do Not Repay Anyone Evil For Evil. Be Careful To Do What Is Right In The Eyes Of Everybody.",
+            "If It Is Possible, As Far As It Depends On You, Live At Peace With Everyone.",
+            "Do Not Take Revenge, My Friends, But Leave Room For God's Wrath, For It Is Written: \"It Is Mine To Avenge; I Will Repay,\" Says The Lord.",
+            "On The Contrary: \"If Your Enemy Is Hungry, Feed Him; If He Is Thirsty, Give Him Something To Drink. In Doing This, You Will Heap Burning Coals On His Head.\"",
+            "Do Not Be Overcome By Evil, But Overcome Evil With Good."
+        ],
+        [
+            "Everyone Must Submit Himself To The Governing Authorities, For There Is No Authority Except That Which God Has Established. The Authorities That Exist Have Been Established By God.",
+            "Consequently, He Who Rebels Against The Authority Is Rebelling Against What God Has Instituted, And Those Who Do So Will Bring Judgment On Themselves.",
+            "For Rulers Hold No Terror For Those Who Do Right, But For Those Who Do Wrong. Do You Want To Be Free From Fear Of The One In Authority? Then Do What Is Right And He Will Commend You.",
+            "For He Is God's Servant To Do You Good. But If You Do Wrong, Be Afraid, For He Does Not Bear The Sword For Nothing. He Is God's Servant, An Agent Of Wrath To Bring Punishment On The Wrongdoer.",
+            "Therefore, It Is Necessary To Submit To The Authorities, Not Only Because Of Possible Punishment But Also Because Of Conscience.",
+            "This Is Also Why You Pay Taxes, For The Authorities Are God's Servants, Who Give Their Full Time To Governing.",
+            "Give Everyone What You Owe Him: If You Owe Taxes, Pay Taxes; If Revenue, Then Revenue; If Respect, Then Respect; If Honor, Then Honor.",
+            "Let No Debt Remain Outstanding, Except The Continuing Debt To Love One Another, For He Who Loves His Fellowman Has Fulfilled The Law.",
+            "The Commandments, \"Do Not Commit Adultery,\" \"Do Not Murder,\" \"Do Not Steal,\" \"Do Not Covet,\" And Whatever Other Commandment There May Be, Are Summed Up In This One Rule: \"Love Your Neighbor As Yourself.\"",
+            "Love Does No Harm To Its Neighbor. Therefore Love Is The Fulfillment Of The Law.",
+            "And Do This, Understanding The Present Time. The Hour Has Come For You To Wake Up From Your Slumber, Because Our Salvation Is Nearer Now Than When We First Believed.",
+            "The Night Is Nearly Over; The Day Is Almost Here. So Let Us Put Aside The Deeds Of Darkness And Put On The Armor Of Light.",
+            "Let Us Behave Decently, As In The Daytime, Not In Orgies And Drunkenness, Not In Sexual Immorality And Debauchery, Not In Dissension And Jealousy.",
+            "Rather, Clothe Yourselves With The Lord Jesus Christ, And Do Not Think About How To Gratify The Desires Of The Sinful Nature."
+        ],
+        [
+            "Accept Him Whose Faith Is Weak, Without Passing Judgment On Disputable Matters.",
+            "One Man's Faith Allows Him To Eat Everything, But Another Man, Whose Faith Is Weak, Eats Only Vegetables.",
+            "The Man Who Eats Everything Must Not Look Down On Him Who Does Not, And The Man Who Does Not Eat Everything Must Not Condemn The Man Who Does, For God Has Accepted Him.",
+            "Who Are You To Judge Someone Else's Servant? To His Own Master He Stands Or Falls. And He Will Stand, For The Lord Is Able To Make Him Stand.",
+            "One Man Considers One Day More Sacred Than Another; Another Man Considers Every Day Alike. Each One Should Be Fully Convinced In His Own Mind.",
+            "He Who Regards One Day As Special, Does So To The Lord. He Who Eats Meat, Eats To The Lord, For He Gives Thanks To God; And He Who Abstains, Does So To The Lord And Gives Thanks To God.",
+            "For None Of Us Lives To Himself Alone And None Of Us Dies To Himself Alone.",
+            "If We Live, We Live To The Lord; And If We Die, We Die To The Lord. So, Whether We Live Or Die, We Belong To The Lord.",
+            "For This Very Reason, Christ Died And Returned To Life So That He Might Be The Lord Of Both The Dead And The Living.",
+            "You, Then, Why Do You Judge Your Brother? Or Why Do You Look Down On Your Brother? For We Will All Stand Before God's Judgment Seat.",
+            "It Is Written: \" 'As Surely As I Live,' Says The Lord, 'Every Knee Will Bow Before Me; Every Tongue Will Confess To God.' \"",
+            "So Then, Each Of Us Will Give An Account Of Himself To God.",
+            "Therefore Let Us Stop Passing Judgment On One Another. Instead, Make Up Your Mind Not To Put Any Stumbling Block Or Obstacle In Your Brother's Way.",
+            "As One Who Is In The Lord Jesus, I Am Fully Convinced That No Food Is Unclean In Itself. But If Anyone Regards Something As Unclean, Then For Him It Is Unclean.",
+            "If Your Brother Is Distressed Because Of What You Eat, You Are No Longer Acting In Love. Do Not By Your Eating Destroy Your Brother For Whom Christ Died.",
+            "Do Not Allow What You Consider Good To Be Spoken Of As Evil.",
+            "For The Kingdom Of God Is Not A Matter Of Eating And Drinking, But Of Righteousness, Peace And Joy In The Holy Spirit,",
+            "Because Anyone Who Serves Christ In This Way Is Pleasing To God And Approved By Men.",
+            "Let Us Therefore Make Every Effort To Do What Leads To Peace And To Mutual Edification.",
+            "Do Not Destroy The Work Of God For The Sake Of Food. All Food Is Clean, But It Is Wrong For A Man To Eat Anything That Causes Someone Else To Stumble.",
+            "It Is Better Not To Eat Meat Or Drink Wine Or To Do Anything Else That Will Cause Your Brother To Fall.",
+            "So Whatever You Believe About These Things Keep Between Yourself And God. Blessed Is The Man Who Does Not Condemn Himself By What He Approves.",
+            "But The Man Who Has Doubts Is Condemned If He Eats, Because His Eating Is Not From Faith; And Everything That Does Not Come From Faith Is Sin."
+        ],
+        [
+            "We Who Are Strong Ought To Bear With The Failings Of The Weak And Not To Please Ourselves.",
+            "Each Of Us Should Please His Neighbor For His Good, To Build Him Up.",
+            "For Even Christ Did Not Please Himself But, As It Is Written: \"The Insults Of Those Who Insult You Have Fallen On Me.\"",
+            "For Everything That Was Written In The Past Was Written To Teach Us, So That Through Endurance And The Encouragement Of The Scriptures We Might Have Hope.",
+            "May The God Who Gives Endurance And Encouragement Give You A Spirit Of Unity Among Yourselves As You Follow Christ Jesus,",
+            "So That With One Heart And Mouth You May Glorify The God And Father Of Our Lord Jesus Christ.",
+            "Accept One Another, Then, Just As Christ Accepted You, In Order To Bring Praise To God.",
+            "For I Tell You That Christ Has Become A Servant Of The Jews On Behalf Of God's Truth, To Confirm The Promises Made To The Patriarchs",
+            "So That The Gentiles May Glorify God For His Mercy, As It Is Written: \"Therefore I Will Praise You Among The Gentiles; I Will Sing Hymns To Your Name.\"",
+            "Again, It Says, \"Rejoice, O Gentiles, With His People.\"",
+            "And Again, \"Praise The Lord, All You Gentiles, And Sing Praises To Him, All You Peoples.\"",
+            "And Again, Isaiah Says, \"The Root Of Jesse Will Spring Up, One Who Will Arise To Rule Over The Nations; The Gentiles Will Hope In Him.\"",
+            "May The God Of Hope Fill You With All Joy And Peace As You Trust In Him, So That You May Overflow With Hope By The Power Of The Holy Spirit.",
+            "I Myself Am Convinced, My Brothers, That You Yourselves Are Full Of Goodness, Complete In Knowledge And Competent To Instruct One Another.",
+            "I Have Written You Quite Boldly On Some Points, As If To Remind You Of Them Again, Because Of The Grace God Gave Me",
+            "To Be A Minister Of Christ Jesus To The Gentiles With The Priestly Duty Of Proclaiming The Gospel Of God, So That The Gentiles Might Become An Offering Acceptable To God, Sanctified By The Holy Spirit.",
+            "Therefore I Glory In Christ Jesus In My Service To God.",
+            "I Will Not Venture To Speak Of Anything Except What Christ Has Accomplished Through Me In Leading The Gentiles To Obey God By What I Have Said And Done--",
+            "By The Power Of Signs And Miracles, Through The Power Of The Spirit. So From Jerusalem All The Way Around To Illyricum, I Have Fully Proclaimed The Gospel Of Christ.",
+            "It Has Always Been My Ambition To Preach The Gospel Where Christ Was Not Known, So That I Would Not Be Building On Someone Else's Foundation.",
+            "Rather, As It Is Written: \"Those Who Were Not Told About Him Will See, And Those Who Have Not Heard Will Understand.\"",
+            "This Is Why I Have Often Been Hindered From Coming To You.",
+            "But Now That There Is No More Place For Me To Work In These Regions, And Since I Have Been Longing For Many Years To See You,",
+            "I Plan To Do So When I Go To Spain. I Hope To Visit You While Passing Through And To Have You Assist Me On My Journey There, After I Have Enjoyed Your Company For A While.",
+            "Now, However, I Am On My Way To Jerusalem In The Service Of The Saints There.",
+            "For Macedonia And Achaia Were Pleased To Make A Contribution For The Poor Among The Saints In Jerusalem.",
+            "They Were Pleased To Do It, And Indeed They Owe It To Them. For If The Gentiles Have Shared In The Jews' Spiritual Blessings, They Owe It To The Jews To Share With Them Their Material Blessings.",
+            "So After I Have Completed This Task And Have Made Sure That They Have Received This Fruit, I Will Go To Spain And Visit You On The Way.",
+            "I Know That When I Come To You, I Will Come In The Full Measure Of The Blessing Of Christ.",
+            "I Urge You, Brothers, By Our Lord Jesus Christ And By The Love Of The Spirit, To Join Me In My Struggle By Praying To God For Me.",
+            "Pray That I May Be Rescued From The Unbelievers In Judea And That My Service In Jerusalem May Be Acceptable To The Saints There,",
+            "So That By God's Will I May Come To You With Joy And Together With You Be Refreshed.",
+            "The God Of Peace Be With You All. Amen"
+        ],
+        [
+            "I Commend To You Our Sister Phoebe, A Servant Of The Church In Cenchrea.",
+            "I Ask You To Receive Her In The Lord In A Way Worthy Of The Saints And To Give Her Any Help She May Need From You, For She Has Been A Great Help To Many People, Including Me.",
+            "Greet Priscilla And Aquila, My Fellow Workers In Christ Jesus.",
+            "They Risked Their Lives For Me. Not Only I But All The Churches Of The Gentiles Are Grateful To Them.",
+            "Greet Also The Church That Meets At Their House. Greet My Dear Friend Epenetus, Who Was The First Convert To Christ In The Province Of Asia.",
+            "Greet Mary, Who Worked Very Hard For You.",
+            "Greet Andronicus And Junias, My Relatives Who Have Been In Prison With Me. They Are Outstanding Among The Apostles, And They Were In Christ Before I Was.",
+            "Greet Ampliatus, Whom I Love In The Lord.",
+            "Greet Urbanus, Our Fellow Worker In Christ, And My Dear Friend Stachys.",
+            "Greet Apelles, Tested And Approved In Christ. Greet Those Who Belong To The Household Of Aristobulus.",
+            "Greet Herodion, My Relative. Greet Those In The Household Of Narcissus Who Are In The Lord.",
+            "Greet Tryphena And Tryphosa, Those Women Who Work Hard In The Lord. Greet My Dear Friend Persis, Another Woman Who Has Worked Very Hard In The Lord.",
+            "Greet Rufus, Chosen In The Lord, And His Mother, Who Has Been A Mother To Me, Too.",
+            "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas And The Brothers With Them.",
+            "Greet Philologus, Julia, Nereus And His Sister, And Olympas And All The Saints With Them.",
+            "Greet One Another With A Holy Kiss. All The Churches Of Christ Send Greetings.",
+            "I Urge You, Brothers, To Watch Out For Those Who Cause Divisions And Put Obstacles In Your Way That Are Contrary To The Teaching You Have Learned. Keep Away From Them.",
+            "For Such People Are Not Serving Our Lord Christ, But Their Own Appetites. By Smooth Talk And Flattery They Deceive The Minds Of Naive People.",
+            "Everyone Has Heard About Your Obedience, So I Am Full Of Joy Over You; But I Want You To Be Wise About What Is Good, And Innocent About What Is Evil.",
+            "The God Of Peace Will Soon Crush Satan Under Your Feet. The Grace Of Our Lord Jesus Be With You.",
+            "Timothy, My Fellow Worker, Sends His Greetings To You, As Do Lucius, Jason And Sosipater, My Relatives.",
+            "I, Tertius, Who Wrote Down This Letter, Greet You In The Lord.",
+            "May The Grace Of Our Lord Jesus Christ Be With All Of You. Amen.",
+            "Gaius, Whose Hospitality I And The Whole Church Here Enjoy, Sends You His Greetings. Erastus, Who Is The City's Director Of Public Works, And Our Brother Quartus Send You Their Greetings.",
+            "Now To Him Who Is Able To Establish You By My Gospel And The Proclamation Of Jesus Christ, According To The Revelation Of The Mystery Hidden For Long Ages Past,",
+            "But Now Revealed And Made Known Through The Prophetic Writings By The Command Of The Eternal God, So That All Nations Might Believe And Obey Him--",
+            "To The Only Wise God Be Glory Forever Through Jesus Christ! Amen."
+        ]
+    ]
 }

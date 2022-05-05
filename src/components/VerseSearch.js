@@ -29,11 +29,11 @@ function VerseSearch({ onResultAvailable, onVerseClick }) {
 
   useEffect(() => {
     let result =
-      data.Chapter && typeof chapter === 'number'
-        ? data.Chapter[chapter].Verse
+      data.chapter && typeof chapter === 'number'
+        ? data.chapter[chapter]
         : '';
-    onResultAvailable(result);
-  }, [data, chapter, onResultAvailable]);
+    onResultAvailable({book, chapter, result});
+  }, [data, book, chapter, onResultAvailable]);
 
   useEffect(() => {
     let cancel = false;
@@ -87,14 +87,14 @@ function VerseSearch({ onResultAvailable, onVerseClick }) {
       <List
         listId="chapter"
         selected={chapter}
-        items={data.Chapter && convertToSelectObject(data.Chapter.length)}
+        items={data.chapter && convertToSelectObject(data.chapter.length)}
         onSelectionChange={onFormChange}
       />
       <List
         listId="verse"
         items={
           typeof chapter === 'number' &&
-          convertToSelectObject(data.Chapter[chapter].Verse.length)
+          convertToSelectObject(data.chapter[chapter].length)
         }
         onSelectionChange={onFormChange}
       />

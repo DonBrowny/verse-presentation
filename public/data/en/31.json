@@ -1,212 +1,60 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "31000000",
-          "Verse": "Now the word of the LORD came unto Jonah the son of Amittai, saying,"
-        },
-        {
-          "Verseid": "31000001",
-          "Verse": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness has come up before me."
-        },
-        {
-          "Verseid": "31000002",
-          "Verse": "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD."
-        },
-        {
-          "Verseid": "31000003",
-          "Verse": "But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken."
-        },
-        {
-          "Verseid": "31000004",
-          "Verse": "Then the seamen were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep."
-        },
-        {
-          "Verseid": "31000005",
-          "Verse": "So the ship captain came to him, and said unto him, What mean you, O sleeper? arise, call upon your God, if so be that God will think upon us, that we perish not."
-        },
-        {
-          "Verseid": "31000006",
-          "Verse": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah."
-        },
-        {
-          "Verseid": "31000007",
-          "Verse": "Then said they unto him, Tell us, we pray you, for whose cause this evil is upon us; What is yours occupation? and whence come you? what is your country? and of what people are you?"
-        },
-        {
-          "Verseid": "31000008",
-          "Verse": "And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which has made the sea and the dry land."
-        },
-        {
-          "Verseid": "31000009",
-          "Verse": "Then were the men exceedingly afraid, and said unto him. Why have you done this? For the men knew that he fled from the presence of the LORD, because he had told them."
-        },
-        {
-          "Verseid": "31000010",
-          "Verse": "Then said they unto him, What shall we do unto you, that the sea may be calm unto us? for the sea wrought, and was tempestuous."
-        },
-        {
-          "Verseid": "31000011",
-          "Verse": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you."
-        },
-        {
-          "Verseid": "31000012",
-          "Verse": "Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them."
-        },
-        {
-          "Verseid": "31000013",
-          "Verse": "Wherefore they cried unto the LORD, and said, We plead to you, O LORD, we plead to you, let us not perish for this man's life, and lay not upon us innocent blood: for you, O LORD, have done as it pleased you."
-        },
-        {
-          "Verseid": "31000014",
-          "Verse": "So they look up Jonah, and cast him forth into the sea: and the sea ceased from her raging."
-        },
-        {
-          "Verseid": "31000015",
-          "Verse": "Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows."
-        },
-        {
-          "Verseid": "31000016",
-          "Verse": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "31001000",
-          "Verse": "Then Jonah prayed unto the LORD his God out of the fish's belly,"
-        },
-        {
-          "Verseid": "31001001",
-          "Verse": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and you heard my voice."
-        },
-        {
-          "Verseid": "31001002",
-          "Verse": "For you had cast me into the deep, in the midst of the seas; and the floods compassed me about: all your billows and your waves passed over me."
-        },
-        {
-          "Verseid": "31001003",
-          "Verse": "Then I said, I am cast out of your sight; yet I will look again toward your holy temple."
-        },
-        {
-          "Verseid": "31001004",
-          "Verse": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head."
-        },
-        {
-          "Verseid": "31001005",
-          "Verse": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet have you brought up my life from corruption, O LORD my God."
-        },
-        {
-          "Verseid": "31001006",
-          "Verse": "When my soul fainted within me I remembered the LORD: and my prayer came in unto you, into yours holy temple."
-        },
-        {
-          "Verseid": "31001007",
-          "Verse": "They that observe lying vanities forsake their own mercy."
-        },
-        {
-          "Verseid": "31001008",
-          "Verse": "But I will sacrifice unto you with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD."
-        },
-        {
-          "Verseid": "31001009",
-          "Verse": "And the LORD spoke unto the fish, and it vomited out Jonah upon the dry land."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "31002000",
-          "Verse": "And the word of the LORD came unto Jonah the second time, saying,"
-        },
-        {
-          "Verseid": "31002001",
-          "Verse": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid you."
-        },
-        {
-          "Verseid": "31002002",
-          "Verse": "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey."
-        },
-        {
-          "Verseid": "31002003",
-          "Verse": "And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown."
-        },
-        {
-          "Verseid": "31002004",
-          "Verse": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them."
-        },
-        {
-          "Verseid": "31002005",
-          "Verse": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes."
-        },
-        {
-          "Verseid": "31002006",
-          "Verse": "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:"
-        },
-        {
-          "Verseid": "31002007",
-          "Verse": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands."
-        },
-        {
-          "Verseid": "31002008",
-          "Verse": "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?"
-        },
-        {
-          "Verseid": "31002009",
-          "Verse": "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "31003000",
-          "Verse": "But it displeased Jonah exceedingly, and he was very angry."
-        },
-        {
-          "Verseid": "31003001",
-          "Verse": "And he prayed unto the LORD, and said, I pray you, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that you are a gracious God, and merciful, slow to anger, and of great kindness, and repent you of the evil."
-        },
-        {
-          "Verseid": "31003002",
-          "Verse": "Therefore now, O LORD, take, I plead to you, my life from me; for it is better for me to die than to live."
-        },
-        {
-          "Verseid": "31003003",
-          "Verse": "Then said the LORD, Do you well to be angry?"
-        },
-        {
-          "Verseid": "31003004",
-          "Verse": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city."
-        },
-        {
-          "Verseid": "31003005",
-          "Verse": "And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd."
-        },
-        {
-          "Verseid": "31003006",
-          "Verse": "But God prepared a worm when the morning rose the next day, and it stroke the gourd that it withered."
-        },
-        {
-          "Verseid": "31003007",
-          "Verse": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live."
-        },
-        {
-          "Verseid": "31003008",
-          "Verse": "And God said to Jonah, Do you well to be angry for the gourd? And he said, I do well to be angry, even unto death."
-        },
-        {
-          "Verseid": "31003009",
-          "Verse": "Then said the LORD, You have had pity on the gourd, for the which you have not laboured, neither made it grow; which came up in a night, and perished in a night:"
-        },
-        {
-          "Verseid": "31003010",
-          "Verse": "And should not I spare Nineveh, that great city, wherein are more then sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?"
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "The Word Of The Lord Came To Jonah Son Of Amittai:",
+            "\"Go To The Great City Of Nineveh And Preach Against It, Because Its Wickedness Has Come Up Before Me.\"",
+            "But Jonah Ran Away From The Lord And Headed For Tarshish. He Went Down To Joppa, Where He Found A Ship Bound For That Port. After Paying The Fare, He Went Aboard And Sailed For Tarshish To Flee From The Lord .",
+            "Then The Lord Sent A Great Wind On The Sea, And Such A Violent Storm Arose That The Ship Threatened To Break Up.",
+            "All The Sailors Were Afraid And Each Cried Out To His Own God. And They Threw The Cargo Into The Sea To Lighten The Ship. But Jonah Had Gone Below Deck, Where He Lay Down And Fell Into A Deep Sleep.",
+            "The Captain Went To Him And Said, \"How Can You Sleep? Get Up And Call On Your God! Maybe He Will Take Notice Of Us, And We Will Not Perish.\"",
+            "Then The Sailors Said To Each Other, \"Come, Let Us Cast Lots To Find Out Who Is Responsible For This Calamity.\" They Cast Lots And The Lot Fell On Jonah.",
+            "So They Asked Him, \"Tell Us, Who Is Responsible For Making All This Trouble For Us? What Do You Do? Where Do You Come From? What Is Your Country? From What People Are You?\"",
+            "He Answered, \"I Am A Hebrew And I Worship The Lord , The God Of Heaven, Who Made The Sea And The Land.\"",
+            "This Terrified Them And They Asked, \"What Have You Done?\" (They Knew He Was Running Away From The Lord , Because He Had Already Told Them So.)",
+            "The Sea Was Getting Rougher And Rougher. So They Asked Him, \"What Should We Do To You To Make The Sea Calm Down For Us?\"",
+            "\"Pick Me Up And Throw Me Into The Sea,\" He Replied, \"And It Will Become Calm. I Know That It Is My Fault That This Great Storm Has Come Upon You.\"",
+            "Instead, The Men Did Their Best To Row Back To Land. But They Could Not, For The Sea Grew Even Wilder Than Before.",
+            "Then They Cried To The Lord , \"O Lord , Please Do Not Let Us Die For Taking This Man's Life. Do Not Hold Us Accountable For Killing An Innocent Man, For You, O Lord , Have Done As You Pleased.\"",
+            "Then They Took Jonah And Threw Him Overboard, And The Raging Sea Grew Calm.",
+            "At This The Men Greatly Feared The Lord , And They Offered A Sacrifice To The Lord And Made Vows To Him.",
+            "But The Lord Provided A Great Fish To Swallow Jonah, And Jonah Was Inside The Fish Three Days And Three Nights."
+        ],
+        [
+            "From Inside The Fish Jonah Prayed To The Lord His God.",
+            "He Said: \"In My Distress I Called To The Lord , And He Answered Me. From The Depths Of The Grave I Called For Help, And You Listened To My Cry.",
+            "You Hurled Me Into The Deep, Into The Very Heart Of The Seas, And The Currents Swirled About Me; All Your Waves And Breakers Swept Over Me.",
+            "I Said, 'I Have Been Banished From Your Sight; Yet I Will Look Again Toward Your Holy Temple.'",
+            "The Engulfing Waters Threatened Me, The Deep Surrounded Me; Seaweed Was Wrapped Around My Head.",
+            "To The Roots Of The Mountains I Sank Down; The Earth Beneath Barred Me In Forever. But You Brought My Life Up From The Pit, O Lord My God.",
+            "\"When My Life Was Ebbing Away, I Remembered You, Lord , And My Prayer Rose To You, To Your Holy Temple.",
+            "\"Those Who Cling To Worthless Idols Forfeit The Grace That Could Be Theirs.",
+            "But I, With A Song Of Thanksgiving, Will Sacrifice To You. What I Have Vowed I Will Make Good. Salvation Comes From The Lord .\"",
+            "And The Lord Commanded The Fish, And It Vomited Jonah Onto Dry Land."
+        ],
+        [
+            "Then The Word Of The Lord Came To Jonah A Second Time:",
+            "\"Go To The Great City Of Nineveh And Proclaim To It The Message I Give You.\"",
+            "Jonah Obeyed The Word Of The Lord And Went To Nineveh. Now Nineveh Was A Very Important City-a Visit Required Three Days.",
+            "On The First Day, Jonah Started Into The City. He Proclaimed: \"Forty More Days And Nineveh Will Be Overturned.\"",
+            "The Ninevites Believed God. They Declared A Fast, And All Of Them, From The Greatest To The Least, Put On Sackcloth.",
+            "When The News Reached The King Of Nineveh, He Rose From His Throne, Took Off His Royal Robes, Covered Himself With Sackcloth And Sat Down In The Dust.",
+            "Then He Issued A Proclamation In Nineveh: \"By The Decree Of The King And His Nobles: Do Not Let Any Man Or Beast, Herd Or Flock, Taste Anything; Do Not Let Them Eat Or Drink.",
+            "But Let Man And Beast Be Covered With Sackcloth. Let Everyone Call Urgently On God. Let Them Give Up Their Evil Ways And Their Violence.",
+            "Who Knows? God May Yet Relent And With Compassion Turn From His Fierce Anger So That We Will Not Perish.\"",
+            "When God Saw What They Did And How They Turned From Their Evil Ways, He Had Compassion And Did Not Bring Upon Them The Destruction He Had Threatened."
+        ],
+        [
+            "But Jonah Was Greatly Displeased And Became Angry.",
+            "He Prayed To The Lord , \"O Lord , Is This Not What I Said When I Was Still At Home? That Is Why I Was So Quick To Flee To Tarshish. I Knew That You Are A Gracious And Compassionate God, Slow To Anger And Abounding In Love, A God Who Relents From Sending Calamity.",
+            "Now, O Lord , Take Away My Life, For It Is Better For Me To Die Than To Live.\"",
+            "But The Lord Replied, \"Have You Any Right To Be Angry?\"",
+            "Jonah Went Out And Sat Down At A Place East Of The City. There He Made Himself A Shelter, Sat In Its Shade And Waited To See What Would Happen To The City.",
+            "Then The Lord God Provided A Vine And Made It Grow Up Over Jonah To Give Shade For His Head To Ease His Discomfort, And Jonah Was Very Happy About The Vine.",
+            "But At Dawn The Next Day God Provided A Worm, Which Chewed The Vine So That It Withered.",
+            "When The Sun Rose, God Provided A Scorching East Wind, And The Sun Blazed On Jonah's Head So That He Grew Faint. He Wanted To Die, And Said, \"It Would Be Better For Me To Die Than To Live.\"",
+            "But God Said To Jonah, \"Do You Have A Right To Be Angry About The Vine?\" \"I Do,\" He Said. \"I Am Angry Enough To Die.\"",
+            "But The Lord Said, \"You Have Been Concerned About This Vine, Though You Did Not Tend It Or Make It Grow. It Sprang Up Overnight And Died Overnight.",
+            "But Nineveh Has More Than A Hundred And Twenty Thousand People Who Cannot Tell Their Right Hand From Their Left, And Many Cattle As Well. Should I Not Be Concerned About That Great City?\""
+        ]
+    ]
 }

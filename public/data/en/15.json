@@ -1,1680 +1,436 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "15000000",
-          "Verse": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,"
-        },
-        {
-          "Verseid": "15000001",
-          "Verse": "That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem."
-        },
-        {
-          "Verseid": "15000002",
-          "Verse": "And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire."
-        },
-        {
-          "Verseid": "15000003",
-          "Verse": "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,"
-        },
-        {
-          "Verseid": "15000004",
-          "Verse": "And said, I plead to you, O LORD God of heaven, the great and terrible God, that keeps covenant and mercy for them that love him and observe his commandments:"
-        },
-        {
-          "Verseid": "15000005",
-          "Verse": "Let yours ear now be attentive, and yours eyes open, that you may hear the prayer of your servant, which I pray before you now, day and night, for the children of Israel your servants, and confess the sins of the children of Israel, which we have sinned against you: both I and my father's house have sinned."
-        },
-        {
-          "Verseid": "15000006",
-          "Verse": "We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the judgments, which you commandedst your servant Moses."
-        },
-        {
-          "Verseid": "15000007",
-          "Verse": "Remember, I plead to you, the word that you commandedst your servant Moses, saying, If all of you transgress, I will scatter you abroad among the nations:"
-        },
-        {
-          "Verseid": "15000008",
-          "Verse": "But if all of you turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there."
-        },
-        {
-          "Verseid": "15000009",
-          "Verse": "Now these are your servants and your people, whom you have redeemed by your great power, and by your strong hand."
-        },
-        {
-          "Verseid": "15000010",
-          "Verse": "O LORD, I plead to you, let now yours ear be attentive to the prayer of your servant, and to the prayer of your servants, who desire to fear your name: and prosper, I pray you, your servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15001000",
-          "Verse": "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been in time past sad in his presence."
-        },
-        {
-          "Verseid": "15001001",
-          "Verse": "Wherefore the king said unto me, Why is your countenance sad, seeing you are not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,"
-        },
-        {
-          "Verseid": "15001002",
-          "Verse": "And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers' sepulchers, lies waste, and the gates thereof are consumed with fire?"
-        },
-        {
-          "Verseid": "15001003",
-          "Verse": "Then the king said unto me, For what do you make request? So I prayed to the God of heaven."
-        },
-        {
-          "Verseid": "15001004",
-          "Verse": "And I said unto the king, If it please the king, and if your servant have found favour in your sight, that you would send me unto Judah, unto the city of my fathers' sepulchers, that I may build it."
-        },
-        {
-          "Verseid": "15001005",
-          "Verse": "And the king said unto me, (the queen also sitting by him,) For how long shall your journey be? and when will you return? So it pleased the king to send me; and I set him a time."
-        },
-        {
-          "Verseid": "15001006",
-          "Verse": "Moreover I said unto the king, If it please the king, let letters be given me to the governors beyond the river, that they may convey me over till I come into Judah;"
-        },
-        {
-          "Verseid": "15001007",
-          "Verse": "And a letter unto Asaph the keeper of the king's forest, that he may give me timber to make beams for the gates of the palace which appertained to the house, and for the wall of the city, and for the house that I shall enter into. And the king granted me, according to the good hand of my God upon me."
-        },
-        {
-          "Verseid": "15001008",
-          "Verse": "Then I came to the governors beyond the river, and gave them the king's letters. Now the king had sent captains of the army and horsemen with me."
-        },
-        {
-          "Verseid": "15001009",
-          "Verse": "When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard of it, it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel."
-        },
-        {
-          "Verseid": "15001010",
-          "Verse": "So I came to Jerusalem, and was there three days."
-        },
-        {
-          "Verseid": "15001011",
-          "Verse": "And I arose in the night, I and some few men with me; neither told I any man what my God had put in my heart to do at Jerusalem: neither was there any beast with me, save the beast that I rode upon."
-        },
-        {
-          "Verseid": "15001012",
-          "Verse": "And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire."
-        },
-        {
-          "Verseid": "15001013",
-          "Verse": "Then I went on to the gate of the fountain, and to the king's pool: but there was no place for the beast that was under me to pass."
-        },
-        {
-          "Verseid": "15001014",
-          "Verse": "Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and so returned."
-        },
-        {
-          "Verseid": "15001015",
-          "Verse": "And the rulers knew not where I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work."
-        },
-        {
-          "Verseid": "15001016",
-          "Verse": "Then said I unto them, All of you see the distress that we are in, how Jerusalem lies waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach."
-        },
-        {
-          "Verseid": "15001017",
-          "Verse": "Then I told them of the hand of my God which was good upon me; as also the king's words that he had spoken unto me. And they said, Let us rise up and build. So they strengthened their hands for this good work."
-        },
-        {
-          "Verseid": "15001018",
-          "Verse": "But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that all of you do? will all of you rebel against the king?"
-        },
-        {
-          "Verseid": "15001019",
-          "Verse": "Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but all of you have no portion, nor right, nor memorial, in Jerusalem."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15002000",
-          "Verse": "Then Eliashib the high priest rose up with his brethren the priests, and they built the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel."
-        },
-        {
-          "Verseid": "15002001",
-          "Verse": "And next unto him built the men of Jericho. And next to them built Zaccur the son of Imri."
-        },
-        {
-          "Verseid": "15002002",
-          "Verse": "But the fish gate did the sons of Hassenaah build, who also laid the beams thereof, and set up the doors thereof, the locks thereof, and the bars thereof."
-        },
-        {
-          "Verseid": "15002003",
-          "Verse": "And next unto them repaired Meremoth the son of Urijah, the son of Koz. And next unto them repaired Meshullam the son of Berechiah, the son of Meshezabeel. And next unto them repaired Zadok the son of Baana."
-        },
-        {
-          "Verseid": "15002004",
-          "Verse": "And next unto them the Tekoites repaired; but their nobles put not their necks to the work of their LORD."
-        },
-        {
-          "Verseid": "15002005",
-          "Verse": "Moreover the old gate repaired Jehoiada the son of Paseah, and Meshullam the son of Besodeiah; they laid the beams thereof, and set up the doors thereof, and the locks thereof, and the bars thereof."
-        },
-        {
-          "Verseid": "15002006",
-          "Verse": "And next unto them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the men of Gibeon, and of Mizpah, unto the throne of the governor on this side the river."
-        },
-        {
-          "Verseid": "15002007",
-          "Verse": "Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of one of the apothecaries, and they fortified Jerusalem unto the broad wall."
-        },
-        {
-          "Verseid": "15002008",
-          "Verse": "And next unto them repaired Rephaiah the son of Hur, the ruler of the half part of Jerusalem."
-        },
-        {
-          "Verseid": "15002009",
-          "Verse": "And next unto them repaired Jedaiah the son of Harumaph, even opposite to his house. And next unto him repaired Hattush the son of Hashabniah."
-        },
-        {
-          "Verseid": "15002010",
-          "Verse": "Malchijah the son of Harim, and Hashub the son of Pahathmoab, repaired the other piece, and the tower of the furnaces."
-        },
-        {
-          "Verseid": "15002011",
-          "Verse": "And next unto him repaired Shallum the son of Halohesh, the ruler of the half part of Jerusalem, he and his daughters."
-        },
-        {
-          "Verseid": "15002012",
-          "Verse": "The valley gate repaired Hanun, and the inhabitants of Zanoah; they built it, and set up the doors thereof, the locks thereof, and the bars thereof, and a thousand cubits on the wall unto the dung gate."
-        },
-        {
-          "Verseid": "15002013",
-          "Verse": "But the dung gate repaired Malchiah the son of Rechab, the ruler of part of Bethhaccerem; he built it, and set up the doors thereof, the locks thereof, and the bars thereof."
-        },
-        {
-          "Verseid": "15002014",
-          "Verse": "But the gate of the fountain repaired Shallun the son of Colhozeh, the ruler of part of Mizpah; he built it, and covered it, and set up the doors thereof, the locks thereof, and the bars thereof, and the wall of the pool of Siloah by the king's garden, and unto the stairs that go down from the city of David."
-        },
-        {
-          "Verseid": "15002015",
-          "Verse": "After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Bethzur, unto the place opposite to the sepulchers of David, and to the pool that was made, and unto the house of the mighty."
-        },
-        {
-          "Verseid": "15002016",
-          "Verse": "After him repaired the Levites, Rehum the son of Bani. Next unto him repaired Hashabiah, the ruler of the half part of Keilah, in his part."
-        },
-        {
-          "Verseid": "15002017",
-          "Verse": "After him repaired their brethren, Bavai the son of Henadad, the ruler of the half part of Keilah."
-        },
-        {
-          "Verseid": "15002018",
-          "Verse": "And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece opposite to the going up to the armoury at the turning of the wall."
-        },
-        {
-          "Verseid": "15002019",
-          "Verse": "After him Baruch the son of Zabbai earnestly repaired the other piece, from the turning of the wall unto the door of the house of Eliashib the high priest."
-        },
-        {
-          "Verseid": "15002020",
-          "Verse": "After him repaired Meremoth the son of Urijah the son of Koz another piece, from the door of the house of Eliashib even to the end of the house of Eliashib."
-        },
-        {
-          "Verseid": "15002021",
-          "Verse": "And after him repaired the priests, the men of the plain."
-        },
-        {
-          "Verseid": "15002022",
-          "Verse": "After him repaired Benjamin and Hashub opposite to their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house."
-        },
-        {
-          "Verseid": "15002023",
-          "Verse": "After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning of the wall, even unto the corner."
-        },
-        {
-          "Verseid": "15002024",
-          "Verse": "Palal the son of Uzai, opposite to the turning of the wall, and the tower which lies out from the king's high house, that was by the court of the prison. After him Pedaiah the son of Parosh."
-        },
-        {
-          "Verseid": "15002025",
-          "Verse": "Moreover the Nethinims dwelt in Ophel, unto the place opposite to the water gate toward the east, and the tower that lies out."
-        },
-        {
-          "Verseid": "15002026",
-          "Verse": "After them the Tekoites repaired another piece, opposite to the great tower that lies out, even unto the wall of Ophel."
-        },
-        {
-          "Verseid": "15002027",
-          "Verse": "From above the horse gate repaired the priests, every one opposite to his house."
-        },
-        {
-          "Verseid": "15002028",
-          "Verse": "After them repaired Zadok the son of Immer opposite to his house. After him repaired also Shemaiah the son of Shechaniah, the keeper of the east gate."
-        },
-        {
-          "Verseid": "15002029",
-          "Verse": "After him repaired Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, another piece. After him repaired Meshullam the son of Berechiah opposite to his chamber."
-        },
-        {
-          "Verseid": "15002030",
-          "Verse": "After him repaired Malchiah the goldsmith's son unto the place of the Nethinims, and of the merchants, opposite to the gate Miphkad, and to the going up of the corner."
-        },
-        {
-          "Verseid": "15002031",
-          "Verse": "And between the going up of the corner unto the sheep gate repaired the goldsmiths and the merchants."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15003000",
-          "Verse": "But it came to pass, that when Sanballat heard that we built the wall, he was angry, and took great indignation, and mocked the Jews."
-        },
-        {
-          "Verseid": "15003001",
-          "Verse": "And he spoke before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?"
-        },
-        {
-          "Verseid": "15003002",
-          "Verse": "Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall."
-        },
-        {
-          "Verseid": "15003003",
-          "Verse": "Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:"
-        },
-        {
-          "Verseid": "15003004",
-          "Verse": "And cover not their iniquity, and let not their sin be blotted out from before you: for they have provoked you to anger before the builders."
-        },
-        {
-          "Verseid": "15003005",
-          "Verse": "So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work."
-        },
-        {
-          "Verseid": "15003006",
-          "Verse": "But it came to pass, that when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, and that the breaches began to be stopped, then they were very angry,"
-        },
-        {
-          "Verseid": "15003007",
-          "Verse": "And conspired all of them together to come and to fight against Jerusalem, and to hinder it."
-        },
-        {
-          "Verseid": "15003008",
-          "Verse": "Nevertheless we made our prayer unto our God, and set a watch against them day and night, because of them."
-        },
-        {
-          "Verseid": "15003009",
-          "Verse": "And Judah said, The strength of the bearers of burdens is decayed, and there is much rubbish; so that we are not able to build the wall."
-        },
-        {
-          "Verseid": "15003010",
-          "Verse": "And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease."
-        },
-        {
-          "Verseid": "15003011",
-          "Verse": "And it came to pass, that when the Jews which dwelt by them came, they said unto us ten times, From all places whence all of you shall return unto us they will be upon you."
-        },
-        {
-          "Verseid": "15003012",
-          "Verse": "Therefore set I in the lower places behind the wall, and on the higher places, I even set the people after their families with their swords, their spears, and their bows."
-        },
-        {
-          "Verseid": "15003013",
-          "Verse": "And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not all of you afraid of them: remember the LORD, which is great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses."
-        },
-        {
-          "Verseid": "15003014",
-          "Verse": "And it came to pass, when our enemies heard that it was known unto us, and God had brought their counsel to nothing, that we returned all of us to the wall, every one unto his work."
-        },
-        {
-          "Verseid": "15003015",
-          "Verse": "And it came to pass from that time forth, that the half of my servants wrought in the work, and the other half of them held both the spears, the shields, and the bows, and the habergeons; and the rulers were behind all the house of Judah."
-        },
-        {
-          "Verseid": "15003016",
-          "Verse": "They which built on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon."
-        },
-        {
-          "Verseid": "15003017",
-          "Verse": "For the builders, every one had his sword girded by his side, and so built. And he that sounded the trumpet was by me."
-        },
-        {
-          "Verseid": "15003018",
-          "Verse": "And I said unto the nobles, and to the rulers, and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another."
-        },
-        {
-          "Verseid": "15003019",
-          "Verse": "In what place therefore all of you hear the sound of the trumpet, resort all of you thither unto us: our God shall fight for us."
-        },
-        {
-          "Verseid": "15003020",
-          "Verse": "So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared."
-        },
-        {
-          "Verseid": "15003021",
-          "Verse": "Likewise at the same time said I unto the people, Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and labour on the day."
-        },
-        {
-          "Verseid": "15003022",
-          "Verse": "So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15004000",
-          "Verse": "And there was a great cry of the people and of their wives against their brethren the Jews."
-        },
-        {
-          "Verseid": "15004001",
-          "Verse": "For there were that said, We, our sons, and our daughters, are many: therefore we take up corn for them, that we may eat, and live."
-        },
-        {
-          "Verseid": "15004002",
-          "Verse": "Some also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the dearth."
-        },
-        {
-          "Verseid": "15004003",
-          "Verse": "There were also that said, We have borrowed money for the king's tribute, and that upon our lands and vineyards."
-        },
-        {
-          "Verseid": "15004004",
-          "Verse": "Yet now our flesh is as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought unto bondage already: neither is it in our power to redeem them; for other men have our lands and vineyards."
-        },
-        {
-          "Verseid": "15004005",
-          "Verse": "And I was very angry when I heard their cry and these words."
-        },
-        {
-          "Verseid": "15004006",
-          "Verse": "Then I consulted with myself, and I rebuked the nobles, and the rulers, and said unto them, All of you exact interest, every one of his brother. And I set a great assembly against them."
-        },
-        {
-          "Verseid": "15004007",
-          "Verse": "And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will all of you even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing to answer."
-        },
-        {
-          "Verseid": "15004008",
-          "Verse": "Also I said, It is not good that all of you do: ought all of you not to walk in the fear of our God because of the reproach of the heathen our enemies?"
-        },
-        {
-          "Verseid": "15004009",
-          "Verse": "I likewise, and my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this interest."
-        },
-        {
-          "Verseid": "15004010",
-          "Verse": "Restore, I pray you, to them, even this day, their lands, their vineyards, their olive yards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that all of you exact of them."
-        },
-        {
-          "Verseid": "15004011",
-          "Verse": "Then said they, We will restore them, and will require nothing of them; so will we do as you says. Then I called the priests, and took an oath of them, that they should do according to this promise."
-        },
-        {
-          "Verseid": "15004012",
-          "Verse": "Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performs not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the LORD. And the people did according to this promise."
-        },
-        {
-          "Verseid": "15004013",
-          "Verse": "Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, that is, twelve years, I and my brethren have not eaten the bread of the governor."
-        },
-        {
-          "Verseid": "15004014",
-          "Verse": "But the former governors that had been before me were chargeable unto the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God."
-        },
-        {
-          "Verseid": "15004015",
-          "Verse": "Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered thither unto the work."
-        },
-        {
-          "Verseid": "15004016",
-          "Verse": "Moreover there were at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that are about us."
-        },
-        {
-          "Verseid": "15004017",
-          "Verse": "Now that which was prepared for me daily was one ox and six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people."
-        },
-        {
-          "Verseid": "15004018",
-          "Verse": "Think upon me, my God, for good, according to all that I have done for this people."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15005000",
-          "Verse": "Now it came to pass when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had built the wall, and that there was no breach left therein; (though at that time I had not set up the doors upon the gates;)"
-        },
-        {
-          "Verseid": "15005001",
-          "Verse": "That Sanballat and Geshem sent unto me, saying, Come, let us meet together in some one of the villages in the plain of Ono. But they thought to do me mischief."
-        },
-        {
-          "Verseid": "15005002",
-          "Verse": "And I sent messengers unto them, saying, I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?"
-        },
-        {
-          "Verseid": "15005003",
-          "Verse": "Yet they sent unto me four times after this sort; and I answered them after the same manner."
-        },
-        {
-          "Verseid": "15005004",
-          "Verse": "Then sent Sanballat his servant unto me in like manner the fifth time with an open letter in his hand;"
-        },
-        {
-          "Verseid": "15005005",
-          "Verse": "Wherein was written, It is reported among the heathen, and Gashmu says it, that you and the Jews think to rebel: for which cause you build the wall, that you may be their king, according to these words."
-        },
-        {
-          "Verseid": "15005006",
-          "Verse": "And you have also appointed prophets to preach of you at Jerusalem, saying, There is a king in Judah: and now shall it be reported to the king according to these words. Come now therefore, and let us take counsel together."
-        },
-        {
-          "Verseid": "15005007",
-          "Verse": "Then I sent unto him, saying, There are no such things done as you says, but you feign them out of yours own heart."
-        },
-        {
-          "Verseid": "15005008",
-          "Verse": "For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, O God, strengthen my hands."
-        },
-        {
-          "Verseid": "15005009",
-          "Verse": "Afterward I came unto the house of Shemaiah the son of Delaiah the son of Mehetabeel, who was shut up; and he said, Let us meet together in the house of God, within the temple, and let us shut the doors of the temple: for they will come to slay you; yea, in the night will they come to slay you."
-        },
-        {
-          "Verseid": "15005010",
-          "Verse": "And I said, Should such a man as I flee? and who is there, that, being as I am, would go into the temple to save his life? I will not go in."
-        },
-        {
-          "Verseid": "15005011",
-          "Verse": "And, lo, I perceived that God had not sent him; but that he pronounced this prophecy against me: for Tobiah and Sanballat had hired him."
-        },
-        {
-          "Verseid": "15005012",
-          "Verse": "Therefore was he hired, that I should be afraid, and do so, and sin, and that they might have matter for an evil report, that they might reproach me."
-        },
-        {
-          "Verseid": "15005013",
-          "Verse": "My God, think you upon Tobiah and Sanballat according to these their works, and on the prophetess Noadiah, and the rest of the prophets, that would have put me in fear."
-        },
-        {
-          "Verseid": "15005014",
-          "Verse": "So the wall was finished in the twenty and fifth day of the month Elul, in fifty and two days."
-        },
-        {
-          "Verseid": "15005015",
-          "Verse": "And it came to pass, that when all our enemies heard thereof, and all the heathen that were about us saw these things, they were much cast down in their own eyes: for they perceived that this work was wrought of our God."
-        },
-        {
-          "Verseid": "15005016",
-          "Verse": "Moreover in those days the nobles of Judah sent many letters unto Tobiah, and the letters of Tobiah came unto them."
-        },
-        {
-          "Verseid": "15005017",
-          "Verse": "For there were many in Judah sworn unto him, because he was the son in law of Shechaniah the son of Arah; and his son Johanan had taken the daughter of Meshullam the son of Berechiah."
-        },
-        {
-          "Verseid": "15005018",
-          "Verse": "Also they reported his good deeds before me, and uttered my words to him. And Tobiah sent letters to put me in fear."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15006000",
-          "Verse": "Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,"
-        },
-        {
-          "Verseid": "15006001",
-          "Verse": "That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he was a faithful man, and feared God above many."
-        },
-        {
-          "Verseid": "15006002",
-          "Verse": "And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar them: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one to be opposite to his house."
-        },
-        {
-          "Verseid": "15006003",
-          "Verse": "Now the city was large and great: but the people were few therein, and the houses were not built."
-        },
-        {
-          "Verseid": "15006004",
-          "Verse": "And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written therein,"
-        },
-        {
-          "Verseid": "15006005",
-          "Verse": "These are the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city;"
-        },
-        {
-          "Verseid": "15006006",
-          "Verse": "Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number, I say, of the men of the people of Israel was this;"
-        },
-        {
-          "Verseid": "15006007",
-          "Verse": "The children of Parosh, two thousand an hundred seventy and two."
-        },
-        {
-          "Verseid": "15006008",
-          "Verse": "The children of Shephatiah, three hundred seventy and two."
-        },
-        {
-          "Verseid": "15006009",
-          "Verse": "The children of Arah, six hundred fifty and two."
-        },
-        {
-          "Verseid": "15006010",
-          "Verse": "The children of Pahathmoab, of the children of Jeshua and Joab, two thousand and eight hundred and eighteen."
-        },
-        {
-          "Verseid": "15006011",
-          "Verse": "The children of Elam, a thousand two hundred fifty and four."
-        },
-        {
-          "Verseid": "15006012",
-          "Verse": "The children of Zattu, eight hundred forty and five."
-        },
-        {
-          "Verseid": "15006013",
-          "Verse": "The children of Zaccai, seven hundred and threescore."
-        },
-        {
-          "Verseid": "15006014",
-          "Verse": "The children of Binnui, six hundred forty and eight."
-        },
-        {
-          "Verseid": "15006015",
-          "Verse": "The children of Bebai, six hundred twenty and eight."
-        },
-        {
-          "Verseid": "15006016",
-          "Verse": "The children of Azgad, two thousand three hundred twenty and two."
-        },
-        {
-          "Verseid": "15006017",
-          "Verse": "The children of Adonikam, six hundred threescore and seven."
-        },
-        {
-          "Verseid": "15006018",
-          "Verse": "The children of Bigvai, two thousand threescore and seven."
-        },
-        {
-          "Verseid": "15006019",
-          "Verse": "The children of Adin, six hundred fifty and five."
-        },
-        {
-          "Verseid": "15006020",
-          "Verse": "The children of Ater of Hezekiah, ninety and eight."
-        },
-        {
-          "Verseid": "15006021",
-          "Verse": "The children of Hashum, three hundred twenty and eight."
-        },
-        {
-          "Verseid": "15006022",
-          "Verse": "The children of Bezai, three hundred twenty and four."
-        },
-        {
-          "Verseid": "15006023",
-          "Verse": "The children of Hariph, an hundred and twelve."
-        },
-        {
-          "Verseid": "15006024",
-          "Verse": "The children of Gibeon, ninety and five."
-        },
-        {
-          "Verseid": "15006025",
-          "Verse": "The men of Bethlehem and Netophah, an hundred fourscore and eight."
-        },
-        {
-          "Verseid": "15006026",
-          "Verse": "The men of Anathoth, an hundred twenty and eight."
-        },
-        {
-          "Verseid": "15006027",
-          "Verse": "The men of Bethazmaveth, forty and two."
-        },
-        {
-          "Verseid": "15006028",
-          "Verse": "The men of Kirjathjearim, Chephirah, and Beeroth, seven hundred forty and three."
-        },
-        {
-          "Verseid": "15006029",
-          "Verse": "The men of Ramah and Gaba, six hundred twenty and one."
-        },
-        {
-          "Verseid": "15006030",
-          "Verse": "The men of Michmas, an hundred and twenty and two."
-        },
-        {
-          "Verseid": "15006031",
-          "Verse": "The men of Bethel and Ai, an hundred twenty and three."
-        },
-        {
-          "Verseid": "15006032",
-          "Verse": "The men of the other Nebo, fifty and two."
-        },
-        {
-          "Verseid": "15006033",
-          "Verse": "The children of the other Elam, a thousand two hundred fifty and four."
-        },
-        {
-          "Verseid": "15006034",
-          "Verse": "The children of Harim, three hundred and twenty."
-        },
-        {
-          "Verseid": "15006035",
-          "Verse": "The children of Jericho, three hundred forty and five."
-        },
-        {
-          "Verseid": "15006036",
-          "Verse": "The children of Lod, Hadid, and Ono, seven hundred twenty and one."
-        },
-        {
-          "Verseid": "15006037",
-          "Verse": "The children of Senaah, three thousand nine hundred and thirty."
-        },
-        {
-          "Verseid": "15006038",
-          "Verse": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three."
-        },
-        {
-          "Verseid": "15006039",
-          "Verse": "The children of Immer, a thousand fifty and two."
-        },
-        {
-          "Verseid": "15006040",
-          "Verse": "The children of Pashur, a thousand two hundred forty and seven."
-        },
-        {
-          "Verseid": "15006041",
-          "Verse": "The children of Harim, a thousand and seventeen."
-        },
-        {
-          "Verseid": "15006042",
-          "Verse": "The Levites: the children of Jeshua, of Kadmiel, and of the children of Hodevah, seventy and four."
-        },
-        {
-          "Verseid": "15006043",
-          "Verse": "The singers: the children of Asaph, an hundred forty and eight."
-        },
-        {
-          "Verseid": "15006044",
-          "Verse": "The porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, an hundred thirty and eight."
-        },
-        {
-          "Verseid": "15006045",
-          "Verse": "The Nethinims: the children of Ziha, the children of Hashupha, the children of Tabbaoth,"
-        },
-        {
-          "Verseid": "15006046",
-          "Verse": "The children of Keros, the children of Sia, the children of Padon,"
-        },
-        {
-          "Verseid": "15006047",
-          "Verse": "The children of Lebana, the children of Hagaba, the children of Shalmai,"
-        },
-        {
-          "Verseid": "15006048",
-          "Verse": "The children of Hanan, the children of Giddel, the children of Gahar,"
-        },
-        {
-          "Verseid": "15006049",
-          "Verse": "The children of Reaiah, the children of Rezin, the children of Nekoda,"
-        },
-        {
-          "Verseid": "15006050",
-          "Verse": "The children of Gazzam, the children of Uzza, the children of Phaseah,"
-        },
-        {
-          "Verseid": "15006051",
-          "Verse": "The children of Besai, the children of Meunim, the children of Nephishesim,"
-        },
-        {
-          "Verseid": "15006052",
-          "Verse": "The children of Bakbuk, the children of Hakupha, the children of Harhur,"
-        },
-        {
-          "Verseid": "15006053",
-          "Verse": "The children of Bazlith, the children of Mehida, the children of Harsha,"
-        },
-        {
-          "Verseid": "15006054",
-          "Verse": "The children of Barkos, the children of Sisera, the children of Tamah,"
-        },
-        {
-          "Verseid": "15006055",
-          "Verse": "The children of Neziah, the children of Hatipha."
-        },
-        {
-          "Verseid": "15006056",
-          "Verse": "The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Perida,"
-        },
-        {
-          "Verseid": "15006057",
-          "Verse": "The children of Jaala, the children of Darkon, the children of Giddel,"
-        },
-        {
-          "Verseid": "15006058",
-          "Verse": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Amon."
-        },
-        {
-          "Verseid": "15006059",
-          "Verse": "All the Nethinims, and the children of Solomon's servants, were three hundred ninety and two."
-        },
-        {
-          "Verseid": "15006060",
-          "Verse": "And these were they which went up also from Telmelah, Telharesha, Cherub, Addon, and Immer: but they could not show their father's house, nor their seed, whether they were of Israel."
-        },
-        {
-          "Verseid": "15006061",
-          "Verse": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two."
-        },
-        {
-          "Verseid": "15006062",
-          "Verse": "And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took one of the daughters of Barzillai the Gileadite to wife, and was called after their name."
-        },
-        {
-          "Verseid": "15006063",
-          "Verse": "These sought their register among those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood."
-        },
-        {
-          "Verseid": "15006064",
-          "Verse": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and Thummim."
-        },
-        {
-          "Verseid": "15006065",
-          "Verse": "The whole congregation together was forty and two thousand three hundred and threescore,"
-        },
-        {
-          "Verseid": "15006066",
-          "Verse": "Beside their male servants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women."
-        },
-        {
-          "Verseid": "15006067",
-          "Verse": "Their horses, seven hundred thirty and six: their mules, two hundred forty and five:"
-        },
-        {
-          "Verseid": "15006068",
-          "Verse": "Their camels, four hundred thirty and five: six thousand seven hundred and twenty asses."
-        },
-        {
-          "Verseid": "15006069",
-          "Verse": "And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests' garments."
-        },
-        {
-          "Verseid": "15006070",
-          "Verse": "And some of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver."
-        },
-        {
-          "Verseid": "15006071",
-          "Verse": "And that which the rest of the people gave was twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests' garments."
-        },
-        {
-          "Verseid": "15006072",
-          "Verse": "So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15007000",
-          "Verse": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spoke unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel."
-        },
-        {
-          "Verseid": "15007001",
-          "Verse": "And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month."
-        },
-        {
-          "Verseid": "15007002",
-          "Verse": "And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law."
-        },
-        {
-          "Verseid": "15007003",
-          "Verse": "And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam."
-        },
-        {
-          "Verseid": "15007004",
-          "Verse": "And Ezra opened the book in the sight of all the people; (for he was above all the people;) and when he opened it, all the people stood up:"
-        },
-        {
-          "Verseid": "15007005",
-          "Verse": "And Ezra blessed the LORD, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the LORD with their faces to the ground."
-        },
-        {
-          "Verseid": "15007006",
-          "Verse": "Also Jeshua, and Bani, and Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law: and the people stood in their place."
-        },
-        {
-          "Verseid": "15007007",
-          "Verse": "So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading."
-        },
-        {
-          "Verseid": "15007008",
-          "Verse": "And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law."
-        },
-        {
-          "Verseid": "15007009",
-          "Verse": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our LORD: neither be all of you sorry; for the joy of the LORD is your strength."
-        },
-        {
-          "Verseid": "15007010",
-          "Verse": "So the Levites stilled all the people, saying, Hold your peace, for the day is holy; neither be all of you grieved."
-        },
-        {
-          "Verseid": "15007011",
-          "Verse": "And all the people went their way to eat, and to drink, and to send portions, and to make great delight, because they had understood the words that were declared unto them."
-        },
-        {
-          "Verseid": "15007012",
-          "Verse": "And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law."
-        },
-        {
-          "Verseid": "15007013",
-          "Verse": "And they found written in the law which the LORD had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:"
-        },
-        {
-          "Verseid": "15007014",
-          "Verse": "And that they should publish and proclaim in all their cities, and in Jerusalem, saying, Go forth unto the mount, and fetch olive branches, and pine branches, and myrtle branches, and palm branches, and branches of thick trees, to make booths, as it is written."
-        },
-        {
-          "Verseid": "15007015",
-          "Verse": "So the people went forth, and brought them, and made themselves booths, every one upon the roof of his house, and in their courts, and in the courts of the house of God, and in the street of the water gate, and in the street of the gate of Ephraim."
-        },
-        {
-          "Verseid": "15007016",
-          "Verse": "And all the congregation of them that were come again out of the captivity made booths, and sat under the booths: for since the days of Jeshua the son of Nun unto that day had not the children of Israel done so. And there was very great gladness."
-        },
-        {
-          "Verseid": "15007017",
-          "Verse": "Also day by day, from the first day unto the last day, he read in the book of the law of God. And they kept the feast seven days; and on the eighth day was a solemn assembly, according unto the manner."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15008000",
-          "Verse": "Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sack clothes, and earth upon them."
-        },
-        {
-          "Verseid": "15008001",
-          "Verse": "And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers."
-        },
-        {
-          "Verseid": "15008002",
-          "Verse": "And they stood up in their place, and read in the book of the law of the LORD their God one fourth part of the day; and another fourth part they confessed, and worshipped the LORD their God."
-        },
-        {
-          "Verseid": "15008003",
-          "Verse": "Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the LORD their God."
-        },
-        {
-          "Verseid": "15008004",
-          "Verse": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the LORD your God for ever and ever: and blessed be your glorious name, which is exalted above all blessing and praise."
-        },
-        {
-          "Verseid": "15008005",
-          "Verse": "You, even you, are LORD alone; you have made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and you preserve them all; and the host of heaven worships you."
-        },
-        {
-          "Verseid": "15008006",
-          "Verse": "You are the LORD the God, who did choose Abram, and brought him forth out of Ur of the Chaldees, and gave him the name of Abraham;"
-        },
-        {
-          "Verseid": "15008007",
-          "Verse": "And found his heart faithful before you, and made a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give it, I say, to his seed, and have performed your words; for you are righteous:"
-        },
-        {
-          "Verseid": "15008008",
-          "Verse": "And did see the affliction of our fathers in Egypt, and heard their cry by the Red sea;"
-        },
-        {
-          "Verseid": "15008009",
-          "Verse": "And showed signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for you knew that they dealt proudly against them. So did you get you a name, as it is this day."
-        },
-        {
-          "Verseid": "15008010",
-          "Verse": "And you did divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors you threw into the deeps, as a stone into the mighty waters."
-        },
-        {
-          "Verseid": "15008011",
-          "Verse": "Moreover you led them in the day by a cloudy pillar; and in the night by a pillar of fire, to give them light in the way wherein they should go."
-        },
-        {
-          "Verseid": "15008012",
-          "Verse": "You came down also upon mount Sinai, and spoke with them from heaven, and gave them right judgments, and true laws, good statutes and commandments:"
-        },
-        {
-          "Verseid": "15008013",
-          "Verse": "And made known unto them your holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses your servant:"
-        },
-        {
-          "Verseid": "15008014",
-          "Verse": "And gave them bread from heaven for their hunger, and brought forth water for them out of the rock for their thirst, and promised them that they should go in to possess the land which you had sworn to give them."
-        },
-        {
-          "Verseid": "15008015",
-          "Verse": "But they and our fathers dealt proudly, and hardened their necks, and hearkened not to your commandments,"
-        },
-        {
-          "Verseid": "15008016",
-          "Verse": "And refused to obey, neither were mindful of your wonders that you did among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but you are a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsook them not."
-        },
-        {
-          "Verseid": "15008017",
-          "Verse": "Yea, when they had made them a molten calf, and said, This is your God that brought you up out of Egypt, and had wrought great provocations;"
-        },
-        {
-          "Verseid": "15008018",
-          "Verse": "Yet you in your manifold mercies forsook them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to show them light, and the way wherein they should go."
-        },
-        {
-          "Verseid": "15008019",
-          "Verse": "You gave also your good spirit to instruct them, and withheld not your manna from their mouth, and gave them water for their thirst."
-        },
-        {
-          "Verseid": "15008020",
-          "Verse": "Yea, forty years did you sustain them in the wilderness, so that they lacked nothing; their clothes waxed not old, and their feet swelled not."
-        },
-        {
-          "Verseid": "15008021",
-          "Verse": "Moreover you gave them kingdoms and nations, and did divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan."
-        },
-        {
-          "Verseid": "15008022",
-          "Verse": "Their children also multiplied you as the stars of heaven, and brought them into the land, concerning which you had promised to their fathers, that they should go in to possess it."
-        },
-        {
-          "Verseid": "15008023",
-          "Verse": "So the children went in and possessed the land, and you subdued before them the inhabitants of the land, the Canaanites, and gave them into their hands, with their kings, and the people of the land, that they might do with them as they would."
-        },
-        {
-          "Verseid": "15008024",
-          "Verse": "And they took strong cities, and a fat land, and possessed houses full of all goods, wells dug, vineyards, and olive yards, and fruit trees in abundance: so they did eat, and were filled, and became fat, and delighted themselves in your great goodness."
-        },
-        {
-          "Verseid": "15008025",
-          "Verse": "Nevertheless they were disobedient, and rebelled against you, and cast your law behind their backs, and slew your prophets which testified against them to turn them to you, and they wrought great provocations."
-        },
-        {
-          "Verseid": "15008026",
-          "Verse": "Therefore you delivered them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried unto you, you heard them from heaven; and according to your manifold mercies you gave them saviours, who saved them out of the hand of their enemies."
-        },
-        {
-          "Verseid": "15008027",
-          "Verse": "But after they had rest, they did evil again before you: therefore left you them in the land of their enemies, so that they had the dominion over them: yet when they returned, and cried unto you, you heard them from heaven; and many times did you deliver them according to your mercies;"
-        },
-        {
-          "Verseid": "15008028",
-          "Verse": "And testified against them, that you might bring them again unto your law: yet they dealt proudly, and hearkened not unto your commandments, but sinned against your judgments, (which if a man do, he shall live in them;) and withdrew the shoulder, and hardened their neck, and would not hear."
-        },
-        {
-          "Verseid": "15008029",
-          "Verse": "Yet many years did you forbear them, and testified against them by your spirit in your prophets: yet would they not give ear: therefore gave you them into the hand of the people of the lands."
-        },
-        {
-          "Verseid": "15008030",
-          "Verse": "Nevertheless for your great mercies' sake you did not utterly consume them, nor forsake them; for you are a gracious and merciful God."
-        },
-        {
-          "Verseid": "15008031",
-          "Verse": "Now therefore, our God, the great, the mighty, and the terrible God, who keep covenant and mercy, let not all the trouble seem little before you, that has come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all your people, since the time of the kings of Assyria unto this day."
-        },
-        {
-          "Verseid": "15008032",
-          "Verse": "Nevertheless you are just in all that is brought upon us; for you have done right, but we have done wickedly:"
-        },
-        {
-          "Verseid": "15008033",
-          "Verse": "Neither have our kings, our princes, our priests, nor our fathers, kept your law, nor hearkened unto your commandments and your testimonies, wherewith you did testify against them."
-        },
-        {
-          "Verseid": "15008034",
-          "Verse": "For they have not served you in their kingdom, and in your great goodness that you gave them, and in the large and fat land which you gave before them, neither turned they from their wicked works."
-        },
-        {
-          "Verseid": "15008035",
-          "Verse": "Behold, we are servants this day, and for the land that you gave unto our fathers to eat the fruit thereof and the good thereof, behold, we are servants in it:"
-        },
-        {
-          "Verseid": "15008036",
-          "Verse": "And it yields much increase unto the kings whom you have set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress."
-        },
-        {
-          "Verseid": "15008037",
-          "Verse": "And because of all this we make a sure covenant, and write it; and our princes, Levites, and priests, seal unto it."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15009000",
-          "Verse": "Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,"
-        },
-        {
-          "Verseid": "15009001",
-          "Verse": "Seraiah, Azariah, Jeremiah,"
-        },
-        {
-          "Verseid": "15009002",
-          "Verse": "Pashur, Amariah, Malchijah,"
-        },
-        {
-          "Verseid": "15009003",
-          "Verse": "Hattush, Shebaniah, Malluch,"
-        },
-        {
-          "Verseid": "15009004",
-          "Verse": "Harim, Meremoth, Obadiah,"
-        },
-        {
-          "Verseid": "15009005",
-          "Verse": "Daniel, Ginnethon, Baruch,"
-        },
-        {
-          "Verseid": "15009006",
-          "Verse": "Meshullam, Abijah, Mijamin,"
-        },
-        {
-          "Verseid": "15009007",
-          "Verse": "Maaziah, Bilgai, Shemaiah: these were the priests."
-        },
-        {
-          "Verseid": "15009008",
-          "Verse": "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;"
-        },
-        {
-          "Verseid": "15009009",
-          "Verse": "And their brethren, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan,"
-        },
-        {
-          "Verseid": "15009010",
-          "Verse": "Micha, Rehob, Hashabiah,"
-        },
-        {
-          "Verseid": "15009011",
-          "Verse": "Zaccur, Sherebiah, Shebaniah,"
-        },
-        {
-          "Verseid": "15009012",
-          "Verse": "Hodijah, Bani, Beninu."
-        },
-        {
-          "Verseid": "15009013",
-          "Verse": "The chief of the people; Parosh, Pahathmoab, Elam, Zatthu, Bani,"
-        },
-        {
-          "Verseid": "15009014",
-          "Verse": "Bunni, Azgad, Bebai,"
-        },
-        {
-          "Verseid": "15009015",
-          "Verse": "Adonijah, Bigvai, Adin,"
-        },
-        {
-          "Verseid": "15009016",
-          "Verse": "Ater, Hizkijah, Azzur,"
-        },
-        {
-          "Verseid": "15009017",
-          "Verse": "Hodijah, Hashum, Bezai,"
-        },
-        {
-          "Verseid": "15009018",
-          "Verse": "Hariph, Anathoth, Nebai,"
-        },
-        {
-          "Verseid": "15009019",
-          "Verse": "Magpiash, Meshullam, Hezir,"
-        },
-        {
-          "Verseid": "15009020",
-          "Verse": "Meshezabeel, Zadok, Jaddua,"
-        },
-        {
-          "Verseid": "15009021",
-          "Verse": "Pelatiah, Hanan, Anaiah,"
-        },
-        {
-          "Verseid": "15009022",
-          "Verse": "Hoshea, Hananiah, Hashub,"
-        },
-        {
-          "Verseid": "15009023",
-          "Verse": "Hallohesh, Pileha, Shobek,"
-        },
-        {
-          "Verseid": "15009024",
-          "Verse": "Rehum, Hashabnah, Maaseiah,"
-        },
-        {
-          "Verseid": "15009025",
-          "Verse": "And Ahijah, Hanan, Anan,"
-        },
-        {
-          "Verseid": "15009026",
-          "Verse": "Malluch, Harim, Baanah."
-        },
-        {
-          "Verseid": "15009027",
-          "Verse": "And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;"
-        },
-        {
-          "Verseid": "15009028",
-          "Verse": "They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;"
-        },
-        {
-          "Verseid": "15009029",
-          "Verse": "And that we would not give our daughters unto the people of the land, not take their daughters for our sons:"
-        },
-        {
-          "Verseid": "15009030",
-          "Verse": "And if the people of the land bring ware or any victuals on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the exaction of every debt."
-        },
-        {
-          "Verseid": "15009031",
-          "Verse": "Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;"
-        },
-        {
-          "Verseid": "15009032",
-          "Verse": "For the showbread, and for the continual food offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God."
-        },
-        {
-          "Verseid": "15009033",
-          "Verse": "And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as it is written in the law:"
-        },
-        {
-          "Verseid": "15009034",
-          "Verse": "And to bring the first-fruits of our ground, and the first-fruits of all fruit of all trees, year by year, unto the house of the LORD:"
-        },
-        {
-          "Verseid": "15009035",
-          "Verse": "Also the firstborn of our sons, and of our cattle, as it is written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God:"
-        },
-        {
-          "Verseid": "15009036",
-          "Verse": "And that we should bring the first-fruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage."
-        },
-        {
-          "Verseid": "15009037",
-          "Verse": "And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house."
-        },
-        {
-          "Verseid": "15009038",
-          "Verse": "For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15010000",
-          "Verse": "And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities."
-        },
-        {
-          "Verseid": "15010001",
-          "Verse": "And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem."
-        },
-        {
-          "Verseid": "15010002",
-          "Verse": "Now these are the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, to know, Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon's servants."
-        },
-        {
-          "Verseid": "15010003",
-          "Verse": "And at Jerusalem dwelt certain of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;"
-        },
-        {
-          "Verseid": "15010004",
-          "Verse": "And Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni."
-        },
-        {
-          "Verseid": "15010005",
-          "Verse": "All the sons of Perez that dwelt at Jerusalem were four hundred threescore and eight valiant men."
-        },
-        {
-          "Verseid": "15010006",
-          "Verse": "And these are the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah."
-        },
-        {
-          "Verseid": "15010007",
-          "Verse": "And after him Gabbai, Sallai, nine hundred twenty and eight."
-        },
-        {
-          "Verseid": "15010008",
-          "Verse": "And Joel the son of Zichri was their overseer: and Judah the son of Senuah was second over the city."
-        },
-        {
-          "Verseid": "15010009",
-          "Verse": "Of the priests: Jedaiah the son of Joiarib, Jachin."
-        },
-        {
-          "Verseid": "15010010",
-          "Verse": "Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, was the ruler of the house of God."
-        },
-        {
-          "Verseid": "15010011",
-          "Verse": "And their brethren that did the work of the house were eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah."
-        },
-        {
-          "Verseid": "15010012",
-          "Verse": "And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,"
-        },
-        {
-          "Verseid": "15010013",
-          "Verse": "And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer was Zabdiel, the son of one of the great men."
-        },
-        {
-          "Verseid": "15010014",
-          "Verse": "Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;"
-        },
-        {
-          "Verseid": "15010015",
-          "Verse": "And Shabbethai and Jozabad, of the chief of the Levites, had the oversight of the outward business of the house of God."
-        },
-        {
-          "Verseid": "15010016",
-          "Verse": "And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, was the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun."
-        },
-        {
-          "Verseid": "15010017",
-          "Verse": "All the Levites in the holy city were two hundred fourscore and four."
-        },
-        {
-          "Verseid": "15010018",
-          "Verse": "Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, were an hundred seventy and two."
-        },
-        {
-          "Verseid": "15010019",
-          "Verse": "And the residue of Israel, of the priests, and the Levites, were in all the cities of Judah, every one in his inheritance."
-        },
-        {
-          "Verseid": "15010020",
-          "Verse": "But the Nethinims dwelt in Ophel: and Ziha and Gispa were over the Nethinims."
-        },
-        {
-          "Verseid": "15010021",
-          "Verse": "The overseer also of the Levites at Jerusalem was Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers were over the business of the house of God."
-        },
-        {
-          "Verseid": "15010022",
-          "Verse": "For it was the king's commandment concerning them, that a certain portion should be for the singers, due for every day."
-        },
-        {
-          "Verseid": "15010023",
-          "Verse": "And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, was at the king's hand in all matters concerning the people."
-        },
-        {
-          "Verseid": "15010024",
-          "Verse": "And for the villages, with their fields, some of the children of Judah dwelt at Kirjatharba, and in the villages thereof, and at Dibon, and in the villages thereof, and at Jekabzeel, and in the villages thereof,"
-        },
-        {
-          "Verseid": "15010025",
-          "Verse": "And at Jeshua, and at Moladah, and at Bethphelet,"
-        },
-        {
-          "Verseid": "15010026",
-          "Verse": "And at Hazarshual, and at Beersheba, and in the villages thereof,"
-        },
-        {
-          "Verseid": "15010027",
-          "Verse": "And at Ziklag, and at Mekonah, and in the villages thereof,"
-        },
-        {
-          "Verseid": "15010028",
-          "Verse": "And at Enrimmon, and at Zareah, and at Jarmuth,"
-        },
-        {
-          "Verseid": "15010029",
-          "Verse": "Zanoah, Adullam, and in their villages, at Lachish, and the fields thereof, at Azekah, and in the villages thereof. And they dwelt from Beersheba unto the valley of Hinnom."
-        },
-        {
-          "Verseid": "15010030",
-          "Verse": "The children also of Benjamin from Geba dwelt at Michmash, and Aija, and Bethel, and in their villages."
-        },
-        {
-          "Verseid": "15010031",
-          "Verse": "And at Anathoth, Nob, Ananiah,"
-        },
-        {
-          "Verseid": "15010032",
-          "Verse": "Hazor, Ramah, Gittaim,"
-        },
-        {
-          "Verseid": "15010033",
-          "Verse": "Hadid, Zeboim, Neballat,"
-        },
-        {
-          "Verseid": "15010034",
-          "Verse": "Lod, and Ono, the valley of craftsmen."
-        },
-        {
-          "Verseid": "15010035",
-          "Verse": "And of the Levites were divisions in Judah, and in Benjamin."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15011000",
-          "Verse": "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,"
-        },
-        {
-          "Verseid": "15011001",
-          "Verse": "Amariah, Malluch, Hattush,"
-        },
-        {
-          "Verseid": "15011002",
-          "Verse": "Shechaniah, Rehum, Meremoth,"
-        },
-        {
-          "Verseid": "15011003",
-          "Verse": "Iddo, Ginnetho, Abijah,"
-        },
-        {
-          "Verseid": "15011004",
-          "Verse": "Miamin, Maadiah, Bilgah,"
-        },
-        {
-          "Verseid": "15011005",
-          "Verse": "Shemaiah, and Joiarib, Jedaiah,"
-        },
-        {
-          "Verseid": "15011006",
-          "Verse": "Sallu, Amok, Hilkiah, Jedaiah. These were the chief of the priests and of their brethren in the days of Jeshua."
-        },
-        {
-          "Verseid": "15011007",
-          "Verse": "Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brethren."
-        },
-        {
-          "Verseid": "15011008",
-          "Verse": "Also Bakbukiah and Unni, their brethren, were opposite to them in the watches."
-        },
-        {
-          "Verseid": "15011009",
-          "Verse": "And Jeshua brings forth Joiakim, Joiakim also brings forth Eliashib, and Eliashib brings forth Joiada,"
-        },
-        {
-          "Verseid": "15011010",
-          "Verse": "And Joiada brings forth Jonathan, and Jonathan brings forth Jaddua."
-        },
-        {
-          "Verseid": "15011011",
-          "Verse": "And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;"
-        },
-        {
-          "Verseid": "15011012",
-          "Verse": "Of Ezra, Meshullam; of Amariah, Jehohanan;"
-        },
-        {
-          "Verseid": "15011013",
-          "Verse": "Of Melicu, Jonathan; of Shebaniah, Joseph;"
-        },
-        {
-          "Verseid": "15011014",
-          "Verse": "Of Harim, Adna; of Meraioth, Helkai;"
-        },
-        {
-          "Verseid": "15011015",
-          "Verse": "Of Iddo, Zechariah; of Ginnethon, Meshullam;"
-        },
-        {
-          "Verseid": "15011016",
-          "Verse": "Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai:"
-        },
-        {
-          "Verseid": "15011017",
-          "Verse": "Of Bilgah, Shammua; of Shemaiah, Jehonathan;"
-        },
-        {
-          "Verseid": "15011018",
-          "Verse": "And of Joiarib, Mattenai; of Jedaiah, Uzzi;"
-        },
-        {
-          "Verseid": "15011019",
-          "Verse": "Of Sallai, Kallai; of Amok, Eber;"
-        },
-        {
-          "Verseid": "15011020",
-          "Verse": "Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel."
-        },
-        {
-          "Verseid": "15011021",
-          "Verse": "The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded chief of the fathers: also the priests, to the reign of Darius the Persian."
-        },
-        {
-          "Verseid": "15011022",
-          "Verse": "The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib."
-        },
-        {
-          "Verseid": "15011023",
-          "Verse": "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren opposite to them, to praise and to give thanks, according to the commandment of David the man of God, ward opposite to ward."
-        },
-        {
-          "Verseid": "15011024",
-          "Verse": "Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the thresholds of the gates."
-        },
-        {
-          "Verseid": "15011025",
-          "Verse": "These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe."
-        },
-        {
-          "Verseid": "15011026",
-          "Verse": "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps."
-        },
-        {
-          "Verseid": "15011027",
-          "Verse": "And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;"
-        },
-        {
-          "Verseid": "15011028",
-          "Verse": "Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had built them villages round about Jerusalem."
-        },
-        {
-          "Verseid": "15011029",
-          "Verse": "And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall."
-        },
-        {
-          "Verseid": "15011030",
-          "Verse": "Then I brought up the princes of Judah upon the wall, and appointed two great companies of them that gave thanks, whereof one went on the right hand upon the wall toward the dung gate:"
-        },
-        {
-          "Verseid": "15011031",
-          "Verse": "And after them went Hoshaiah, and half of the princes of Judah,"
-        },
-        {
-          "Verseid": "15011032",
-          "Verse": "And Azariah, Ezra, and Meshullam,"
-        },
-        {
-          "Verseid": "15011033",
-          "Verse": "Judah, and Benjamin, and Shemaiah, and Jeremiah,"
-        },
-        {
-          "Verseid": "15011034",
-          "Verse": "And certain of the priests' sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:"
-        },
-        {
-          "Verseid": "15011035",
-          "Verse": "And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them."
-        },
-        {
-          "Verseid": "15011036",
-          "Verse": "And at the fountain gate, which was opposite to them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward."
-        },
-        {
-          "Verseid": "15011037",
-          "Verse": "And the other company of them that gave thanks went opposite to them, and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;"
-        },
-        {
-          "Verseid": "15011038",
-          "Verse": "And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate."
-        },
-        {
-          "Verseid": "15011039",
-          "Verse": "So stood the two companies of them that gave thanks in the house of God, and I, and the half of the rulers with me:"
-        },
-        {
-          "Verseid": "15011040",
-          "Verse": "And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;"
-        },
-        {
-          "Verseid": "15011041",
-          "Verse": "And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer."
-        },
-        {
-          "Verseid": "15011042",
-          "Verse": "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even far off."
-        },
-        {
-          "Verseid": "15011043",
-          "Verse": "And at that time were some appointed over the chambers for the treasures, for the offerings, for the first-fruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited."
-        },
-        {
-          "Verseid": "15011044",
-          "Verse": "And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son."
-        },
-        {
-          "Verseid": "15011045",
-          "Verse": "For in the days of David and Asaph of old there were chief of the singers, and songs of praise and thanksgiving unto God."
-        },
-        {
-          "Verseid": "15011046",
-          "Verse": "And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified holy things unto the Levites; and the Levites sanctified them unto the children of Aaron."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "15012000",
-          "Verse": "On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever;"
-        },
-        {
-          "Verseid": "15012001",
-          "Verse": "Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: nevertheless our God turned the curse into a blessing."
-        },
-        {
-          "Verseid": "15012002",
-          "Verse": "Now it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude."
-        },
-        {
-          "Verseid": "15012003",
-          "Verse": "And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, was allied unto Tobiah:"
-        },
-        {
-          "Verseid": "15012004",
-          "Verse": "And he had prepared for him a great chamber, where in old times they laid the food offerings, the frankincense, and the vessels, and the tithes of the corn, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests."
-        },
-        {
-          "Verseid": "15012005",
-          "Verse": "But in all this time was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I unto the king, and after certain days obtained I leave of the king:"
-        },
-        {
-          "Verseid": "15012006",
-          "Verse": "And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God."
-        },
-        {
-          "Verseid": "15012007",
-          "Verse": "And it grieved me sore: therefore I cast forth all the household stuff to Tobiah out of the chamber."
-        },
-        {
-          "Verseid": "15012008",
-          "Verse": "Then I commanded, and they cleansed the chambers: and thither brought I again the vessels of the house of God, with the food offering and the frankincense."
-        },
-        {
-          "Verseid": "15012009",
-          "Verse": "And I perceived that the portions of the Levites had not been given them: for the Levites and the singers, that did the work, were fled every one to his field."
-        },
-        {
-          "Verseid": "15012010",
-          "Verse": "Then contended I with the rulers, and said, Why is the house of God forsaken? And I gathered them together, and set them in their place."
-        },
-        {
-          "Verseid": "15012011",
-          "Verse": "Then brought all Judah the tithe of the corn and the new wine and the oil unto the treasuries."
-        },
-        {
-          "Verseid": "15012012",
-          "Verse": "And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office was to distribute unto their brethren."
-        },
-        {
-          "Verseid": "15012013",
-          "Verse": "Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices thereof."
-        },
-        {
-          "Verseid": "15012014",
-          "Verse": "In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold victuals."
-        },
-        {
-          "Verseid": "15012015",
-          "Verse": "There dwelt men of Tyre also therein, which brought fish, and all manner of ware, and sold on the sabbath unto the children of Judah, and in Jerusalem."
-        },
-        {
-          "Verseid": "15012016",
-          "Verse": "Then I contended with the nobles of Judah, and said unto them, What evil thing is this that all of you do, and profane the sabbath day?"
-        },
-        {
-          "Verseid": "15012017",
-          "Verse": "Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet all of you bring more wrath upon Israel by profaning the sabbath."
-        },
-        {
-          "Verseid": "15012018",
-          "Verse": "And it came to pass, that when the gates of Jerusalem began to be dark before the sabbath, I commanded that the gates should be shut, and charged that they should not be opened till after the sabbath: and some of my servants set I at the gates, that there should no burden be brought in on the sabbath day."
-        },
-        {
-          "Verseid": "15012019",
-          "Verse": "So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice."
-        },
-        {
-          "Verseid": "15012020",
-          "Verse": "Then I testified against them, and said unto them, Why lodge all of you about the wall? if all of you do so again, I will lay hands on you. From that time forth came they no more on the sabbath."
-        },
-        {
-          "Verseid": "15012021",
-          "Verse": "And I commanded the Levites that they should cleanse themselves, and that they should come and keep the gates, to sanctify the sabbath day. Remember me, O my God, concerning this also, and spare me according to the greatness of your mercy."
-        },
-        {
-          "Verseid": "15012022",
-          "Verse": "In those days also saw I Jews that had married wives of Ashdod, of Ammon, and of Moab:"
-        },
-        {
-          "Verseid": "15012023",
-          "Verse": "And their children spoke half in the speech of Ashdod, and could not speak in the Jews' language, but according to the language of each people."
-        },
-        {
-          "Verseid": "15012024",
-          "Verse": "And I contended with them, and cursed them, and stroke certain of them, and plucked off their hair, and made them swear by God, saying, All of you shall not give your daughters unto their sons, nor take their daughters unto your sons, or for yourselves."
-        },
-        {
-          "Verseid": "15012025",
-          "Verse": "Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, who was beloved of his God, and God made him king over all Israel: nevertheless even him did foreign women cause to sin."
-        },
-        {
-          "Verseid": "15012026",
-          "Verse": "Shall we then hearken unto you to do all this great evil, to transgress against our God in marrying strange wives?"
-        },
-        {
-          "Verseid": "15012027",
-          "Verse": "And one of the sons of Joiada, the son of Eliashib the high priest, was son in law to Sanballat the Horonite: therefore I chased him from me."
-        },
-        {
-          "Verseid": "15012028",
-          "Verse": "Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites."
-        },
-        {
-          "Verseid": "15012029",
-          "Verse": "Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business;"
-        },
-        {
-          "Verseid": "15012030",
-          "Verse": "And for the wood offering, at times appointed, and for the first-fruits. Remember me, O my God, for good."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "The Words Of Nehemiah Son Of Hacaliah: In The Month Of Kislev In The Twentieth Year, While I Was In The Citadel Of Susa,",
+            "Hanani, One Of My Brothers, Came From Judah With Some Other Men, And I Questioned Them About The Jewish Remnant That Survived The Exile, And Also About Jerusalem.",
+            "They Said To Me, \"Those Who Survived The Exile And Are Back In The Province Are In Great Trouble And Disgrace. The Wall Of Jerusalem Is Broken Down, And Its Gates Have Been Burned With Fire.\"",
+            "When I Heard These Things, I Sat Down And Wept. For Some Days I Mourned And Fasted And Prayed Before The God Of Heaven.",
+            "Then I Said: \"O Lord , God Of Heaven, The Great And Awesome God, Who Keeps His Covenant Of Love With Those Who Love Him And Obey His Commands,",
+            "Let Your Ear Be Attentive And Your Eyes Open To Hear The Prayer Your Servant Is Praying Before You Day And Night For Your Servants, The People Of Israel. I Confess The Sins We Israelites, Including Myself And My Father's House, Have Committed Against You.",
+            "We Have Acted Very Wickedly Toward You. We Have Not Obeyed The Commands, Decrees And Laws You Gave Your Servant Moses.",
+            "\"Remember The Instruction You Gave Your Servant Moses, Saying, 'If You Are Unfaithful, I Will Scatter You Among The Nations,",
+            "But If You Return To Me And Obey My Commands, Then Even If Your Exiled People Are At The Farthest Horizon, I Will Gather Them From There And Bring Them To The Place I Have Chosen As A Dwelling For My Name.'",
+            "\"They Are Your Servants And Your People, Whom You Redeemed By Your Great Strength And Your Mighty Hand.",
+            "O Lord, Let Your Ear Be Attentive To The Prayer Of This Your Servant And To The Prayer Of Your Servants Who Delight In Revering Your Name. Give Your Servant Success Today By Granting Him Favor In The Presence Of This Man.\" I Was Cupbearer To The King."
+        ],
+        [
+            "In The Month Of Nisan In The Twentieth Year Of King Artaxerxes, When Wine Was Brought For Him, I Took The Wine And Gave It To The King. I Had Not Been Sad In His Presence Before;",
+            "So The King Asked Me, \"Why Does Your Face Look So Sad When You Are Not Ill? This Can Be Nothing But Sadness Of Heart.\" I Was Very Much Afraid,",
+            "But I Said To The King, \"May The King Live Forever! Why Should My Face Not Look Sad When The City Where My Fathers Are Buried Lies In Ruins, And Its Gates Have Been Destroyed By Fire?\"",
+            "The King Said To Me, \"What Is It You Want?\" Then I Prayed To The God Of Heaven,",
+            "And I Answered The King, \"If It Pleases The King And If Your Servant Has Found Favor In His Sight, Let Him Send Me To The City In Judah Where My Fathers Are Buried So That I Can Rebuild It.\"",
+            "Then The King, With The Queen Sitting Beside Him, Asked Me, \"How Long Will Your Journey Take, And When Will You Get Back?\" It Pleased The King To Send Me; So I Set A Time.",
+            "I Also Said To Him, \"If It Pleases The King, May I Have Letters To The Governors Of Trans-euphrates, So That They Will Provide Me Safe-conduct Until I Arrive In Judah?",
+            "And May I Have A Letter To Asaph, Keeper Of The King's Forest, So He Will Give Me Timber To Make Beams For The Gates Of The Citadel By The Temple And For The City Wall And For The Residence I Will Occupy?\" And Because The Gracious Hand Of My God Was Upon Me, The King Granted My Requests.",
+            "So I Went To The Governors Of Trans-euphrates And Gave Them The King's Letters. The King Had Also Sent Army Officers And Cavalry With Me.",
+            "When Sanballat The Horonite And Tobiah The Ammonite Official Heard About This, They Were Very Much Disturbed That Someone Had Come To Promote The Welfare Of The Israelites.",
+            "I Went To Jerusalem, And After Staying There Three Days",
+            "I Set Out During The Night With A Few Men. I Had Not Told Anyone What My God Had Put In My Heart To Do For Jerusalem. There Were No Mounts With Me Except The One I Was Riding On.",
+            "By Night I Went Out Through The Valley Gate Toward The Jackal Well And The Dung Gate, Examining The Walls Of Jerusalem, Which Had Been Broken Down, And Its Gates, Which Had Been Destroyed By Fire.",
+            "Then I Moved On Toward The Fountain Gate And The King's Pool, But There Was Not Enough Room For My Mount To Get Through;",
+            "So I Went Up The Valley By Night, Examining The Wall. Finally, I Turned Back And Reentered Through The Valley Gate.",
+            "The Officials Did Not Know Where I Had Gone Or What I Was Doing, Because As Yet I Had Said Nothing To The Jews Or The Priests Or Nobles Or Officials Or Any Others Who Would Be Doing The Work.",
+            "Then I Said To Them, \"You See The Trouble We Are In: Jerusalem Lies In Ruins, And Its Gates Have Been Burned With Fire. Come, Let Us Rebuild The Wall Of Jerusalem, And We Will No Longer Be In Disgrace.\"",
+            "I Also Told Them About The Gracious Hand Of My God Upon Me And What The King Had Said To Me. They Replied, \"Let Us Start Rebuilding.\" So They Began This Good Work.",
+            "But When Sanballat The Horonite, Tobiah The Ammonite Official And Geshem The Arab Heard About It, They Mocked And Ridiculed Us. \"What Is This You Are Doing?\" They Asked. \"Are You Rebelling Against The King?\"",
+            "I Answered Them By Saying, \"The God Of Heaven Will Give Us Success. We His Servants Will Start Rebuilding, But As For You, You Have No Share In Jerusalem Or Any Claim Or Historic Right To It.\""
+        ],
+        [
+            "Eliashib The High Priest And His Fellow Priests Went To Work And Rebuilt The Sheep Gate. They Dedicated It And Set Its Doors In Place, Building As Far As The Tower Of The Hundred, Which They Dedicated, And As Far As The Tower Of Hananel.",
+            "The Men Of Jericho Built The Adjoining Section, And Zaccur Son Of Imri Built Next To Them.",
+            "The Fish Gate Was Rebuilt By The Sons Of Hassenaah. They Laid Its Beams And Put Its Doors And Bolts And Bars In Place.",
+            "Meremoth Son Of Uriah, The Son Of Hakkoz, Repaired The Next Section. Next To Him Meshullam Son Of Berekiah, The Son Of Meshezabel, Made Repairs, And Next To Him Zadok Son Of Baana Also Made Repairs.",
+            "The Next Section Was Repaired By The Men Of Tekoa, But Their Nobles Would Not Put Their Shoulders To The Work Under Their Supervisors.",
+            "The Jeshanah Gate Was Repaired By Joiada Son Of Paseah And Meshullam Son Of Besodeiah. They Laid Its Beams And Put Its Doors And Bolts And Bars In Place.",
+            "Next To Them, Repairs Were Made By Men From Gibeon And Mizpah-melatiah Of Gibeon And Jadon Of Meronoth-places Under The Authority Of The Governor Of Trans-euphrates.",
+            "Uzziel Son Of Harhaiah, One Of The Goldsmiths, Repaired The Next Section; And Hananiah, One Of The Perfume-makers, Made Repairs Next To That. They Restored Jerusalem As Far As The Broad Wall.",
+            "Rephaiah Son Of Hur, Ruler Of A Half-district Of Jerusalem, Repaired The Next Section.",
+            "Adjoining This, Jedaiah Son Of Harumaph Made Repairs Opposite His House, And Hattush Son Of Hashabneiah Made Repairs Next To Him.",
+            "Malkijah Son Of Harim And Hasshub Son Of Pahath-moab Repaired Another Section And The Tower Of The Ovens.",
+            "Shallum Son Of Hallohesh, Ruler Of A Half-district Of Jerusalem, Repaired The Next Section With The Help Of His Daughters.",
+            "The Valley Gate Was Repaired By Hanun And The Residents Of Zanoah. They Rebuilt It And Put Its Doors And Bolts And Bars In Place. They Also Repaired Five Hundred Yards Of The Wall As Far As The Dung Gate.",
+            "The Dung Gate Was Repaired By Malkijah Son Of Recab, Ruler Of The District Of Beth Hakkerem. He Rebuilt It And Put Its Doors And Bolts And Bars In Place.",
+            "The Fountain Gate Was Repaired By Shallun Son Of Col-hozeh, Ruler Of The District Of Mizpah. He Rebuilt It, Roofing It Over And Putting Its Doors And Bolts And Bars In Place. He Also Repaired The Wall Of The Pool Of Siloam, By The King's Garden, As Far As The Steps Going Down From The City Of David.",
+            "Beyond Him, Nehemiah Son Of Azbuk, Ruler Of A Half-district Of Beth Zur, Made Repairs Up To A Point Opposite The Tombs Of David, As Far As The Artificial Pool And The House Of The Heroes.",
+            "Next To Him, The Repairs Were Made By The Levites Under Rehum Son Of Bani. Beside Him, Hashabiah, Ruler Of Half The District Of Keilah, Carried Out Repairs For His District.",
+            "Next To Him, The Repairs Were Made By Their Countrymen Under Binnui Son Of Henadad, Ruler Of The Other Half-district Of Keilah.",
+            "Next To Him, Ezer Son Of Jeshua, Ruler Of Mizpah, Repaired Another Section, From A Point Facing The Ascent To The Armory As Far As The Angle.",
+            "Next To Him, Baruch Son Of Zabbai Zealously Repaired Another Section, From The Angle To The Entrance Of The House Of Eliashib The High Priest.",
+            "Next To Him, Meremoth Son Of Uriah, The Son Of Hakkoz, Repaired Another Section, From The Entrance Of Eliashib's House To The End Of It.",
+            "The Repairs Next To Him Were Made By The Priests From The Surrounding Region.",
+            "Beyond Them, Benjamin And Hasshub Made Repairs In Front Of Their House; And Next To Them, Azariah Son Of Maaseiah, The Son Of Ananiah, Made Repairs Beside His House.",
+            "Next To Him, Binnui Son Of Henadad Repaired Another Section, From Azariah's House To The Angle And The Corner,",
+            "And Palal Son Of Uzai Worked Opposite The Angle And The Tower Projecting From The Upper Palace Near The Court Of The Guard. Next To Him, Pedaiah Son Of Parosh",
+            "And The Temple Servants Living On The Hill Of Ophel Made Repairs Up To A Point Opposite The Water Gate Toward The East And The Projecting Tower.",
+            "Next To Them, The Men Of Tekoa Repaired Another Section, From The Great Projecting Tower To The Wall Of Ophel.",
+            "Above The Horse Gate, The Priests Made Repairs, Each In Front Of His Own House.",
+            "Next To Them, Zadok Son Of Immer Made Repairs Opposite His House. Next To Him, Shemaiah Son Of Shecaniah, The Guard At The East Gate, Made Repairs.",
+            "Next To Him, Hananiah Son Of Shelemiah, And Hanun, The Sixth Son Of Zalaph, Repaired Another Section. Next To Them, Meshullam Son Of Berekiah Made Repairs Opposite His Living Quarters.",
+            "Next To Him, Malkijah, One Of The Goldsmiths, Made Repairs As Far As The House Of The Temple Servants And The Merchants, Opposite The Inspection Gate, And As Far As The Room Above The Corner;",
+            "And Between The Room Above The Corner And The Sheep Gate The Goldsmiths And Merchants Made Repairs."
+        ],
+        [
+            "When Sanballat Heard That We Were Rebuilding The Wall, He Became Angry And Was Greatly Incensed. He Ridiculed The Jews,",
+            "And In The Presence Of His Associates And The Army Of Samaria, He Said, \"What Are Those Feeble Jews Doing? Will They Restore Their Wall? Will They Offer Sacrifices? Will They Finish In A Day? Can They Bring The Stones Back To Life From Those Heaps Of Rubble-burned As They Are?\"",
+            "Tobiah The Ammonite, Who Was At His Side, Said, \"What They Are Building-if Even A Fox Climbed Up On It, He Would Break Down Their Wall Of Stones!\"",
+            "Hear Us, O Our God, For We Are Despised. Turn Their Insults Back On Their Own Heads. Give Them Over As Plunder In A Land Of Captivity.",
+            "Do Not Cover Up Their Guilt Or Blot Out Their Sins From Your Sight, For They Have Thrown Insults In The Face Of The Builders.",
+            "So We Rebuilt The Wall Till All Of It Reached Half Its Height, For The People Worked With All Their Heart.",
+            "But When Sanballat, Tobiah, The Arabs, The Ammonites And The Men Of Ashdod Heard That The Repairs To Jerusalem's Walls Had Gone Ahead And That The Gaps Were Being Closed, They Were Very Angry.",
+            "They All Plotted Together To Come And Fight Against Jerusalem And Stir Up Trouble Against It.",
+            "But We Prayed To Our God And Posted A Guard Day And Night To Meet This Threat.",
+            "Meanwhile, The People In Judah Said, \"The Strength Of The Laborers Is Giving Out, And There Is So Much Rubble That We Cannot Rebuild The Wall.\"",
+            "Also Our Enemies Said, \"Before They Know It Or See Us, We Will Be Right There Among Them And Will Kill Them And Put An End To The Work.\"",
+            "Then The Jews Who Lived Near Them Came And Told Us Ten Times Over, \"Wherever You Turn, They Will Attack Us.\"",
+            "Therefore I Stationed Some Of The People Behind The Lowest Points Of The Wall At The Exposed Places, Posting Them By Families, With Their Swords, Spears And Bows.",
+            "After I Looked Things Over, I Stood Up And Said To The Nobles, The Officials And The Rest Of The People, \"Don't Be Afraid Of Them. Remember The Lord, Who Is Great And Awesome, And Fight For Your Brothers, Your Sons And Your Daughters, Your Wives And Your Homes.\"",
+            "When Our Enemies Heard That We Were Aware Of Their Plot And That God Had Frustrated It, We All Returned To The Wall, Each To His Own Work.",
+            "From That Day On, Half Of My Men Did The Work, While The Other Half Were Equipped With Spears, Shields, Bows And Armor. The Officers Posted Themselves Behind All The People Of Judah",
+            "Who Were Building The Wall. Those Who Carried Materials Did Their Work With One Hand And Held A Weapon In The Other,",
+            "And Each Of The Builders Wore His Sword At His Side As He Worked. But The Man Who Sounded The Trumpet Stayed With Me.",
+            "Then I Said To The Nobles, The Officials And The Rest Of The People, \"The Work Is Extensive And Spread Out, And We Are Widely Separated From Each Other Along The Wall.",
+            "Wherever You Hear The Sound Of The Trumpet, Join Us There. Our God Will Fight For Us!\"",
+            "So We Continued The Work With Half The Men Holding Spears, From The First Light Of Dawn Till The Stars Came Out.",
+            "At That Time I Also Said To The People, \"Have Every Man And His Helper Stay Inside Jerusalem At Night, So They Can Serve Us As Guards By Night And Workmen By Day.\"",
+            "Neither I Nor My Brothers Nor My Men Nor The Guards With Me Took Off Our Clothes; Each Had His Weapon, Even When He Went For Water."
+        ],
+        [
+            "Now The Men And Their Wives Raised A Great Outcry Against Their Jewish Brothers.",
+            "Some Were Saying, \"We And Our Sons And Daughters Are Numerous; In Order For Us To Eat And Stay Alive, We Must Get Grain.\"",
+            "Others Were Saying, \"We Are Mortgaging Our Fields, Our Vineyards And Our Homes To Get Grain During The Famine.\"",
+            "Still Others Were Saying, \"We Have Had To Borrow Money To Pay The King's Tax On Our Fields And Vineyards.",
+            "Although We Are Of The Same Flesh And Blood As Our Countrymen And Though Our Sons Are As Good As Theirs, Yet We Have To Subject Our Sons And Daughters To Slavery. Some Of Our Daughters Have Already Been Enslaved, But We Are Powerless, Because Our Fields And Our Vineyards Belong To Others.\"",
+            "When I Heard Their Outcry And These Charges, I Was Very Angry.",
+            "I Pondered Them In My Mind And Then Accused The Nobles And Officials. I Told Them, \"You Are Exacting Usury From Your Own Countrymen!\" So I Called Together A Large Meeting To Deal With Them",
+            "And Said: \"As Far As Possible, We Have Bought Back Our Jewish Brothers Who Were Sold To The Gentiles. Now You Are Selling Your Brothers, Only For Them To Be Sold Back To Us!\" They Kept Quiet, Because They Could Find Nothing To Say.",
+            "So I Continued, \"What You Are Doing Is Not Right. Shouldn't You Walk In The Fear Of Our God To Avoid The Reproach Of Our Gentile Enemies?",
+            "I And My Brothers And My Men Are Also Lending The People Money And Grain. But Let The Exacting Of Usury Stop!",
+            "Give Back To Them Immediately Their Fields, Vineyards, Olive Groves And Houses, And Also The Usury You Are Charging Them-the Hundredth Part Of The Money, Grain, New Wine And Oil.\"",
+            "\"We Will Give It Back,\" They Said. \"And We Will Not Demand Anything More From Them. We Will Do As You Say.\" Then I Summoned The Priests And Made The Nobles And Officials Take An Oath To Do What They Had Promised.",
+            "I Also Shook Out The Folds Of My Robe And Said, \"In This Way May God Shake Out Of His House And Possessions Every Man Who Does Not Keep This Promise. So May Such A Man Be Shaken Out And Emptied!\" At This The Whole Assembly Said, \"Amen,\" And Praised The Lord . And The People Did As They Had Promised.",
+            "Moreover, From The Twentieth Year Of King Artaxerxes, When I Was Appointed To Be Their Governor In The Land Of Judah, Until His Thirty-second Year-twelve Years-neither I Nor My Brothers Ate The Food Allotted To The Governor.",
+            "But The Earlier Governors-those Preceding Me-placed A Heavy Burden On The People And Took Forty Shekels Of Silver From Them In Addition To Food And Wine. Their Assistants Also Lorded It Over The People. But Out Of Reverence For God I Did Not Act Like That.",
+            "Instead, I Devoted Myself To The Work On This Wall. All My Men Were Assembled There For The Work; We Did Not Acquire Any Land.",
+            "Furthermore, A Hundred And Fifty Jews And Officials Ate At My Table, As Well As Those Who Came To Us From The Surrounding Nations.",
+            "Each Day One Ox, Six Choice Sheep And Some Poultry Were Prepared For Me, And Every Ten Days An Abundant Supply Of Wine Of All Kinds. In Spite Of All This, I Never Demanded The Food Allotted To The Governor, Because The Demands Were Heavy On These People.",
+            "Remember Me With Favor, O My God, For All I Have Done For These People."
+        ],
+        [
+            "When Word Came To Sanballat, Tobiah, Geshem The Arab And The Rest Of Our Enemies That I Had Rebuilt The Wall And Not A Gap Was Left In It-though Up To That Time I Had Not Set The Doors In The Gates-",
+            "Sanballat And Geshem Sent Me This Message: \"Come, Let Us Meet Together In One Of The Villages On The Plain Of Ono.\" But They Were Scheming To Harm Me;",
+            "So I Sent Messengers To Them With This Reply: \"I Am Carrying On A Great Project And Cannot Go Down. Why Should The Work Stop While I Leave It And Go Down To You?\"",
+            "Four Times They Sent Me The Same Message, And Each Time I Gave Them The Same Answer.",
+            "Then, The Fifth Time, Sanballat Sent His Aide To Me With The Same Message, And In His Hand Was An Unsealed Letter",
+            "In Which Was Written: \"It Is Reported Among The Nations-and Geshem Says It Is True-that You And The Jews Are Plotting To Revolt, And Therefore You Are Building The Wall. Moreover, According To These Reports You Are About To Become Their King",
+            "And Have Even Appointed Prophets To Make This Proclamation About You In Jerusalem: 'There Is A King In Judah!' Now This Report Will Get Back To The King; So Come, Let Us Confer Together.\"",
+            "I Sent Him This Reply: \"Nothing Like What You Are Saying Is Happening; You Are Just Making It Up Out Of Your Head.\"",
+            "They Were All Trying To Frighten Us, Thinking, \"Their Hands Will Get Too Weak For The Work, And It Will Not Be Completed.\" But I Prayed, \"Now Strengthen My Hands.\"",
+            "One Day I Went To The House Of Shemaiah Son Of Delaiah, The Son Of Mehetabel, Who Was Shut In At His Home. He Said, \"Let Us Meet In The House Of God, Inside The Temple, And Let Us Close The Temple Doors, Because Men Are Coming To Kill You-by Night They Are Coming To Kill You.\"",
+            "But I Said, \"Should A Man Like Me Run Away? Or Should One Like Me Go Into The Temple To Save His Life? I Will Not Go!\"",
+            "I Realized That God Had Not Sent Him, But That He Had Prophesied Against Me Because Tobiah And Sanballat Had Hired Him.",
+            "He Had Been Hired To Intimidate Me So That I Would Commit A Sin By Doing This, And Then They Would Give Me A Bad Name To Discredit Me.",
+            "Remember Tobiah And Sanballat, O My God, Because Of What They Have Done; Remember Also The Prophetess Noadiah And The Rest Of The Prophets Who Have Been Trying To Intimidate Me.",
+            "So The Wall Was Completed On The Twenty-fifth Of Elul, In Fifty-two Days.",
+            "When All Our Enemies Heard About This, All The Surrounding Nations Were Afraid And Lost Their Self-confidence, Because They Realized That This Work Had Been Done With The Help Of Our God.",
+            "Also, In Those Days The Nobles Of Judah Were Sending Many Letters To Tobiah, And Replies From Tobiah Kept Coming To Them.",
+            "For Many In Judah Were Under Oath To Him, Since He Was Son-in-law To Shecaniah Son Of Arah, And His Son Jehohanan Had Married The Daughter Of Meshullam Son Of Berekiah.",
+            "Moreover, They Kept Reporting To Me His Good Deeds And Then Telling Him What I Said. And Tobiah Sent Letters To Intimidate Me."
+        ],
+        [
+            "After The Wall Had Been Rebuilt And I Had Set The Doors In Place, The Gatekeepers And The Singers And The Levites Were Appointed.",
+            "I Put In Charge Of Jerusalem My Brother Hanani, Along With Hananiah The Commander Of The Citadel, Because He Was A Man Of Integrity And Feared God More Than Most Men Do.",
+            "I Said To Them, \"The Gates Of Jerusalem Are Not To Be Opened Until The Sun Is Hot. While The Gatekeepers Are Still On Duty, Have Them Shut The Doors And Bar Them. Also Appoint Residents Of Jerusalem As Guards, Some At Their Posts And Some Near Their Own Houses.\"",
+            "Now The City Was Large And Spacious, But There Were Few People In It, And The Houses Had Not Yet Been Rebuilt.",
+            "So My God Put It Into My Heart To Assemble The Nobles, The Officials And The Common People For Registration By Families. I Found The Genealogical Record Of Those Who Had Been The First To Return. This Is What I Found Written There:",
+            "These Are The People Of The Province Who Came Up From The Captivity Of The Exiles Whom Nebuchadnezzar King Of Babylon Had Taken Captive (They Returned To Jerusalem And Judah, Each To His Own Town,",
+            "In Company With Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum And Baanah): The List Of The Men Of Israel:",
+            "The Descendants Of Parosh ,",
+            "Of Shephatiah",
+            "Of Arah",
+            "Of Pahath-moab (Through The Line Of Jeshua And Joab) ,",
+            "Of Elam ,",
+            "Of Zattu",
+            "Of Zaccai",
+            "Of Binnui",
+            "Of Bebai",
+            "Of Azgad ,",
+            "Of Adonikam",
+            "Of Bigvai ,",
+            "Of Adin",
+            "Of Ater (Through Hezekiah)",
+            "Of Hashum",
+            "Of Bezai",
+            "Of Hariph",
+            "Of Gibeon",
+            "The Men Of Bethlehem And Netophah",
+            "Of Anathoth",
+            "Of Beth Azmaveth",
+            "Of Kiriath Jearim, Kephirah And Beeroth",
+            "Of Ramah And Geba",
+            "Of Micmash",
+            "Of Bethel And Ai",
+            "Of The Other Nebo",
+            "Of The Other Elam ,",
+            "Of Harim",
+            "Of Jericho",
+            "Of Lod, Hadid And Ono",
+            "Of Senaah ,",
+            "The Priests: The Descendants Of Jedaiah (Through The Family Of Jeshua)",
+            "Of Immer ,",
+            "Of Pashhur ,",
+            "Of Harim ,",
+            "The Levites: The Descendants Of Jeshua (Through Kadmiel Through The Line Of Hodaviah)",
+            "The Singers: The Descendants Of Asaph",
+            "The Gatekeepers: The Descendants Of Shallum, Ater, Talmon, Akkub, Hatita And Shobai",
+            "The Temple Servants: The Descendants Of Ziha, Hasupha, Tabbaoth,",
+            "Keros, Sia, Padon,",
+            "Lebana, Hagaba, Shalmai,",
+            "Hanan, Giddel, Gahar,",
+            "Reaiah, Rezin, Nekoda,",
+            "Gazzam, Uzza, Paseah,",
+            "Besai, Meunim, Nephussim,",
+            "Bakbuk, Hakupha, Harhur,",
+            "Bazluth, Mehida, Harsha,",
+            "Barkos, Sisera, Temah,",
+            "Neziah And Hatipha",
+            "The Descendants Of The Servants Of Solomon: The Descendants Of Sotai, Sophereth, Perida,",
+            "Jaala, Darkon, Giddel,",
+            "Shephatiah, Hattil, Pokereth-hazzebaim And Amon",
+            "The Temple Servants And The Descendants Of The Servants Of Solomon",
+            "The Following Came Up From The Towns Of Tel Melah, Tel Harsha, Kerub, Addon And Immer, But They Could Not Show That Their Families Were Descended From Israel:",
+            "The Descendants Of Delaiah, Tobiah And Nekoda",
+            "And From Among The Priests: The Descendants Of Hobaiah, Hakkoz And Barzillai (A Man Who Had Married A Daughter Of Barzillai The Gileadite And Was Called By That Name).",
+            "These Searched For Their Family Records, But They Could Not Find Them And So Were Excluded From The Priesthood As Unclean.",
+            "The Governor, Therefore, Ordered Them Not To Eat Any Of The Most Sacred Food Until There Should Be A Priest Ministering With The Urim And Thummim.",
+            "The Whole Company Numbered ,,",
+            "Besides Their , Menservants And Maidservants; And They Also Had  Men And Women Singers.",
+            "There Were  Horses,  Mules,",
+            "Camels And , Donkeys.",
+            "Some Of The Heads Of The Families Contributed To The Work. The Governor Gave To The Treasury , Drachmas Of Gold,  Bowls And  Garments For Priests.",
+            "Some Of The Heads Of The Families Gave To The Treasury For The Work , Drachmas Of Gold And , Minas Of Silver.",
+            "The Total Given By The Rest Of The People Was , Drachmas Of Gold, , Minas Of Silver And  Garments For Priests.",
+            "The Priests, The Levites, The Gatekeepers, The Singers And The Temple Servants, Along With Certain Of The People And The Rest Of The Israelites, Settled In Their Own Towns. When The Seventh Month Came And The Israelites Had Settled In Their Towns,"
+        ],
+        [
+            "All The People Assembled As One Man In The Square Before The Water Gate. They Told Ezra The Scribe To Bring Out The Book Of The Law Of Moses, Which The Lord Had Commanded For Israel.",
+            "So On The First Day Of The Seventh Month Ezra The Priest Brought The Law Before The Assembly, Which Was Made Up Of Men And Women And All Who Were Able To Understand.",
+            "He Read It Aloud From Daybreak Till Noon As He Faced The Square Before The Water Gate In The Presence Of The Men, Women And Others Who Could Understand. And All The People Listened Attentively To The Book Of The Law.",
+            "Ezra The Scribe Stood On A High Wooden Platform Built For The Occasion. Beside Him On His Right Stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah And Maaseiah; And On His Left Were Pedaiah, Mishael, Malkijah, Hashum, Hashbaddanah, Zechariah And Meshullam.",
+            "Ezra Opened The Book. All The People Could See Him Because He Was Standing Above Them; And As He Opened It, The People All Stood Up.",
+            "Ezra Praised The Lord , The Great God; And All The People Lifted Their Hands And Responded, \"Amen! Amen!\" Then They Bowed Down And Worshiped The Lord With Their Faces To The Ground.",
+            "The Levites-jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan And Pelaiah-instructed The People In The Law While The People Were Standing There.",
+            "They Read From The Book Of The Law Of God, Making It Clear And Giving The Meaning So That The People Could Understand What Was Being Read.",
+            "Then Nehemiah The Governor, Ezra The Priest And Scribe, And The Levites Who Were Instructing The People Said To Them All, \"This Day Is Sacred To The Lord Your God. Do Not Mourn Or Weep.\" For All The People Had Been Weeping As They Listened To The Words Of The Law.",
+            "Nehemiah Said, \"Go And Enjoy Choice Food And Sweet Drinks, And Send Some To Those Who Have Nothing Prepared. This Day Is Sacred To Our Lord. Do Not Grieve, For The Joy Of The Lord Is Your Strength.\"",
+            "The Levites Calmed All The People, Saying, \"Be Still, For This Is A Sacred Day. Do Not Grieve.\"",
+            "Then All The People Went Away To Eat And Drink, To Send Portions Of Food And To Celebrate With Great Joy, Because They Now Understood The Words That Had Been Made Known To Them.",
+            "On The Second Day Of The Month, The Heads Of All The Families, Along With The Priests And The Levites, Gathered Around Ezra The Scribe To Give Attention To The Words Of The Law.",
+            "They Found Written In The Law, Which The Lord Had Commanded Through Moses, That The Israelites Were To Live In Booths During The Feast Of The Seventh Month",
+            "And That They Should Proclaim This Word And Spread It Throughout Their Towns And In Jerusalem: \"Go Out Into The Hill Country And Bring Back Branches From Olive And Wild Olive Trees, And From Myrtles, Palms And Shade Trees, To Make Booths\"-as It Is Written.",
+            "So The People Went Out And Brought Back Branches And Built Themselves Booths On Their Own Roofs, In Their Courtyards, In The Courts Of The House Of God And In The Square By The Water Gate And The One By The Gate Of Ephraim.",
+            "The Whole Company That Had Returned From Exile Built Booths And Lived In Them. From The Days Of Joshua Son Of Nun Until That Day, The Israelites Had Not Celebrated It Like This. And Their Joy Was Very Great.",
+            "Day After Day, From The First Day To The Last, Ezra Read From The Book Of The Law Of God. They Celebrated The Feast For Seven Days, And On The Eighth Day, In Accordance With The Regulation, There Was An Assembly."
+        ],
+        [
+            "On The Twenty-fourth Day Of The Same Month, The Israelites Gathered Together, Fasting And Wearing Sackcloth And Having Dust On Their Heads.",
+            "Those Of Israelite Descent Had Separated Themselves From All Foreigners. They Stood In Their Places And Confessed Their Sins And The Wickedness Of Their Fathers.",
+            "They Stood Where They Were And Read From The Book Of The Law Of The Lord Their God For A Quarter Of The Day, And Spent Another Quarter In Confession And In Worshiping The Lord Their God.",
+            "Standing On The Stairs Were The Levites-jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani And Kenani-who Called With Loud Voices To The Lord Their God.",
+            "And The Levites-jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah And Pethahiah-said: \"Stand Up And Praise The Lord Your God, Who Is From Everlasting To Everlasting. \" \"Blessed Be Your Glorious Name, And May It Be Exalted Above All Blessing And Praise.",
+            "You Alone Are The Lord . You Made The Heavens, Even The Highest Heavens, And All Their Starry Host, The Earth And All That Is On It, The Seas And All That Is In Them. You Give Life To Everything, And The Multitudes Of Heaven Worship You.",
+            "\"You Are The Lord God, Who Chose Abram And Brought Him Out Of Ur Of The Chaldeans And Named Him Abraham.",
+            "You Found His Heart Faithful To You, And You Made A Covenant With Him To Give To His Descendants The Land Of The Canaanites, Hittites, Amorites, Perizzites, Jebusites And Girgashites. You Have Kept Your Promise Because You Are Righteous.",
+            "\"You Saw The Suffering Of Our Forefathers In Egypt; You Heard Their Cry At The Red Sea.",
+            "You Sent Miraculous Signs And Wonders Against Pharaoh, Against All His Officials And All The People Of His Land, For You Knew How Arrogantly The Egyptians Treated Them. You Made A Name For Yourself, Which Remains To This Day.",
+            "You Divided The Sea Before Them, So That They Passed Through It On Dry Ground, But You Hurled Their Pursuers Into The Depths, Like A Stone Into Mighty Waters.",
+            "By Day You Led Them With A Pillar Of Cloud, And By Night With A Pillar Of Fire To Give Them Light On The Way They Were To Take.",
+            "\"You Came Down On Mount Sinai; You Spoke To Them From Heaven. You Gave Them Regulations And Laws That Are Just And Right, And Decrees And Commands That Are Good.",
+            "You Made Known To Them Your Holy Sabbath And Gave Them Commands, Decrees And Laws Through Your Servant Moses.",
+            "In Their Hunger You Gave Them Bread From Heaven And In Their Thirst You Brought Them Water From The Rock; You Told Them To Go In And Take Possession Of The Land You Had Sworn With Uplifted Hand To Give Them.",
+            "\"But They, Our Forefathers, Became Arrogant And Stiff-necked, And Did Not Obey Your Commands.",
+            "They Refused To Listen And Failed To Remember The Miracles You Performed Among Them. They Became Stiff-necked And In Their Rebellion Appointed A Leader In Order To Return To Their Slavery. But You Are A Forgiving God, Gracious And Compassionate, Slow To Anger And Abounding In Love. Therefore You Did Not Desert Them,",
+            "Even When They Cast For Themselves An Image Of A Calf And Said, 'This Is Your God, Who Brought You Up Out Of Egypt,' Or When They Committed Awful Blasphemies.",
+            "\"Because Of Your Great Compassion You Did Not Abandon Them In The Desert. By Day The Pillar Of Cloud Did Not Cease To Guide Them On Their Path, Nor The Pillar Of Fire By Night To Shine On The Way They Were To Take.",
+            "You Gave Your Good Spirit To Instruct Them. You Did Not Withhold Your Manna From Their Mouths, And You Gave Them Water For Their Thirst.",
+            "For Forty Years You Sustained Them In The Desert; They Lacked Nothing, Their Clothes Did Not Wear Out Nor Did Their Feet Become Swollen.",
+            "\"You Gave Them Kingdoms And Nations, Allotting To Them Even The Remotest Frontiers. They Took Over The Country Of Sihon King Of Heshbon And The Country Of Og King Of Bashan.",
+            "You Made Their Sons As Numerous As The Stars In The Sky, And You Brought Them Into The Land That You Told Their Fathers To Enter And Possess.",
+            "Their Sons Went In And Took Possession Of The Land. You Subdued Before Them The Canaanites, Who Lived In The Land; You Handed The Canaanites Over To Them, Along With Their Kings And The Peoples Of The Land, To Deal With Them As They Pleased.",
+            "They Captured Fortified Cities And Fertile Land; They Took Possession Of Houses Filled With All Kinds Of Good Things, Wells Already Dug, Vineyards, Olive Groves And Fruit Trees In Abundance. They Ate To The Full And Were Well-nourished; They Reveled In Your Great Goodness.",
+            "\"But They Were Disobedient And Rebelled Against You; They Put Your Law Behind Their Backs. They Killed Your Prophets, Who Had Admonished Them In Order To Turn Them Back To You; They Committed Awful Blasphemies.",
+            "So You Handed Them Over To Their Enemies, Who Oppressed Them. But When They Were Oppressed They Cried Out To You. From Heaven You Heard Them, And In Your Great Compassion You Gave Them Deliverers, Who Rescued Them From The Hand Of Their Enemies.",
+            "\"But As Soon As They Were At Rest, They Again Did What Was Evil In Your Sight. Then You Abandoned Them To The Hand Of Their Enemies So That They Ruled Over Them. And When They Cried Out To You Again, You Heard From Heaven, And In Your Compassion You Delivered Them Time After Time.",
+            "\"You Warned Them To Return To Your Law, But They Became Arrogant And Disobeyed Your Commands. They Sinned Against Your Ordinances, By Which A Man Will Live If He Obeys Them. Stubbornly They Turned Their Backs On You, Became Stiff-necked And Refused To Listen.",
+            "For Many Years You Were Patient With Them. By Your Spirit You Admonished Them Through Your Prophets. Yet They Paid No Attention, So You Handed Them Over To The Neighboring Peoples.",
+            "But In Your Great Mercy You Did Not Put An End To Them Or Abandon Them, For You Are A Gracious And Merciful God.",
+            "\"Now Therefore, O Our God, The Great, Mighty And Awesome God, Who Keeps His Covenant Of Love, Do Not Let All This Hardship Seem Trifling In Your Eyes-the Hardship That Has Come Upon Us, Upon Our Kings And Leaders, Upon Our Priests And Prophets, Upon Our Fathers And All Your People, From The Days Of The Kings Of Assyria Until Today.",
+            "In All That Has Happened To Us, You Have Been Just; You Have Acted Faithfully, While We Did Wrong.",
+            "Our Kings, Our Leaders, Our Priests And Our Fathers Did Not Follow Your Law; They Did Not Pay Attention To Your Commands Or The Warnings You Gave Them.",
+            "Even While They Were In Their Kingdom, Enjoying Your Great Goodness To Them In The Spacious And Fertile Land You Gave Them, They Did Not Serve You Or Turn From Their Evil Ways.",
+            "\"But See, We Are Slaves Today, Slaves In The Land You Gave Our Forefathers So They Could Eat Its Fruit And The Other Good Things It Produces.",
+            "Because Of Our Sins, Its Abundant Harvest Goes To The Kings You Have Placed Over Us. They Rule Over Our Bodies And Our Cattle As They Please. We Are In Great Distress.",
+            "\"In View Of All This, We Are Making A Binding Agreement, Putting It In Writing, And Our Leaders, Our Levites And Our Priests Are Affixing Their Seals To It.\""
+        ],
+        [
+            "The Governor, The Son Of Hacaliah. Zedekiah,",
+            "Seraiah, Azariah, Jeremiah,",
+            "Pashhur, Amariah, Malkijah,",
+            "Hattush, Shebaniah, Malluch,",
+            "Harim, Meremoth, Obadiah,",
+            "Daniel, Ginnethon, Baruch,",
+            "Meshullam, Abijah, Mijamin,",
+            "Maaziah, Bilgai And Shemaiah. These Were The Priests.",
+            "The Levites: Jeshua Son Of Azaniah, Binnui Of The Sons Of Henadad, Kadmiel,",
+            "And Their Associates: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,",
+            "Mica, Rehob, Hashabiah,",
+            "Zaccur, Sherebiah, Shebaniah,",
+            "Hodiah, Bani And Beninu.",
+            "The Leaders Of The People: Parosh, Pahath-moab, Elam, Zattu, Bani,",
+            "Bunni, Azgad, Bebai,",
+            "Adonijah, Bigvai, Adin,",
+            "Ater, Hezekiah, Azzur,",
+            "Hodiah, Hashum, Bezai,",
+            "Hariph, Anathoth, Nebai,",
+            "Magpiash, Meshullam, Hezir,",
+            "Meshezabel, Zadok, Jaddua,",
+            "Pelatiah, Hanan, Anaiah,",
+            "Hoshea, Hananiah, Hasshub,",
+            "Hallohesh, Pilha, Shobek,",
+            "Rehum, Hashabnah, Maaseiah,",
+            "Ahiah, Hanan, Anan,",
+            "Malluch, Harim And Baanah.",
+            "\"The Rest Of The People-priests, Levites, Gatekeepers, Singers, Temple Servants And All Who Separated Themselves From The Neighboring Peoples For The Sake Of The Law Of God, Together With Their Wives And All Their Sons And Daughters Who Are Able To Understand-",
+            "All These Now Join Their Brothers The Nobles, And Bind Themselves With A Curse And An Oath To Follow The Law Of God Given Through Moses The Servant Of God And To Obey Carefully All The Commands, Regulations And Decrees Of The Lord Our Lord.",
+            "\"We Promise Not To Give Our Daughters In Marriage To The Peoples Around Us Or Take Their Daughters For Our Sons.",
+            "\"When The Neighboring Peoples Bring Merchandise Or Grain To Sell On The Sabbath, We Will Not Buy From Them On The Sabbath Or On Any Holy Day. Every Seventh Year We Will Forgo Working The Land And Will Cancel All Debts.",
+            "\"We Assume The Responsibility For Carrying Out The Commands To Give A Third Of A Shekel Each Year For The Service Of The House Of Our God:",
+            "For The Bread Set Out On The Table; For The Regular Grain Offerings And Burnt Offerings; For The Offerings On The Sabbaths, New Moon Festivals And Appointed Feasts; For The Holy Offerings; For Sin Offerings To Make Atonement For Israel; And For All The Duties Of The House Of Our God.",
+            "\"We-the Priests, The Levites And The People-have Cast Lots To Determine When Each Of Our Families Is To Bring To The House Of Our God At Set Times Each Year A Contribution Of Wood To Burn On The Altar Of The Lord Our God, As It Is Written In The Law.",
+            "\"We Also Assume Responsibility For Bringing To The House Of The Lord Each Year The Firstfruits Of Our Crops And Of Every Fruit Tree.",
+            "\"As It Is Also Written In The Law, We Will Bring The Firstborn Of Our Sons And Of Our Cattle, Of Our Herds And Of Our Flocks To The House Of Our God, To The Priests Ministering There.",
+            "\"Moreover, We Will Bring To The Storerooms Of The House Of Our God, To The Priests, The First Of Our Ground Meal, Of Our Grain Offerings, Of The Fruit Of All Our Trees And Of Our New Wine And Oil. And We Will Bring A Tithe Of Our Crops To The Levites, For It Is The Levites Who Collect The Tithes In All The Towns Where We Work.",
+            "A Priest Descended From Aaron Is To Accompany The Levites When They Receive The Tithes, And The Levites Are To Bring A Tenth Of The Tithes Up To The House Of Our God, To The Storerooms Of The Treasury.",
+            "The People Of Israel, Including The Levites, Are To Bring Their Contributions Of Grain, New Wine And Oil To The Storerooms Where The Articles For The Sanctuary Are Kept And Where The Ministering Priests, The Gatekeepers And The Singers Stay. \"We Will Not Neglect The House Of Our God.\""
+        ],
+        [
+            "Now The Leaders Of The People Settled In Jerusalem, And The Rest Of The People Cast Lots To Bring One Out Of Every Ten To Live In Jerusalem, The Holy City, While The Remaining Nine Were To Stay In Their Own Towns.",
+            "The People Commended All The Men Who Volunteered To Live In Jerusalem.",
+            "These Are The Provincial Leaders Who Settled In Jerusalem (Now Some Israelites, Priests, Levites, Temple Servants And Descendants Of Solomon's Servants Lived In The Towns Of Judah, Each On His Own Property In The Various Towns,",
+            "While Other People From Both Judah And Benjamin Lived In Jerusalem): From The Descendants Of Judah: Athaiah Son Of Uzziah, The Son Of Zechariah, The Son Of Amariah, The Son Of Shephatiah, The Son Of Mahalalel, A Descendant Of Perez;",
+            "And Maaseiah Son Of Baruch, The Son Of Col-hozeh, The Son Of Hazaiah, The Son Of Adaiah, The Son Of Joiarib, The Son Of Zechariah, A Descendant Of Shelah.",
+            "The Descendants Of Perez Who Lived In Jerusalem Totaled  Able Men.",
+            "From The Descendants Of Benjamin: Sallu Son Of Meshullam, The Son Of Joed, The Son Of Pedaiah, The Son Of Kolaiah, The Son Of Maaseiah, The Son Of Ithiel, The Son Of Jeshaiah,",
+            "And His Followers, Gabbai And Sallai- Men.",
+            "Joel Son Of Zicri Was Their Chief Officer, And Judah Son Of Hassenuah Was Over The Second District Of The City.",
+            "From The Priests: Jedaiah; The Son Of Joiarib; Jakin;",
+            "Seraiah Son Of Hilkiah, The Son Of Meshullam, The Son Of Zadok, The Son Of Meraioth, The Son Of Ahitub, Supervisor In The House Of God,",
+            "And Their Associates, Who Carried On Work For The Temple- Men; Adaiah Son Of Jeroham, The Son Of Pelaliah, The Son Of Amzi, The Son Of Zechariah, The Son Of Pashhur, The Son Of Malkijah,",
+            "And His Associates, Who Were Heads Of Families- Men; Amashsai Son Of Azarel, The Son Of Ahzai, The Son Of Meshillemoth, The Son Of Immer,",
+            "And His Associates, Who Were Able Men-. Their Chief Officer Was Zabdiel Son Of Haggedolim.",
+            "From The Levites: Shemaiah Son Of Hasshub, The Son Of Azrikam, The Son Of Hashabiah, The Son Of Bunni;",
+            "Shabbethai And Jozabad, Two Of The Heads Of The Levites, Who Had Charge Of The Outside Work Of The House Of God;",
+            "Mattaniah Son Of Mica, The Son Of Zabdi, The Son Of Asaph, The Director Who Led In Thanksgiving And Prayer; Bakbukiah, Second Among His Associates; And Abda Son Of Shammua, The Son Of Galal, The Son Of Jeduthun.",
+            "The Levites In The Holy City Totaled .",
+            "The Gatekeepers: Akkub, Talmon And Their Associates, Who Kept Watch At The Gates- Men.",
+            "The Rest Of The Israelites, With The Priests And Levites, Were In All The Towns Of Judah, Each On His Ancestral Property.",
+            "The Temple Servants Lived On The Hill Of Ophel, And Ziha And Gishpa Were In Charge Of Them.",
+            "The Chief Officer Of The Levites In Jerusalem Was Uzzi Son Of Bani, The Son Of Hashabiah, The Son Of Mattaniah, The Son Of Mica. Uzzi Was One Of Asaph's Descendants, Who Were The Singers Responsible For The Service Of The House Of God.",
+            "The Singers Were Under The King's Orders, Which Regulated Their Daily Activity.",
+            "Pethahiah Son Of Meshezabel, One Of The Descendants Of Zerah Son Of Judah, Was The King's Agent In All Affairs Relating To The People.",
+            "As For The Villages With Their Fields, Some Of The People Of Judah Lived In Kiriath Arba And Its Surrounding Settlements, In Dibon And Its Settlements, In Jekabzeel And Its Villages,",
+            "In Jeshua, In Moladah, In Beth Pelet,",
+            "In Hazar Shual, In Beersheba And Its Settlements,",
+            "In Ziklag, In Meconah And Its Settlements,",
+            "In En Rimmon, In Zorah, In Jarmuth,",
+            "Zanoah, Adullam And Their Villages, In Lachish And Its Fields, And In Azekah And Its Settlements. So They Were Living All The Way From Beersheba To The Valley Of Hinnom.",
+            "The Descendants Of The Benjamites From Geba Lived In Micmash, Aija, Bethel And Its Settlements,",
+            "In Anathoth, Nob And Ananiah,",
+            "In Hazor, Ramah And Gittaim,",
+            "In Hadid, Zeboim And Neballat,",
+            "In Lod And Ono, And In The Valley Of The Craftsmen.",
+            "Some Of The Divisions Of The Levites Of Judah Settled In Benjamin."
+        ],
+        [
+            "These Were The Priests And Levites Who Returned With Zerubbabel Son Of Shealtiel And With Jeshua: Seraiah, Jeremiah, Ezra,",
+            "Amariah, Malluch, Hattush,",
+            "Shecaniah, Rehum, Meremoth,",
+            "Iddo, Ginnethon, Abijah,",
+            "Mijamin, Moadiah, Bilgah,",
+            "Shemaiah, Joiarib, Jedaiah,",
+            "Sallu, Amok, Hilkiah And Jedaiah. These Were The Leaders Of The Priests And Their Associates In The Days Of Jeshua.",
+            "The Levites Were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, And Also Mattaniah, Who, Together With His Associates, Was In Charge Of The Songs Of Thanksgiving.",
+            "Bakbukiah And Unni, Their Associates, Stood Opposite Them In The Services.",
+            "Jeshua Was The Father Of Joiakim, Joiakim The Father Of Eliashib, Eliashib The Father Of Joiada,",
+            "Joiada The Father Of Jonathan, And Jonathan The Father Of Jaddua.",
+            "In The Days Of Joiakim, These Were The Heads Of The Priestly Families: Of Seraiah's Family, Meraiah; Of Jeremiah's, Hananiah;",
+            "Of Ezra's, Meshullam; Of Amariah's, Jehohanan;",
+            "Of Malluch's, Jonathan; Of Shecaniah's, Joseph;",
+            "Of Harim's, Adna; Of Meremoth's, Helkai;",
+            "Of Iddo's, Zechariah; Of Ginnethon's, Meshullam;",
+            "Of Abijah's, Zicri; Of Miniamin's And Of Moadiah's, Piltai;",
+            "Of Bilgah's, Shammua; Of Shemaiah's, Jehonathan;",
+            "Of Joiarib's, Mattenai; Of Jedaiah's, Uzzi;",
+            "Of Sallu's, Kallai; Of Amok's, Eber;",
+            "Of Hilkiah's, Hashabiah; Of Jedaiah's, Nethanel.",
+            "The Family Heads Of The Levites In The Days Of Eliashib, Joiada, Johanan And Jaddua, As Well As Those Of The Priests, Were Recorded In The Reign Of Darius The Persian.",
+            "The Family Heads Among The Descendants Of Levi Up To The Time Of Johanan Son Of Eliashib Were Recorded In The Book Of The Annals.",
+            "And The Leaders Of The Levites Were Hashabiah, Sherebiah, Jeshua Son Of Kadmiel, And Their Associates, Who Stood Opposite Them To Give Praise And Thanksgiving, One Section Responding To The Other, As Prescribed By David The Man Of God.",
+            "Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon And Akkub Were Gatekeepers Who Guarded The Storerooms At The Gates.",
+            "They Served In The Days Of Joiakim Son Of Jeshua, The Son Of Jozadak, And In The Days Of Nehemiah The Governor And Of Ezra The Priest And Scribe.",
+            "At The Dedication Of The Wall Of Jerusalem, The Levites Were Sought Out From Where They Lived And Were Brought To Jerusalem To Celebrate Joyfully The Dedication With Songs Of Thanksgiving And With The Music Of Cymbals, Harps And Lyres.",
+            "The Singers Also Were Brought Together From The Region Around Jerusalem-from The Villages Of The Netophathites,",
+            "From Beth Gilgal, And From The Area Of Geba And Azmaveth, For The Singers Had Built Villages For Themselves Around Jerusalem.",
+            "When The Priests And Levites Had Purified Themselves Ceremonially, They Purified The People, The Gates And The Wall.",
+            "I Had The Leaders Of Judah Go Up On Top Of The Wall. I Also Assigned Two Large Choirs To Give Thanks. One Was To Proceed On Top Of The Wall To The Right, Toward The Dung Gate.",
+            "Hoshaiah And Half The Leaders Of Judah Followed Them,",
+            "Along With Azariah, Ezra, Meshullam,",
+            "Judah, Benjamin, Shemaiah, Jeremiah,",
+            "As Well As Some Priests With Trumpets, And Also Zechariah Son Of Jonathan, The Son Of Shemaiah, The Son Of Mattaniah, The Son Of Micaiah, The Son Of Zaccur, The Son Of Asaph,",
+            "And His Associates-shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah And Hanani-with Musical Instruments Prescribed By David The Man Of God. Ezra The Scribe Led The Procession.",
+            "At The Fountain Gate They Continued Directly Up The Steps Of The City Of David On The Ascent To The Wall And Passed Above The House Of David To The Water Gate On The East.",
+            "The Second Choir Proceeded In The Opposite Direction. I Followed Them On Top Of The Wall, Together With Half The People-past The Tower Of The Ovens To The Broad Wall,",
+            "Over The Gate Of Ephraim, The Jeshanah Gate, The Fish Gate, The Tower Of Hananel And The Tower Of The Hundred, As Far As The Sheep Gate. At The Gate Of The Guard They Stopped.",
+            "The Two Choirs That Gave Thanks Then Took Their Places In The House Of God; So Did I, Together With Half The Officials,",
+            "As Well As The Priests-eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah And Hananiah With Their Trumpets-",
+            "And Also Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malkijah, Elam And Ezer. The Choirs Sang Under The Direction Of Jezrahiah.",
+            "And On That Day They Offered Great Sacrifices, Rejoicing Because God Had Given Them Great Joy. The Women And Children Also Rejoiced. The Sound Of Rejoicing In Jerusalem Could Be Heard Far Away.",
+            "At That Time Men Were Appointed To Be In Charge Of The Storerooms For The Contributions, Firstfruits And Tithes. From The Fields Around The Towns They Were To Bring Into The Storerooms The Portions Required By The Law For The Priests And The Levites, For Judah Was Pleased With The Ministering Priests And Levites.",
+            "They Performed The Service Of Their God And The Service Of Purification, As Did Also The Singers And Gatekeepers, According To The Commands Of David And His Son Solomon.",
+            "For Long Ago, In The Days Of David And Asaph, There Had Been Directors For The Singers And For The Songs Of Praise And Thanksgiving To God.",
+            "So In The Days Of Zerubbabel And Of Nehemiah, All Israel Contributed The Daily Portions For The Singers And Gatekeepers. They Also Set Aside The Portion For The Other Levites, And The Levites Set Aside The Portion For The Descendants Of Aaron."
+        ],
+        [
+            "On That Day The Book Of Moses Was Read Aloud In The Hearing Of The People And There It Was Found Written That No Ammonite Or Moabite Should Ever Be Admitted Into The Assembly Of God,",
+            "Because They Had Not Met The Israelites With Food And Water But Had Hired Balaam To Call A Curse Down On Them. (Our God, However, Turned The Curse Into A Blessing.)",
+            "When The People Heard This Law, They Excluded From Israel All Who Were Of Foreign Descent.",
+            "Before This, Eliashib The Priest Had Been Put In Charge Of The Storerooms Of The House Of Our God. He Was Closely Associated With Tobiah,",
+            "And He Had Provided Him With A Large Room Formerly Used To Store The Grain Offerings And Incense And Temple Articles, And Also The Tithes Of Grain, New Wine And Oil Prescribed For The Levites, Singers And Gatekeepers, As Well As The Contributions For The Priests.",
+            "But While All This Was Going On, I Was Not In Jerusalem, For In The Thirty-second Year Of Artaxerxes King Of Babylon I Had Returned To The King. Some Time Later I Asked His Permission",
+            "And Came Back To Jerusalem. Here I Learned About The Evil Thing Eliashib Had Done In Providing Tobiah A Room In The Courts Of The House Of God.",
+            "I Was Greatly Displeased And Threw All Tobiah's Household Goods Out Of The Room.",
+            "I Gave Orders To Purify The Rooms, And Then I Put Back Into Them The Equipment Of The House Of God, With The Grain Offerings And The Incense.",
+            "I Also Learned That The Portions Assigned To The Levites Had Not Been Given To Them, And That All The Levites And Singers Responsible For The Service Had Gone Back To Their Own Fields.",
+            "So I Rebuked The Officials And Asked Them, \"Why Is The House Of God Neglected?\" Then I Called Them Together And Stationed Them At Their Posts.",
+            "All Judah Brought The Tithes Of Grain, New Wine And Oil Into The Storerooms.",
+            "I Put Shelemiah The Priest, Zadok The Scribe, And A Levite Named Pedaiah In Charge Of The Storerooms And Made Hanan Son Of Zaccur, The Son Of Mattaniah, Their Assistant, Because These Men Were Considered Trustworthy. They Were Made Responsible For Distributing The Supplies To Their Brothers.",
+            "Remember Me For This, O My God, And Do Not Blot Out What I Have So Faithfully Done For The House Of My God And Its Services.",
+            "In Those Days I Saw Men In Judah Treading Winepresses On The Sabbath And Bringing In Grain And Loading It On Donkeys, Together With Wine, Grapes, Figs And All Other Kinds Of Loads. And They Were Bringing All This Into Jerusalem On The Sabbath. Therefore I Warned Them Against Selling Food On That Day.",
+            "Men From Tyre Who Lived In Jerusalem Were Bringing In Fish And All Kinds Of Merchandise And Selling Them In Jerusalem On The Sabbath To The People Of Judah.",
+            "I Rebuked The Nobles Of Judah And Said To Them, \"What Is This Wicked Thing You Are Doing-desecrating The Sabbath Day?",
+            "Didn't Your Forefathers Do The Same Things, So That Our God Brought All This Calamity Upon Us And Upon This City? Now You Are Stirring Up More Wrath Against Israel By Desecrating The Sabbath.\"",
+            "When Evening Shadows Fell On The Gates Of Jerusalem Before The Sabbath, I Ordered The Doors To Be Shut And Not Opened Until The Sabbath Was Over. I Stationed Some Of My Own Men At The Gates So That No Load Could Be Brought In On The Sabbath Day.",
+            "Once Or Twice The Merchants And Sellers Of All Kinds Of Goods Spent The Night Outside Jerusalem.",
+            "But I Warned Them And Said, \"Why Do You Spend The Night By The Wall? If You Do This Again, I Will Lay Hands On You.\" From That Time On They No Longer Came On The Sabbath.",
+            "Then I Commanded The Levites To Purify Themselves And Go And Guard The Gates In Order To Keep The Sabbath Day Holy. Remember Me For This Also, O My God, And Show Mercy To Me According To Your Great Love.",
+            "Moreover, In Those Days I Saw Men Of Judah Who Had Married Women From Ashdod, Ammon And Moab.",
+            "Half Of Their Children Spoke The Language Of Ashdod Or The Language Of One Of The Other Peoples, And Did Not Know How To Speak The Language Of Judah.",
+            "I Rebuked Them And Called Curses Down On Them. I Beat Some Of The Men And Pulled Out Their Hair. I Made Them Take An Oath In God's Name And Said: \"You Are Not To Give Your Daughters In Marriage To Their Sons, Nor Are You To Take Their Daughters In Marriage For Your Sons Or For Yourselves.",
+            "Was It Not Because Of Marriages Like These That Solomon King Of Israel Sinned? Among The Many Nations There Was No King Like Him. He Was Loved By His God, And God Made Him King Over All Israel, But Even He Was Led Into Sin By Foreign Women.",
+            "Must We Hear Now That You Too Are Doing All This Terrible Wickedness And Are Being Unfaithful To Our God By Marrying Foreign Women?\"",
+            "One Of The Sons Of Joiada Son Of Eliashib The High Priest Was Son-in-law To Sanballat The Horonite. And I Drove Him Away From Me.",
+            "Remember Them, O My God, Because They Defiled The Priestly Office And The Covenant Of The Priesthood And Of The Levites.",
+            "So I Purified The Priests And The Levites Of Everything Foreign, And Assigned Them Duties, Each To His Own Task.",
+            "I Also Made Provision For Contributions Of Wood At Designated Times, And For The Firstfruits. Remember Me With Favor, O My God."
+        ]
+    ]
 }

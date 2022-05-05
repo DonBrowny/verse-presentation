@@ -1,64 +1,20 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "63000000",
-          "Verse": "The elder unto the beloved Gaius, whom I love in the truth."
-        },
-        {
-          "Verseid": "63000001",
-          "Verse": "Beloved, I wish above all things that you may prosper and be in health, even as your soul prospers."
-        },
-        {
-          "Verseid": "63000002",
-          "Verse": "For I rejoiced greatly, when the brethren came and testified of the truth that is in you, even as you walk in the truth."
-        },
-        {
-          "Verseid": "63000003",
-          "Verse": "I have no greater joy than to hear that my children walk in truth."
-        },
-        {
-          "Verseid": "63000004",
-          "Verse": "Beloved, you do faithfully whatsoever you do to the brethren, and to strangers;"
-        },
-        {
-          "Verseid": "63000005",
-          "Verse": "Which have borne witness of your love before the church: whom if you bring forward on their journey after a godly sort, you shall do well:"
-        },
-        {
-          "Verseid": "63000006",
-          "Verse": "Because that for his name's sake they went forth, taking nothing of the Gentiles."
-        },
-        {
-          "Verseid": "63000007",
-          "Verse": "We therefore ought to receive such, that we might be fellow-helpers to the truth."
-        },
-        {
-          "Verseid": "63000008",
-          "Verse": "I wrote unto the church: but Diotrephes, who loves to have the preeminence among them, receives us not."
-        },
-        {
-          "Verseid": "63000009",
-          "Verse": "Wherefore, if I come, I will remember his deeds which he does, babbling against us with malicious words: and not content therewith, neither does he himself receive the brethren, and forbids them that would, and casts them out of the church."
-        },
-        {
-          "Verseid": "63000010",
-          "Verse": "Beloved, follow not that which is evil, but that which is good. He that does good is of God: but he that does evil has not seen God."
-        },
-        {
-          "Verseid": "63000011",
-          "Verse": "Demetrius has good report of all men, and of the truth itself: yea, and we also bear record; and all of you know that our record is true."
-        },
-        {
-          "Verseid": "63000012",
-          "Verse": "I had many things to write, but I will not with ink and pen write unto you:"
-        },
-        {
-          "Verseid": "63000013",
-          "Verse": "But I trust I shall shortly see you, and we shall speak face to face. Peace be to you. Our friends salute you. Greet the friends by name."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "The Elder, To My Dear Friend Gaius, Whom I Love In The Truth.",
+            "Dear Friend, I Pray That You May Enjoy Good Health And That All May Go Well With You, Even As Your Soul Is Getting Along Well.",
+            "It Gave Me Great Joy To Have Some Brothers Come And Tell About Your Faithfulness To The Truth And How You Continue To Walk In The Truth.",
+            "I Have No Greater Joy Than To Hear That My Children Are Walking In The Truth.",
+            "Dear Friend, You Are Faithful In What You Are Doing For The Brothers, Even Though They Are Strangers To You.",
+            "They Have Told The Church About Your Love. You Will Do Well To Send Them On Their Way In A Manner Worthy Of God.",
+            "It Was For The Sake Of The Name That They Went Out, Receiving No Help From The Pagans.",
+            "We Ought Therefore To Show Hospitality To Such Men So That We May Work Together For The Truth.",
+            "I Wrote To The Church, But Diotrephes, Who Loves To Be First, Will Have Nothing To Do With Us.",
+            "So If I Come, I Will Call Attention To What He Is Doing, Gossiping Maliciously About Us. Not Satisfied With That, He Refuses To Welcome The Brothers. He Also Stops Those Who Want To Do So And Puts Them Out Of The Church.",
+            "Dear Friend, Do Not Imitate What Is Evil But What Is Good. Anyone Who Does What Is Good Is From God. Anyone Who Does What Is Evil Has Not Seen God.",
+            "Demetrius Is Well Spoken Of By Everyone--and Even By The Truth Itself. We Also Speak Well Of Him, And You Know That Our Testimony Is True.",
+            "I Have Much To Write You, But I Do Not Want To Do So With Pen And Ink.",
+            "I Hope To See You Soon, And We Will Talk Face To Face. Peace To You. The Friends Here Send Their Greetings. Greet The Friends There By Name."
+        ]
+    ]
 }

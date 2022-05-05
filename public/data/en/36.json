@@ -1,164 +1,46 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "36000000",
-          "Verse": "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,"
-        },
-        {
-          "Verseid": "36000001",
-          "Verse": "Thus speaks the LORD of hosts, saying, This people say, The time is not come, the time that the LORD's house should be built."
-        },
-        {
-          "Verseid": "36000002",
-          "Verse": "Then came the word of the LORD by Haggai the prophet, saying,"
-        },
-        {
-          "Verseid": "36000003",
-          "Verse": "Is it time for you, O all of you, to dwell in your covered over houses, and this house lie waste?"
-        },
-        {
-          "Verseid": "36000004",
-          "Verse": "Now therefore thus says the LORD of hosts; Consider your ways."
-        },
-        {
-          "Verseid": "36000005",
-          "Verse": "All of you have sown much, and bring in little; all of you eat, but all of you have not enough; all of you drink, but all of you are not filled with drink; all of you clothe you, but there is none warm; and he that earns wages earns wages to put it into a bag with holes."
-        },
-        {
-          "Verseid": "36000006",
-          "Verse": "Thus says the LORD of hosts; Consider your ways."
-        },
-        {
-          "Verseid": "36000007",
-          "Verse": "Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, says the LORD."
-        },
-        {
-          "Verseid": "36000008",
-          "Verse": "All of you looked for much, and, lo it came to little; and when all of you brought it home, I did blow upon it. Why? says the LORD of hosts. Because of mine house that is waste, and all of you run every man unto his own house."
-        },
-        {
-          "Verseid": "36000009",
-          "Verse": "Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit."
-        },
-        {
-          "Verseid": "36000010",
-          "Verse": "And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground brings forth, and upon men, and upon cattle, and upon all the labour of the hands."
-        },
-        {
-          "Verseid": "36000011",
-          "Verse": "Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the LORD their God, and the words of Haggai the prophet, as the LORD their God had sent him, and the people did fear before the LORD."
-        },
-        {
-          "Verseid": "36000012",
-          "Verse": "Then spoke Haggai the LORD's messenger in the LORD's message unto the people, saying, I am with you, says the LORD."
-        },
-        {
-          "Verseid": "36000013",
-          "Verse": "And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the LORD of hosts, their God,"
-        },
-        {
-          "Verseid": "36000014",
-          "Verse": "In the four and twentieth day of the sixth month, in the second year of Darius the king."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "36001000",
-          "Verse": "In the seventh month, in the one and twentieth day of the month, came the word of the LORD by the prophet Haggai, saying,"
-        },
-        {
-          "Verseid": "36001001",
-          "Verse": "Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,"
-        },
-        {
-          "Verseid": "36001002",
-          "Verse": "Who is left among you that saw this house in her first glory? and how do all of you see it now? is it not in your eyes in comparison of it as nothing?"
-        },
-        {
-          "Verseid": "36001003",
-          "Verse": "Yet now be strong, O Zerubbabel, says the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all you people of the land, says the LORD, and work: for I am with you, says the LORD of hosts:"
-        },
-        {
-          "Verseid": "36001004",
-          "Verse": "According to the word that I covenanted with you when all of you came out of Egypt, so my spirit remains among you: fear all of you not."
-        },
-        {
-          "Verseid": "36001005",
-          "Verse": "For thus says the LORD of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;"
-        },
-        {
-          "Verseid": "36001006",
-          "Verse": "And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, says the LORD of hosts."
-        },
-        {
-          "Verseid": "36001007",
-          "Verse": "The silver is mine, and the gold is mine, says the LORD of hosts."
-        },
-        {
-          "Verseid": "36001008",
-          "Verse": "The glory of this latter house shall be greater than of the former, says the LORD of hosts: and in this place will I give peace, says the LORD of hosts."
-        },
-        {
-          "Verseid": "36001009",
-          "Verse": "In the four and twentieth day of the ninth month, in the second year of Darius, came the word of the LORD by Haggai the prophet, saying,"
-        },
-        {
-          "Verseid": "36001010",
-          "Verse": "Thus says the LORD of hosts; Ask now the priests concerning the law, saying,"
-        },
-        {
-          "Verseid": "36001011",
-          "Verse": "If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any food, shall it be holy? And the priests answered and said, No."
-        },
-        {
-          "Verseid": "36001012",
-          "Verse": "Then said Haggai, If one that is unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean."
-        },
-        {
-          "Verseid": "36001013",
-          "Verse": "Then answered Haggai, and said, So is this people, and so is this nation before me, says the LORD; and so is every work of their hands; and that which they offer there is unclean."
-        },
-        {
-          "Verseid": "36001014",
-          "Verse": "And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the LORD:"
-        },
-        {
-          "Verseid": "36001015",
-          "Verse": "Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat in order to draw out fifty vessels out of the press, there were but twenty."
-        },
-        {
-          "Verseid": "36001016",
-          "Verse": "I stroke you with blasting and with mildew and with hail in all the labours of your hands; yet all of you turned not to me, says the LORD."
-        },
-        {
-          "Verseid": "36001017",
-          "Verse": "Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of the LORD's temple was laid, consider it."
-        },
-        {
-          "Verseid": "36001018",
-          "Verse": "Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, has not brought forth: from this day will I bless you."
-        },
-        {
-          "Verseid": "36001019",
-          "Verse": "And again the word of the LORD came unto Haggai in the four and twentieth day of the month, saying,"
-        },
-        {
-          "Verseid": "36001020",
-          "Verse": "Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;"
-        },
-        {
-          "Verseid": "36001021",
-          "Verse": "And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother."
-        },
-        {
-          "Verseid": "36001022",
-          "Verse": "In that day, says the LORD of hosts, will I take you, O Zerubbabel, my servant, the son of Shealtiel, says the LORD, and will make you as a signet: for I have chosen you, says the LORD of hosts."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "In The Second Year Of King Darius, On The First Day Of The Sixth Month, The Word Of The Lord Came Through The Prophet Haggai To Zerubbabel Son Of Shealtiel, Governor Of Judah, And To Joshua Son Of Jehozadak, The High Priest:",
+            "This Is What The Lord Almighty Says: \"These People Say, 'The Time Has Not Yet Come For The Lord 'S House To Be Built.' \"",
+            "Then The Word Of The Lord Came Through The Prophet Haggai:",
+            "\"Is It A Time For You Yourselves To Be Living In Your Paneled Houses, While This House Remains A Ruin?\"",
+            "Now This Is What The Lord Almighty Says: \"Give Careful Thought To Your Ways.",
+            "You Have Planted Much, But Have Harvested Little. You Eat, But Never Have Enough. You Drink, But Never Have Your Fill. You Put On Clothes, But Are Not Warm. You Earn Wages, Only To Put Them In A Purse With Holes In It.\"",
+            "This Is What The Lord Almighty Says: \"Give Careful Thought To Your Ways.",
+            "Go Up Into The Mountains And Bring Down Timber And Build The House, So That I May Take Pleasure In It And Be Honored,\" Says The Lord .",
+            "\"You Expected Much, But See, It Turned Out To Be Little. What You Brought Home, I Blew Away. Why?\" Declares The Lord Almighty. \"Because Of My House, Which Remains A Ruin, While Each Of You Is Busy With His Own House.",
+            "Therefore, Because Of You The Heavens Have Withheld Their Dew And The Earth Its Crops.",
+            "I Called For A Drought On The Fields And The Mountains, On The Grain, The New Wine, The Oil And Whatever The Ground Produces, On Men And Cattle, And On The Labor Of Your Hands.\"",
+            "Then Zerubbabel Son Of Shealtiel, Joshua Son Of Jehozadak, The High Priest, And The Whole Remnant Of The People Obeyed The Voice Of The Lord Their God And The Message Of The Prophet Haggai, Because The Lord Their God Had Sent Him. And The People Feared The Lord .",
+            "Then Haggai, The Lord 'S Messenger, Gave This Message Of The Lord To The People: \"I Am With You,\" Declares The Lord .",
+            "So The Lord Stirred Up The Spirit Of Zerubbabel Son Of Shealtiel, Governor Of Judah, And The Spirit Of Joshua Son Of Jehozadak, The High Priest, And The Spirit Of The Whole Remnant Of The People. They Came And Began To Work On The House Of The Lord Almighty, Their God,",
+            "On The Twenty-fourth Day Of The Sixth Month In The Second Year Of King Darius."
+        ],
+        [
+            "On The Twenty-first Day Of The Seventh Month, The Word Of The Lord Came Through The Prophet Haggai:",
+            "\"Speak To Zerubbabel Son Of Shealtiel, Governor Of Judah, To Joshua Son Of Jehozadak, The High Priest, And To The Remnant Of The People. Ask Them,",
+            "'Who Of You Is Left Who Saw This House In Its Former Glory? How Does It Look To You Now? Does It Not Seem To You Like Nothing?",
+            "But Now Be Strong, O Zerubbabel,' Declares The Lord . 'Be Strong, O Joshua Son Of Jehozadak, The High Priest. Be Strong, All You People Of The Land,' Declares The Lord , 'And Work. For I Am With You,' Declares The Lord Almighty.",
+            "'This Is What I Covenanted With You When You Came Out Of Egypt. And My Spirit Remains Among You. Do Not Fear.'",
+            "\"This Is What The Lord Almighty Says: 'In A Little While I Will Once More Shake The Heavens And The Earth, The Sea And The Dry Land.",
+            "I Will Shake All Nations, And The Desired Of All Nations Will Come, And I Will Fill This House With Glory,' Says The Lord Almighty.",
+            "'The Silver Is Mine And The Gold Is Mine,' Declares The Lord Almighty.",
+            "'The Glory Of This Present House Will Be Greater Than The Glory Of The Former House,' Says The Lord Almighty. 'And In This Place I Will Grant Peace,' Declares The Lord Almighty.\"",
+            "On The Twenty-fourth Day Of The Ninth Month, In The Second Year Of Darius, The Word Of The Lord Came To The Prophet Haggai:",
+            "\"This Is What The Lord Almighty Says: 'Ask The Priests What The Law Says:",
+            "If A Person Carries Consecrated Meat In The Fold Of His Garment, And That Fold Touches Some Bread Or Stew, Some Wine, Oil Or Other Food, Does It Become Consecrated?' \" The Priests Answered, \"No.\"",
+            "Then Haggai Said, \"If A Person Defiled By Contact With A Dead Body Touches One Of These Things, Does It Become Defiled?\" \"Yes,\" The Priests Replied, \"It Becomes Defiled.\"",
+            "Then Haggai Said, \" 'So It Is With This People And This Nation In My Sight,' Declares The Lord . 'Whatever They Do And Whatever They Offer There Is Defiled.",
+            "\" 'Now Give Careful Thought To This From This Day On -Consider How Things Were Before One Stone Was Laid On Another In The Lord 'S Temple.",
+            "When Anyone Came To A Heap Of Twenty Measures, There Were Only Ten. When Anyone Went To A Wine Vat To Draw Fifty Measures, There Were Only Twenty.",
+            "I Struck All The Work Of Your Hands With Blight, Mildew And Hail, Yet You Did Not Turn To Me,' Declares The Lord .",
+            "'From This Day On, From This Twenty-fourth Day Of The Ninth Month, Give Careful Thought To The Day When The Foundation Of The Lord 'S Temple Was Laid. Give Careful Thought:",
+            "Is There Yet Any Seed Left In The Barn? Until Now, The Vine And The Fig Tree, The Pomegranate And The Olive Tree Have Not Borne Fruit. \" 'From This Day On I Will Bless You.' \"",
+            "The Word Of The Lord Came To Haggai A Second Time On The Twenty-fourth Day Of The Month:",
+            "\"Tell Zerubbabel Governor Of Judah That I Will Shake The Heavens And The Earth.",
+            "I Will Overturn Royal Thrones And Shatter The Power Of The Foreign Kingdoms. I Will Overthrow Chariots And Their Drivers; Horses And Their Riders Will Fall, Each By The Sword Of His Brother.",
+            "\" 'On That Day,' Declares The Lord Almighty, 'I Will Take You, My Servant Zerubbabel Son Of Shealtiel,' Declares The Lord , 'And I Will Make You Like My Signet Ring, For I Have Chosen You,' Declares The Lord Almighty.\""
+        ]
+    ]
 }

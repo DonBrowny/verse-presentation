@@ -1,352 +1,95 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "54000000",
-          "Verse": "Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,"
-        },
-        {
-          "Verseid": "54000001",
-          "Verse": "To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord."
-        },
-        {
-          "Verseid": "54000002",
-          "Verse": "I thank God, whom I serve from my forefathers with pure conscience, that without ceasing I have remembrance of you in my prayers night and day;"
-        },
-        {
-          "Verseid": "54000003",
-          "Verse": "Greatly desiring to see you, being mindful of your tears, that I may be filled with joy;"
-        },
-        {
-          "Verseid": "54000004",
-          "Verse": "When I call to remembrance the sincere faith that is in you, which dwelt first in your grandmother Lois, and your mother Eunice; and I am persuaded that in you also."
-        },
-        {
-          "Verseid": "54000005",
-          "Verse": "Wherefore I put you in remembrance that you stir up the gift of God, which is in you by the putting on of my hands."
-        },
-        {
-          "Verseid": "54000006",
-          "Verse": "For God has not given us the spirit of fear; but of power, and of love, and of a sound mind."
-        },
-        {
-          "Verseid": "54000007",
-          "Verse": "Be not you therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be you partaker of the afflictions of the gospel according to the power of God;"
-        },
-        {
-          "Verseid": "54000008",
-          "Verse": "Who has saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,"
-        },
-        {
-          "Verseid": "54000009",
-          "Verse": "But is now made manifest by the appearing of our Saviour Jesus Christ, who has abolished death, and has brought life and immortality to light through the gospel:"
-        },
-        {
-          "Verseid": "54000010",
-          "Verse": "Unto which I am appointed a preacher, and an apostle, and a teacher of the Gentiles."
-        },
-        {
-          "Verseid": "54000011",
-          "Verse": "For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day."
-        },
-        {
-          "Verseid": "54000012",
-          "Verse": "Hold fast the form of sound words, which you have heard of me, in faith and love which is in Christ Jesus."
-        },
-        {
-          "Verseid": "54000013",
-          "Verse": "That good thing which was committed unto you keep by the Holy Spirit which dwells in us."
-        },
-        {
-          "Verseid": "54000014",
-          "Verse": "This you know, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes."
-        },
-        {
-          "Verseid": "54000015",
-          "Verse": "The Lord give mercy unto the house of Onesiphorus; for he often refreshed me, and was not ashamed of my chain:"
-        },
-        {
-          "Verseid": "54000016",
-          "Verse": "But, when he was in Rome, he sought me out very diligently, and found me."
-        },
-        {
-          "Verseid": "54000017",
-          "Verse": "The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, you know very well."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "54001000",
-          "Verse": "You therefore, my son, be strong in the grace that is in Christ Jesus."
-        },
-        {
-          "Verseid": "54001001",
-          "Verse": "And the things that you have heard of me among many witnesses, the same commit you to faithful men, who shall be able to teach others also."
-        },
-        {
-          "Verseid": "54001002",
-          "Verse": "You therefore endure hardness, as a good soldier of Jesus Christ."
-        },
-        {
-          "Verseid": "54001003",
-          "Verse": "No man that wars entangles himself with the affairs of this life; that he may please him who has chosen him to be a soldier."
-        },
-        {
-          "Verseid": "54001004",
-          "Verse": "And if a man also strive for masteries, yet is he not crowned, except he strive lawfully."
-        },
-        {
-          "Verseid": "54001005",
-          "Verse": "The farmer that labours must be first partaker of the fruits."
-        },
-        {
-          "Verseid": "54001006",
-          "Verse": "Consider what I say; and the Lord give you understanding in all things."
-        },
-        {
-          "Verseid": "54001007",
-          "Verse": "Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:"
-        },
-        {
-          "Verseid": "54001008",
-          "Verse": "Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound."
-        },
-        {
-          "Verseid": "54001009",
-          "Verse": "Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory."
-        },
-        {
-          "Verseid": "54001010",
-          "Verse": "It is a faithful saying: For if we be dead with him, we shall also live with him:"
-        },
-        {
-          "Verseid": "54001011",
-          "Verse": "If we suffer, we shall also reign with him: if we deny him, he also will deny us:"
-        },
-        {
-          "Verseid": "54001012",
-          "Verse": "If we believe not, yet he abides faithful: he cannot deny himself."
-        },
-        {
-          "Verseid": "54001013",
-          "Verse": "Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers."
-        },
-        {
-          "Verseid": "54001014",
-          "Verse": "Study to show yourself approved unto God, a workman that needs not to be ashamed, rightly dividing the word of truth."
-        },
-        {
-          "Verseid": "54001015",
-          "Verse": "But shun profane and vain babblings: for they will increase unto more ungodliness."
-        },
-        {
-          "Verseid": "54001016",
-          "Verse": "And their word will eat as does a canker: of whom is Hymenaeus and Philetus;"
-        },
-        {
-          "Verseid": "54001017",
-          "Verse": "Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some."
-        },
-        {
-          "Verseid": "54001018",
-          "Verse": "Nevertheless the foundation of God stands sure, having this seal, The Lord knows them that are his. And, Let every one that names the name of Christ depart from iniquity."
-        },
-        {
-          "Verseid": "54001019",
-          "Verse": "But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour."
-        },
-        {
-          "Verseid": "54001020",
-          "Verse": "If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master's use, and prepared unto every good work."
-        },
-        {
-          "Verseid": "54001021",
-          "Verse": "Flee also youthful lusts: but follow righteousness, faith, love, peace, with them that call on the Lord out of a pure heart."
-        },
-        {
-          "Verseid": "54001022",
-          "Verse": "But foolish and unlearned questions avoid, knowing that they do gender strifes."
-        },
-        {
-          "Verseid": "54001023",
-          "Verse": "And the servant of the Lord must not strive; but be gentle unto all men, able to teach, patient,"
-        },
-        {
-          "Verseid": "54001024",
-          "Verse": "In meekness instructing those that oppose themselves; if God possibly will give them repentance to the acknowledging of the truth;"
-        },
-        {
-          "Verseid": "54001025",
-          "Verse": "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "54002000",
-          "Verse": "This know also, that in the last days dangerous times shall come."
-        },
-        {
-          "Verseid": "54002001",
-          "Verse": "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,"
-        },
-        {
-          "Verseid": "54002002",
-          "Verse": "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,"
-        },
-        {
-          "Verseid": "54002003",
-          "Verse": "Traitors, rebellious, high-minded, lovers of pleasures more than lovers of God;"
-        },
-        {
-          "Verseid": "54002004",
-          "Verse": "Having a form of godliness, but denying the power thereof: from such turn away."
-        },
-        {
-          "Verseid": "54002005",
-          "Verse": "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,"
-        },
-        {
-          "Verseid": "54002006",
-          "Verse": "Ever learning, and never able to come to the knowledge of the truth."
-        },
-        {
-          "Verseid": "54002007",
-          "Verse": "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith."
-        },
-        {
-          "Verseid": "54002008",
-          "Verse": "But they shall proceed no further: for their folly shall be manifest unto all men, as their's also was."
-        },
-        {
-          "Verseid": "54002009",
-          "Verse": "But you have fully known my doctrine, manner of life, purpose, faith, longsuffering, love, patience,"
-        },
-        {
-          "Verseid": "54002010",
-          "Verse": "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me."
-        },
-        {
-          "Verseid": "54002011",
-          "Verse": "Yea, and all that will live godly in Christ Jesus shall suffer persecution."
-        },
-        {
-          "Verseid": "54002012",
-          "Verse": "But evil men and seducers shall wax worse and worse, deceiving, and being deceived."
-        },
-        {
-          "Verseid": "54002013",
-          "Verse": "But continue you in the things which you have learned and have been assured of, knowing of whom you have learned them;"
-        },
-        {
-          "Verseid": "54002014",
-          "Verse": "And that from a child you have known the holy scriptures, which are able to make you wise unto salvation through faith which is in Christ Jesus."
-        },
-        {
-          "Verseid": "54002015",
-          "Verse": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:"
-        },
-        {
-          "Verseid": "54002016",
-          "Verse": "That the man of God may be perfect, thoroughly furnished unto all good works."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "54003000",
-          "Verse": "I charge you therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;"
-        },
-        {
-          "Verseid": "54003001",
-          "Verse": "Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine."
-        },
-        {
-          "Verseid": "54003002",
-          "Verse": "For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;"
-        },
-        {
-          "Verseid": "54003003",
-          "Verse": "And they shall turn away their ears from the truth, and shall be turned unto fables."
-        },
-        {
-          "Verseid": "54003004",
-          "Verse": "But watch you in all things, endure afflictions, do the work of an evangelist, make full proof of your ministry."
-        },
-        {
-          "Verseid": "54003005",
-          "Verse": "For I am now ready to be offered, and the time of my departure is at hand."
-        },
-        {
-          "Verseid": "54003006",
-          "Verse": "I have fought a good fight, I have finished my course, I have kept the faith:"
-        },
-        {
-          "Verseid": "54003007",
-          "Verse": "Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing."
-        },
-        {
-          "Verseid": "54003008",
-          "Verse": "Do your diligence to come shortly unto me:"
-        },
-        {
-          "Verseid": "54003009",
-          "Verse": "For Demas has forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia."
-        },
-        {
-          "Verseid": "54003010",
-          "Verse": "Only Luke is with me. Take Mark, and bring him with you: for he is profitable to me for the ministry."
-        },
-        {
-          "Verseid": "54003011",
-          "Verse": "And Tychicus have I sent to Ephesus."
-        },
-        {
-          "Verseid": "54003012",
-          "Verse": "The coat that I left at Troas with Carpus, when you come, bring with you, and the books, but especially the parchments."
-        },
-        {
-          "Verseid": "54003013",
-          "Verse": "Alexander the coppersmith did me much evil: the Lord reward him according to his works:"
-        },
-        {
-          "Verseid": "54003014",
-          "Verse": "Of whom be you ware also; for he has greatly withstood our words."
-        },
-        {
-          "Verseid": "54003015",
-          "Verse": "At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge."
-        },
-        {
-          "Verseid": "54003016",
-          "Verse": "Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion."
-        },
-        {
-          "Verseid": "54003017",
-          "Verse": "And the Lord shall deliver me from every evil work, and will preserve me unto his heavenly kingdom: to whom be glory for ever and ever. Amen."
-        },
-        {
-          "Verseid": "54003018",
-          "Verse": "Salute Prisca and Aquila, and the household of Onesiphorus."
-        },
-        {
-          "Verseid": "54003019",
-          "Verse": "Erastus abode at Corinth: but Trophimus have I left at Miletum sick."
-        },
-        {
-          "Verseid": "54003020",
-          "Verse": "Do your diligence to come before winter. Eubulus greets you, and Pudens, and Linus, and Claudia, and all the brethren."
-        },
-        {
-          "Verseid": "54003021",
-          "Verse": "The Lord Jesus Christ be with your spirit. Grace be with you. Amen."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "Paul, An Apostle Of Christ Jesus By The Will Of God, According To The Promise Of Life That Is In Christ Jesus,",
+            "To Timothy, My Dear Son: Grace, Mercy And Peace From God The Father And Christ Jesus Our Lord.",
+            "I Thank God, Whom I Serve, As My Forefathers Did, With A Clear Conscience, As Night And Day I Constantly Remember You In My Prayers.",
+            "Recalling Your Tears, I Long To See You, So That I May Be Filled With Joy.",
+            "I Have Been Reminded Of Your Sincere Faith, Which First Lived In Your Grandmother Lois And In Your Mother Eunice And, I Am Persuaded, Now Lives In You Also.",
+            "For This Reason I Remind You To Fan Into Flame The Gift Of God, Which Is In You Through The Laying On Of My Hands.",
+            "For God Did Not Give Us A Spirit Of Timidity, But A Spirit Of Power, Of Love And Of Self-discipline.",
+            "So Do Not Be Ashamed To Testify About Our Lord, Or Ashamed Of Me His Prisoner. But Join With Me In Suffering For The Gospel, By The Power Of God,",
+            "Who Has Saved Us And Called Us To A Holy Life--not Because Of Anything We Have Done But Because Of His Own Purpose And Grace. This Grace Was Given Us In Christ Jesus Before The Beginning Of Time,",
+            "But It Has Now Been Revealed Through The Appearing Of Our Savior, Christ Jesus, Who Has Destroyed Death And Has Brought Life And Immortality To Light Through The Gospel.",
+            "And Of This Gospel I Was Appointed A Herald And An Apostle And A Teacher.",
+            "That Is Why I Am Suffering As I Am. Yet I Am Not Ashamed, Because I Know Whom I Have Believed, And Am Convinced That He Is Able To Guard What I Have Entrusted To Him For That Day.",
+            "What You Heard From Me, Keep As The Pattern Of Sound Teaching, With Faith And Love In Christ Jesus.",
+            "Guard The Good Deposit That Was Entrusted To You--guard It With The Help Of The Holy Spirit Who Lives In Us.",
+            "You Know That Everyone In The Province Of Asia Has Deserted Me, Including Phygelus And Hermogenes.",
+            "May The Lord Show Mercy To The Household Of Onesiphorus, Because He Often Refreshed Me And Was Not Ashamed Of My Chains.",
+            "On The Contrary, When He Was In Rome, He Searched Hard For Me Until He Found Me.",
+            "May The Lord Grant That He Will Find Mercy From The Lord On That Day! You Know Very Well In How Many Ways He Helped Me In Ephesus."
+        ],
+        [
+            "You Then, My Son, Be Strong In The Grace That Is In Christ Jesus.",
+            "And The Things You Have Heard Me Say In The Presence Of Many Witnesses Entrust To Reliable Men Who Will Also Be Qualified To Teach Others.",
+            "Endure Hardship With Us Like A Good Soldier Of Christ Jesus.",
+            "No One Serving As A Soldier Gets Involved In Civilian Affairs--he Wants To Please His Commanding Officer.",
+            "Similarly, If Anyone Competes As An Athlete, He Does Not Receive The Victor's Crown Unless He Competes According To The Rules.",
+            "The Hardworking Farmer Should Be The First To Receive A Share Of The Crops.",
+            "Reflect On What I Am Saying, For The Lord Will Give You Insight Into All This.",
+            "Remember Jesus Christ, Raised From The Dead, Descended From David. This Is My Gospel,",
+            "For Which I Am Suffering Even To The Point Of Being Chained Like A Criminal. But God's Word Is Not Chained.",
+            "Therefore I Endure Everything For The Sake Of The Elect, That They Too May Obtain The Salvation That Is In Christ Jesus, With Eternal Glory.",
+            "Here Is A Trustworthy Saying: If We Died With Him, We Will Also Live With Him;",
+            "If We Endure, We Will Also Reign With Him. If We Disown Him, He Will Also Disown Us;",
+            "If We Are Faithless, He Will Remain Faithful, For He Cannot Disown Himself.",
+            "Keep Reminding Them Of These Things. Warn Them Before God Against Quarreling About Words; It Is Of No Value, And Only Ruins Those Who Listen.",
+            "Do Your Best To Present Yourself To God As One Approved, A Workman Who Does Not Need To Be Ashamed And Who Correctly Handles The Word Of Truth.",
+            "Avoid Godless Chatter, Because Those Who Indulge In It Will Become More And More Ungodly.",
+            "Their Teaching Will Spread Like Gangrene. Among Them Are Hymenaeus And Philetus,",
+            "Who Have Wandered Away From The Truth. They Say That The Resurrection Has Already Taken Place, And They Destroy The Faith Of Some.",
+            "Nevertheless, God's Solid Foundation Stands Firm, Sealed With This Inscription: \"The Lord Knows Those Who Are His,\" And, \"Everyone Who Confesses The Name Of The Lord Must Turn Away From Wickedness.\"",
+            "In A Large House There Are Articles Not Only Of Gold And Silver, But Also Of Wood And Clay; Some Are For Noble Purposes And Some For Ignoble.",
+            "If A Man Cleanses Himself From The Latter, He Will Be An Instrument For Noble Purposes, Made Holy, Useful To The Master And Prepared To Do Any Good Work.",
+            "Flee The Evil Desires Of Youth, And Pursue Righteousness, Faith, Love And Peace, Along With Those Who Call On The Lord Out Of A Pure Heart.",
+            "Don't Have Anything To Do With Foolish And Stupid Arguments, Because You Know They Produce Quarrels.",
+            "And The Lord's Servant Must Not Quarrel; Instead, He Must Be Kind To Everyone, Able To Teach, Not Resentful.",
+            "Those Who Oppose Him He Must Gently Instruct, In The Hope That God Will Grant Them Repentance Leading Them To A Knowledge Of The Truth,",
+            "And That They Will Come To Their Senses And Escape From The Trap Of The Devil, Who Has Taken Them Captive To Do His Will."
+        ],
+        [
+            "But Mark This: There Will Be Terrible Times In The Last Days.",
+            "People Will Be Lovers Of Themselves, Lovers Of Money, Boastful, Proud, Abusive, Disobedient To Their Parents, Ungrateful, Unholy,",
+            "Without Love, Unforgiving, Slanderous, Without Self-control, Brutal, Not Lovers Of The Good,",
+            "Treacherous, Rash, Conceited, Lovers Of Pleasure Rather Than Lovers Of God--",
+            "Having A Form Of Godliness But Denying Its Power. Have Nothing To Do With Them.",
+            "They Are The Kind Who Worm Their Way Into Homes And Gain Control Over Weak-willed Women, Who Are Loaded Down With Sins And Are Swayed By All Kinds Of Evil Desires,",
+            "Always Learning But Never Able To Acknowledge The Truth.",
+            "Just As Jannes And Jambres Opposed Moses, So Also These Men Oppose The Truth--men Of Depraved Minds, Who, As Far As The Faith Is Concerned, Are Rejected.",
+            "But They Will Not Get Very Far Because, As In The Case Of Those Men, Their Folly Will Be Clear To Everyone.",
+            "You, However, Know All About My Teaching, My Way Of Life, My Purpose, Faith, Patience, Love, Endurance,",
+            "Persecutions, Sufferings--what Kinds Of Things Happened To Me In Antioch, Iconium And Lystra, The Persecutions I Endured. Yet The Lord Rescued Me From All Of Them.",
+            "In Fact, Everyone Who Wants To Live A Godly Life In Christ Jesus Will Be Persecuted,",
+            "While Evil Men And Impostors Will Go From Bad To Worse, Deceiving And Being Deceived.",
+            "But As For You, Continue In What You Have Learned And Have Become Convinced Of, Because You Know Those From Whom You Learned It,",
+            "And How From Infancy You Have Known The Holy Scriptures, Which Are Able To Make You Wise For Salvation Through Faith In Christ Jesus.",
+            "All Scripture Is God-breathed And Is Useful For Teaching, Rebuking, Correcting And Training In Righteousness,",
+            "So That The Man Of God May Be Thoroughly Equipped For Every Good Work."
+        ],
+        [
+            "In The Presence Of God And Of Christ Jesus, Who Will Judge The Living And The Dead, And In View Of His Appearing And His Kingdom, I Give You This Charge:",
+            "Preach The Word; Be Prepared In Season And Out Of Season; Correct, Rebuke And Encourage--with Great Patience And Careful Instruction.",
+            "For The Time Will Come When Men Will Not Put Up With Sound Doctrine. Instead, To Suit Their Own Desires, They Will Gather Around Them A Great Number Of Teachers To Say What Their Itching Ears Want To Hear.",
+            "They Will Turn Their Ears Away From The Truth And Turn Aside To Myths.",
+            "But You, Keep Your Head In All Situations, Endure Hardship, Do The Work Of An Evangelist, Discharge All The Duties Of Your Ministry.",
+            "For I Am Already Being Poured Out Like A Drink Offering, And The Time Has Come For My Departure.",
+            "I Have Fought The Good Fight, I Have Finished The Race, I Have Kept The Faith.",
+            "Now There Is In Store For Me The Crown Of Righteousness, Which The Lord, The Righteous Judge, Will Award To Me On That Day--and Not Only To Me, But Also To All Who Have Longed For His Appearing.",
+            "Do Your Best To Come To Me Quickly,",
+            "For Demas, Because He Loved This World, Has Deserted Me And Has Gone To Thessalonica. Crescens Has Gone To Galatia, And Titus To Dalmatia.",
+            "Only Luke Is With Me. Get Mark And Bring Him With You, Because He Is Helpful To Me In My Ministry.",
+            "I Sent Tychicus To Ephesus.",
+            "When You Come, Bring The Cloak That I Left With Carpus At Troas, And My Scrolls, Especially The Parchments.",
+            "Alexander The Metalworker Did Me A Great Deal Of Harm. The Lord Will Repay Him For What He Has Done.",
+            "You Too Should Be On Your Guard Against Him, Because He Strongly Opposed Our Message.",
+            "At My First Defense, No One Came To My Support, But Everyone Deserted Me. May It Not Be Held Against Them.",
+            "But The Lord Stood At My Side And Gave Me Strength, So That Through Me The Message Might Be Fully Proclaimed And All The Gentiles Might Hear It. And I Was Delivered From The Lion's Mouth.",
+            "The Lord Will Rescue Me From Every Evil Attack And Will Bring Me Safely To His Heavenly Kingdom. To Him Be Glory For Ever And Ever. Amen.",
+            "Greet Priscilla And Aquila And The Household Of Onesiphorus.",
+            "Erastus Stayed In Corinth, And I Left Trophimus Sick In Miletus.",
+            "Do Your Best To Get Here Before Winter. Eubulus Greets You, And So Do Pudens, Linus, Claudia And All The Brothers.",
+            "The Lord Be With Your Spirit. Grace Be With You."
+        ]
+    ]
 }

@@ -1,848 +1,229 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "27000000",
-          "Verse": "The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel."
-        },
-        {
-          "Verseid": "27000001",
-          "Verse": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto you a wife of whoredoms and children of whoredoms: for the land has committed great whoredom, departing from the LORD."
-        },
-        {
-          "Verseid": "27000002",
-          "Verse": "So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son."
-        },
-        {
-          "Verseid": "27000003",
-          "Verse": "And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel."
-        },
-        {
-          "Verseid": "27000004",
-          "Verse": "And it shall come to pass at that day, that I will break the bow of Israel, in the valley of Jezreel."
-        },
-        {
-          "Verseid": "27000005",
-          "Verse": "And she conceived again, and bare a daughter. And God said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away."
-        },
-        {
-          "Verseid": "27000006",
-          "Verse": "But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen."
-        },
-        {
-          "Verseid": "27000007",
-          "Verse": "Now when she had weaned Loruhamah, she conceived, and bare a son."
-        },
-        {
-          "Verseid": "27000008",
-          "Verse": "Then said God, Call his name Loammi: for all of you are not my people, and I will not be your God."
-        },
-        {
-          "Verseid": "27000009",
-          "Verse": "Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, All of you are not my people, there it shall be said unto them, All of you are the sons of the living God."
-        },
-        {
-          "Verseid": "27000010",
-          "Verse": "Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27001000",
-          "Verse": "Say all of you unto your brethren, Ammi; and to your sisters, Ruhamah."
-        },
-        {
-          "Verseid": "27001001",
-          "Verse": "Plead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;"
-        },
-        {
-          "Verseid": "27001002",
-          "Verse": "Lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst."
-        },
-        {
-          "Verseid": "27001003",
-          "Verse": "And I will not have mercy upon her children; for they be the children of whoredoms."
-        },
-        {
-          "Verseid": "27001004",
-          "Verse": "For their mother has played the harlot: she that conceived them has done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink."
-        },
-        {
-          "Verseid": "27001005",
-          "Verse": "Therefore, behold, I will hedge up your way with thorns, and make a wall, that she shall not find her paths."
-        },
-        {
-          "Verseid": "27001006",
-          "Verse": "And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find them: then shall she say, I will go and return to my first husband; for then was it better with me than now."
-        },
-        {
-          "Verseid": "27001007",
-          "Verse": "For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal."
-        },
-        {
-          "Verseid": "27001008",
-          "Verse": "Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness."
-        },
-        {
-          "Verseid": "27001009",
-          "Verse": "And now will I discover her lewdness in the sight of her lovers, and none shall deliver her out of mine hand."
-        },
-        {
-          "Verseid": "27001010",
-          "Verse": "I will also cause all her delight to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts."
-        },
-        {
-          "Verseid": "27001011",
-          "Verse": "And I will destroy her vines and her fig trees, whereof she has said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them."
-        },
-        {
-          "Verseid": "27001012",
-          "Verse": "And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgotten about me, says the LORD."
-        },
-        {
-          "Verseid": "27001013",
-          "Verse": "Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her."
-        },
-        {
-          "Verseid": "27001014",
-          "Verse": "And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt."
-        },
-        {
-          "Verseid": "27001015",
-          "Verse": "And it shall be at that day, says the LORD, that you shall call me Ishi; and shall call me no more Baali."
-        },
-        {
-          "Verseid": "27001016",
-          "Verse": "For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name."
-        },
-        {
-          "Verseid": "27001017",
-          "Verse": "And in that day will I make a covenant for them with the beasts of the field and with the fowls of heaven, and with the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely."
-        },
-        {
-          "Verseid": "27001018",
-          "Verse": "And I will betroth you unto me for ever; yea, I will betroth you unto me in righteousness, and in judgment, and in loving kindness, and in mercies."
-        },
-        {
-          "Verseid": "27001019",
-          "Verse": "I will even betroth you unto me in faithfulness: and you shall know the LORD."
-        },
-        {
-          "Verseid": "27001020",
-          "Verse": "And it shall come to pass in that day, I will hear, says the LORD, I will hear the heavens, and they shall hear the earth;"
-        },
-        {
-          "Verseid": "27001021",
-          "Verse": "And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel."
-        },
-        {
-          "Verseid": "27001022",
-          "Verse": "And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, You are my people; and they shall say, You are my God."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27002000",
-          "Verse": "Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine."
-        },
-        {
-          "Verseid": "27002001",
-          "Verse": "So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:"
-        },
-        {
-          "Verseid": "27002002",
-          "Verse": "And I said unto her, You shall abide for me many days; you shall not play the harlot, and you shall not be for another man: so will I also be for you."
-        },
-        {
-          "Verseid": "27002003",
-          "Verse": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:"
-        },
-        {
-          "Verseid": "27002004",
-          "Verse": "Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27003000",
-          "Verse": "Hear the word of the LORD, all of you children of Israel: for the LORD has a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land."
-        },
-        {
-          "Verseid": "27003001",
-          "Verse": "By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood touches blood."
-        },
-        {
-          "Verseid": "27003002",
-          "Verse": "Therefore shall the land mourn, and every one that dwells therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away."
-        },
-        {
-          "Verseid": "27003003",
-          "Verse": "Yet let no man strive, nor reprove another: for your people are as they that strive with the priest."
-        },
-        {
-          "Verseid": "27003004",
-          "Verse": "Therefore shall you fall in the day, and the prophet also shall fall with you in the night, and I will destroy your mother."
-        },
-        {
-          "Verseid": "27003005",
-          "Verse": "My people are destroyed for lack of knowledge: because you have rejected knowledge, I will also reject you, that you shall be no priest to me: seeing you have forgotten the law of your God, I will also forget your children."
-        },
-        {
-          "Verseid": "27003006",
-          "Verse": "As they were increased, so they sinned against me: therefore will I change their glory into shame."
-        },
-        {
-          "Verseid": "27003007",
-          "Verse": "They eat up the sin of my people, and they set their heart on their iniquity."
-        },
-        {
-          "Verseid": "27003008",
-          "Verse": "And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings."
-        },
-        {
-          "Verseid": "27003009",
-          "Verse": "For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD."
-        },
-        {
-          "Verseid": "27003010",
-          "Verse": "Whoredom and wine and new wine take away the heart."
-        },
-        {
-          "Verseid": "27003011",
-          "Verse": "My people ask counsel at their stocks, and their staff declares unto them: for the spirit of whoredoms has caused them to go astray, and they have gone a whoring from under their God."
-        },
-        {
-          "Verseid": "27003012",
-          "Verse": "They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery."
-        },
-        {
-          "Verseid": "27003013",
-          "Verse": "I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that does not understand shall fall."
-        },
-        {
-          "Verseid": "27003014",
-          "Verse": "Though you, Israel, play the harlot, yet let not Judah offend; and come not all of you unto Gilgal, neither go all of you up to Bethaven, nor swear, The LORD lives."
-        },
-        {
-          "Verseid": "27003015",
-          "Verse": "For Israel slides back as a backsliding heifer: now the LORD will feed them as a lamb in a large place."
-        },
-        {
-          "Verseid": "27003016",
-          "Verse": "Ephraim is joined to idols: let him alone."
-        },
-        {
-          "Verseid": "27003017",
-          "Verse": "Their drink is sour: they have committed whoredom continually: her rulers with shame do love, Give all of you."
-        },
-        {
-          "Verseid": "27003018",
-          "Verse": "The wind has bound her up in her wings, and they shall be ashamed because of their sacrifices."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27004000",
-          "Verse": "Hear all of you this, O priests; and hearken, all of you house of Israel; and give all of you ear, O house of the king; for judgment is toward you, because all of you have been a snare on Mizpah, and a net spread upon Tabor."
-        },
-        {
-          "Verseid": "27004001",
-          "Verse": "And the apostates are profound to make slaughter, though I have been a rebuker of them all."
-        },
-        {
-          "Verseid": "27004002",
-          "Verse": "I know Ephraim, and Israel is not hid from me: for now, O Ephraim, you commit whoredom, and Israel is defiled."
-        },
-        {
-          "Verseid": "27004003",
-          "Verse": "They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the LORD."
-        },
-        {
-          "Verseid": "27004004",
-          "Verse": "And the pride of Israel does testify to his face: therefore shall Israel and Ephraim fall in their iniquity: Judah also shall fall with them."
-        },
-        {
-          "Verseid": "27004005",
-          "Verse": "They shall go with their flocks and with their herds to seek the LORD; but they shall not find him; he has withdrawn himself from them."
-        },
-        {
-          "Verseid": "27004006",
-          "Verse": "They have dealt treacherously against the LORD: for they have begotten strange children: now shall a month devour them with their portions."
-        },
-        {
-          "Verseid": "27004007",
-          "Verse": "Blow all of you the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Bethaven, after you, O Benjamin."
-        },
-        {
-          "Verseid": "27004008",
-          "Verse": "Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be."
-        },
-        {
-          "Verseid": "27004009",
-          "Verse": "The princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water."
-        },
-        {
-          "Verseid": "27004010",
-          "Verse": "Ephraim is oppressed and broken in judgment, because he willingly walked after the commandment."
-        },
-        {
-          "Verseid": "27004011",
-          "Verse": "Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness."
-        },
-        {
-          "Verseid": "27004012",
-          "Verse": "When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound."
-        },
-        {
-          "Verseid": "27004013",
-          "Verse": "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him."
-        },
-        {
-          "Verseid": "27004014",
-          "Verse": "I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27005000",
-          "Verse": "Come, and let us return unto the LORD: for he has torn, and he will heal us; he has smitten, and he will bind us up."
-        },
-        {
-          "Verseid": "27005001",
-          "Verse": "After two days will he revive us: in the third day he will raise us up, and we shall live in his sight."
-        },
-        {
-          "Verseid": "27005002",
-          "Verse": "Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth."
-        },
-        {
-          "Verseid": "27005003",
-          "Verse": "O Ephraim, what shall I do unto you? O Judah, what shall I do unto you? for your goodness is as a morning cloud, and as the early dew it goes away."
-        },
-        {
-          "Verseid": "27005004",
-          "Verse": "Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and your judgments are as the light that goes forth."
-        },
-        {
-          "Verseid": "27005005",
-          "Verse": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings."
-        },
-        {
-          "Verseid": "27005006",
-          "Verse": "But they like men have transgressed the covenant: there have they dealt treacherously against me."
-        },
-        {
-          "Verseid": "27005007",
-          "Verse": "Gilead is a city of them that work iniquity, and is polluted with blood."
-        },
-        {
-          "Verseid": "27005008",
-          "Verse": "And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness."
-        },
-        {
-          "Verseid": "27005009",
-          "Verse": "I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled."
-        },
-        {
-          "Verseid": "27005010",
-          "Verse": "Also, O Judah, he has set an harvest for you, when I returned the captivity of my people."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27006000",
-          "Verse": "When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief comes in, and the troop of robbers spoils without."
-        },
-        {
-          "Verseid": "27006001",
-          "Verse": "And they consider not in their hearts that I remember all their wickedness: now their own doings have beset them about; they are before my face."
-        },
-        {
-          "Verseid": "27006002",
-          "Verse": "They make the king glad with their wickedness, and the princes with their lies."
-        },
-        {
-          "Verseid": "27006003",
-          "Verse": "They are all adulterers, as an oven heated by the baker, who ceases from raising after he has kneaded the dough, until it be leavened."
-        },
-        {
-          "Verseid": "27006004",
-          "Verse": "In the day of our king the princes have made him sick with bottles of wine; he stretched out his hand with scorners."
-        },
-        {
-          "Verseid": "27006005",
-          "Verse": "For they have made ready their heart like an oven, while they lie in wait: their baker sleeps all the night; in the morning it burns as a flaming fire."
-        },
-        {
-          "Verseid": "27006006",
-          "Verse": "They are all hot as an oven, and have devoured their judges; all their kings are fallen: there is none among them that calls unto me."
-        },
-        {
-          "Verseid": "27006007",
-          "Verse": "Ephraim, he has mixed himself among the people; Ephraim is a cake not turned."
-        },
-        {
-          "Verseid": "27006008",
-          "Verse": "Strangers have devoured his strength, and he knows it not: yea, gray hairs are here and there upon him, yet he knows not."
-        },
-        {
-          "Verseid": "27006009",
-          "Verse": "And the pride of Israel testifies to his face: and they do not return to the LORD their God, nor seek him for all this."
-        },
-        {
-          "Verseid": "27006010",
-          "Verse": "Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria."
-        },
-        {
-          "Verseid": "27006011",
-          "Verse": "When they shall go, I will spread my net upon them; I will bring them down as the fowls of the heaven; I will chastise them, as their congregation has heard."
-        },
-        {
-          "Verseid": "27006012",
-          "Verse": "Woe unto them! for they have fled from me: destruction unto them! because they have transgressed against me: though I have redeemed them, yet they have spoken lies against me."
-        },
-        {
-          "Verseid": "27006013",
-          "Verse": "And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, and they rebel against me."
-        },
-        {
-          "Verseid": "27006014",
-          "Verse": "Though I have bound and strengthened their arms, yet do they imagine mischief against me."
-        },
-        {
-          "Verseid": "27006015",
-          "Verse": "They return, but not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27007000",
-          "Verse": "Set the trumpet to your mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law."
-        },
-        {
-          "Verseid": "27007001",
-          "Verse": "Israel shall cry unto me, My God, we know you."
-        },
-        {
-          "Verseid": "27007002",
-          "Verse": "Israel has cast off the thing that is good: the enemy shall pursue him."
-        },
-        {
-          "Verseid": "27007003",
-          "Verse": "They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off."
-        },
-        {
-          "Verseid": "27007004",
-          "Verse": "Your calf, O Samaria, has cast you off; mine anger is kindled against them: how long will it be before they attain to innocence?"
-        },
-        {
-          "Verseid": "27007005",
-          "Verse": "For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria shall be broken in pieces."
-        },
-        {
-          "Verseid": "27007006",
-          "Verse": "For they have sown the wind, and they shall reap the whirlwind: it has no stalk; the bud shall yield no meal: if so be it yield, the strangers shall swallow it up."
-        },
-        {
-          "Verseid": "27007007",
-          "Verse": "Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure."
-        },
-        {
-          "Verseid": "27007008",
-          "Verse": "For they are gone up to Assyria, a wild ass alone by himself: Ephraim has hired lovers."
-        },
-        {
-          "Verseid": "27007009",
-          "Verse": "Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes."
-        },
-        {
-          "Verseid": "27007010",
-          "Verse": "Because Ephraim has made many altars to sin, altars shall be unto him to sin."
-        },
-        {
-          "Verseid": "27007011",
-          "Verse": "I have written to him the great things of my law, but they were counted as a strange thing."
-        },
-        {
-          "Verseid": "27007012",
-          "Verse": "They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the LORD accepts them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt."
-        },
-        {
-          "Verseid": "27007013",
-          "Verse": "For Israel has forgotten his Maker, and builds temples; and Judah has multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27008000",
-          "Verse": "Rejoice not, O Israel, for joy, as other people: for you have gone a whoring from your God, you have loved a reward upon floors of corn."
-        },
-        {
-          "Verseid": "27008001",
-          "Verse": "The floor and the winepress shall not feed them, and the new wine shall fail in her."
-        },
-        {
-          "Verseid": "27008002",
-          "Verse": "They shall not dwell in the LORD's land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria."
-        },
-        {
-          "Verseid": "27008003",
-          "Verse": "They shall not offer wine offerings to the LORD, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD."
-        },
-        {
-          "Verseid": "27008004",
-          "Verse": "What will all of you do in the solemn day, and in the day of the feast of the LORD?"
-        },
-        {
-          "Verseid": "27008005",
-          "Verse": "For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant places for their silver, nettles shall possess them: thorns shall be in their tabernacles."
-        },
-        {
-          "Verseid": "27008006",
-          "Verse": "The days of visitation are come, the days of recompence are come; Israel shall know it: the prophet is a fool, the spiritual man is mad, for the multitude of yours iniquity, and the great hatred."
-        },
-        {
-          "Verseid": "27008007",
-          "Verse": "The watchman of Ephraim was with my God: but the prophet is a snare of a fowler in all his ways, and hatred in the house of his God."
-        },
-        {
-          "Verseid": "27008008",
-          "Verse": "They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their iniquity, he will visit their sins."
-        },
-        {
-          "Verseid": "27008009",
-          "Verse": "I found Israel like grapes in the wilderness; I saw your fathers as the first-fruits in the fig tree at her first time: but they went to Baalpeor, and separated themselves unto that shame; and their abominations were according as they loved."
-        },
-        {
-          "Verseid": "27008010",
-          "Verse": "As for Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception."
-        },
-        {
-          "Verseid": "27008011",
-          "Verse": "Though they bring up their children, yet will I bereave them, that there shall not be a man left: yea, woe also to them when I depart from them!"
-        },
-        {
-          "Verseid": "27008012",
-          "Verse": "Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring forth his children to the murderer."
-        },
-        {
-          "Verseid": "27008013",
-          "Verse": "Give them, O LORD: what will you give? give them a miscarrying womb and dry breasts."
-        },
-        {
-          "Verseid": "27008014",
-          "Verse": "All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are apostates."
-        },
-        {
-          "Verseid": "27008015",
-          "Verse": "Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay even the beloved fruit of their womb."
-        },
-        {
-          "Verseid": "27008016",
-          "Verse": "My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27009000",
-          "Verse": "Israel is an empty vine, he brings forth fruit unto himself: according to the multitude of his fruit he has increased the altars; according to the goodness of his land they have made goodly images."
-        },
-        {
-          "Verseid": "27009001",
-          "Verse": "Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images."
-        },
-        {
-          "Verseid": "27009002",
-          "Verse": "For now they shall say, We have no king, because we feared not the LORD; what then should a king do to us?"
-        },
-        {
-          "Verseid": "27009003",
-          "Verse": "They have spoken words, swearing falsely in making a covenant: thus judgment springs up as hemlock in the furrows of the field."
-        },
-        {
-          "Verseid": "27009004",
-          "Verse": "The inhabitants of Samaria shall fear because of the calves of Bethaven: for the people thereof shall mourn over it, and the priests thereof that rejoiced on it, for the glory thereof, because it is departed from it."
-        },
-        {
-          "Verseid": "27009005",
-          "Verse": "It shall be also carried unto Assyria for a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel."
-        },
-        {
-          "Verseid": "27009006",
-          "Verse": "As for Samaria, her king is cut off as the foam upon the water."
-        },
-        {
-          "Verseid": "27009007",
-          "Verse": "The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us."
-        },
-        {
-          "Verseid": "27009008",
-          "Verse": "O Israel, you have sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them."
-        },
-        {
-          "Verseid": "27009009",
-          "Verse": "It is in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows."
-        },
-        {
-          "Verseid": "27009010",
-          "Verse": "And Ephraim is as an heifer that is taught, and loves to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods."
-        },
-        {
-          "Verseid": "27009011",
-          "Verse": "Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the LORD, till he comes and rain righteousness upon you."
-        },
-        {
-          "Verseid": "27009012",
-          "Verse": "All of you have plowed wickedness, all of you have reaped iniquity; all of you have eaten the fruit of lies: because you did trust in your way, in the multitude of your mighty men."
-        },
-        {
-          "Verseid": "27009013",
-          "Verse": "Therefore shall a tumult arise among your people, and all your fortresses shall be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon her children."
-        },
-        {
-          "Verseid": "27009014",
-          "Verse": "So shall Bethel do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27010000",
-          "Verse": "When Israel was a child, then I loved him, and called my son out of Egypt."
-        },
-        {
-          "Verseid": "27010001",
-          "Verse": "As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images."
-        },
-        {
-          "Verseid": "27010002",
-          "Verse": "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them."
-        },
-        {
-          "Verseid": "27010003",
-          "Verse": "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid food unto them."
-        },
-        {
-          "Verseid": "27010004",
-          "Verse": "He shall not return into the land of Egypt, and the Assyrian shall be his king, because they refused to return."
-        },
-        {
-          "Verseid": "27010005",
-          "Verse": "And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels."
-        },
-        {
-          "Verseid": "27010006",
-          "Verse": "And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him."
-        },
-        {
-          "Verseid": "27010007",
-          "Verse": "How shall I give you up, Ephraim? how shall I deliver you, Israel? how shall I make you as Admah? how shall I set you as Zeboim? mine heart is turned within me, my repentings are kindled together."
-        },
-        {
-          "Verseid": "27010008",
-          "Verse": "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of you: and I will not enter into the city."
-        },
-        {
-          "Verseid": "27010009",
-          "Verse": "They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west."
-        },
-        {
-          "Verseid": "27010010",
-          "Verse": "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, says the LORD."
-        },
-        {
-          "Verseid": "27010011",
-          "Verse": "Ephraim compasses me about with lies, and the house of Israel with deceit: but Judah yet rules with God, and is faithful with the saints."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27011000",
-          "Verse": "Ephraim feeds on wind, and follows after the east wind: he daily increases lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt."
-        },
-        {
-          "Verseid": "27011001",
-          "Verse": "The LORD has also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him."
-        },
-        {
-          "Verseid": "27011002",
-          "Verse": "He took his brother by the heel in the womb, and by his strength he had power with God:"
-        },
-        {
-          "Verseid": "27011003",
-          "Verse": "Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Bethel, and there he spoke with us;"
-        },
-        {
-          "Verseid": "27011004",
-          "Verse": "Even the LORD God of hosts; the LORD is his memorial."
-        },
-        {
-          "Verseid": "27011005",
-          "Verse": "Therefore turn you to your God: keep mercy and judgment and wait on your God continually."
-        },
-        {
-          "Verseid": "27011006",
-          "Verse": "He is a merchant, the balances of deceit are in his hand: he loves to oppress."
-        },
-        {
-          "Verseid": "27011007",
-          "Verse": "And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they shall find none iniquity in me that were sin."
-        },
-        {
-          "Verseid": "27011008",
-          "Verse": "And I that am the LORD your God from the land of Egypt will yet make you to dwell in tabernacles, as in the days of the solemn feast."
-        },
-        {
-          "Verseid": "27011009",
-          "Verse": "I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets."
-        },
-        {
-          "Verseid": "27011010",
-          "Verse": "Is there iniquity in Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields."
-        },
-        {
-          "Verseid": "27011011",
-          "Verse": "And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept sheep."
-        },
-        {
-          "Verseid": "27011012",
-          "Verse": "And by a prophet the LORD brought Israel out of Egypt, and by a prophet was he preserved."
-        },
-        {
-          "Verseid": "27011013",
-          "Verse": "Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his LORD return unto him."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27012000",
-          "Verse": "When Ephraim spoke trembling, he exalted himself in Israel; but when he offended in Baal, he died."
-        },
-        {
-          "Verseid": "27012001",
-          "Verse": "And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves."
-        },
-        {
-          "Verseid": "27012002",
-          "Verse": "Therefore they shall be as the morning cloud and as the early dew that passes away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney."
-        },
-        {
-          "Verseid": "27012003",
-          "Verse": "Yet I am the LORD your God from the land of Egypt, and you shall know no god but me: for there is no saviour beside me."
-        },
-        {
-          "Verseid": "27012004",
-          "Verse": "I did know you in the wilderness, in the land of great drought."
-        },
-        {
-          "Verseid": "27012005",
-          "Verse": "According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me."
-        },
-        {
-          "Verseid": "27012006",
-          "Verse": "Therefore I will be unto them as a lion: as a leopard by the way will I observe them:"
-        },
-        {
-          "Verseid": "27012007",
-          "Verse": "I will meet them as a bear that is bereaved of her whelps, and will rend the lobe of their heart, and there will I devour them like a lion: the wild beast shall tear them."
-        },
-        {
-          "Verseid": "27012008",
-          "Verse": "O Israel, you have destroyed yourself; but in me is yours help."
-        },
-        {
-          "Verseid": "27012009",
-          "Verse": "I will be your king: where is any other that may save you in all your cities? and your judges of whom you said, Give me a king and princes?"
-        },
-        {
-          "Verseid": "27012010",
-          "Verse": "I gave you a king in mine anger, and took him away in my wrath."
-        },
-        {
-          "Verseid": "27012011",
-          "Verse": "The iniquity of Ephraim is bound up; his sin is hid."
-        },
-        {
-          "Verseid": "27012012",
-          "Verse": "The sorrows of a travailing woman shall come upon him: he is an unwise son; for he should not stay long in the place of the breaking out of children."
-        },
-        {
-          "Verseid": "27012013",
-          "Verse": "I will ransom them from the power of the grave; I will redeem them from death: O death, I will be your plagues; O grave, I will be your destruction: repentance shall be hid from mine eyes."
-        },
-        {
-          "Verseid": "27012014",
-          "Verse": "Though he be fruitful among his brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels."
-        },
-        {
-          "Verseid": "27012015",
-          "Verse": "Samaria shall become desolate; for she has rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "27013000",
-          "Verse": "O israel, return unto the LORD your God; for you have fallen by yours iniquity."
-        },
-        {
-          "Verseid": "27013001",
-          "Verse": "Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips."
-        },
-        {
-          "Verseid": "27013002",
-          "Verse": "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, All of you are our gods: for in you the fatherless finds mercy."
-        },
-        {
-          "Verseid": "27013003",
-          "Verse": "I will heal their backsliding, I will love them freely: for mine anger is turned away from him."
-        },
-        {
-          "Verseid": "27013004",
-          "Verse": "I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon."
-        },
-        {
-          "Verseid": "27013005",
-          "Verse": "His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon."
-        },
-        {
-          "Verseid": "27013006",
-          "Verse": "They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon."
-        },
-        {
-          "Verseid": "27013007",
-          "Verse": "Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is your fruit found."
-        },
-        {
-          "Verseid": "27013008",
-          "Verse": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "The Word Of The Lord That Came To Hosea Son Of Beeri During The Reigns Of Uzziah, Jotham, Ahaz And Hezekiah, Kings Of Judah, And During The Reign Of Jeroboam Son Of Jehoash King Of Israel:",
+            "When The Lord Began To Speak Through Hosea, The Lord Said To Him, \"Go, Take To Yourself An Adulterous Wife And Children Of Unfaithfulness, Because The Land Is Guilty Of The Vilest Adultery In Departing From The Lord .\"",
+            "So He Married Gomer Daughter Of Diblaim, And She Conceived And Bore Him A Son.",
+            "Then The Lord Said To Hosea, \"Call Him Jezreel, Because I Will Soon Punish The House Of Jehu For The Massacre At Jezreel, And I Will Put An End To The Kingdom Of Israel.",
+            "In That Day I Will Break Israel's Bow In The Valley Of Jezreel.\"",
+            "Gomer Conceived Again And Gave Birth To A Daughter. Then The Lord Said To Hosea, \"Call Her Lo-ruhamah, For I Will No Longer Show Love To The House Of Israel, That I Should At All Forgive Them.",
+            "Yet I Will Show Love To The House Of Judah; And I Will Save Them-not By Bow, Sword Or Battle, Or By Horses And Horsemen, But By The Lord Their God.\"",
+            "After She Had Weaned Lo-ruhamah, Gomer Had Another Son.",
+            "Then The Lord Said, \"Call Him Lo-ammi, For You Are Not My People, And I Am Not Your God.",
+            "\"Yet The Israelites Will Be Like The Sand On The Seashore, Which Cannot Be Measured Or Counted. In The Place Where It Was Said To Them, 'You Are Not My People,' They Will Be Called 'Sons Of The Living God.'",
+            "The People Of Judah And The People Of Israel Will Be Reunited, And They Will Appoint One Leader And Will Come Up Out Of The Land, For Great Will Be The Day Of Jezreel."
+        ],
+        [
+            "\"Say Of Your Brothers, 'My People,' And Of Your Sisters, 'My Loved One.'",
+            "\"Rebuke Your Mother, Rebuke Her, For She Is Not My Wife, And I Am Not Her Husband. Let Her Remove The Adulterous Look From Her Face And The Unfaithfulness From Between Her Breasts.",
+            "Otherwise I Will Strip Her Naked And Make Her As Bare As On The Day She Was Born; I Will Make Her Like A Desert, Turn Her Into A Parched Land, And Slay Her With Thirst.",
+            "I Will Not Show My Love To Her Children, Because They Are The Children Of Adultery.",
+            "Their Mother Has Been Unfaithful And Has Conceived Them In Disgrace. She Said, 'I Will Go After My Lovers, Who Give Me My Food And My Water, My Wool And My Linen, My Oil And My Drink.'",
+            "Therefore I Will Block Her Path With Thornbushes; I Will Wall Her In So That She Cannot Find Her Way.",
+            "She Will Chase After Her Lovers But Not Catch Them; She Will Look For Them But Not Find Them. Then She Will Say, 'I Will Go Back To My Husband As At First, For Then I Was Better Off Than Now.'",
+            "She Has Not Acknowledged That I Was The One Who Gave Her The Grain, The New Wine And Oil, Who Lavished On Her The Silver And Gold- Which They Used For Baal.",
+            "\"Therefore I Will Take Away My Grain When It Ripens, And My New Wine When It Is Ready. I Will Take Back My Wool And My Linen, Intended To Cover Her Nakedness.",
+            "So Now I Will Expose Her Lewdness Before The Eyes Of Her Lovers; No One Will Take Her Out Of My Hands.",
+            "I Will Stop All Her Celebrations: Her Yearly Festivals, Her New Moons, Her Sabbath Days-all Her Appointed Feasts.",
+            "I Will Ruin Her Vines And Her Fig Trees, Which She Said Were Her Pay From Her Lovers; I Will Make Them A Thicket, And Wild Animals Will Devour Them.",
+            "I Will Punish Her For The Days She Burned Incense To The Baals; She Decked Herself With Rings And Jewelry, And Went After Her Lovers, But Me She Forgot,\" Declares The Lord .",
+            "\"Therefore I Am Now Going To Allure Her; I Will Lead Her Into The Desert And Speak Tenderly To Her.",
+            "There I Will Give Her Back Her Vineyards, And Will Make The Valley Of Achor A Door Of Hope. There She Will Sing As In The Days Of Her Youth, As In The Day She Came Up Out Of Egypt.",
+            "\"In That Day,\" Declares The Lord , \"You Will Call Me 'My Husband'; You Will No Longer Call Me 'My Master. '",
+            "I Will Remove The Names Of The Baals From Her Lips; No Longer Will Their Names Be Invoked.",
+            "In That Day I Will Make A Covenant For Them With The Beasts Of The Field And The Birds Of The Air And The Creatures That Move Along The Ground. Bow And Sword And Battle I Will Abolish From The Land, So That All May Lie Down In Safety.",
+            "I Will Betroth You To Me Forever; I Will Betroth You In Righteousness And Justice, In Love And Compassion.",
+            "I Will Betroth You In Faithfulness, And You Will Acknowledge The Lord .",
+            "\"In That Day I Will Respond,\" Declares The Lord - \"I Will Respond To The Skies, And They Will Respond To The Earth;",
+            "And The Earth Will Respond To The Grain, The New Wine And Oil, And They Will Respond To Jezreel.",
+            "I Will Plant Her For Myself In The Land; I Will Show My Love To The One I Called 'Not My Loved One. ' I Will Say To Those Called 'Not My People, ' 'You Are My People'; And They Will Say, 'You Are My God.'"
+        ],
+        [
+            "The Lord Said To Me, \"Go, Show Your Love To Your Wife Again, Though She Is Loved By Another And Is An Adulteress. Love Her As The Lord Loves The Israelites, Though They Turn To Other Gods And Love The Sacred Raisin Cakes.\"",
+            "So I Bought Her For Fifteen Shekels Of Silver And About A Homer And A Lethek Of Barley.",
+            "Then I Told Her, \"You Are To Live With Me Many Days; You Must Not Be A Prostitute Or Be Intimate With Any Man, And I Will Live With You.\"",
+            "For The Israelites Will Live Many Days Without King Or Prince, Without Sacrifice Or Sacred Stones, Without Ephod Or Idol.",
+            "Afterward The Israelites Will Return And Seek The Lord Their God And David Their King. They Will Come Trembling To The Lord And To His Blessings In The Last Days."
+        ],
+        [
+            "Hear The Word Of The Lord , You Israelites, Because The Lord Has A Charge To Bring Against You Who Live In The Land: \"There Is No Faithfulness, No Love, No Acknowledgment Of God In The Land.",
+            "There Is Only Cursing, Lying And Murder, Stealing And Adultery; They Break All Bounds, And Bloodshed Follows Bloodshed.",
+            "Because Of This The Land Mourns, And All Who Live In It Waste Away; The Beasts Of The Field And The Birds Of The Air And The Fish Of The Sea Are Dying.",
+            "\"But Let No Man Bring A Charge, Let No Man Accuse Another, For Your People Are Like Those Who Bring Charges Against A Priest.",
+            "You Stumble Day And Night, And The Prophets Stumble With You. So I Will Destroy Your Mother-",
+            "My People Are Destroyed From Lack Of Knowledge. \"Because You Have Rejected Knowledge, I Also Reject You As My Priests; Because You Have Ignored The Law Of Your God, I Also Will Ignore Your Children.",
+            "The More The Priests Increased, The More They Sinned Against Me; They Exchanged Their Glory For Something Disgraceful.",
+            "They Feed On The Sins Of My People And Relish Their Wickedness.",
+            "And It Will Be: Like People, Like Priests. I Will Punish Both Of Them For Their Ways And Repay Them For Their Deeds.",
+            "\"They Will Eat But Not Have Enough; They Will Engage In Prostitution But Not Increase, Because They Have Deserted The Lord To Give Themselves",
+            "To Prostitution, To Old Wine And New, Which Take Away The Understanding",
+            "Of My People. They Consult A Wooden Idol And Are Answered By A Stick Of Wood. A Spirit Of Prostitution Leads Them Astray; They Are Unfaithful To Their God.",
+            "They Sacrifice On The Mountaintops And Burn Offerings On The Hills, Under Oak, Poplar And Terebinth, Where The Shade Is Pleasant. Therefore Your Daughters Turn To Prostitution And Your Daughters-in-law To Adultery.",
+            "\"I Will Not Punish Your Daughters When They Turn To Prostitution, Nor Your Daughters-in-law When They Commit Adultery, Because The Men Themselves Consort With Harlots And Sacrifice With Shrine Prostitutes- A People Without Understanding Will Come To Ruin!",
+            "\"Though You Commit Adultery, O Israel, Let Not Judah Become Guilty. \"Do Not Go To Gilgal; Do Not Go Up To Beth Aven. And Do Not Swear, 'As Surely As The Lord Lives!'",
+            "The Israelites Are Stubborn, Like A Stubborn Heifer. How Then Can The Lord Pasture Them Like Lambs In A Meadow?",
+            "Ephraim Is Joined To Idols; Leave Him Alone!",
+            "Even When Their Drinks Are Gone, They Continue Their Prostitution; Their Rulers Dearly Love Shameful Ways.",
+            "A Whirlwind Will Sweep Them Away, And Their Sacrifices Will Bring Them Shame."
+        ],
+        [
+            "\"Hear This, You Priests! Pay Attention, You Israelites! Listen, O Royal House! This Judgment Is Against You: You Have Been A Snare At Mizpah, A Net Spread Out On Tabor.",
+            "The Rebels Are Deep In Slaughter. I Will Discipline All Of Them.",
+            "I Know All About Ephraim; Israel Is Not Hidden From Me. Ephraim, You Have Now Turned To Prostitution; Israel Is Corrupt.",
+            "\"Their Deeds Do Not Permit Them To Return To Their God. A Spirit Of Prostitution Is In Their Heart; They Do Not Acknowledge The Lord .",
+            "Israel's Arrogance Testifies Against Them; The Israelites, Even Ephraim, Stumble In Their Sin; Judah Also Stumbles With Them.",
+            "When They Go With Their Flocks And Herds To Seek The Lord , They Will Not Find Him; He Has Withdrawn Himself From Them.",
+            "They Are Unfaithful To The Lord ; They Give Birth To Illegitimate Children. Now Their New Moon Festivals Will Devour Them And Their Fields.",
+            "\"Sound The Trumpet In Gibeah, The Horn In Ramah. Raise The Battle Cry In Beth Aven ; Lead On, O Benjamin.",
+            "Ephraim Will Be Laid Waste On The Day Of Reckoning. Among The Tribes Of Israel I Proclaim What Is Certain.",
+            "Judah's Leaders Are Like Those Who Move Boundary Stones. I Will Pour Out My Wrath On Them Like A Flood Of Water.",
+            "Ephraim Is Oppressed, Trampled In Judgment, Intent On Pursuing Idols.",
+            "I Am Like A Moth To Ephraim, Like Rot To The People Of Judah.",
+            "\"When Ephraim Saw His Sickness, And Judah His Sores, Then Ephraim Turned To Assyria, And Sent To The Great King For Help. But He Is Not Able To Cure You, Not Able To Heal Your Sores.",
+            "For I Will Be Like A Lion To Ephraim, Like A Great Lion To Judah. I Will Tear Them To Pieces And Go Away; I Will Carry Them Off, With No One To Rescue Them.",
+            "Then I Will Go Back To My Place Until They Admit Their Guilt. And They Will Seek My Face; In Their Misery They Will Earnestly Seek Me.\""
+        ],
+        [
+            "\"Come, Let Us Return To The Lord . He Has Torn Us To Pieces But He Will Heal Us; He Has Injured Us But He Will Bind Up Our Wounds.",
+            "After Two Days He Will Revive Us; On The Third Day He Will Restore Us, That We May Live In His Presence.",
+            "Let Us Acknowledge The Lord ; Let Us Press On To Acknowledge Him. As Surely As The Sun Rises, He Will Appear; He Will Come To Us Like The Winter Rains, Like The Spring Rains That Water The Earth.\"",
+            "\"What Can I Do With You, Ephraim? What Can I Do With You, Judah? Your Love Is Like The Morning Mist, Like The Early Dew That Disappears.",
+            "Therefore I Cut You In Pieces With My Prophets, I Killed You With The Words Of My Mouth; My Judgments Flashed Like Lightning Upon You.",
+            "For I Desire Mercy, Not Sacrifice, And Acknowledgment Of God Rather Than Burnt Offerings.",
+            "Like Adam, They Have Broken The Covenant- They Were Unfaithful To Me There.",
+            "Gilead Is A City Of Wicked Men, Stained With Footprints Of Blood.",
+            "As Marauders Lie In Ambush For A Man, So Do Bands Of Priests; They Murder On The Road To Shechem, Committing Shameful Crimes.",
+            "I Have Seen A Horrible Thing In The House Of Israel. There Ephraim Is Given To Prostitution And Israel Is Defiled.",
+            "\"Also For You, Judah, A Harvest Is Appointed. \"Whenever I Would Restore The Fortunes Of My People,"
+        ],
+        [
+            "Whenever I Would Heal Israel, The Sins Of Ephraim Are Exposed And The Crimes Of Samaria Revealed. They Practice Deceit, Thieves Break Into Houses, Bandits Rob In The Streets;",
+            "But They Do Not Realize That I Remember All Their Evil Deeds. Their Sins Engulf Them; They Are Always Before Me.",
+            "\"They Delight The King With Their Wickedness, The Princes With Their Lies.",
+            "They Are All Adulterers, Burning Like An Oven Whose Fire The Baker Need Not Stir From The Kneading Of The Dough Till It Rises.",
+            "On The Day Of The Festival Of Our King The Princes Become Inflamed With Wine, And He Joins Hands With The Mockers.",
+            "Their Hearts Are Like An Oven; They Approach Him With Intrigue. Their Passion Smolders All Night; In The Morning It Blazes Like A Flaming Fire.",
+            "All Of Them Are Hot As An Oven; They Devour Their Rulers. All Their Kings Fall, And None Of Them Calls On Me.",
+            "\"Ephraim Mixes With The Nations; Ephraim Is A Flat Cake Not Turned Over.",
+            "Foreigners Sap His Strength, But He Does Not Realize It. His Hair Is Sprinkled With Gray, But He Does Not Notice.",
+            "Israel's Arrogance Testifies Against Him, But Despite All This He Does Not Return To The Lord His God Or Search For Him.",
+            "\"Ephraim Is Like A Dove, Easily Deceived And Senseless- Now Calling To Egypt, Now Turning To Assyria.",
+            "When They Go, I Will Throw My Net Over Them; I Will Pull Them Down Like Birds Of The Air. When I Hear Them Flocking Together, I Will Catch Them.",
+            "Woe To Them, Because They Have Strayed From Me! Destruction To Them, Because They Have Rebelled Against Me! I Long To Redeem Them But They Speak Lies Against Me.",
+            "They Do Not Cry Out To Me From Their Hearts But Wail Upon Their Beds. They Gather Together For Grain And New Wine But Turn Away From Me.",
+            "I Trained Them And Strengthened Them, But They Plot Evil Against Me.",
+            "They Do Not Turn To The Most High; They Are Like A Faulty Bow. Their Leaders Will Fall By The Sword Because Of Their Insolent Words. For This They Will Be Ridiculed In The Land Of Egypt."
+        ],
+        [
+            "\"Put The Trumpet To Your Lips! An Eagle Is Over The House Of The Lord Because The People Have Broken My Covenant And Rebelled Against My Law.",
+            "Israel Cries Out To Me, 'O Our God, We Acknowledge You!'",
+            "But Israel Has Rejected What Is Good; An Enemy Will Pursue Him.",
+            "They Set Up Kings Without My Consent; They Choose Princes Without My Approval. With Their Silver And Gold They Make Idols For Themselves To Their Own Destruction.",
+            "Throw Out Your Calf-idol, O Samaria! My Anger Burns Against Them. How Long Will They Be Incapable Of Purity?",
+            "They Are From Israel! This Calf-a Craftsman Has Made It; It Is Not God. It Will Be Broken In Pieces, That Calf Of Samaria.",
+            "\"They Sow The Wind And Reap The Whirlwind. The Stalk Has No Head; It Will Produce No Flour. Were It To Yield Grain, Foreigners Would Swallow It Up.",
+            "Israel Is Swallowed Up; Now She Is Among The Nations Like A Worthless Thing.",
+            "For They Have Gone Up To Assyria Like A Wild Donkey Wandering Alone. Ephraim Has Sold Herself To Lovers.",
+            "Although They Have Sold Themselves Among The Nations, I Will Now Gather Them Together. They Will Begin To Waste Away Under The Oppression Of The Mighty King.",
+            "\"Though Ephraim Built Many Altars For Sin Offerings, These Have Become Altars For Sinning.",
+            "I Wrote For Them The Many Things Of My Law, But They Regarded Them As Something Alien.",
+            "They Offer Sacrifices Given To Me And They Eat The Meat, But The Lord Is Not Pleased With Them. Now He Will Remember Their Wickedness And Punish Their Sins: They Will Return To Egypt.",
+            "Israel Has Forgotten His Maker And Built Palaces; Judah Has Fortified Many Towns. But I Will Send Fire Upon Their Cities That Will Consume Their Fortresses.\""
+        ],
+        [
+            "Do Not Rejoice, O Israel; Do Not Be Jubilant Like The Other Nations. For You Have Been Unfaithful To Your God; You Love The Wages Of A Prostitute At Every Threshing Floor.",
+            "Threshing Floors And Winepresses Will Not Feed The People; The New Wine Will Fail Them.",
+            "They Will Not Remain In The Lord 'S Land; Ephraim Will Return To Egypt And Eat Unclean Food In Assyria.",
+            "They Will Not Pour Out Wine Offerings To The Lord , Nor Will Their Sacrifices Please Him. Such Sacrifices Will Be To Them Like The Bread Of Mourners; All Who Eat Them Will Be Unclean. This Food Will Be For Themselves; It Will Not Come Into The Temple Of The Lord .",
+            "What Will You Do On The Day Of Your Appointed Feasts, On The Festival Days Of The Lord ?",
+            "Even If They Escape From Destruction, Egypt Will Gather Them, And Memphis Will Bury Them. Their Treasures Of Silver Will Be Taken Over By Briers, And Thorns Will Overrun Their Tents.",
+            "The Days Of Punishment Are Coming, The Days Of Reckoning Are At Hand. Let Israel Know This. Because Your Sins Are So Many And Your Hostility So Great, The Prophet Is Considered A Fool, The Inspired Man A Maniac.",
+            "The Prophet, Along With My God, Is The Watchman Over Ephraim, Yet Snares Await Him On All His Paths, And Hostility In The House Of His God.",
+            "They Have Sunk Deep Into Corruption, As In The Days Of Gibeah. God Will Remember Their Wickedness And Punish Them For Their Sins.",
+            "\"When I Found Israel, It Was Like Finding Grapes In The Desert; When I Saw Your Fathers, It Was Like Seeing The Early Fruit On The Fig Tree. But When They Came To Baal Peor, They Consecrated Themselves To That Shameful Idol And Became As Vile As The Thing They Loved.",
+            "Ephraim's Glory Will Fly Away Like A Bird- No Birth, No Pregnancy, No Conception.",
+            "Even If They Rear Children, I Will Bereave Them Of Every One. Woe To Them When I Turn Away From Them!",
+            "I Have Seen Ephraim, Like Tyre, Planted In A Pleasant Place. But Ephraim Will Bring Out Their Children To The Slayer.\"",
+            "Give Them, O Lord - What Will You Give Them? Give Them Wombs That Miscarry And Breasts That Are Dry.",
+            "\"Because Of All Their Wickedness In Gilgal, I Hated Them There. Because Of Their Sinful Deeds, I Will Drive Them Out Of My House. I Will No Longer Love Them; All Their Leaders Are Rebellious.",
+            "Ephraim Is Blighted, Their Root Is Withered, They Yield No Fruit. Even If They Bear Children, I Will Slay Their Cherished Offspring.\"",
+            "My God Will Reject Them Because They Have Not Obeyed Him; They Will Be Wanderers Among The Nations."
+        ],
+        [
+            "Israel Was A Spreading Vine; He Brought Forth Fruit For Himself. As His Fruit Increased, He Built More Altars; As His Land Prospered, He Adorned His Sacred Stones.",
+            "Their Heart Is Deceitful, And Now They Must Bear Their Guilt. The Lord Will Demolish Their Altars And Destroy Their Sacred Stones.",
+            "Then They Will Say, \"We Have No King Because We Did Not Revere The Lord . But Even If We Had A King, What Could He Do For Us?\"",
+            "They Make Many Promises, Take False Oaths And Make Agreements; Therefore Lawsuits Spring Up Like Poisonous Weeds In A Plowed Field.",
+            "The People Who Live In Samaria Fear For The Calf-idol Of Beth Aven. Its People Will Mourn Over It, And So Will Its Idolatrous Priests, Those Who Had Rejoiced Over Its Splendor, Because It Is Taken From Them Into Exile.",
+            "It Will Be Carried To Assyria As Tribute For The Great King. Ephraim Will Be Disgraced; Israel Will Be Ashamed Of Its Wooden Idols.",
+            "Samaria And Its King Will Float Away Like A Twig On The Surface Of The Waters.",
+            "The High Places Of Wickedness Will Be Destroyed- It Is The Sin Of Israel. Thorns And Thistles Will Grow Up And Cover Their Altars. Then They Will Say To The Mountains, \"Cover Us!\" And To The Hills, \"Fall On Us!\"",
+            "\"Since The Days Of Gibeah, You Have Sinned, O Israel, And There You Have Remained. Did Not War Overtake The Evildoers In Gibeah?",
+            "When I Please, I Will Punish Them; Nations Will Be Gathered Against Them To Put Them In Bonds For Their Double Sin.",
+            "Ephraim Is A Trained Heifer That Loves To Thresh; So I Will Put A Yoke On Her Fair Neck. I Will Drive Ephraim, Judah Must Plow, And Jacob Must Break Up The Ground.",
+            "Sow For Yourselves Righteousness, Reap The Fruit Of Unfailing Love, And Break Up Your Unplowed Ground; For It Is Time To Seek The Lord , Until He Comes And Showers Righteousness On You.",
+            "But You Have Planted Wickedness, You Have Reaped Evil, You Have Eaten The Fruit Of Deception. Because You Have Depended On Your Own Strength And On Your Many Warriors,",
+            "The Roar Of Battle Will Rise Against Your People, So That All Your Fortresses Will Be Devastated- As Shalman Devastated Beth Arbel On The Day Of Battle, When Mothers Were Dashed To The Ground With Their Children.",
+            "Thus Will It Happen To You, O Bethel, Because Your Wickedness Is Great. When That Day Dawns, The King Of Israel Will Be Completely Destroyed."
+        ],
+        [
+            "\"When Israel Was A Child, I Loved Him, And Out Of Egypt I Called My Son.",
+            "But The More I Called Israel, The Further They Went From Me. They Sacrificed To The Baals And They Burned Incense To Images.",
+            "It Was I Who Taught Ephraim To Walk, Taking Them By The Arms; But They Did Not Realize It Was I Who Healed Them.",
+            "I Led Them With Cords Of Human Kindness, With Ties Of Love; I Lifted The Yoke From Their Neck And Bent Down To Feed Them.",
+            "\"Will They Not Return To Egypt And Will Not Assyria Rule Over Them Because They Refuse To Repent?",
+            "Swords Will Flash In Their Cities, Will Destroy The Bars Of Their Gates And Put An End To Their Plans.",
+            "My People Are Determined To Turn From Me. Even If They Call To The Most High, He Will By No Means Exalt Them.",
+            "\"How Can I Give You Up, Ephraim? How Can I Hand You Over, Israel? How Can I Treat You Like Admah? How Can I Make You Like Zeboiim? My Heart Is Changed Within Me; All My Compassion Is Aroused.",
+            "I Will Not Carry Out My Fierce Anger, Nor Will I Turn And Devastate Ephraim. For I Am God, And Not Man- The Holy One Among You. I Will Not Come In Wrath.",
+            "They Will Follow The Lord ; He Will Roar Like A Lion. When He Roars, His Children Will Come Trembling From The West.",
+            "They Will Come Trembling Like Birds From Egypt, Like Doves From Assyria. I Will Settle Them In Their Homes,\" Declares The Lord .",
+            "Ephraim Has Surrounded Me With Lies, The House Of Israel With Deceit. And Judah Is Unruly Against God, Even Against The Faithful Holy One."
+        ],
+        [
+            "Ephraim Feeds On The Wind; He Pursues The East Wind All Day And Multiplies Lies And Violence. He Makes A Treaty With Assyria And Sends Olive Oil To Egypt.",
+            "The Lord Has A Charge To Bring Against Judah; He Will Punish Jacob According To His Ways And Repay Him According To His Deeds.",
+            "In The Womb He Grasped His Brother's Heel; As A Man He Struggled With God.",
+            "He Struggled With The Angel And Overcame Him; He Wept And Begged For His Favor. He Found Him At Bethel And Talked With Him There-",
+            "The Lord God Almighty, The Lord Is His Name Of Renown!",
+            "But You Must Return To Your God; Maintain Love And Justice, And Wait For Your God Always.",
+            "The Merchant Uses Dishonest Scales; He Loves To Defraud.",
+            "Ephraim Boasts, \"I Am Very Rich; I Have Become Wealthy. With All My Wealth They Will Not Find In Me Any Iniquity Or Sin.\"",
+            "\"I Am The Lord Your God, Who Brought You Out Of Egypt; I Will Make You Live In Tents Again, As In The Days Of Your Appointed Feasts.",
+            "I Spoke To The Prophets, Gave Them Many Visions And Told Parables Through Them.\"",
+            "Is Gilead Wicked? Its People Are Worthless! Do They Sacrifice Bulls In Gilgal? Their Altars Will Be Like Piles Of Stones On A Plowed Field.",
+            "Jacob Fled To The Country Of Aram ; Israel Served To Get A Wife, And To Pay For Her He Tended Sheep.",
+            "The Lord Used A Prophet To Bring Israel Up From Egypt, By A Prophet He Cared For Him.",
+            "But Ephraim Has Bitterly Provoked Him To Anger; His Lord Will Leave Upon Him The Guilt Of His Bloodshed And Will Repay Him For His Contempt."
+        ],
+        [
+            "When Ephraim Spoke, Men Trembled; He Was Exalted In Israel. But He Became Guilty Of Baal Worship And Died.",
+            "Now They Sin More And More; They Make Idols For Themselves From Their Silver, Cleverly Fashioned Images, All Of Them The Work Of Craftsmen. It Is Said Of These People, \"They Offer Human Sacrifice And Kiss The Calf-idols.\"",
+            "Therefore They Will Be Like The Morning Mist, Like The Early Dew That Disappears, Like Chaff Swirling From A Threshing Floor, Like Smoke Escaping Through A Window.",
+            "\"But I Am The Lord Your God, Who Brought You Out Of Egypt. You Shall Acknowledge No God But Me, No Savior Except Me.",
+            "I Cared For You In The Desert, In The Land Of Burning Heat.",
+            "When I Fed Them, They Were Satisfied; When They Were Satisfied, They Became Proud; Then They Forgot Me.",
+            "So I Will Come Upon Them Like A Lion, Like A Leopard I Will Lurk By The Path.",
+            "Like A Bear Robbed Of Her Cubs, I Will Attack Them And Rip Them Open. Like A Lion I Will Devour Them; A Wild Animal Will Tear Them Apart.",
+            "\"You Are Destroyed, O Israel, Because You Are Against Me, Against Your Helper.",
+            "Where Is Your King, That He May Save You? Where Are Your Rulers In All Your Towns, Of Whom You Said, 'Give Me A King And Princes'?",
+            "So In My Anger I Gave You A King, And In My Wrath I Took Him Away.",
+            "The Guilt Of Ephraim Is Stored Up, His Sins Are Kept On Record.",
+            "Pains As Of A Woman In Childbirth Come To Him, But He Is A Child Without Wisdom; When The Time Arrives, He Does Not Come To The Opening Of The Womb.",
+            "\"I Will Ransom Them From The Power Of The Grave ; I Will Redeem Them From Death. Where, O Death, Are Your Plagues? Where, O Grave, Is Your Destruction? \"I Will Have No Compassion,",
+            "Even Though He Thrives Among His Brothers. An East Wind From The Lord Will Come, Blowing In From The Desert; His Spring Will Fail And His Well Dry Up. His Storehouse Will Be Plundered Of All Its Treasures.",
+            "The People Of Samaria Must Bear Their Guilt, Because They Have Rebelled Against Their God. They Will Fall By The Sword; Their Little Ones Will Be Dashed To The Ground, Their Pregnant Women Ripped Open.\""
+        ],
+        [
+            "Return, O Israel, To The Lord Your God. Your Sins Have Been Your Downfall!",
+            "Take Words With You And Return To The Lord . Say To Him: \"Forgive All Our Sins And Receive Us Graciously, That We May Offer The Fruit Of Our Lips.",
+            "Assyria Cannot Save Us; We Will Not Mount War-horses. We Will Never Again Say 'Our Gods' To What Our Own Hands Have Made, For In You The Fatherless Find Compassion.\"",
+            "\"I Will Heal Their Waywardness And Love Them Freely, For My Anger Has Turned Away From Them.",
+            "I Will Be Like The Dew To Israel; He Will Blossom Like A Lily. Like A Cedar Of Lebanon He Will Send Down His Roots;",
+            "His Young Shoots Will Grow. His Splendor Will Be Like An Olive Tree, His Fragrance Like A Cedar Of Lebanon.",
+            "Men Will Dwell Again In His Shade. He Will Flourish Like The Grain. He Will Blossom Like A Vine, And His Fame Will Be Like The Wine From Lebanon.",
+            "O Ephraim, What More Have I To Do With Idols? I Will Answer Him And Care For Him. I Am Like A Green Pine Tree; Your Fruitfulness Comes From Me.\"",
+            "Who Is Wise? He Will Realize These Things. Who Is Discerning? He Will Understand Them. The Ways Of The Lord Are Right; The Righteous Walk In Them, But The Rebellious Stumble In Them."
+        ]
+    ]
 }

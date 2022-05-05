@@ -1,648 +1,171 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "48000000",
-          "Verse": "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:"
-        },
-        {
-          "Verseid": "48000001",
-          "Verse": "Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ."
-        },
-        {
-          "Verseid": "48000002",
-          "Verse": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with all spiritual blessings in heavenly places in Christ:"
-        },
-        {
-          "Verseid": "48000003",
-          "Verse": "According as he has chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:"
-        },
-        {
-          "Verseid": "48000004",
-          "Verse": "Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,"
-        },
-        {
-          "Verseid": "48000005",
-          "Verse": "To the praise of the glory of his grace, wherein he has made us accepted in the beloved."
-        },
-        {
-          "Verseid": "48000006",
-          "Verse": "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;"
-        },
-        {
-          "Verseid": "48000007",
-          "Verse": "Wherein he has abounded toward us in all wisdom and prudence;"
-        },
-        {
-          "Verseid": "48000008",
-          "Verse": "Having made known unto us the mystery of his will, according to his good pleasure which he has purposed in himself:"
-        },
-        {
-          "Verseid": "48000009",
-          "Verse": "That in the dispensation of the fullness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:"
-        },
-        {
-          "Verseid": "48000010",
-          "Verse": "In whom also we have obtained an inheritance, being predestinated according to the purpose of him who works all things after the counsel of his own will:"
-        },
-        {
-          "Verseid": "48000011",
-          "Verse": "That we should be to the praise of his glory, who first trusted in Christ."
-        },
-        {
-          "Verseid": "48000012",
-          "Verse": "In whom all of you also trusted, after that all of you heard the word of truth, the gospel of your salvation: in whom also after that all of you believed, all of you were sealed with that holy Spirit of promise,"
-        },
-        {
-          "Verseid": "48000013",
-          "Verse": "Which is the earn of our inheritance until the redemption of the purchased possession, unto the praise of his glory."
-        },
-        {
-          "Verseid": "48000014",
-          "Verse": "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,"
-        },
-        {
-          "Verseid": "48000015",
-          "Verse": "Cease not to give thanks for you, making mention of you in my prayers;"
-        },
-        {
-          "Verseid": "48000016",
-          "Verse": "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:"
-        },
-        {
-          "Verseid": "48000017",
-          "Verse": "The eyes of your understanding being enlightened; that all of you may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,"
-        },
-        {
-          "Verseid": "48000018",
-          "Verse": "And what is the exceeding greatness of his power toward us who believe, according to the working of his mighty power,"
-        },
-        {
-          "Verseid": "48000019",
-          "Verse": "Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,"
-        },
-        {
-          "Verseid": "48000020",
-          "Verse": "Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:"
-        },
-        {
-          "Verseid": "48000021",
-          "Verse": "And has put all things under his feet, and gave him to be the head over all things to the church,"
-        },
-        {
-          "Verseid": "48000022",
-          "Verse": "Which is his body, the fullness of him that fills all in all."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "48001000",
-          "Verse": "And you has he quickened, who were dead in trespasses and sins;"
-        },
-        {
-          "Verseid": "48001001",
-          "Verse": "Wherein in time past all of you walked according to the course of this world, according to the prince of the power of the air, the spirit that now works in the children of disobedience:"
-        },
-        {
-          "Verseid": "48001002",
-          "Verse": "Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others."
-        },
-        {
-          "Verseid": "48001003",
-          "Verse": "But God, who is rich in mercy, for his great love wherewith he loved us,"
-        },
-        {
-          "Verseid": "48001004",
-          "Verse": "Even when we were dead in sins, has quickened us together with Christ, (by grace all of you are saved;)"
-        },
-        {
-          "Verseid": "48001005",
-          "Verse": "And has raised us up together, and made us sit together in heavenly places in Christ Jesus:"
-        },
-        {
-          "Verseid": "48001006",
-          "Verse": "That in the ages to come he might show the exceeding riches of his grace in his kindness toward us through Christ Jesus."
-        },
-        {
-          "Verseid": "48001007",
-          "Verse": "For by grace are all of you saved through faith; and that not of yourselves: it is the gift of God:"
-        },
-        {
-          "Verseid": "48001008",
-          "Verse": "Not of works, lest any man should boast."
-        },
-        {
-          "Verseid": "48001009",
-          "Verse": "For we are his workmanship, created in Christ Jesus unto good works, which God has before ordained that we should walk in them."
-        },
-        {
-          "Verseid": "48001010",
-          "Verse": "Wherefore remember, that all of you being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;"
-        },
-        {
-          "Verseid": "48001011",
-          "Verse": "That at that time all of you were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:"
-        },
-        {
-          "Verseid": "48001012",
-          "Verse": "But now in Christ Jesus all of you who sometimes were far off are made nigh by the blood of Christ."
-        },
-        {
-          "Verseid": "48001013",
-          "Verse": "For he is our peace, who has made both one, and has broken down the middle wall of partition between us;"
-        },
-        {
-          "Verseid": "48001014",
-          "Verse": "Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; in order to make in himself of two one new man, so making peace;"
-        },
-        {
-          "Verseid": "48001015",
-          "Verse": "And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:"
-        },
-        {
-          "Verseid": "48001016",
-          "Verse": "And came and preached peace to you which were far off, and to them that were nigh."
-        },
-        {
-          "Verseid": "48001017",
-          "Verse": "For through him we both have access by one Spirit unto the Father."
-        },
-        {
-          "Verseid": "48001018",
-          "Verse": "Now therefore all of you are no more strangers and foreigners, but fellow citizens with the saints, and of the household of God;"
-        },
-        {
-          "Verseid": "48001019",
-          "Verse": "And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;"
-        },
-        {
-          "Verseid": "48001020",
-          "Verse": "In whom all the building fitly framed together grows unto an holy temple in the Lord:"
-        },
-        {
-          "Verseid": "48001021",
-          "Verse": "In whom all of you also are built together for an habitation of God through the Spirit."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "48002000",
-          "Verse": "For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,"
-        },
-        {
-          "Verseid": "48002001",
-          "Verse": "If all of you have heard of the dispensation of the grace of God which is given me toward you:"
-        },
-        {
-          "Verseid": "48002002",
-          "Verse": "How that by revelation he made known unto me the mystery; (as I wrote before in few words,"
-        },
-        {
-          "Verseid": "48002003",
-          "Verse": "Whereby, when all of you read, all of you may understand my knowledge in the mystery of Christ)"
-        },
-        {
-          "Verseid": "48002004",
-          "Verse": "Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;"
-        },
-        {
-          "Verseid": "48002005",
-          "Verse": "That the Gentiles should be join heirs, and of the same body, and partakers of his promise in Christ by the gospel:"
-        },
-        {
-          "Verseid": "48002006",
-          "Verse": "Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power."
-        },
-        {
-          "Verseid": "48002007",
-          "Verse": "Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;"
-        },
-        {
-          "Verseid": "48002008",
-          "Verse": "And to make all men see what is the fellowship of the mystery, which from the beginning of the world has been hid in God, who created all things by Jesus Christ:"
-        },
-        {
-          "Verseid": "48002009",
-          "Verse": "To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God,"
-        },
-        {
-          "Verseid": "48002010",
-          "Verse": "According to the eternal purpose which he purposed in Christ Jesus our Lord:"
-        },
-        {
-          "Verseid": "48002011",
-          "Verse": "In whom we have boldness and access with confidence by the faith of him."
-        },
-        {
-          "Verseid": "48002012",
-          "Verse": "Wherefore I desire that all of you faint not at my tribulations for you, which is your glory."
-        },
-        {
-          "Verseid": "48002013",
-          "Verse": "For this cause I bow my knees unto the Father of our Lord Jesus Christ,"
-        },
-        {
-          "Verseid": "48002014",
-          "Verse": "Of whom the whole family in heaven and earth is named,"
-        },
-        {
-          "Verseid": "48002015",
-          "Verse": "That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;"
-        },
-        {
-          "Verseid": "48002016",
-          "Verse": "That Christ may dwell in your hearts by faith; that all of you, being rooted and grounded in love,"
-        },
-        {
-          "Verseid": "48002017",
-          "Verse": "May be able to comprehend with all saints what is the breadth, and length, and depth, and height;"
-        },
-        {
-          "Verseid": "48002018",
-          "Verse": "And to know the love of Christ, which passes knowledge, that all of you might be filled with all the fullness of God."
-        },
-        {
-          "Verseid": "48002019",
-          "Verse": "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that works in us,"
-        },
-        {
-          "Verseid": "48002020",
-          "Verse": "Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "48003000",
-          "Verse": "I therefore, the prisoner of the Lord, plead to you that all of you walk worthy of the vocation wherewith all of you are called,"
-        },
-        {
-          "Verseid": "48003001",
-          "Verse": "With all lowliness and meekness, with longsuffering, forbearing one another in love;"
-        },
-        {
-          "Verseid": "48003002",
-          "Verse": "Endeavouring to keep the unity of the Spirit in the bond of peace."
-        },
-        {
-          "Verseid": "48003003",
-          "Verse": "There is one body, and one Spirit, even as all of you are called in one hope of your calling;"
-        },
-        {
-          "Verseid": "48003004",
-          "Verse": "One Lord, one faith, one baptism,"
-        },
-        {
-          "Verseid": "48003005",
-          "Verse": "One God and Father of all, who is above all, and through all, and in you all."
-        },
-        {
-          "Verseid": "48003006",
-          "Verse": "But unto every one of us is given grace according to the measure of the gift of Christ."
-        },
-        {
-          "Verseid": "48003007",
-          "Verse": "Wherefore he says, When he ascended up on high, he led captivity captive, and gave gifts unto men."
-        },
-        {
-          "Verseid": "48003008",
-          "Verse": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?"
-        },
-        {
-          "Verseid": "48003009",
-          "Verse": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)"
-        },
-        {
-          "Verseid": "48003010",
-          "Verse": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;"
-        },
-        {
-          "Verseid": "48003011",
-          "Verse": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:"
-        },
-        {
-          "Verseid": "48003012",
-          "Verse": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fullness of Christ:"
-        },
-        {
-          "Verseid": "48003013",
-          "Verse": "That we henceforth be no more children, tossed back and forth, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;"
-        },
-        {
-          "Verseid": "48003014",
-          "Verse": "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:"
-        },
-        {
-          "Verseid": "48003015",
-          "Verse": "From whom the whole body fitly joined together and compacted by that which every joint supplies, according to the effectual working in the measure of every part, makes increase of the body unto the edifying of itself in love."
-        },
-        {
-          "Verseid": "48003016",
-          "Verse": "This I say therefore, and testify in the Lord, that all of you henceforth walk not as other Gentiles walk, in the vanity of their mind,"
-        },
-        {
-          "Verseid": "48003017",
-          "Verse": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:"
-        },
-        {
-          "Verseid": "48003018",
-          "Verse": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness."
-        },
-        {
-          "Verseid": "48003019",
-          "Verse": "But all of you have not so learned Christ;"
-        },
-        {
-          "Verseid": "48003020",
-          "Verse": "If so be that all of you have heard him, and have been taught by him, as the truth is in Jesus:"
-        },
-        {
-          "Verseid": "48003021",
-          "Verse": "That all of you put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;"
-        },
-        {
-          "Verseid": "48003022",
-          "Verse": "And be renewed in the spirit of your mind;"
-        },
-        {
-          "Verseid": "48003023",
-          "Verse": "And that all of you put on the new man, which after God is created in righteousness and true holiness."
-        },
-        {
-          "Verseid": "48003024",
-          "Verse": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."
-        },
-        {
-          "Verseid": "48003025",
-          "Verse": "Be all of you angry, and sin not: let not the sun go down upon your wrath:"
-        },
-        {
-          "Verseid": "48003026",
-          "Verse": "Neither give place to the devil."
-        },
-        {
-          "Verseid": "48003027",
-          "Verse": "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needs."
-        },
-        {
-          "Verseid": "48003028",
-          "Verse": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."
-        },
-        {
-          "Verseid": "48003029",
-          "Verse": "And grieve not the holy Spirit of God, whereby all of you are sealed unto the day of redemption."
-        },
-        {
-          "Verseid": "48003030",
-          "Verse": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:"
-        },
-        {
-          "Verseid": "48003031",
-          "Verse": "And be all of you kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake has forgiven you."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "48004000",
-          "Verse": "Be all of you therefore followers of God, as dear children;"
-        },
-        {
-          "Verseid": "48004001",
-          "Verse": "And walk in love, as Christ also has loved us, and has given himself for us an offering and a sacrifice to God for a sweet smelling savour."
-        },
-        {
-          "Verseid": "48004002",
-          "Verse": "But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becomes saints;"
-        },
-        {
-          "Verseid": "48004003",
-          "Verse": "Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks."
-        },
-        {
-          "Verseid": "48004004",
-          "Verse": "For this all of you know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and of God."
-        },
-        {
-          "Verseid": "48004005",
-          "Verse": "Let no man deceive you with vain words: for because of these things comes the wrath of God upon the children of disobedience."
-        },
-        {
-          "Verseid": "48004006",
-          "Verse": "Be not all of you therefore partakers with them."
-        },
-        {
-          "Verseid": "48004007",
-          "Verse": "For all of you were sometimes darkness, but now are all of you light in the Lord: walk as children of light:"
-        },
-        {
-          "Verseid": "48004008",
-          "Verse": "(For the fruit of the Spirit is in all goodness and righteousness and truth;)"
-        },
-        {
-          "Verseid": "48004009",
-          "Verse": "Proving what is acceptable unto the Lord."
-        },
-        {
-          "Verseid": "48004010",
-          "Verse": "And have no fellowship with the unfruitful works of darkness, but rather reprove them."
-        },
-        {
-          "Verseid": "48004011",
-          "Verse": "For it is a shame even to speak of those things which are done of them in secret."
-        },
-        {
-          "Verseid": "48004012",
-          "Verse": "But all things that are reproved are made manifest by the light: for whatsoever does make manifest is light."
-        },
-        {
-          "Verseid": "48004013",
-          "Verse": "Wherefore he says, Awake you that sleep, and arise from the dead, and Christ shall give you light."
-        },
-        {
-          "Verseid": "48004014",
-          "Verse": "See then that all of you walk circumspectly, not as fools, but as wise,"
-        },
-        {
-          "Verseid": "48004015",
-          "Verse": "Redeeming the time, because the days are evil."
-        },
-        {
-          "Verseid": "48004016",
-          "Verse": "Wherefore be all of you not unwise, but understanding what the will of the Lord is."
-        },
-        {
-          "Verseid": "48004017",
-          "Verse": "And be not drunk with wine, wherein is excess; but be filled with the Spirit;"
-        },
-        {
-          "Verseid": "48004018",
-          "Verse": "Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;"
-        },
-        {
-          "Verseid": "48004019",
-          "Verse": "Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;"
-        },
-        {
-          "Verseid": "48004020",
-          "Verse": "Submitting yourselves one to another in the fear of God."
-        },
-        {
-          "Verseid": "48004021",
-          "Verse": "Wives, submit yourselves unto your own husbands, as unto the Lord."
-        },
-        {
-          "Verseid": "48004022",
-          "Verse": "For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body."
-        },
-        {
-          "Verseid": "48004023",
-          "Verse": "Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing."
-        },
-        {
-          "Verseid": "48004024",
-          "Verse": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;"
-        },
-        {
-          "Verseid": "48004025",
-          "Verse": "That he might sanctify and cleanse it with the washing of water by the word,"
-        },
-        {
-          "Verseid": "48004026",
-          "Verse": "That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish."
-        },
-        {
-          "Verseid": "48004027",
-          "Verse": "So ought men to love their wives as their own bodies. He that loves his wife loves himself."
-        },
-        {
-          "Verseid": "48004028",
-          "Verse": "For no man ever yet hated his own flesh; but nourishes and cherishes it, even as the Lord the church:"
-        },
-        {
-          "Verseid": "48004029",
-          "Verse": "For we are members of his body, of his flesh, and of his bones."
-        },
-        {
-          "Verseid": "48004030",
-          "Verse": "For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh."
-        },
-        {
-          "Verseid": "48004031",
-          "Verse": "This is a great mystery: but I speak concerning Christ and the church."
-        },
-        {
-          "Verseid": "48004032",
-          "Verse": "Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "48005000",
-          "Verse": "Children, obey your parents in the Lord: for this is right."
-        },
-        {
-          "Verseid": "48005001",
-          "Verse": "Honour your father and mother; which is the first commandment with promise;"
-        },
-        {
-          "Verseid": "48005002",
-          "Verse": "That it may be well with you, and you may live long on the earth."
-        },
-        {
-          "Verseid": "48005003",
-          "Verse": "And, all of you fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord."
-        },
-        {
-          "Verseid": "48005004",
-          "Verse": "Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;"
-        },
-        {
-          "Verseid": "48005005",
-          "Verse": "Not with eye-service, as men-pleasers; but as the servants of Christ, doing the will of God from the heart;"
-        },
-        {
-          "Verseid": "48005006",
-          "Verse": "With good will doing service, as to the Lord, and not to men:"
-        },
-        {
-          "Verseid": "48005007",
-          "Verse": "Knowing that whatsoever good thing any man does, the same shall he receive of the Lord, whether he be bond or free."
-        },
-        {
-          "Verseid": "48005008",
-          "Verse": "And, all of you masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him."
-        },
-        {
-          "Verseid": "48005009",
-          "Verse": "Finally, my brethren, be strong in the Lord, and in the power of his might."
-        },
-        {
-          "Verseid": "48005010",
-          "Verse": "Put on the whole armour of God, that all of you may be able to stand against the wiles of the devil."
-        },
-        {
-          "Verseid": "48005011",
-          "Verse": "For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places."
-        },
-        {
-          "Verseid": "48005012",
-          "Verse": "Wherefore take unto you the whole armour of God, that all of you may be able to withstand in the evil day, and having done all, to stand."
-        },
-        {
-          "Verseid": "48005013",
-          "Verse": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;"
-        },
-        {
-          "Verseid": "48005014",
-          "Verse": "And your feet shod with the preparation of the gospel of peace;"
-        },
-        {
-          "Verseid": "48005015",
-          "Verse": "Above all, taking the shield of faith, wherewith all of you shall be able to quench all the fiery darts of the wicked."
-        },
-        {
-          "Verseid": "48005016",
-          "Verse": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God:"
-        },
-        {
-          "Verseid": "48005017",
-          "Verse": "Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;"
-        },
-        {
-          "Verseid": "48005018",
-          "Verse": "And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,"
-        },
-        {
-          "Verseid": "48005019",
-          "Verse": "For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak."
-        },
-        {
-          "Verseid": "48005020",
-          "Verse": "But that all of you also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things:"
-        },
-        {
-          "Verseid": "48005021",
-          "Verse": "Whom I have sent unto you for the same purpose, that all of you might know our affairs, and that he might comfort your hearts."
-        },
-        {
-          "Verseid": "48005022",
-          "Verse": "Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ."
-        },
-        {
-          "Verseid": "48005023",
-          "Verse": "Grace be with all them that love our Lord Jesus Christ in sincerity. Amen."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "Paul, An Apostle Of Christ Jesus By The Will Of God, To The Saints In Ephesus, The Faithful In Christ Jesus:",
+            "Grace And Peace To You From God Our Father And The Lord Jesus Christ.",
+            "Praise Be To The God And Father Of Our Lord Jesus Christ, Who Has Blessed Us In The Heavenly Realms With Every Spiritual Blessing In Christ.",
+            "For He Chose Us In Him Before The Creation Of The World To Be Holy And Blameless In His Sight. In Love",
+            "He Predestined Us To Be Adopted As His Sons Through Jesus Christ, In Accordance With His Pleasure And Will--",
+            "To The Praise Of His Glorious Grace, Which He Has Freely Given Us In The One He Loves.",
+            "In Him We Have Redemption Through His Blood, The Forgiveness Of Sins, In Accordance With The Riches Of God's Grace",
+            "That He Lavished On Us With All Wisdom And Understanding.",
+            "And He Made Known To Us The Mystery Of His Will According To His Good Pleasure, Which He Purposed In Christ,",
+            "To Be Put Into Effect When The Times Will Have Reached Their Fulfillment--to Bring All Things In Heaven And On Earth Together Under One Head, Even Christ.",
+            "In Him We Were Also Chosen, Having Been Predestined According To The Plan Of Him Who Works Out Everything In Conformity With The Purpose Of His Will,",
+            "In Order That We, Who Were The First To Hope In Christ, Might Be For The Praise Of His Glory.",
+            "And You Also Were Included In Christ When You Heard The Word Of Truth, The Gospel Of Your Salvation. Having Believed, You Were Marked In Him With A Seal, The Promised Holy Spirit,",
+            "Who Is A Deposit Guaranteeing Our Inheritance Until The Redemption Of Those Who Are God's Possession--to The Praise Of His Glory.",
+            "For This Reason, Ever Since I Heard About Your Faith In The Lord Jesus And Your Love For All The Saints,",
+            "I Have Not Stopped Giving Thanks For You, Remembering You In My Prayers.",
+            "I Keep Asking That The God Of Our Lord Jesus Christ, The Glorious Father, May Give You The Spirit Of Wisdom And Revelation, So That You May Know Him Better.",
+            "I Pray Also That The Eyes Of Your Heart May Be Enlightened In Order That You May Know The Hope To Which He Has Called You, The Riches Of His Glorious Inheritance In The Saints,",
+            "And His Incomparably Great Power For Us Who Believe. That Power Is Like The Working Of His Mighty Strength,",
+            "Which He Exerted In Christ When He Raised Him From The Dead And Seated Him At His Right Hand In The Heavenly Realms,",
+            "Far Above All Rule And Authority, Power And Dominion, And Every Title That Can Be Given, Not Only In The Present Age But Also In The One To Come.",
+            "And God Placed All Things Under His Feet And Appointed Him To Be Head Over Everything For The Church,",
+            "Which Is His Body, The Fullness Of Him Who Fills Everything In Every Way."
+        ],
+        [
+            "As For You, You Were Dead In Your Transgressions And Sins,",
+            "In Which You Used To Live When You Followed The Ways Of This World And Of The Ruler Of The Kingdom Of The Air, The Spirit Who Is Now At Work In Those Who Are Disobedient.",
+            "All Of Us Also Lived Among Them At One Time, Gratifying The Cravings Of Our Sinful Nature And Following Its Desires And Thoughts. Like The Rest, We Were By Nature Objects Of Wrath.",
+            "But Because Of His Great Love For Us, God, Who Is Rich In Mercy,",
+            "Made Us Alive With Christ Even When We Were Dead In Transgressions--it Is By Grace You Have Been Saved.",
+            "And God Raised Us Up With Christ And Seated Us With Him In The Heavenly Realms In Christ Jesus,",
+            "In Order That In The Coming Ages He Might Show The Incomparable Riches Of His Grace, Expressed In His Kindness To Us In Christ Jesus.",
+            "For It Is By Grace You Have Been Saved, Through Faith--and This Not From Yourselves, It Is The Gift Of God--",
+            "Not By Works, So That No One Can Boast.",
+            "For We Are God's Workmanship, Created In Christ Jesus To Do Good Works, Which God Prepared In Advance For Us To Do.",
+            "Therefore, Remember That Formerly You Who Are Gentiles By Birth And Called \"Uncircumcised\" By Those Who Call Themselves \"The Circumcision\" (That Done In The Body By The Hands Of Men)--",
+            "Remember That At That Time You Were Separate From Christ, Excluded From Citizenship In Israel And Foreigners To The Covenants Of The Promise, Without Hope And Without God In The World.",
+            "But Now In Christ Jesus You Who Once Were Far Away Have Been Brought Near Through The Blood Of Christ.",
+            "For He Himself Is Our Peace, Who Has Made The Two One And Has Destroyed The Barrier, The Dividing Wall Of Hostility,",
+            "By Abolishing In His Flesh The Law With Its Commandments And Regulations. His Purpose Was To Create In Himself One New Man Out Of The Two, Thus Making Peace,",
+            "And In This One Body To Reconcile Both Of Them To God Through The Cross, By Which He Put To Death Their Hostility.",
+            "He Came And Preached Peace To You Who Were Far Away And Peace To Those Who Were Near.",
+            "For Through Him We Both Have Access To The Father By One Spirit.",
+            "Consequently, You Are No Longer Foreigners And Aliens, But Fellow Citizens With God's People And Members Of God's Household,",
+            "Built On The Foundation Of The Apostles And Prophets, With Christ Jesus Himself As The Chief Cornerstone.",
+            "In Him The Whole Building Is Joined Together And Rises To Become A Holy Temple In The Lord.",
+            "And In Him You Too Are Being Built Together To Become A Dwelling In Which God Lives By His Spirit."
+        ],
+        [
+            "For This Reason I, Paul, The Prisoner Of Christ Jesus For The Sake Of You Gentiles--",
+            "Surely You Have Heard About The Administration Of God's Grace That Was Given To Me For You,",
+            "That Is, The Mystery Made Known To Me By Revelation, As I Have Already Written Briefly.",
+            "In Reading This, Then, You Will Be Able To Understand My Insight Into The Mystery Of Christ,",
+            "Which Was Not Made Known To Men In Other Generations As It Has Now Been Revealed By The Spirit To God's Holy Apostles And Prophets.",
+            "This Mystery Is That Through The Gospel The Gentiles Are Heirs Together With Israel, Members Together Of One Body, And Sharers Together In The Promise In Christ Jesus.",
+            "I Became A Servant Of This Gospel By The Gift Of God's Grace Given Me Through The Working Of His Power.",
+            "Although I Am Less Than The Least Of All God's People, This Grace Was Given Me: To Preach To The Gentiles The Unsearchable Riches Of Christ,",
+            "And To Make Plain To Everyone The Administration Of This Mystery, Which For Ages Past Was Kept Hidden In God, Who Created All Things.",
+            "His Intent Was That Now, Through The Church, The Manifold Wisdom Of God Should Be Made Known To The Rulers And Authorities In The Heavenly Realms,",
+            "According To His Eternal Purpose Which He Accomplished In Christ Jesus Our Lord.",
+            "In Him And Through Faith In Him We May Approach God With Freedom And Confidence.",
+            "I Ask You, Therefore, Not To Be Discouraged Because Of My Sufferings For You, Which Are Your Glory.",
+            "For This Reason I Kneel Before The Father,",
+            "From Whom His Whole Family In Heaven And On Earth Derives Its Name.",
+            "I Pray That Out Of His Glorious Riches He May Strengthen You With Power Through His Spirit In Your Inner Being,",
+            "So That Christ May Dwell In Your Hearts Through Faith. And I Pray That You, Being Rooted And Established In Love,",
+            "May Have Power, Together With All The Saints, To Grasp How Wide And Long And High And Deep Is The Love Of Christ,",
+            "And To Know This Love That Surpasses Knowledge--that You May Be Filled To The Measure Of All The Fullness Of God.",
+            "Now To Him Who Is Able To Do Immeasurably More Than All We Ask Or Imagine, According To His Power That Is At Work Within Us,",
+            "To Him Be Glory In The Church And In Christ Jesus Throughout All Generations, For Ever And Ever! Amen."
+        ],
+        [
+            "As A Prisoner For The Lord, Then, I Urge You To Live A Life Worthy Of The Calling You Have Received.",
+            "Be Completely Humble And Gentle; Be Patient, Bearing With One Another In Love.",
+            "Make Every Effort To Keep The Unity Of The Spirit Through The Bond Of Peace.",
+            "There Is One Body And One Spirit--just As You Were Called To One Hope When You Were Called--",
+            "One Lord, One Faith, One Baptism;",
+            "One God And Father Of All, Who Is Over All And Through All And In All.",
+            "But To Each One Of Us Grace Has Been Given As Christ Apportioned It.",
+            "This Is Why It Says: \"When He Ascended On High, He Led Captives In His Train And Gave Gifts To Men.\"",
+            "(What Does \"He Ascended\" Mean Except That He Also Descended To The Lower, Earthly Regions ?",
+            "He Who Descended Is The Very One Who Ascended Higher Than All The Heavens, In Order To Fill The Whole Universe.)",
+            "It Was He Who Gave Some To Be Apostles, Some To Be Prophets, Some To Be Evangelists, And Some To Be Pastors And Teachers,",
+            "To Prepare God's People For Works Of Service, So That The Body Of Christ May Be Built Up",
+            "Until We All Reach Unity In The Faith And In The Knowledge Of The Son Of God And Become Mature, Attaining To The Whole Measure Of The Fullness Of Christ.",
+            "Then We Will No Longer Be Infants, Tossed Back And Forth By The Waves, And Blown Here And There By Every Wind Of Teaching And By The Cunning And Craftiness Of Men In Their Deceitful Scheming.",
+            "Instead, Speaking The Truth In Love, We Will In All Things Grow Up Into Him Who Is The Head, That Is, Christ.",
+            "From Him The Whole Body, Joined And Held Together By Every Supporting Ligament, Grows And Builds Itself Up In Love, As Each Part Does Its Work.",
+            "So I Tell You This, And Insist On It In The Lord, That You Must No Longer Live As The Gentiles Do, In The Futility Of Their Thinking.",
+            "They Are Darkened In Their Understanding And Separated From The Life Of God Because Of The Ignorance That Is In Them Due To The Hardening Of Their Hearts.",
+            "Having Lost All Sensitivity, They Have Given Themselves Over To Sensuality So As To Indulge In Every Kind Of Impurity, With A Continual Lust For More.",
+            "You, However, Did Not Come To Know Christ That Way.",
+            "Surely You Heard Of Him And Were Taught In Him In Accordance With The Truth That Is In Jesus.",
+            "You Were Taught, With Regard To Your Former Way Of Life, To Put Off Your Old Self, Which Is Being Corrupted By Its Deceitful Desires;",
+            "To Be Made New In The Attitude Of Your Minds;",
+            "And To Put On The New Self, Created To Be Like God In True Righteousness And Holiness.",
+            "Therefore Each Of You Must Put Off Falsehood And Speak Truthfully To His Neighbor, For We Are All Members Of One Body.",
+            "\"In Your Anger Do Not Sin\" : Do Not Let The Sun Go Down While You Are Still Angry,",
+            "And Do Not Give The Devil A Foothold.",
+            "He Who Has Been Stealing Must Steal No Longer, But Must Work, Doing Something Useful With His Own Hands, That He May Have Something To Share With Those In Need.",
+            "Do Not Let Any Unwholesome Talk Come Out Of Your Mouths, But Only What Is Helpful For Building Others Up According To Their Needs, That It May Benefit Those Who Listen.",
+            "And Do Not Grieve The Holy Spirit Of God, With Whom You Were Sealed For The Day Of Redemption.",
+            "Get Rid Of All Bitterness, Rage And Anger, Brawling And Slander, Along With Every Form Of Malice.",
+            "Be Kind And Compassionate To One Another, Forgiving Each Other, Just As In Christ God Forgave You."
+        ],
+        [
+            "Be Imitators Of God, Therefore, As Dearly Loved Children",
+            "And Live A Life Of Love, Just As Christ Loved Us And Gave Himself Up For Us As A Fragrant Offering And Sacrifice To God.",
+            "But Among You There Must Not Be Even A Hint Of Sexual Immorality, Or Of Any Kind Of Impurity, Or Of Greed, Because These Are Improper For God's Holy People.",
+            "Nor Should There Be Obscenity, Foolish Talk Or Coarse Joking, Which Are Out Of Place, But Rather Thanksgiving.",
+            "For Of This You Can Be Sure: No Immoral, Impure Or Greedy Person--such A Man Is An Idolater--has Any Inheritance In The Kingdom Of Christ And Of God.",
+            "Let No One Deceive You With Empty Words, For Because Of Such Things God's Wrath Comes On Those Who Are Disobedient.",
+            "Therefore Do Not Be Partners With Them.",
+            "For You Were Once Darkness, But Now You Are Light In The Lord. Live As Children Of Light",
+            "(For The Fruit Of The Light Consists In All Goodness, Righteousness And Truth)",
+            "And Find Out What Pleases The Lord.",
+            "Have Nothing To Do With The Fruitless Deeds Of Darkness, But Rather Expose Them.",
+            "For It Is Shameful Even To Mention What The Disobedient Do In Secret.",
+            "But Everything Exposed By The Light Becomes Visible,",
+            "For It Is Light That Makes Everything Visible. This Is Why It Is Said: \"Wake Up, O Sleeper, Rise From The Dead, And Christ Will Shine On You.\"",
+            "Be Very Careful, Then, How You Live--not As Unwise But As Wise,",
+            "Making The Most Of Every Opportunity, Because The Days Are Evil.",
+            "Therefore Do Not Be Foolish, But Understand What The Lord's Will Is.",
+            "Do Not Get Drunk On Wine, Which Leads To Debauchery. Instead, Be Filled With The Spirit.",
+            "Speak To One Another With Psalms, Hymns And Spiritual Songs. Sing And Make Music In Your Heart To The Lord,",
+            "Always Giving Thanks To God The Father For Everything, In The Name Of Our Lord Jesus Christ.",
+            "Submit To One Another Out Of Reverence For Christ.",
+            "Wives, Submit To Your Husbands As To The Lord.",
+            "For The Husband Is The Head Of The Wife As Christ Is The Head Of The Church, His Body, Of Which He Is The Savior.",
+            "Now As The Church Submits To Christ, So Also Wives Should Submit To Their Husbands In Everything.",
+            "Husbands, Love Your Wives, Just As Christ Loved The Church And Gave Himself Up For Her",
+            "To Make Her Holy, Cleansing Her By The Washing With Water Through The Word,",
+            "And To Present Her To Himself As A Radiant Church, Without Stain Or Wrinkle Or Any Other Blemish, But Holy And Blameless.",
+            "In This Same Way, Husbands Ought To Love Their Wives As Their Own Bodies. He Who Loves His Wife Loves Himself.",
+            "After All, No One Ever Hated His Own Body, But He Feeds And Cares For It, Just As Christ Does The Church--",
+            "For We Are Members Of His Body.",
+            "\"For This Reason A Man Will Leave His Father And Mother And Be United To His Wife, And The Two Will Become One Flesh.\"",
+            "This Is A Profound Mystery--but I Am Talking About Christ And The Church.",
+            "However, Each One Of You Also Must Love His Wife As He Loves Himself, And The Wife Must Respect Her Husband."
+        ],
+        [
+            "Children, Obey Your Parents In The Lord, For This Is Right.",
+            "\"Honor Your Father And Mother\"--which Is The First Commandment With A Promise--",
+            "\"That It May Go Well With You And That You May Enjoy Long Life On The Earth.\"",
+            "Fathers, Do Not Exasperate Your Children; Instead, Bring Them Up In The Training And Instruction Of The Lord.",
+            "Slaves, Obey Your Earthly Masters With Respect And Fear, And With Sincerity Of Heart, Just As You Would Obey Christ.",
+            "Obey Them Not Only To Win Their Favor When Their Eye Is On You, But Like Slaves Of Christ, Doing The Will Of God From Your Heart.",
+            "Serve Wholeheartedly, As If You Were Serving The Lord, Not Men,",
+            "Because You Know That The Lord Will Reward Everyone For Whatever Good He Does, Whether He Is Slave Or Free.",
+            "And Masters, Treat Your Slaves In The Same Way. Do Not Threaten Them, Since You Know That He Who Is Both Their Master And Yours Is In Heaven, And There Is No Favoritism With Him.",
+            "Finally, Be Strong In The Lord And In His Mighty Power.",
+            "Put On The Full Armor Of God So That You Can Take Your Stand Against The Devil's Schemes.",
+            "For Our Struggle Is Not Against Flesh And Blood, But Against The Rulers, Against The Authorities, Against The Powers Of This Dark World And Against The Spiritual Forces Of Evil In The Heavenly Realms.",
+            "Therefore Put On The Full Armor Of God, So That When The Day Of Evil Comes, You May Be Able To Stand Your Ground, And After You Have Done Everything, To Stand.",
+            "Stand Firm Then, With The Belt Of Truth Buckled Around Your Waist, With The Breastplate Of Righteousness In Place,",
+            "And With Your Feet Fitted With The Readiness That Comes From The Gospel Of Peace.",
+            "In Addition To All This, Take Up The Shield Of Faith, With Which You Can Extinguish All The Flaming Arrows Of The Evil One.",
+            "Take The Helmet Of Salvation And The Sword Of The Spirit, Which Is The Word Of God.",
+            "And Pray In The Spirit On All Occasions With All Kinds Of Prayers And Requests. With This In Mind, Be Alert And Always Keep On Praying For All The Saints.",
+            "Pray Also For Me, That Whenever I Open My Mouth, Words May Be Given Me So That I Will Fearlessly Make Known The Mystery Of The Gospel,",
+            "For Which I Am An Ambassador In Chains. Pray That I May Declare It Fearlessly, As I Should.",
+            "Tychicus, The Dear Brother And Faithful Servant In The Lord, Will Tell You Everything, So That You Also May Know How I Am And What I Am Doing.",
+            "I Am Sending Him To You For This Very Purpose, That You May Know How We Are, And That He May Encourage You.",
+            "Peace To The Brothers, And Love With Faith From God The Father And The Lord Jesus Christ.",
+            "Grace To All Who Love Our Lord Jesus Christ With An Undying Love."
+        ]
+    ]
 }

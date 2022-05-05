@@ -9,11 +9,8 @@ const Verse = () => {
   const { t } = useTranslation('verse');
   const [searchResult, setSearchResult] = useState('');
 
-  const stringifyVerse = function (resultList) {
+  const stringifyVerse = function ({book, chapter , result:resultList}) {
     if (resultList.length && resultList.length > 0) {
-      const id = resultList[0].Verseid;
-      const book = parseInt(id.substring(0, 2), 10);
-      const chapter = parseInt(id.substring(2, 5), 10);
       return `${t(BOOKS[book])} : ${chapter + 1}`;
     }
   };
@@ -24,19 +21,19 @@ const Verse = () => {
     });
   }, []);
 
-  const arrayToDiv = (resultList) => {
+  const arrayToDiv = ({book, chapter , result:resultList}) => {
     if (resultList.length && resultList.length > 0) {
       return resultList.map((verse, index) => {
         return (
           <div
-            key={verse.index}
+            key={index}
             data-verse={index}
             ref={(element) => {
               refs.current[index] = element;
             }}
             className="card"
           >
-            <b>{index + 1}.</b> {verse.Verse}
+            <b>{index + 1}.</b> {verse}
           </div>
         );
       });

@@ -1,1708 +1,452 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "65000000",
-          "Verse": "The Revelation of Jesus Christ, which God gave unto him, to show unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:"
-        },
-        {
-          "Verseid": "65000001",
-          "Verse": "Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw."
-        },
-        {
-          "Verseid": "65000002",
-          "Verse": "Blessed is he that reads, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand."
-        },
-        {
-          "Verseid": "65000003",
-          "Verse": "John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;"
-        },
-        {
-          "Verseid": "65000004",
-          "Verse": "And from Jesus Christ, who is the faithful witness, and the First-Born of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,"
-        },
-        {
-          "Verseid": "65000005",
-          "Verse": "And has made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen."
-        },
-        {
-          "Verseid": "65000006",
-          "Verse": "Behold, he comes with clouds; and every eye shall see him, and they also which pierced him: and all families of the earth shall wail because of him. Even so, Amen."
-        },
-        {
-          "Verseid": "65000007",
-          "Verse": "I am Alpha and Omega, the beginning and the ending, says the Lord, which is, and which was, and which is to come, the Almighty."
-        },
-        {
-          "Verseid": "65000008",
-          "Verse": "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ."
-        },
-        {
-          "Verseid": "65000009",
-          "Verse": "I was in the Spirit on the Lord's day, and heard behind me a great voice, as of a trumpet,"
-        },
-        {
-          "Verseid": "65000010",
-          "Verse": "Saying, I am Alpha and Omega, the first and the last: and, What you see, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea."
-        },
-        {
-          "Verseid": "65000011",
-          "Verse": "And I turned to see the voice that spoke with me. And being turned, I saw seven golden candlesticks;"
-        },
-        {
-          "Verseid": "65000012",
-          "Verse": "And in the midst of the seven candlesticks one like unto the Son of man, clothed with a garment down to the foot, and girt about the breast with a golden girdle."
-        },
-        {
-          "Verseid": "65000013",
-          "Verse": "His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;"
-        },
-        {
-          "Verseid": "65000014",
-          "Verse": "And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters."
-        },
-        {
-          "Verseid": "65000015",
-          "Verse": "And he had in his right hand seven stars: and out of his mouth went a sharp two-edged sword: and his countenance was as the sun shines in his strength."
-        },
-        {
-          "Verseid": "65000016",
-          "Verse": "And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:"
-        },
-        {
-          "Verseid": "65000017",
-          "Verse": "I am he that lives, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death."
-        },
-        {
-          "Verseid": "65000018",
-          "Verse": "Write the things which you have seen, and the things which are, and the things which shall be hereafter;"
-        },
-        {
-          "Verseid": "65000019",
-          "Verse": "The mystery of the seven stars which you saw in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which you saw are the seven churches."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65001000",
-          "Verse": "Unto the angel of the church of Ephesus write; These things says he that holds the seven stars in his right hand, who walks in the midst of the seven golden candlesticks;"
-        },
-        {
-          "Verseid": "65001001",
-          "Verse": "I know your works, and your labour, and your patience, and how you can not bear them which are evil: and you have tried them which say they are apostles, and are not, and have found them liars:"
-        },
-        {
-          "Verseid": "65001002",
-          "Verse": "And have borne, and have patience, and for my name's sake have laboured, and have not fainted."
-        },
-        {
-          "Verseid": "65001003",
-          "Verse": "Nevertheless I have somewhat against you, because you have left your first love."
-        },
-        {
-          "Verseid": "65001004",
-          "Verse": "Remember therefore from whence you are fallen, and repent, and do the first works; or else I will come unto you quickly, and will remove your candlestick out of his place, except you repent."
-        },
-        {
-          "Verseid": "65001005",
-          "Verse": "But this you have, that you hate the deeds of the Nicolaitanes, which I also hate."
-        },
-        {
-          "Verseid": "65001006",
-          "Verse": "He that has an ear, let him hear what the Spirit says unto the churches; To him that overcomes will I give to eat of the tree of life, which is in the midst of the paradise of God."
-        },
-        {
-          "Verseid": "65001007",
-          "Verse": "And unto the angel of the church in Smyrna write; These things says the first and the last, which was dead, and is alive;"
-        },
-        {
-          "Verseid": "65001008",
-          "Verse": "I know your works, and tribulation, and poverty, (but you are rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan."
-        },
-        {
-          "Verseid": "65001009",
-          "Verse": "Fear none of those things which you shall suffer: behold, the devil shall cast some of you into prison, that all of you may be tried; and all of you shall have tribulation ten days: be you faithful unto death, and I will give you a crown of life."
-        },
-        {
-          "Verseid": "65001010",
-          "Verse": "He that has an ear, let him hear what the Spirit says unto the churches; He that overcomes shall not be hurt of the second death."
-        },
-        {
-          "Verseid": "65001011",
-          "Verse": "And to the angel of the church in Pergamos write; These things says he which has the sharp sword with two edges;"
-        },
-        {
-          "Verseid": "65001012",
-          "Verse": "I know your works, and where you dwell, even where Satan's seat is: and you hold fast my name, and have not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwells."
-        },
-        {
-          "Verseid": "65001013",
-          "Verse": "But I have a few things against you, because you have there them that hold the doctrine of Balaam, who taught Balac to cast a stumbling block before the children of Israel, to eat things sacrificed unto idols, and to commit fornication."
-        },
-        {
-          "Verseid": "65001014",
-          "Verse": "So have you also them that hold the doctrine of the Nicolaitanes, which thing I hate."
-        },
-        {
-          "Verseid": "65001015",
-          "Verse": "Repent; or else I will come unto you quickly, and will fight against them with the sword of my mouth."
-        },
-        {
-          "Verseid": "65001016",
-          "Verse": "He that has an ear, let him hear what the Spirit says unto the churches; To him that overcomes will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knows saving he that receives it."
-        },
-        {
-          "Verseid": "65001017",
-          "Verse": "And unto the angel of the church in Thyatira write; These things says the Son of God, who has his eyes like unto a flame of fire, and his feet are like fine brass;"
-        },
-        {
-          "Verseid": "65001018",
-          "Verse": "I know your works, and love, and service, and faith, and your patience, and your works; and the last to be more than the first."
-        },
-        {
-          "Verseid": "65001019",
-          "Verse": "Notwithstanding I have a few things against you, because you suffer that woman Jezebel, which calls herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols."
-        },
-        {
-          "Verseid": "65001020",
-          "Verse": "And I gave her space to repent of her fornication; and she repented not."
-        },
-        {
-          "Verseid": "65001021",
-          "Verse": "Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds."
-        },
-        {
-          "Verseid": "65001022",
-          "Verse": "And I will kill her children with death; and all the churches shall know that I am he which searches the reins and hearts: and I will give unto every one of you according to your works."
-        },
-        {
-          "Verseid": "65001023",
-          "Verse": "But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you no other burden."
-        },
-        {
-          "Verseid": "65001024",
-          "Verse": "But that which all of you have already hold fast till I come."
-        },
-        {
-          "Verseid": "65001025",
-          "Verse": "And he that overcomes, and keeps my works unto the end, to him will I give power over the nations:"
-        },
-        {
-          "Verseid": "65001026",
-          "Verse": "And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father."
-        },
-        {
-          "Verseid": "65001027",
-          "Verse": "And I will give him the morning star."
-        },
-        {
-          "Verseid": "65001028",
-          "Verse": "He that has an ear, let him hear what the Spirit says unto the churches."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65002000",
-          "Verse": "And unto the angel of the church in Sardis write; These things says he that has the seven Spirits of God, and the seven stars; I know your works, that you have a name that you live, and are dead."
-        },
-        {
-          "Verseid": "65002001",
-          "Verse": "Be watchful, and strengthen the things which remain, that are ready to die: for I have not found your works perfect before God."
-        },
-        {
-          "Verseid": "65002002",
-          "Verse": "Remember therefore how you have received and heard, and hold fast, and repent. If therefore you shall not watch, I will come on you as a thief, and you shall not know what hour I will come upon you."
-        },
-        {
-          "Verseid": "65002003",
-          "Verse": "You have a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy."
-        },
-        {
-          "Verseid": "65002004",
-          "Verse": "He that overcomes, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels."
-        },
-        {
-          "Verseid": "65002005",
-          "Verse": "He that has an ear, let him hear what the Spirit says unto the churches."
-        },
-        {
-          "Verseid": "65002006",
-          "Verse": "And to the angel of the church in Philadelphia write; These things says he that is holy, he that is true, he that has the key of David, he that opens, and no man shuts; and shuts, and no man opens;"
-        },
-        {
-          "Verseid": "65002007",
-          "Verse": "I know your works: behold, I have set before you an open door, and no man can shut it: for you have a little strength, and have kept my word, and have not denied my name."
-        },
-        {
-          "Verseid": "65002008",
-          "Verse": "Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before your feet, and to know that I have loved you."
-        },
-        {
-          "Verseid": "65002009",
-          "Verse": "Because you have kept the word of my patience, I also will keep you from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth."
-        },
-        {
-          "Verseid": "65002010",
-          "Verse": "Behold, I come quickly: hold that fast which you have, that no man take your crown."
-        },
-        {
-          "Verseid": "65002011",
-          "Verse": "Him that overcomes will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which comes down out of heaven from my God: and I will write upon him my new name."
-        },
-        {
-          "Verseid": "65002012",
-          "Verse": "He that has an ear, let him hear what the Spirit says unto the churches."
-        },
-        {
-          "Verseid": "65002013",
-          "Verse": "And unto the angel of the church of the Laodiceans write; These things says the Amen, the faithful and true witness, the beginning of the creation of God;"
-        },
-        {
-          "Verseid": "65002014",
-          "Verse": "I know your works, that you are neither cold nor hot: I would you were cold or hot."
-        },
-        {
-          "Verseid": "65002015",
-          "Verse": "So then because you are lukewarm, and neither cold nor hot, I will spew you out of my mouth."
-        },
-        {
-          "Verseid": "65002016",
-          "Verse": "Because you says, I am rich, and increased with goods, and have need of nothing; and know not that you are wretched, and miserable, and poor, and blind, and naked:"
-        },
-        {
-          "Verseid": "65002017",
-          "Verse": "I counsel you to buy of me gold tried in the fire, that you may be rich; and white raiment, that you may be clothed, and that the shame of your nakedness do not appear; and anoint yours eyes with eye salve, that you may see."
-        },
-        {
-          "Verseid": "65002018",
-          "Verse": "As many as I love, I rebuke and chasten: be zealous therefore, and repent."
-        },
-        {
-          "Verseid": "65002019",
-          "Verse": "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me."
-        },
-        {
-          "Verseid": "65002020",
-          "Verse": "To him that overcomes will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne."
-        },
-        {
-          "Verseid": "65002021",
-          "Verse": "He that has an ear, let him hear what the Spirit says unto the churches."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65003000",
-          "Verse": "After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up here, and I will show you things which must be hereafter."
-        },
-        {
-          "Verseid": "65003001",
-          "Verse": "And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne."
-        },
-        {
-          "Verseid": "65003002",
-          "Verse": "And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald."
-        },
-        {
-          "Verseid": "65003003",
-          "Verse": "And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold."
-        },
-        {
-          "Verseid": "65003004",
-          "Verse": "And out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne, which are the seven Spirits of God."
-        },
-        {
-          "Verseid": "65003005",
-          "Verse": "And before the throne there was a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind."
-        },
-        {
-          "Verseid": "65003006",
-          "Verse": "And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle."
-        },
-        {
-          "Verseid": "65003007",
-          "Verse": "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, LORD God Almighty, which was, and is, and is to come."
-        },
-        {
-          "Verseid": "65003008",
-          "Verse": "And when those beasts give glory and honour and thanks to him that sat on the throne, who lives for ever and ever,"
-        },
-        {
-          "Verseid": "65003009",
-          "Verse": "The four and twenty elders fall down before him that sat on the throne, and worship him that lives for ever and ever, and cast their crowns before the throne, saying,"
-        },
-        {
-          "Verseid": "65003010",
-          "Verse": "You are worthy, O Lord, to receive glory and honour and power: for you have created all things, and for your pleasure they are and were created."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65004000",
-          "Verse": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals."
-        },
-        {
-          "Verseid": "65004001",
-          "Verse": "And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?"
-        },
-        {
-          "Verseid": "65004002",
-          "Verse": "And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon."
-        },
-        {
-          "Verseid": "65004003",
-          "Verse": "And I wept much, because no man was found worthy to open and to read the book, neither to look thereon."
-        },
-        {
-          "Verseid": "65004004",
-          "Verse": "And one of the elders says unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, has prevailed to open the book, and to loose the seven seals thereof."
-        },
-        {
-          "Verseid": "65004005",
-          "Verse": "And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth."
-        },
-        {
-          "Verseid": "65004006",
-          "Verse": "And he came and took the book out of the right hand of him that sat upon the throne."
-        },
-        {
-          "Verseid": "65004007",
-          "Verse": "And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints."
-        },
-        {
-          "Verseid": "65004008",
-          "Verse": "And they sung a new song, saying, You are worthy to take the book, and to open the seals thereof: for you were slain, and have redeemed us to God by your blood out of every kindred, and tongue, and people, and nation;"
-        },
-        {
-          "Verseid": "65004009",
-          "Verse": "And have made us unto our God kings and priests: and we shall reign on the earth."
-        },
-        {
-          "Verseid": "65004010",
-          "Verse": "And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;"
-        },
-        {
-          "Verseid": "65004011",
-          "Verse": "Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing."
-        },
-        {
-          "Verseid": "65004012",
-          "Verse": "And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be unto him that sits upon the throne, and unto the Lamb for ever and ever."
-        },
-        {
-          "Verseid": "65004013",
-          "Verse": "And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that lives for ever and ever."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65005000",
-          "Verse": "And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see."
-        },
-        {
-          "Verseid": "65005001",
-          "Verse": "And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer."
-        },
-        {
-          "Verseid": "65005002",
-          "Verse": "And when he had opened the second seal, I heard the second beast say, Come and see."
-        },
-        {
-          "Verseid": "65005003",
-          "Verse": "And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword."
-        },
-        {
-          "Verseid": "65005004",
-          "Verse": "And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand."
-        },
-        {
-          "Verseid": "65005005",
-          "Verse": "And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see you hurt not the oil and the wine."
-        },
-        {
-          "Verseid": "65005006",
-          "Verse": "And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see."
-        },
-        {
-          "Verseid": "65005007",
-          "Verse": "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."
-        },
-        {
-          "Verseid": "65005008",
-          "Verse": "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:"
-        },
-        {
-          "Verseid": "65005009",
-          "Verse": "And they cried with a loud voice, saying, How long, O Lord, holy and true, do you not judge and avenge our blood on them that dwell on the earth?"
-        },
-        {
-          "Verseid": "65005010",
-          "Verse": "And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellow servants also and their brethren, that should be killed as they were, should be fulfilled."
-        },
-        {
-          "Verseid": "65005011",
-          "Verse": "And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;"
-        },
-        {
-          "Verseid": "65005012",
-          "Verse": "And the stars of heaven fell unto the earth, even as a fig tree casts her untimely figs, when she is shaken of a mighty wind."
-        },
-        {
-          "Verseid": "65005013",
-          "Verse": "And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places."
-        },
-        {
-          "Verseid": "65005014",
-          "Verse": "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;"
-        },
-        {
-          "Verseid": "65005015",
-          "Verse": "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sits on the throne, and from the wrath of the Lamb:"
-        },
-        {
-          "Verseid": "65005016",
-          "Verse": "For the great day of his wrath has come; and who shall be able to stand?"
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65006000",
-          "Verse": "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree."
-        },
-        {
-          "Verseid": "65006001",
-          "Verse": "And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,"
-        },
-        {
-          "Verseid": "65006002",
-          "Verse": "Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads."
-        },
-        {
-          "Verseid": "65006003",
-          "Verse": "And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel."
-        },
-        {
-          "Verseid": "65006004",
-          "Verse": "Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand."
-        },
-        {
-          "Verseid": "65006005",
-          "Verse": "Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nephthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand."
-        },
-        {
-          "Verseid": "65006006",
-          "Verse": "Of the tribe of Simeon were sealed twelve thousand. Of the tribe of Levi were sealed twelve thousand. Of the tribe of Issachar were sealed twelve thousand."
-        },
-        {
-          "Verseid": "65006007",
-          "Verse": "Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand."
-        },
-        {
-          "Verseid": "65006008",
-          "Verse": "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and families, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;"
-        },
-        {
-          "Verseid": "65006009",
-          "Verse": "And cried with a loud voice, saying, Salvation to our God which sits upon the throne, and unto the Lamb."
-        },
-        {
-          "Verseid": "65006010",
-          "Verse": "And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,"
-        },
-        {
-          "Verseid": "65006011",
-          "Verse": "Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever. Amen."
-        },
-        {
-          "Verseid": "65006012",
-          "Verse": "And one of the elders answered, saying unto me, What are these which are arrayed in white robes? and whence came they?"
-        },
-        {
-          "Verseid": "65006013",
-          "Verse": "And I said unto him, Sir, you know. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb."
-        },
-        {
-          "Verseid": "65006014",
-          "Verse": "Therefore are they before the throne of God, and serve him day and night in his temple: and he that sits on the throne shall dwell among them."
-        },
-        {
-          "Verseid": "65006015",
-          "Verse": "They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat."
-        },
-        {
-          "Verseid": "65006016",
-          "Verse": "For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65007000",
-          "Verse": "And when he had opened the seventh seal, there was silence in heaven about the space of half an hour."
-        },
-        {
-          "Verseid": "65007001",
-          "Verse": "And I saw the seven angels which stood before God; and to them were given seven trumpets."
-        },
-        {
-          "Verseid": "65007002",
-          "Verse": "And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer it with the prayers of all saints upon the golden altar which was before the throne."
-        },
-        {
-          "Verseid": "65007003",
-          "Verse": "And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel's hand."
-        },
-        {
-          "Verseid": "65007004",
-          "Verse": "And the angel took the censer, and filled it with fire of the altar, and cast it into the earth: and there were voices, and thunderings, and lightnings, and an earthquake."
-        },
-        {
-          "Verseid": "65007005",
-          "Verse": "And the seven angels which had the seven trumpets prepared themselves to sound."
-        },
-        {
-          "Verseid": "65007006",
-          "Verse": "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up."
-        },
-        {
-          "Verseid": "65007007",
-          "Verse": "And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;"
-        },
-        {
-          "Verseid": "65007008",
-          "Verse": "And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed."
-        },
-        {
-          "Verseid": "65007009",
-          "Verse": "And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;"
-        },
-        {
-          "Verseid": "65007010",
-          "Verse": "And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter."
-        },
-        {
-          "Verseid": "65007011",
-          "Verse": "And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise."
-        },
-        {
-          "Verseid": "65007012",
-          "Verse": "And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the citizens of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!"
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65008000",
-          "Verse": "And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit."
-        },
-        {
-          "Verseid": "65008001",
-          "Verse": "And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit."
-        },
-        {
-          "Verseid": "65008002",
-          "Verse": "And there came out of the smoke locusts upon the earth: and unto them was given power, as the scorpions of the earth have power."
-        },
-        {
-          "Verseid": "65008003",
-          "Verse": "And it was commanded them that they should not hurt the grass of the earth, neither any green thing, neither any tree; but only those men which have not the seal of God in their foreheads."
-        },
-        {
-          "Verseid": "65008004",
-          "Verse": "And to them it was given that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when he strikes a man."
-        },
-        {
-          "Verseid": "65008005",
-          "Verse": "And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them."
-        },
-        {
-          "Verseid": "65008006",
-          "Verse": "And the shapes of the locusts were like unto horses prepared unto battle; and on their heads were as it were crowns like gold, and their faces were as the faces of men."
-        },
-        {
-          "Verseid": "65008007",
-          "Verse": "And they had hair as the hair of women, and their teeth were as the teeth of lions."
-        },
-        {
-          "Verseid": "65008008",
-          "Verse": "And they had breastplates, as it were breastplates of iron; and the sound of their wings was as the sound of chariots of many horses running to battle."
-        },
-        {
-          "Verseid": "65008009",
-          "Verse": "And they had tails like unto scorpions, and there were stings in their tails: and their power was to hurt men five months."
-        },
-        {
-          "Verseid": "65008010",
-          "Verse": "And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue has his name Apollyon."
-        },
-        {
-          "Verseid": "65008011",
-          "Verse": "One woe is past; and, behold, there come two woes more hereafter."
-        },
-        {
-          "Verseid": "65008012",
-          "Verse": "And the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God,"
-        },
-        {
-          "Verseid": "65008013",
-          "Verse": "Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates."
-        },
-        {
-          "Verseid": "65008014",
-          "Verse": "And the four angels were loosed, which were prepared for an hour, and a day, and a month, and a year, in order to slay the third part of men."
-        },
-        {
-          "Verseid": "65008015",
-          "Verse": "And the number of the army of the horsemen were two hundred thousand thousand: and I heard the number of them."
-        },
-        {
-          "Verseid": "65008016",
-          "Verse": "And thus I saw the horses in the vision, and them that sat on them, having breastplates of fire, and of jacinth, and brimstone: and the heads of the horses were as the heads of lions; and out of their mouths issued fire and smoke and brimstone."
-        },
-        {
-          "Verseid": "65008017",
-          "Verse": "By these three was the third part of men killed, by the fire, and by the smoke, and by the brimstone, which issued out of their mouths."
-        },
-        {
-          "Verseid": "65008018",
-          "Verse": "For their power is in their mouth, and in their tails: for their tails were like unto serpents, and had heads, and with them they do hurt."
-        },
-        {
-          "Verseid": "65008019",
-          "Verse": "And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:"
-        },
-        {
-          "Verseid": "65008020",
-          "Verse": "Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65009000",
-          "Verse": "And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:"
-        },
-        {
-          "Verseid": "65009001",
-          "Verse": "And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,"
-        },
-        {
-          "Verseid": "65009002",
-          "Verse": "And cried with a loud voice, as when a lion roars: and when he had cried, seven thunders uttered their voices."
-        },
-        {
-          "Verseid": "65009003",
-          "Verse": "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not."
-        },
-        {
-          "Verseid": "65009004",
-          "Verse": "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,"
-        },
-        {
-          "Verseid": "65009005",
-          "Verse": "And swore by him that lives for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:"
-        },
-        {
-          "Verseid": "65009006",
-          "Verse": "But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he has declared to his servants the prophets."
-        },
-        {
-          "Verseid": "65009007",
-          "Verse": "And the voice which I heard from heaven spoke unto me again, and said, Go and take the little book which is open in the hand of the angel which stands upon the sea and upon the earth."
-        },
-        {
-          "Verseid": "65009008",
-          "Verse": "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make your belly bitter, but it shall be in your mouth sweet as honey."
-        },
-        {
-          "Verseid": "65009009",
-          "Verse": "And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter."
-        },
-        {
-          "Verseid": "65009010",
-          "Verse": "And he said unto me, You must prophesy again before many races and tribes, and nations, and tongues, and kings."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65010000",
-          "Verse": "And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein."
-        },
-        {
-          "Verseid": "65010001",
-          "Verse": "But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty and two months."
-        },
-        {
-          "Verseid": "65010002",
-          "Verse": "And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth."
-        },
-        {
-          "Verseid": "65010003",
-          "Verse": "These are the two olive trees, and the two candlesticks standing before the God of the earth."
-        },
-        {
-          "Verseid": "65010004",
-          "Verse": "And if any man will hurt them, fire proceeds out of their mouth, and devours their enemies: and if any man will hurt them, he must in this manner be killed."
-        },
-        {
-          "Verseid": "65010005",
-          "Verse": "These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to strike the earth with all plagues, as often as they will."
-        },
-        {
-          "Verseid": "65010006",
-          "Verse": "And when they shall have finished their testimony, the beast that ascends out of the bottomless pit shall make war against them, and shall overcome them, and kill them."
-        },
-        {
-          "Verseid": "65010007",
-          "Verse": "And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified."
-        },
-        {
-          "Verseid": "65010008",
-          "Verse": "And they of the people and families and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves."
-        },
-        {
-          "Verseid": "65010009",
-          "Verse": "And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth."
-        },
-        {
-          "Verseid": "65010010",
-          "Verse": "And after three days and an half the spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them."
-        },
-        {
-          "Verseid": "65010011",
-          "Verse": "And they heard a great voice from heaven saying unto them, Come up here. And they ascended up to heaven in a cloud; and their enemies beheld them."
-        },
-        {
-          "Verseid": "65010012",
-          "Verse": "And the same hour was there a great earthquake, and the tenth part of the city fell, and in the earthquake were slain of men seven thousand: and the remnant were affrighted, and gave glory to the God of heaven."
-        },
-        {
-          "Verseid": "65010013",
-          "Verse": "The second woe is past; and, behold, the third woe comes quickly."
-        },
-        {
-          "Verseid": "65010014",
-          "Verse": "And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever."
-        },
-        {
-          "Verseid": "65010015",
-          "Verse": "And the four and twenty elders, which sat before God on their seats, fell upon their faces, and worshipped God,"
-        },
-        {
-          "Verseid": "65010016",
-          "Verse": "Saying, We give you thanks, O LORD God Almighty, which are, and were, and are to come; because you have taken to you your great power, and have reigned."
-        },
-        {
-          "Verseid": "65010017",
-          "Verse": "And the nations were angry, and your wrath has come, and the time of the dead, that they should be judged, and that you should give reward unto your servants the prophets, and to the saints, and them that fear your name, small and great; and should destroy them which destroy the earth."
-        },
-        {
-          "Verseid": "65010018",
-          "Verse": "And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65011000",
-          "Verse": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:"
-        },
-        {
-          "Verseid": "65011001",
-          "Verse": "And she being with child cried, travailing in birth, and pained to be delivered."
-        },
-        {
-          "Verseid": "65011002",
-          "Verse": "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads."
-        },
-        {
-          "Verseid": "65011003",
-          "Verse": "And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, in order to devour her child as soon as it was born."
-        },
-        {
-          "Verseid": "65011004",
-          "Verse": "And she brought forth a male child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne."
-        },
-        {
-          "Verseid": "65011005",
-          "Verse": "And the woman fled into the wilderness, where she has a place prepared of God, that they should feed her there a thousand two hundred and threescore days."
-        },
-        {
-          "Verseid": "65011006",
-          "Verse": "And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,"
-        },
-        {
-          "Verseid": "65011007",
-          "Verse": "And prevailed not; neither was their place found any more in heaven."
-        },
-        {
-          "Verseid": "65011008",
-          "Verse": "And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceives the whole world: he was cast out into the earth, and his angels were cast out with him."
-        },
-        {
-          "Verseid": "65011009",
-          "Verse": "And I heard a loud voice saying in heaven, Now has come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night."
-        },
-        {
-          "Verseid": "65011010",
-          "Verse": "And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death."
-        },
-        {
-          "Verseid": "65011011",
-          "Verse": "Therefore rejoice, all of you heavens, and all of you that dwell in them. Woe to the citizens of the earth and of the sea! for the devil has come down unto you, having great wrath, because he knows that he has but a short time."
-        },
-        {
-          "Verseid": "65011012",
-          "Verse": "And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the male child."
-        },
-        {
-          "Verseid": "65011013",
-          "Verse": "And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent."
-        },
-        {
-          "Verseid": "65011014",
-          "Verse": "And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood."
-        },
-        {
-          "Verseid": "65011015",
-          "Verse": "And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth."
-        },
-        {
-          "Verseid": "65011016",
-          "Verse": "And the dragon was angry with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65012000",
-          "Verse": "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy."
-        },
-        {
-          "Verseid": "65012001",
-          "Verse": "And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority."
-        },
-        {
-          "Verseid": "65012002",
-          "Verse": "And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast."
-        },
-        {
-          "Verseid": "65012003",
-          "Verse": "And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?"
-        },
-        {
-          "Verseid": "65012004",
-          "Verse": "And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months."
-        },
-        {
-          "Verseid": "65012005",
-          "Verse": "And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven."
-        },
-        {
-          "Verseid": "65012006",
-          "Verse": "And it was given unto him to make war with the saints, and to overcome them: and power was given him over all families, and tongues, and nations."
-        },
-        {
-          "Verseid": "65012007",
-          "Verse": "And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world."
-        },
-        {
-          "Verseid": "65012008",
-          "Verse": "If any man have an ear, let him hear."
-        },
-        {
-          "Verseid": "65012009",
-          "Verse": "He that leads into captivity shall go into captivity: he that kills with the sword must be killed with the sword. Here is the patience and the faith of the saints."
-        },
-        {
-          "Verseid": "65012010",
-          "Verse": "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spoke as a dragon."
-        },
-        {
-          "Verseid": "65012011",
-          "Verse": "And he execises all the power of the first beast before him, and causes the earth and them which dwell therein to worship the first beast, whose deadly wound was healed."
-        },
-        {
-          "Verseid": "65012012",
-          "Verse": "And he does great wonders, so that he makes fire come down from heaven on the earth in the sight of men,"
-        },
-        {
-          "Verseid": "65012013",
-          "Verse": "And deceives them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live."
-        },
-        {
-          "Verseid": "65012014",
-          "Verse": "And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed."
-        },
-        {
-          "Verseid": "65012015",
-          "Verse": "And he causes all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:"
-        },
-        {
-          "Verseid": "65012016",
-          "Verse": "And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name."
-        },
-        {
-          "Verseid": "65012017",
-          "Verse": "Here is wisdom. Let him that has understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65013000",
-          "Verse": "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father's name written in their foreheads."
-        },
-        {
-          "Verseid": "65013001",
-          "Verse": "And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:"
-        },
-        {
-          "Verseid": "65013002",
-          "Verse": "And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred and forty and four thousand, which were redeemed from the earth."
-        },
-        {
-          "Verseid": "65013003",
-          "Verse": "These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb anywhere he goes. These were redeemed from among men, being the first-fruits unto God and to the Lamb."
-        },
-        {
-          "Verseid": "65013004",
-          "Verse": "And in their mouth was found no guile: for they are without fault before the throne of God."
-        },
-        {
-          "Verseid": "65013005",
-          "Verse": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,"
-        },
-        {
-          "Verseid": "65013006",
-          "Verse": "Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment has come: and worship him that made heaven, and earth, and the sea, and the fountains of waters."
-        },
-        {
-          "Verseid": "65013007",
-          "Verse": "And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication."
-        },
-        {
-          "Verseid": "65013008",
-          "Verse": "And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand,"
-        },
-        {
-          "Verseid": "65013009",
-          "Verse": "The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:"
-        },
-        {
-          "Verseid": "65013010",
-          "Verse": "And the smoke of their torment ascends up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receives the mark of his name."
-        },
-        {
-          "Verseid": "65013011",
-          "Verse": "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus."
-        },
-        {
-          "Verseid": "65013012",
-          "Verse": "And I heard a voice from heaven saying unto me, Write, Blessed are the dead which die in the Lord from henceforth: Yea, says the Spirit, that they may rest from their labours; and their works do follow them."
-        },
-        {
-          "Verseid": "65013013",
-          "Verse": "And I looked, and behold a white cloud, and upon the cloud one sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle."
-        },
-        {
-          "Verseid": "65013014",
-          "Verse": "And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in your sickle, and reap: for the time has come for you to reap; for the harvest of the earth is ripe."
-        },
-        {
-          "Verseid": "65013015",
-          "Verse": "And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped."
-        },
-        {
-          "Verseid": "65013016",
-          "Verse": "And another angel came out of the temple which is in heaven, he also having a sharp sickle."
-        },
-        {
-          "Verseid": "65013017",
-          "Verse": "And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in your sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe."
-        },
-        {
-          "Verseid": "65013018",
-          "Verse": "And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the wrath of God."
-        },
-        {
-          "Verseid": "65013019",
-          "Verse": "And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65014000",
-          "Verse": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God."
-        },
-        {
-          "Verseid": "65014001",
-          "Verse": "And I saw as it were a sea of glass mingled with fire: and them that had got the victory over the beast, and over his image, and over his mark, and over the number of his name, stand on the sea of glass, having the harps of God."
-        },
-        {
-          "Verseid": "65014002",
-          "Verse": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are your works, Lord God Almighty; just and true are your ways, you King of saints."
-        },
-        {
-          "Verseid": "65014003",
-          "Verse": "Who shall not fear you, O Lord, and glorify your name? for you only are holy: for all nations shall come and worship before you; for your judgments are made manifest."
-        },
-        {
-          "Verseid": "65014004",
-          "Verse": "And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:"
-        },
-        {
-          "Verseid": "65014005",
-          "Verse": "And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles."
-        },
-        {
-          "Verseid": "65014006",
-          "Verse": "And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who lives for ever and ever."
-        },
-        {
-          "Verseid": "65014007",
-          "Verse": "And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65015000",
-          "Verse": "And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth."
-        },
-        {
-          "Verseid": "65015001",
-          "Verse": "And the first went, and poured out his vial upon the earth; and there fell a dangerous and grievous sore upon the men which had the mark of the beast, and upon them which worshipped his image."
-        },
-        {
-          "Verseid": "65015002",
-          "Verse": "And the second angel poured out his vial upon the sea; and it became as the blood of a dead man: and every living soul died in the sea."
-        },
-        {
-          "Verseid": "65015003",
-          "Verse": "And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood."
-        },
-        {
-          "Verseid": "65015004",
-          "Verse": "And I heard the angel of the waters say, You are righteous, O Lord, which are, and were, and shall be, because you have judged thus."
-        },
-        {
-          "Verseid": "65015005",
-          "Verse": "For they have shed the blood of saints and prophets, and you have given them blood to drink; for they are worthy."
-        },
-        {
-          "Verseid": "65015006",
-          "Verse": "And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous are your judgments."
-        },
-        {
-          "Verseid": "65015007",
-          "Verse": "And the fourth angel poured out his vial upon the sun; and power was given unto him to scorch men with fire."
-        },
-        {
-          "Verseid": "65015008",
-          "Verse": "And men were scorched with great heat, and blasphemed the name of God, which has power over these plagues: and they repented not to give him glory."
-        },
-        {
-          "Verseid": "65015009",
-          "Verse": "And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,"
-        },
-        {
-          "Verseid": "65015010",
-          "Verse": "And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds."
-        },
-        {
-          "Verseid": "65015011",
-          "Verse": "And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared."
-        },
-        {
-          "Verseid": "65015012",
-          "Verse": "And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet."
-        },
-        {
-          "Verseid": "65015013",
-          "Verse": "For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty."
-        },
-        {
-          "Verseid": "65015014",
-          "Verse": "Behold, I come as a thief. Blessed is he that watches, and keeps his garments, lest he walk naked, and they see his shame."
-        },
-        {
-          "Verseid": "65015015",
-          "Verse": "And he gathered them together into a place called in the Hebrew tongue Armageddon."
-        },
-        {
-          "Verseid": "65015016",
-          "Verse": "And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done."
-        },
-        {
-          "Verseid": "65015017",
-          "Verse": "And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, and so great."
-        },
-        {
-          "Verseid": "65015018",
-          "Verse": "And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath."
-        },
-        {
-          "Verseid": "65015019",
-          "Verse": "And every island fled away, and the mountains were not found."
-        },
-        {
-          "Verseid": "65015020",
-          "Verse": "And there fell upon men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65016000",
-          "Verse": "And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come here; I will show unto you the judgment of the great whore that sits upon many waters:"
-        },
-        {
-          "Verseid": "65016001",
-          "Verse": "With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication."
-        },
-        {
-          "Verseid": "65016002",
-          "Verse": "So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns."
-        },
-        {
-          "Verseid": "65016003",
-          "Verse": "And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:"
-        },
-        {
-          "Verseid": "65016004",
-          "Verse": "And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH."
-        },
-        {
-          "Verseid": "65016005",
-          "Verse": "And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration."
-        },
-        {
-          "Verseid": "65016006",
-          "Verse": "And the angel said unto me, Wherefore did you marvel? I will tell you the mystery of the woman, and of the beast that carries her, which has the seven heads and ten horns."
-        },
-        {
-          "Verseid": "65016007",
-          "Verse": "The beast that you saw was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is."
-        },
-        {
-          "Verseid": "65016008",
-          "Verse": "And here is the mind which has wisdom. The seven heads are seven mountains, on which the woman sits."
-        },
-        {
-          "Verseid": "65016009",
-          "Verse": "And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he comes, he must continue a short space."
-        },
-        {
-          "Verseid": "65016010",
-          "Verse": "And the beast that was, and is not, even he is the eighth, and is of the seven, and goes into perdition."
-        },
-        {
-          "Verseid": "65016011",
-          "Verse": "And the ten horns which you saw are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast."
-        },
-        {
-          "Verseid": "65016012",
-          "Verse": "These have one mind, and shall give their power and strength unto the beast."
-        },
-        {
-          "Verseid": "65016013",
-          "Verse": "These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful."
-        },
-        {
-          "Verseid": "65016014",
-          "Verse": "And he says unto me, The waters which you saw, where the whore sits, are races and tribes, and multitudes, and nations, and tongues."
-        },
-        {
-          "Verseid": "65016015",
-          "Verse": "And the ten horns which you saw upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire."
-        },
-        {
-          "Verseid": "65016016",
-          "Verse": "For God has put in their hearts to fulfill his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled."
-        },
-        {
-          "Verseid": "65016017",
-          "Verse": "And the woman which you saw is that great city, which reigns over the kings of the earth."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65017000",
-          "Verse": "And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory."
-        },
-        {
-          "Verseid": "65017001",
-          "Verse": "And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird."
-        },
-        {
-          "Verseid": "65017002",
-          "Verse": "For all nations have drunk of the wine of the wrath of her fornication, and the kings of the earth have committed fornication with her, and the merchants of the earth are waxed rich through the abundance of her delicacies."
-        },
-        {
-          "Verseid": "65017003",
-          "Verse": "And I heard another voice from heaven, saying, Come out of her, my people, that all of you be not partakers of her sins, and that all of you receive not of her plagues."
-        },
-        {
-          "Verseid": "65017004",
-          "Verse": "For her sins have reached unto heaven, and God has remembered her iniquities."
-        },
-        {
-          "Verseid": "65017005",
-          "Verse": "Reward her even as she rewarded you, and double unto her double according to her works: in the cup which she has filled fill to her double."
-        },
-        {
-          "Verseid": "65017006",
-          "Verse": "How much she has glorified herself, and lived deliciously, so much torment and sorrow give her: for she says in her heart, I sit a queen, and am no widow, and shall see no sorrow."
-        },
-        {
-          "Verseid": "65017007",
-          "Verse": "Therefore shall her plagues come in one day, death, and mourning, and famine; and she shall be utterly burned with fire: for strong is the Lord God who judges her."
-        },
-        {
-          "Verseid": "65017008",
-          "Verse": "And the kings of the earth, who have committed fornication and lived deliciously with her, shall mourn for her, and lament for her, when they shall see the smoke of her burning,"
-        },
-        {
-          "Verseid": "65017009",
-          "Verse": "Standing far off for the fear of her torment, saying, Alas, alas that great city Babylon, that mighty city! for in one hour is your judgment come."
-        },
-        {
-          "Verseid": "65017010",
-          "Verse": "And the merchants of the earth shall weep and mourn over her; for no man buys their merchandise any more:"
-        },
-        {
-          "Verseid": "65017011",
-          "Verse": "The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,"
-        },
-        {
-          "Verseid": "65017012",
-          "Verse": "And cinnamon, and odours, and ointments, and frankincense, and wine, and oil, and fine flour, and wheat, and beasts, and sheep, and horses, and chariots, and slaves, and souls of men."
-        },
-        {
-          "Verseid": "65017013",
-          "Verse": "And the fruits that your soul lusted after are departed from you, and all things which were dainty and goodly are departed from you, and you shall find them no more at all."
-        },
-        {
-          "Verseid": "65017014",
-          "Verse": "The merchants of these things, which were made rich by her, shall stand far off for the fear of her torment, weeping and wailing,"
-        },
-        {
-          "Verseid": "65017015",
-          "Verse": "And saying, Alas, alas that great city, that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls!"
-        },
-        {
-          "Verseid": "65017016",
-          "Verse": "For in one hour so great riches has come to nothing. And every ship captain, and all the company in ships, and sailors, and as many as trade by sea, stood far off,"
-        },
-        {
-          "Verseid": "65017017",
-          "Verse": "And cried when they saw the smoke of her burning, saying, What city is like unto this great city!"
-        },
-        {
-          "Verseid": "65017018",
-          "Verse": "And they cast dust on their heads, and cried, weeping and wailing, saying, Alas, alas that great city, wherein were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate."
-        },
-        {
-          "Verseid": "65017019",
-          "Verse": "Rejoice over her, you heaven, and all of you holy apostles and prophets; for God has avenged you on her."
-        },
-        {
-          "Verseid": "65017020",
-          "Verse": "And a mighty angel took up a stone like a great millstone, and cast it into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all."
-        },
-        {
-          "Verseid": "65017021",
-          "Verse": "And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in you; and no craftsman, of whatsoever craft he be, shall be found any more in you; and the sound of a millstone shall be heard no more at all in you;"
-        },
-        {
-          "Verseid": "65017022",
-          "Verse": "And the light of a candle shall shine no more at all in you; and the voice of the bridegroom and of the bride shall be heard no more at all in you: for your merchants were the great men of the earth; for by your sorceries were all nations deceived."
-        },
-        {
-          "Verseid": "65017023",
-          "Verse": "And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65018000",
-          "Verse": "And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:"
-        },
-        {
-          "Verseid": "65018001",
-          "Verse": "For true and righteous are his judgments: for he has judged the great whore, which did corrupt the earth with her fornication, and has avenged the blood of his servants at her hand."
-        },
-        {
-          "Verseid": "65018002",
-          "Verse": "And again they said, Alleluia And her smoke rose up for ever and ever."
-        },
-        {
-          "Verseid": "65018003",
-          "Verse": "And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia."
-        },
-        {
-          "Verseid": "65018004",
-          "Verse": "And a voice came out of the throne, saying, Praise our God, all you his servants, and all of you that fear him, both small and great."
-        },
-        {
-          "Verseid": "65018005",
-          "Verse": "And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigns."
-        },
-        {
-          "Verseid": "65018006",
-          "Verse": "Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb has come, and his wife has made herself ready."
-        },
-        {
-          "Verseid": "65018007",
-          "Verse": "And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints."
-        },
-        {
-          "Verseid": "65018008",
-          "Verse": "And he says unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he says unto me, These are the true sayings of God."
-        },
-        {
-          "Verseid": "65018009",
-          "Verse": "And I fell at his feet to worship him. And he said unto me, See you do it not: I am your fellow servant, and of your brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy."
-        },
-        {
-          "Verseid": "65018010",
-          "Verse": "And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he does judge and make war."
-        },
-        {
-          "Verseid": "65018011",
-          "Verse": "His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself."
-        },
-        {
-          "Verseid": "65018012",
-          "Verse": "And he was clothed with a vesture dipped in blood: and his name is called The Word of God."
-        },
-        {
-          "Verseid": "65018013",
-          "Verse": "And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean."
-        },
-        {
-          "Verseid": "65018014",
-          "Verse": "And out of his mouth goes a sharp sword, that with it he should strike the nations: and he shall rule them with a rod of iron: and he treads the winepress of the fierceness and wrath of Almighty God."
-        },
-        {
-          "Verseid": "65018015",
-          "Verse": "And he has on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS."
-        },
-        {
-          "Verseid": "65018016",
-          "Verse": "And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;"
-        },
-        {
-          "Verseid": "65018017",
-          "Verse": "That all of you may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all men, both free and bond, both small and great."
-        },
-        {
-          "Verseid": "65018018",
-          "Verse": "And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army."
-        },
-        {
-          "Verseid": "65018019",
-          "Verse": "And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone."
-        },
-        {
-          "Verseid": "65018020",
-          "Verse": "And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65019000",
-          "Verse": "And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand."
-        },
-        {
-          "Verseid": "65019001",
-          "Verse": "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,"
-        },
-        {
-          "Verseid": "65019002",
-          "Verse": "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season."
-        },
-        {
-          "Verseid": "65019003",
-          "Verse": "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
-        },
-        {
-          "Verseid": "65019004",
-          "Verse": "But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection."
-        },
-        {
-          "Verseid": "65019005",
-          "Verse": "Blessed and holy is he that has part in the first resurrection: on such the second death has no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years."
-        },
-        {
-          "Verseid": "65019006",
-          "Verse": "And when the thousand years are expired, Satan shall be loosed out of his prison,"
-        },
-        {
-          "Verseid": "65019007",
-          "Verse": "And shall go out to deceive the nations which are in the four quarters of the earth, Gog, and Magog, to gather them together to battle: the number of whom is as the sand of the sea."
-        },
-        {
-          "Verseid": "65019008",
-          "Verse": "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them."
-        },
-        {
-          "Verseid": "65019009",
-          "Verse": "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever."
-        },
-        {
-          "Verseid": "65019010",
-          "Verse": "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them."
-        },
-        {
-          "Verseid": "65019011",
-          "Verse": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
-        },
-        {
-          "Verseid": "65019012",
-          "Verse": "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works."
-        },
-        {
-          "Verseid": "65019013",
-          "Verse": "And death and hell were cast into the lake of fire. This is the second death."
-        },
-        {
-          "Verseid": "65019014",
-          "Verse": "And whosoever was not found written in the book of life was cast into the lake of fire."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65020000",
-          "Verse": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea."
-        },
-        {
-          "Verseid": "65020001",
-          "Verse": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband."
-        },
-        {
-          "Verseid": "65020002",
-          "Verse": "And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God."
-        },
-        {
-          "Verseid": "65020003",
-          "Verse": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away."
-        },
-        {
-          "Verseid": "65020004",
-          "Verse": "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful."
-        },
-        {
-          "Verseid": "65020005",
-          "Verse": "And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is thirsty of the fountain of the water of life freely."
-        },
-        {
-          "Verseid": "65020006",
-          "Verse": "He that overcomes shall inherit all things; and I will be his God, and he shall be my son."
-        },
-        {
-          "Verseid": "65020007",
-          "Verse": "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burns with fire and brimstone: which is the second death."
-        },
-        {
-          "Verseid": "65020008",
-          "Verse": "And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come here, I will show you the bride, the Lamb's wife."
-        },
-        {
-          "Verseid": "65020009",
-          "Verse": "And he carried me away in the spirit to a great and high mountain, and showed me that great city, the holy Jerusalem, descending out of heaven from God,"
-        },
-        {
-          "Verseid": "65020010",
-          "Verse": "Having the glory of God: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal;"
-        },
-        {
-          "Verseid": "65020011",
-          "Verse": "And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:"
-        },
-        {
-          "Verseid": "65020012",
-          "Verse": "On the east three gates; on the north three gates; on the south three gates; and on the west three gates."
-        },
-        {
-          "Verseid": "65020013",
-          "Verse": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb."
-        },
-        {
-          "Verseid": "65020014",
-          "Verse": "And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof."
-        },
-        {
-          "Verseid": "65020015",
-          "Verse": "And the city lies foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal."
-        },
-        {
-          "Verseid": "65020016",
-          "Verse": "And he measured the wall thereof, an hundred and forty and four cubits, according to the measure of a man, that is, of the angel."
-        },
-        {
-          "Verseid": "65020017",
-          "Verse": "And the building of the wall of it was of jasper: and the city was pure gold, like unto clear glass."
-        },
-        {
-          "Verseid": "65020018",
-          "Verse": "And the foundations of the wall of the city were garnished with all manner of precious stones. The first foundation was jasper; the second, sapphire; the third, a chalcedony; the fourth, an emerald;"
-        },
-        {
-          "Verseid": "65020019",
-          "Verse": "The fifth, sardonyx; the sixth, ruby; the seventh, chrysolyte; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst."
-        },
-        {
-          "Verseid": "65020020",
-          "Verse": "And the twelve gates were twelve pearls: every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass."
-        },
-        {
-          "Verseid": "65020021",
-          "Verse": "And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it."
-        },
-        {
-          "Verseid": "65020022",
-          "Verse": "And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof."
-        },
-        {
-          "Verseid": "65020023",
-          "Verse": "And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it."
-        },
-        {
-          "Verseid": "65020024",
-          "Verse": "And the gates of it shall not be shut at all by day: for there shall be no night there."
-        },
-        {
-          "Verseid": "65020025",
-          "Verse": "And they shall bring the glory and honour of the nations into it."
-        },
-        {
-          "Verseid": "65020026",
-          "Verse": "And there shall in no wise enter into it any thing that defiles, neither whatsoever works abomination, or makes a lie: but they which are written in the Lamb's book of life."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "65021000",
-          "Verse": "And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb."
-        },
-        {
-          "Verseid": "65021001",
-          "Verse": "In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations."
-        },
-        {
-          "Verseid": "65021002",
-          "Verse": "And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:"
-        },
-        {
-          "Verseid": "65021003",
-          "Verse": "And they shall see his face; and his name shall be in their foreheads."
-        },
-        {
-          "Verseid": "65021004",
-          "Verse": "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God gives them light: and they shall reign for ever and ever."
-        },
-        {
-          "Verseid": "65021005",
-          "Verse": "And he said unto me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to show unto his servants the things which must shortly be done."
-        },
-        {
-          "Verseid": "65021006",
-          "Verse": "Behold, I come quickly: blessed is he that keeps the sayings of the prophecy of this book."
-        },
-        {
-          "Verseid": "65021007",
-          "Verse": "And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which showed me these things."
-        },
-        {
-          "Verseid": "65021008",
-          "Verse": "Then says he unto me, See you do it not: for I am your fellow servant, and of your brethren the prophets, and of them which keep the sayings of this book: worship God."
-        },
-        {
-          "Verseid": "65021009",
-          "Verse": "And he says unto me, Seal not the sayings of the prophecy of this book: for the time is at hand."
-        },
-        {
-          "Verseid": "65021010",
-          "Verse": "He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still."
-        },
-        {
-          "Verseid": "65021011",
-          "Verse": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be."
-        },
-        {
-          "Verseid": "65021012",
-          "Verse": "I am Alpha and Omega, the beginning and the end, the first and the last."
-        },
-        {
-          "Verseid": "65021013",
-          "Verse": "Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city."
-        },
-        {
-          "Verseid": "65021014",
-          "Verse": "For without are dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loves and makes a lie."
-        },
-        {
-          "Verseid": "65021015",
-          "Verse": "I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star."
-        },
-        {
-          "Verseid": "65021016",
-          "Verse": "And the Spirit and the bride say, Come. And let him that hears say, Come. And let him that is thirsty come. And whosoever will, let him take the water of life freely."
-        },
-        {
-          "Verseid": "65021017",
-          "Verse": "For I testify unto every man that hears the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:"
-        },
-        {
-          "Verseid": "65021018",
-          "Verse": "And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book."
-        },
-        {
-          "Verseid": "65021019",
-          "Verse": "He which testifies these things says, Surely I come quickly. Amen. Even so, come, Lord Jesus."
-        },
-        {
-          "Verseid": "65021020",
-          "Verse": "The grace of our Lord Jesus Christ be with you all. Amen."
-        }
-      ]
-    }
-  ]
+    "chapter": [        
+        [
+            "The Revelation Of Jesus Christ, Which God Gave Him To Show His Servants What Must Soon Take Place. He Made It Known By Sending His Angel To His Servant John,",
+            "Who Testifies To Everything He Saw--that Is, The Word Of God And The Testimony Of Jesus Christ.",
+            "Blessed Is The One Who Reads The Words Of This Prophecy, And Blessed Are Those Who Hear It And Take To Heart What Is Written In It, Because The Time Is Near.",
+            "John, To The Seven Churches In The Province Of Asia: Grace And Peace To You From Him Who Is, And Who Was, And Who Is To Come, And From The Seven Spirits",
+            "Before His Throne, And From Jesus Christ, Who Is The Faithful Witness, The Firstborn From The Dead, And The Ruler Of The Kings Of The Earth.",
+            "To Him Who Loves Us And Has Freed Us From Our Sins By His Blood, And Has Made Us To Be A Kingdom And Priests To Serve His God And Father--to Him Be Glory And Power For Ever And Ever! Amen.",
+            "Look, He Is Coming With The Clouds, And Every Eye Will See Him, Even Those Who Pierced Him; And All The Peoples Of The Earth Will Mourn Because Of Him. So Shall It Be! Amen.",
+            "\"I Am The Alpha And The Omega,\" Says The Lord God, \"Who Is, And Who Was, And Who Is To Come, The Almighty.\"",
+            "I, John, Your Brother And Companion In The Suffering And Kingdom And Patient Endurance That Are Ours In Jesus, Was On The Island Of Patmos Because Of The Word Of God And The Testimony Of Jesus.",
+            "On The Lord's Day I Was In The Spirit, And I Heard Behind Me A Loud Voice Like A Trumpet,",
+            "Which Said: \"Write On A Scroll What You See And Send It To The Seven Churches: To Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia And Laodicea.\"",
+            "I Turned Around To See The Voice That Was Speaking To Me. And When I Turned I Saw Seven Golden Lampstands,",
+            "And Among The Lampstands Was Someone \"Like A Son Of Man,\" Dressed In A Robe Reaching Down To His Feet And With A Golden Sash Around His Chest.",
+            "His Head And Hair Were White Like Wool, As White As Snow, And His Eyes Were Like Blazing Fire.",
+            "His Feet Were Like Bronze Glowing In A Furnace, And His Voice Was Like The Sound Of Rushing Waters.",
+            "In His Right Hand He Held Seven Stars, And Out Of His Mouth Came A Sharp Double-edged Sword. His Face Was Like The Sun Shining In All Its Brilliance.",
+            "When I Saw Him, I Fell At His Feet As Though Dead. Then He Placed His Right Hand On Me And Said: \"Do Not Be Afraid. I Am The First And The Last.",
+            "I Am The Living One; I Was Dead, And Behold I Am Alive For Ever And Ever! And I Hold The Keys Of Death And Hades.",
+            "\"Write, Therefore, What You Have Seen, What Is Now And What Will Take Place Later.",
+            "The Mystery Of The Seven Stars That You Saw In My Right Hand And Of The Seven Golden Lampstands Is This: The Seven Stars Are The Angels Of The Seven Churches, And The Seven Lampstands Are The Seven Churches."
+        ],
+        [
+            "\"To The Angel Of The Church In Ephesus Write: These Are The Words Of Him Who Holds The Seven Stars In His Right Hand And Walks Among The Seven Golden Lampstands:",
+            "I Know Your Deeds, Your Hard Work And Your Perseverance. I Know That You Cannot Tolerate Wicked Men, That You Have Tested Those Who Claim To Be Apostles But Are Not, And Have Found Them False.",
+            "You Have Persevered And Have Endured Hardships For My Name, And Have Not Grown Weary.",
+            "Yet I Hold This Against You: You Have Forsaken Your First Love.",
+            "Remember The Height From Which You Have Fallen! Repent And Do The Things You Did At First. If You Do Not Repent, I Will Come To You And Remove Your Lampstand From Its Place.",
+            "But You Have This In Your Favor: You Hate The Practices Of The Nicolaitans, Which I Also Hate.",
+            "He Who Has An Ear, Let Him Hear What The Spirit Says To The Churches. To Him Who Overcomes, I Will Give The Right To Eat From The Tree Of Life, Which Is In The Paradise Of God.",
+            "\"To The Angel Of The Church In Smyrna Write: These Are The Words Of Him Who Is The First And The Last, Who Died And Came To Life Again.",
+            "I Know Your Afflictions And Your Poverty-yet You Are Rich! I Know The Slander Of Those Who Say They Are Jews And Are Not, But Are A Synagogue Of Satan.",
+            "Do Not Be Afraid Of What You Are About To Suffer. I Tell You, The Devil Will Put Some Of You In Prison To Test You, And You Will Suffer Persecution For Ten Days. Be Faithful, Even To The Point Of Death, And I Will Give You The Crown Of Life.",
+            "He Who Has An Ear, Let Him Hear What The Spirit Says To The Churches. He Who Overcomes Will Not Be Hurt At All By The Second Death.",
+            "\"To The Angel Of The Church In Pergamum Write: These Are The Words Of Him Who Has The Sharp, Doubleedged Sword.",
+            "I Know Where You Live-where Satan Has His Throne. Yet You Remain True To My Name. You Did Not Renounce Your Faith In Me, Even In The Days Of Antipas, My Faithful Witness, Who Was Put To Death In Your City-where Satan Lives.",
+            "Nevertheless, I Have A Few Things Against You: You Have People There Who Hold To The Teaching Of Balaam, Who Taught Balak To Entice The Israelites To Sin By Eating Food Sacrificed To Idols And By Committing Sexual Immorality.",
+            "Likewise You Also Have Those Who Hold To The Teaching Of The Nicolaitans.",
+            "Repent Therefore! Otherwise, I Will Soon Come To You And Will Fight Against Them With The Sword Of My Mouth.",
+            "He Who Has An Ear, Let Him Hear What The Spirit Says To The Churches. To Him Who Overcomes, I Will Give Some Of The Hidden Manna. I Will Also Give Him A White Stone With A New Name Written On It, Known Only To Him Who Receives It.",
+            "\"To The Angel Of The Church In Thyatira Write: These Are The Words Of The Son Of God, Whose Eyes Are Like Blazing Fire And Whose Feet Are Like Burnished Bronze.",
+            "I Know Your Deeds, Your Love And Faith, Your Service And Perseverance, And That You Are Now Doing More Than You Did At First.",
+            "Nevertheless, I Have This Against You: You Tolerate That Woman Jezebel, Who Calls Herself A Prophetess. By Her Teaching She Misleads My Servants Into Sexual Immorality And The Eating Of Food Sacrificed To Idols.",
+            "I Have Given Her Time To Repent Of Her Immorality, But She Is Unwilling.",
+            "So I Will Cast Her On A Bed Of Suffering, And I Will Make Those Who Commit Adultery With Her Suffer Intensely, Unless They Repent Of Her Ways.",
+            "I Will Strike Her Children Dead. Then All The Churches Will Know That I Am He Who Searches Hearts And Minds, And I Will Repay Each Of You According To Your Deeds.",
+            "Now I Say To The Rest Of You In Thyatira, To You Who Do Not Hold To Her Teaching And Have Not Learned Satan's So-called Deep Secrets (I Will Not Impose Any Other Burden On You):",
+            "Only Hold On To What You Have Until I Come.",
+            "To Him Who Overcomes And Does My Will To The End, I Will Give Authority Over The Nations--",
+            "'He Will Rule Them With An Iron Scepter; He Will Dash Them To Pieces Like Pottery' --",
+            "Just As I Have Received Authority From My Father. I Will Also Give Him The Morning Star.",
+            "He Who Has An Ear, Let Him Hear What The Spirit Says To The Churches."
+        ],
+        [
+            "\"To The Angel Of The Church In Sardis Write: These Are The Words Of Him Who Holds The Seven Spirits Of God And The Seven Stars. I Know Your Deeds; You Have A Reputation Of Being Alive, But You Are Dead.",
+            "Wake Up! Strengthen What Remains And Is About To Die, For I Have Not Found Your Deeds Complete In The Sight Of My God.",
+            "Remember, Therefore, What You Have Received And Heard; Obey It, And Repent. But If You Do Not Wake Up, I Will Come Like A Thief, And You Will Not Know At What Time I Will Come To You.",
+            "Yet You Have A Few People In Sardis Who Have Not Soiled Their Clothes. They Will Walk With Me, Dressed In White, For They Are Worthy.",
+            "He Who Overcomes Will, Like Them, Be Dressed In White. I Will Never Blot Out His Name From The Book Of Life, But Will Acknowledge His Name Before My Father And His Angels.",
+            "He Who Has An Ear, Let Him Hear What The Spirit Says To The Churches.",
+            "\"To The Angel Of The Church In Philadelphia Write: These Are The Words Of Him Who Is Holy And True, Who Holds The Key Of David. What He Opens No One Can Shut, And What He Shuts No One Can Open.",
+            "I Know Your Deeds. See, I Have Placed Before You An Open Door That No One Can Shut. I Know That You Have Little Strength, Yet You Have Kept My Word And Have Not Denied My Name.",
+            "I Will Make Those Who Are Of The Synagogue Of Satan, Who Claim To Be Jews Though They Are Not, But Are Liars--i Will Make Them Come And Fall Down At Your Feet And Acknowledge That I Have Loved You.",
+            "Since You Have Kept My Command To Endure Patiently, I Will Also Keep You From The Hour Of Trial That Is Going To Come Upon The Whole World To Test Those Who Live On The Earth.",
+            "I Am Coming Soon. Hold On To What You Have, So That No One Will Take Your Crown.",
+            "Him Who Overcomes I Will Make A Pillar In The Temple Of My God. Never Again Will He Leave It. I Will Write On Him The Name Of My God And The Name Of The City Of My God, The New Jerusalem, Which Is Coming Down Out Of Heaven From My God; And I Will Also Write On Him My New Name.",
+            "He Who Has An Ear, Let Him Hear What The Spirit Says To The Churches.",
+            "\"To The Angel Of The Church In Laodicea Write: These Are The Words Of The Amen, The Faithful And True Witness, The Ruler Of God's Creation.",
+            "I Know Your Deeds, That You Are Neither Cold Nor Hot. I Wish You Were Either One Or The Other!",
+            "So, Because You Are Lukewarm--neither Hot Nor Cold--i Am About To Spit You Out Of My Mouth.",
+            "You Say, 'I Am Rich; I Have Acquired Wealth And Do Not Need A Thing.' But You Do Not Realize That You Are Wretched, Pitiful, Poor, Blind And Naked.",
+            "I Counsel You To Buy From Me Gold Refined In The Fire, So You Can Become Rich; And White Clothes To Wear, So You Can Cover Your Shameful Nakedness; And Salve To Put On Your Eyes, So You Can See.",
+            "Those Whom I Love I Rebuke And Discipline. So Be Earnest, And Repent.",
+            "Here I Am! I Stand At The Door And Knock. If Anyone Hears My Voice And Opens The Door, I Will Come In And Eat With Him, And He With Me.",
+            "To Him Who Overcomes, I Will Give The Right To Sit With Me On My Throne, Just As I Overcame And Sat Down With My Father On His Throne.",
+            "He Who Has An Ear, Let Him Hear What The Spirit Says To The Churches.\""
+        ],
+        [
+            "After This I Looked, And There Before Me Was A Door Standing Open In Heaven. And The Voice I Had First Heard Speaking To Me Like A Trumpet Said, \"Come Up Here, And I Will Show You What Must Take Place After This.\"",
+            "At Once I Was In The Spirit, And There Before Me Was A Throne In Heaven With Someone Sitting On It.",
+            "And The One Who Sat There Had The Appearance Of Jasper And Carnelian. A Rainbow, Resembling An Emerald, Encircled The Throne.",
+            "Surrounding The Throne Were Twenty-four Other Thrones, And Seated On Them Were Twenty-four Elders. They Were Dressed In White And Had Crowns Of Gold On Their Heads.",
+            "From The Throne Came Flashes Of Lightning, Rumblings And Peals Of Thunder. Before The Throne, Seven Lamps Were Blazing. These Are The Seven Spirits Of God.",
+            "Also Before The Throne There Was What Looked Like A Sea Of Glass, Clear As Crystal.",
+            "In The Center, Around The Throne, Were Four Living Creatures, And They Were Covered With Eyes, In Front And In Back. The First Living Creature Was Like A Lion, The Second Was Like An Ox, The Third Had A Face Like A Man, The Fourth Was Like A Flying Eagle.",
+            "Each Of The Four Living Creatures Had Six Wings And Was Covered With Eyes All Around, Even Under His Wings. Day And Night They Never Stop Saying: \"Holy, Holy, Holy Is The Lord God Almighty, Who Was, And Is, And Is To Come.\"",
+            "Whenever The Living Creatures Give Glory, Honor And Thanks To Him Who Sits On The Throne And Who Lives For Ever And Ever,",
+            "The Twenty-four Elders Fall Down Before Him Who Sits On The Throne, And Worship Him Who Lives For Ever And Ever. They Lay Their Crowns Before The Throne And Say:",
+            "\"You Are Worthy, Our Lord And God, To Receive Glory And Honor And Power, For You Created All Things, And By Your Will They Were Created And Have Their Being.\""
+        ],
+        [
+            "Then I Saw In The Right Hand Of Him Who Sat On The Throne A Scroll With Writing On Both Sides And Sealed With Seven Seals.",
+            "And I Saw A Mighty Angel Proclaiming In A Loud Voice, \"Who Is Worthy To Break The Seals And Open The Scroll?\"",
+            "But No One In Heaven Or On Earth Or Under The Earth Could Open The Scroll Or Even Look Inside It.",
+            "I Wept And Wept Because No One Was Found Who Was Worthy To Open The Scroll Or Look Inside.",
+            "Then One Of The Elders Said To Me, \"Do Not Weep! See, The Lion Of The Tribe Of Judah, The Root Of David, Has Triumphed. He Is Able To Open The Scroll And Its Seven Seals.\"",
+            "Then I Saw A Lamb, Looking As If It Had Been Slain, Standing In The Center Of The Throne, Encircled By The Four Living Creatures And The Elders. He Had Seven Horns And Seven Eyes, Which Are The Seven Spirits Of God Sent Out Into All The Earth.",
+            "He Came And Took The Scroll From The Right Hand Of Him Who Sat On The Throne.",
+            "And When He Had Taken It, The Four Living Creatures And The Twenty-four Elders Fell Down Before The Lamb. Each One Had A Harp And They Were Holding Golden Bowls Full Of Incense, Which Are The Prayers Of The Saints.",
+            "And They Sang A New Song: \"You Are Worthy To Take The Scroll And To Open Its Seals, Because You Were Slain, And With Your Blood You Purchased Men For God From Every Tribe And Language And People And Nation.",
+            "You Have Made Them To Be A Kingdom And Priests To Serve Our God, And They Will Reign On The Earth.\"",
+            "Then I Looked And Heard The Voice Of Many Angels, Numbering Thousands Upon Thousands, And Ten Thousand Times Ten Thousand. They Encircled The Throne And The Living Creatures And The Elders.",
+            "In A Loud Voice They Sang: \"Worthy Is The Lamb, Who Was Slain, To Receive Power And Wealth And Wisdom And Strength And Honor And Glory And Praise!\"",
+            "Then I Heard Every Creature In Heaven And On Earth And Under The Earth And On The Sea, And All That Is In Them, Singing: \"To Him Who Sits On The Throne And To The Lamb Be Praise And Honor And Glory And Power, For Ever And Ever!\"",
+            "The Four Living Creatures Said, \"Amen,\" And The Elders Fell Down And Worshiped."
+        ],
+        [
+            "I Watched As The Lamb Opened The First Of The Seven Seals. Then I Heard One Of The Four Living Creatures Say In A Voice Like Thunder, \"Come!\"",
+            "I Looked, And There Before Me Was A White Horse! Its Rider Held A Bow, And He Was Given A Crown, And He Rode Out As A Conqueror Bent On Conquest.",
+            "When The Lamb Opened The Second Seal, I Heard The Second Living Creature Say, \"Come!\"",
+            "Then Another Horse Came Out, A Fiery Red One. Its Rider Was Given Power To Take Peace From The Earth And To Make Men Slay Each Other. To Him Was Given A Large Sword.",
+            "When The Lamb Opened The Third Seal, I Heard The Third Living Creature Say, \"Come!\" I Looked, And There Before Me Was A Black Horse! Its Rider Was Holding A Pair Of Scales In His Hand.",
+            "Then I Heard What Sounded Like A Voice Among The Four Living Creatures, Saying, \"A Quart Of Wheat For A Day's Wages, And Three Quarts Of Barley For A Day's Wages, And Do Not Damage The Oil And The Wine!\"",
+            "When The Lamb Opened The Fourth Seal, I Heard The Voice Of The Fourth Living Creature Say, \"Come!\"",
+            "I Looked, And There Before Me Was A Pale Horse! Its Rider Was Named Death, And Hades Was Following Close Behind Him. They Were Given Power Over A Fourth Of The Earth To Kill By Sword, Famine And Plague, And By The Wild Beasts Of The Earth.",
+            "When He Opened The Fifth Seal, I Saw Under The Altar The Souls Of Those Who Had Been Slain Because Of The Word Of God And The Testimony They Had Maintained.",
+            "They Called Out In A Loud Voice, \"How Long, Sovereign Lord, Holy And True, Until You Judge The Inhabitants Of The Earth And Avenge Our Blood?\"",
+            "Then Each Of Them Was Given A White Robe, And They Were Told To Wait A Little Longer, Until The Number Of Their Fellow Servants And Brothers Who Were To Be Killed As They Had Been Was Completed.",
+            "I Watched As He Opened The Sixth Seal. There Was A Great Earthquake. The Sun Turned Black Like Sackcloth Made Of Goat Hair, The Whole Moon Turned Blood Red,",
+            "And The Stars In The Sky Fell To Earth, As Late Figs Drop From A Fig Tree When Shaken By A Strong Wind.",
+            "The Sky Receded Like A Scroll, Rolling Up, And Every Mountain And Island Was Removed From Its Place.",
+            "Then The Kings Of The Earth, The Princes, The Generals, The Rich, The Mighty, And Every Slave And Every Free Man Hid In Caves And Among The Rocks Of The Mountains.",
+            "They Called To The Mountains And The Rocks, \"Fall On Us And Hide Us From The Face Of Him Who Sits On The Throne And From The Wrath Of The Lamb!",
+            "For The Great Day Of Their Wrath Has Come, And Who Can Stand?\""
+        ],
+        [
+            "After This I Saw Four Angels Standing At The Four Corners Of The Earth, Holding Back The Four Winds Of The Earth To Prevent Any Wind From Blowing On The Land Or On The Sea Or On Any Tree.",
+            "Then I Saw Another Angel Coming Up From The East, Having The Seal Of The Living God. He Called Out In A Loud Voice To The Four Angels Who Had Been Given Power To Harm The Land And The Sea:",
+            "\"Do Not Harm The Land Or The Sea Or The Trees Until We Put A Seal On The Foreheads Of The Servants Of Our God.\"",
+            "Then I Heard The Number Of Those Who Were Sealed: , From All The Tribes Of Israel.",
+            "From The Tribe Of Judah , Were Sealed, From The Tribe Of Reuben ,, From The Tribe Of Gad ,,",
+            "From The Tribe Of Asher ,, From The Tribe Of Naphtali ,, From The Tribe Of Manasseh ,,",
+            "From The Tribe Of Simeon ,, From The Tribe Of Levi ,, From The Tribe Of Issachar ,,",
+            "From The Tribe Of Zebulun ,, From The Tribe Of Joseph ,, From The Tribe Of Benjamin ,.",
+            "After This I Looked And There Before Me Was A Great Multitude That No One Could Count, From Every Nation, Tribe, People And Language, Standing Before The Throne And In Front Of The Lamb. They Were Wearing White Robes And Were Holding Palm Branches In Their Hands.",
+            "And They Cried Out In A Loud Voice: \"Salvation Belongs To Our God, Who Sits On The Throne, And To The Lamb.\"",
+            "All The Angels Were Standing Around The Throne And Around The Elders And The Four Living Creatures. They Fell Down On Their Faces Before The Throne And Worshiped God,",
+            "Saying: \"Amen! Praise And Glory And Wisdom And Thanks And Honor And Power And Strength Be To Our God For Ever And Ever. Amen!\"",
+            "Then One Of The Elders Asked Me, \"These In White Robes--who Are They, And Where Did They Come From?\"",
+            "I Answered, \"Sir, You Know.\"",
+            "And He Said, \"These Are They Who Have Come Out Of The Great Tribulation; They Have Washed Their Robes And Made Them White In The Blood Of The Lamb. Therefore, \"They Are Before The Throne Of God And Serve Him Day And Night In His Temple; And He Who Sits On The Throne Will Spread His Tent Over Them.",
+            "Never Again Will They Hunger; Never Again Will They Thirst. The Sun Will Not Beat Upon Them, Nor Any Scorching Heat.",
+            "For The Lamb At The Center Of The Throne Will Be Their Shepherd; He Will Lead Them To Springs Of Living Water. And God Will Wipe Away Every Tear From Their Eyes.\""
+        ],
+        [
+            "When He Opened The Seventh Seal, There Was Silence In Heaven For About Half An Hour.",
+            "And I Saw The Seven Angels Who Stand Before God, And To Them Were Given Seven Trumpets.",
+            "Another Angel, Who Had A Golden Censer, Came And Stood At The Altar. He Was Given Much Incense To Offer, With The Prayers Of All The Saints, On The Golden Altar Before The Throne.",
+            "The Smoke Of The Incense, Together With The Prayers Of The Saints, Went Up Before God From The Angel's Hand.",
+            "Then The Angel Took The Censer, Filled It With Fire From The Altar, And Hurled It On The Earth; And There Came Peals Of Thunder, Rumblings, Flashes Of Lightning And An Earthquake.",
+            "Then The Seven Angels Who Had The Seven Trumpets Prepared To Sound Them.",
+            "The First Angel Sounded His Trumpet, And There Came Hail And Fire Mixed With Blood, And It Was Hurled Down Upon The Earth. A Third Of The Earth Was Burned Up, A Third Of The Trees Were Burned Up, And All The Green Grass Was Burned Up.",
+            "The Second Angel Sounded His Trumpet, And Something Like A Huge Mountain, All Ablaze, Was Thrown Into The Sea. A Third Of The Sea Turned Into Blood,",
+            "A Third Of The Living Creatures In The Sea Died, And A Third Of The Ships Were Destroyed.",
+            "The Third Angel Sounded His Trumpet, And A Great Star, Blazing Like A Torch, Fell From The Sky On A Third Of The Rivers And On The Springs Of Water--",
+            "The Name Of The Star Is Wormwood. A Third Of The Waters Turned Bitter, And Many People Died From The Waters That Had Become Bitter.",
+            "The Fourth Angel Sounded His Trumpet, And A Third Of The Sun Was Struck, A Third Of The Moon, And A Third Of The Stars, So That A Third Of Them Turned Dark. A Third Of The Day Was Without Light, And Also A Third Of The Night.",
+            "As I Watched, I Heard An Eagle That Was Flying In Midair Call Out In A Loud Voice: \"Woe! Woe! Woe To The Inhabitants Of The Earth, Because Of The Trumpet Blasts About To Be Sounded By The Other Three Angels!\""
+        ],
+        [
+            "The Fifth Angel Sounded His Trumpet, And I Saw A Star That Had Fallen From The Sky To The Earth. The Star Was Given The Key To The Shaft Of The Abyss.",
+            "When He Opened The Abyss, Smoke Rose From It Like The Smoke From A Gigantic Furnace. The Sun And Sky Were Darkened By The Smoke From The Abyss.",
+            "And Out Of The Smoke Locusts Came Down Upon The Earth And Were Given Power Like That Of Scorpions Of The Earth.",
+            "They Were Told Not To Harm The Grass Of The Earth Or Any Plant Or Tree, But Only Those People Who Did Not Have The Seal Of God On Their Foreheads.",
+            "They Were Not Given Power To Kill Them, But Only To Torture Them For Five Months. And The Agony They Suffered Was Like That Of The Sting Of A Scorpion When It Strikes A Man.",
+            "During Those Days Men Will Seek Death, But Will Not Find It; They Will Long To Die, But Death Will Elude Them.",
+            "The Locusts Looked Like Horses Prepared For Battle. On Their Heads They Wore Something Like Crowns Of Gold, And Their Faces Resembled Human Faces.",
+            "Their Hair Was Like Women's Hair, And Their Teeth Were Like Lions' Teeth.",
+            "They Had Breastplates Like Breastplates Of Iron, And The Sound Of Their Wings Was Like The Thundering Of Many Horses And Chariots Rushing Into Battle.",
+            "They Had Tails And Stings Like Scorpions, And In Their Tails They Had Power To Torment People For Five Months.",
+            "They Had As King Over Them The Angel Of The Abyss, Whose Name In Hebrew Is Abaddon, And In Greek, Apollyon.",
+            "The First Woe Is Past; Two Other Woes Are Yet To Come.",
+            "The Sixth Angel Sounded His Trumpet, And I Heard A Voice Coming From The Horns Of The Golden Altar That Is Before God.",
+            "It Said To The Sixth Angel Who Had The Trumpet, \"Release The Four Angels Who Are Bound At The Great River Euphrates.\"",
+            "And The Four Angels Who Had Been Kept Ready For This Very Hour And Day And Month And Year Were Released To Kill A Third Of Mankind.",
+            "The Number Of The Mounted Troops Was Two Hundred Million. I Heard Their Number.",
+            "The Horses And Riders I Saw In My Vision Looked Like This: Their Breastplates Were Fiery Red, Dark Blue, And Yellow As Sulfur. The Heads Of The Horses Resembled The Heads Of Lions, And Out Of Their Mouths Came Fire, Smoke And Sulfur.",
+            "A Third Of Mankind Was Killed By The Three Plagues Of Fire, Smoke And Sulfur That Came Out Of Their Mouths.",
+            "The Power Of The Horses Was In Their Mouths And In Their Tails; For Their Tails Were Like Snakes, Having Heads With Which They Inflict Injury.",
+            "The Rest Of Mankind That Were Not Killed By These Plagues Still Did Not Repent Of The Work Of Their Hands; They Did Not Stop Worshiping Demons, And Idols Of Gold, Silver, Bronze, Stone And Wood--idols That Cannot See Or Hear Or Walk.",
+            "Nor Did They Repent Of Their Murders, Their Magic Arts, Their Sexual Immorality Or Their Thefts."
+        ],
+        [
+            "Then I Saw Another Mighty Angel Coming Down From Heaven. He Was Robed In A Cloud, With A Rainbow Above His Head; His Face Was Like The Sun, And His Legs Were Like Fiery Pillars.",
+            "He Was Holding A Little Scroll, Which Lay Open In His Hand. He Planted His Right Foot On The Sea And His Left Foot On The Land,",
+            "And He Gave A Loud Shout Like The Roar Of A Lion. When He Shouted, The Voices Of The Seven Thunders Spoke.",
+            "And When The Seven Thunders Spoke, I Was About To Write; But I Heard A Voice From Heaven Say, \"Seal Up What The Seven Thunders Have Said And Do Not Write It Down.\"",
+            "Then The Angel I Had Seen Standing On The Sea And On The Land Raised His Right Hand To Heaven.",
+            "And He Swore By Him Who Lives For Ever And Ever, Who Created The Heavens And All That Is In Them, The Earth And All That Is In It, And The Sea And All That Is In It, And Said, \"There Will Be No More Delay!",
+            "But In The Days When The Seventh Angel Is About To Sound His Trumpet, The Mystery Of God Will Be Accomplished, Just As He Announced To His Servants The Prophets.\"",
+            "Then The Voice That I Had Heard From Heaven Spoke To Me Once More: \"Go, Take The Scroll That Lies Open In The Hand Of The Angel Who Is Standing On The Sea And On The Land.\"",
+            "So I Went To The Angel And Asked Him To Give Me The Little Scroll. He Said To Me, \"Take It And Eat It. It Will Turn Your Stomach Sour, But In Your Mouth It Will Be As Sweet As Honey.\"",
+            "I Took The Little Scroll From The Angel's Hand And Ate It. It Tasted As Sweet As Honey In My Mouth, But When I Had Eaten It, My Stomach Turned Sour.",
+            "Then I Was Told, \"You Must Prophesy Again About Many Peoples, Nations, Languages And Kings.\""
+        ],
+        [
+            "I Was Given A Reed Like A Measuring Rod And Was Told, \"Go And Measure The Temple Of God And The Altar, And Count The Worshipers There.",
+            "But Exclude The Outer Court; Do Not Measure It, Because It Has Been Given To The Gentiles. They Will Trample On The Holy City For  Months.",
+            "And I Will Give Power To My Two Witnesses, And They Will Prophesy For , Days, Clothed In Sackcloth.\"",
+            "These Are The Two Olive Trees And The Two Lampstands That Stand Before The Lord Of The Earth.",
+            "If Anyone Tries To Harm Them, Fire Comes From Their Mouths And Devours Their Enemies. This Is How Anyone Who Wants To Harm Them Must Die.",
+            "These Men Have Power To Shut Up The Sky So That It Will Not Rain During The Time They Are Prophesying; And They Have Power To Turn The Waters Into Blood And To Strike The Earth With Every Kind Of Plague As Often As They Want.",
+            "Now When They Have Finished Their Testimony, The Beast That Comes Up From The Abyss Will Attack Them, And Overpower And Kill Them.",
+            "Their Bodies Will Lie In The Street Of The Great City, Which Is Figuratively Called Sodom And Egypt, Where Also Their Lord Was Crucified.",
+            "For Three And A Half Days Men From Every People, Tribe, Language And Nation Will Gaze On Their Bodies And Refuse Them Burial.",
+            "The Inhabitants Of The Earth Will Gloat Over Them And Will Celebrate By Sending Each Other Gifts, Because These Two Prophets Had Tormented Those Who Live On The Earth.",
+            "But After The Three And A Half Days A Breath Of Life From God Entered Them, And They Stood On Their Feet, And Terror Struck Those Who Saw Them.",
+            "Then They Heard A Loud Voice From Heaven Saying To Them, \"Come Up Here.\" And They Went Up To Heaven In A Cloud, While Their Enemies Looked On.",
+            "At That Very Hour There Was A Severe Earthquake And A Tenth Of The City Collapsed. Seven Thousand People Were Killed In The Earthquake, And The Survivors Were Terrified And Gave Glory To The God Of Heaven.",
+            "The Second Woe Has Passed; The Third Woe Is Coming Soon.",
+            "The Seventh Angel Sounded His Trumpet, And There Were Loud Voices In Heaven, Which Said: \"The Kingdom Of The World Has Become The Kingdom Of Our Lord And Of His Christ, And He Will Reign For Ever And Ever.\"",
+            "And The Twenty-four Elders, Who Were Seated On Their Thrones Before God, Fell On Their Faces And Worshiped God,",
+            "Saying: \"We Give Thanks To You, Lord God Almighty, The One Who Is And Who Was, Because You Have Taken Your Great Power And Have Begun To Reign.",
+            "The Nations Were Angry; And Your Wrath Has Come. The Time Has Come For Judging The Dead, And For Rewarding Your Servants The Prophets And Your Saints And Those Who Reverence Your Name, Both Small And Great-- And For Destroying Those Who Destroy The Earth.\"",
+            "Then God's Temple In Heaven Was Opened, And Within His Temple Was Seen The Ark Of His Covenant. And There Came Flashes Of Lightning, Rumblings, Peals Of Thunder, An Earthquake And A Great Hailstorm."
+        ],
+        [
+            "A Great And Wondrous Sign Appeared In Heaven: A Woman Clothed With The Sun, With The Moon Under Her Feet And A Crown Of Twelve Stars On Her Head.",
+            "She Was Pregnant And Cried Out In Pain As She Was About To Give Birth.",
+            "Then Another Sign Appeared In Heaven: An Enormous Red Dragon With Seven Heads And Ten Horns And Seven Crowns On His Heads.",
+            "His Tail Swept A Third Of The Stars Out Of The Sky And Flung Them To The Earth. The Dragon Stood In Front Of The Woman Who Was About To Give Birth, So That He Might Devour Her Child The Moment It Was Born.",
+            "She Gave Birth To A Son, A Male Child, Who Will Rule All The Nations With An Iron Scepter. And Her Child Was Snatched Up To God And To His Throne.",
+            "The Woman Fled Into The Desert To A Place Prepared For Her By God, Where She Might Be Taken Care Of For , Days.",
+            "And There Was War In Heaven. Michael And His Angels Fought Against The Dragon, And The Dragon And His Angels Fought Back.",
+            "But He Was Not Strong Enough, And They Lost Their Place In Heaven.",
+            "The Great Dragon Was Hurled Down--that Ancient Serpent Called The Devil, Or Satan, Who Leads The Whole World Astray. He Was Hurled To The Earth, And His Angels With Him.",
+            "Then I Heard A Loud Voice In Heaven Say: \"Now Have Come The Salvation And The Power And The Kingdom Of Our God, And The Authority Of His Christ. For The Accuser Of Our Brothers, Who Accuses Them Before Our God Day And Night, Has Been Hurled Down.",
+            "They Overcame Him By The Blood Of The Lamb And By The Word Of Their Testimony; They Did Not Love Their Lives So Much As To Shrink From Death.",
+            "Therefore Rejoice, You Heavens And You Who Dwell In Them! But Woe To The Earth And The Sea, Because The Devil Has Gone Down To You! He Is Filled With Fury, Because He Knows That His Time Is Short.\"",
+            "When The Dragon Saw That He Had Been Hurled To The Earth, He Pursued The Woman Who Had Given Birth To The Male Child.",
+            "The Woman Was Given The Two Wings Of A Great Eagle, So That She Might Fly To The Place Prepared For Her In The Desert, Where She Would Be Taken Care Of For A Time, Times And Half A Time, Out Of The Serpent's Reach.",
+            "Then From His Mouth The Serpent Spewed Water Like A River, To Overtake The Woman And Sweep Her Away With The Torrent.",
+            "But The Earth Helped The Woman By Opening Its Mouth And Swallowing The River That The Dragon Had Spewed Out Of His Mouth.",
+            "Then The Dragon Was Enraged At The Woman And Went Off To Make War Against The Rest Of Her Offspring--those Who Obey God's Commandments And Hold To The Testimony Of Jesus."
+        ],
+        [
+            "And The Dragon Stood On The Shore Of The Sea.",
+            "And I Saw A Beast Coming Out Of The Sea. He Had Ten Horns And Seven Heads, With Ten Crowns On His Horns, And On Each Head A Blasphemous Name. The Beast I Saw Resembled A Leopard, But Had Feet Like Those Of A Bear And A Mouth Like That Of A Lion. The Dragon Gave The Beast His Power And His Throne And Great Authority.",
+            "One Of The Heads Of The Beast Seemed To Have Had A Fatal Wound, But The Fatal Wound Had Been Healed. The Whole World Was Astonished And Followed The Beast.",
+            "Men Worshiped The Dragon Because He Had Given Authority To The Beast, And They Also Worshiped The Beast And Asked, \"Who Is Like The Beast? Who Can Make War Against Him?\"",
+            "The Beast Was Given A Mouth To Utter Proud Words And Blasphemies And To Exercise His Authority For Forty-two Months.",
+            "He Opened His Mouth To Blaspheme God, And To Slander His Name And His Dwelling Place And Those Who Live In Heaven.",
+            "He Was Given Power To Make War Against The Saints And To Conquer Them. And He Was Given Authority Over Every Tribe, People, Language And Nation.",
+            "All Inhabitants Of The Earth Will Worship The Beast--all Whose Names Have Not Been Written In The Book Of Life Belonging To The Lamb That Was Slain From The Creation Of The World.",
+            "He Who Has An Ear, Let Him Hear.",
+            "If Anyone Is To Go Into Captivity, Into Captivity He Will Go. If Anyone Is To Be Killed With The Sword, With The Sword He Will Be Killed. This Calls For Patient Endurance And Faithfulness On The Part Of The Saints.",
+            "Then I Saw Another Beast, Coming Out Of The Earth. He Had Two Horns Like A Lamb, But He Spoke Like A Dragon.",
+            "He Exercised All The Authority Of The First Beast On His Behalf, And Made The Earth And Its Inhabitants Worship The First Beast, Whose Fatal Wound Had Been Healed.",
+            "And He Performed Great And Miraculous Signs, Even Causing Fire To Come Down From Heaven To Earth In Full View Of Men.",
+            "Because Of The Signs He Was Given Power To Do On Behalf Of The First Beast, He Deceived The Inhabitants Of The Earth. He Ordered Them To Set Up An Image In Honor Of The Beast Who Was Wounded By The Sword And Yet Lived.",
+            "He Was Given Power To Give Breath To The Image Of The First Beast, So That It Could Speak And Cause All Who Refused To Worship The Image To Be Killed.",
+            "He Also Forced Everyone, Small And Great, Rich And Poor, Free And Slave, To Receive A Mark On His Right Hand Or On His Forehead,",
+            "So That No One Could Buy Or Sell Unless He Had The Mark, Which Is The Name Of The Beast Or The Number Of His Name.",
+            "This Calls For Wisdom. If Anyone Has Insight, Let Him Calculate The Number Of The Beast, For It Is Man's Number. His Number Is ."
+        ],
+        [
+            "Then I Looked, And There Before Me Was The Lamb, Standing On Mount Zion, And With Him , Who Had His Name And His Father's Name Written On Their Foreheads.",
+            "And I Heard A Sound From Heaven Like The Roar Of Rushing Waters And Like A Loud Peal Of Thunder. The Sound I Heard Was Like That Of Harpists Playing Their Harps.",
+            "And They Sang A New Song Before The Throne And Before The Four Living Creatures And The Elders. No One Could Learn The Song Except The , Who Had Been Redeemed From The Earth.",
+            "These Are Those Who Did Not Defile Themselves With Women, For They Kept Themselves Pure. They Follow The Lamb Wherever He Goes. They Were Purchased From Among Men And Offered As Firstfruits To God And The Lamb.",
+            "No Lie Was Found In Their Mouths; They Are Blameless.",
+            "Then I Saw Another Angel Flying In Midair, And He Had The Eternal Gospel To Proclaim To Those Who Live On The Earth--to Every Nation, Tribe, Language And People.",
+            "He Said In A Loud Voice, \"Fear God And Give Him Glory, Because The Hour Of His Judgment Has Come. Worship Him Who Made The Heavens, The Earth, The Sea And The Springs Of Water.\"",
+            "A Second Angel Followed And Said, \"Fallen! Fallen Is Babylon The Great, Which Made All The Nations Drink The Maddening Wine Of Her Adulteries.\"",
+            "A Third Angel Followed Them And Said In A Loud Voice: \"If Anyone Worships The Beast And His Image And Receives His Mark On The Forehead Or On The Hand,",
+            "He, Too, Will Drink Of The Wine Of God's Fury, Which Has Been Poured Full Strength Into The Cup Of His Wrath. He Will Be Tormented With Burning Sulfur In The Presence Of The Holy Angels And Of The Lamb.",
+            "And The Smoke Of Their Torment Rises For Ever And Ever. There Is No Rest Day Or Night For Those Who Worship The Beast And His Image, Or For Anyone Who Receives The Mark Of His Name.\"",
+            "This Calls For Patient Endurance On The Part Of The Saints Who Obey God's Commandments And Remain Faithful To Jesus.",
+            "Then I Heard A Voice From Heaven Say, \"Write: Blessed Are The Dead Who Die In The Lord From Now On.\" \"Yes,\" Says The Spirit, \"They Will Rest From Their Labor, For Their Deeds Will Follow Them.\"",
+            "I Looked, And There Before Me Was A White Cloud, And Seated On The Cloud Was One \"Like A Son Of Man\" With A Crown Of Gold On His Head And A Sharp Sickle In His Hand.",
+            "Then Another Angel Came Out Of The Temple And Called In A Loud Voice To Him Who Was Sitting On The Cloud, \"Take Your Sickle And Reap, Because The Time To Reap Has Come, For The Harvest Of The Earth Is Ripe.\"",
+            "So He Who Was Seated On The Cloud Swung His Sickle Over The Earth, And The Earth Was Harvested.",
+            "Another Angel Came Out Of The Temple In Heaven, And He Too Had A Sharp Sickle.",
+            "Still Another Angel, Who Had Charge Of The Fire, Came From The Altar And Called In A Loud Voice To Him Who Had The Sharp Sickle, \"Take Your Sharp Sickle And Gather The Clusters Of Grapes From The Earth's Vine, Because Its Grapes Are Ripe.\"",
+            "The Angel Swung His Sickle On The Earth, Gathered Its Grapes And Threw Them Into The Great Winepress Of God's Wrath.",
+            "They Were Trampled In The Winepress Outside The City, And Blood Flowed Out Of The Press, Rising As High As The Horses' Bridles For A Distance Of , Stadia."
+        ],
+        [
+            "I Saw In Heaven Another Great And Marvelous Sign: Seven Angels With The Seven Last Plagues--last, Because With Them God's Wrath Is Completed.",
+            "And I Saw What Looked Like A Sea Of Glass Mixed With Fire And, Standing Beside The Sea, Those Who Had Been Victorious Over The Beast And His Image And Over The Number Of His Name. They Held Harps Given Them By God",
+            "And Sang The Song Of Moses The Servant Of God And The Song Of The Lamb: \"Great And Marvelous Are Your Deeds, Lord God Almighty. Just And True Are Your Ways, King Of The Ages.",
+            "Who Will Not Fear You, O Lord, And Bring Glory To Your Name? For You Alone Are Holy. All Nations Will Come And Worship Before You, For Your Righteous Acts Have Been Revealed.\"",
+            "After This I Looked And In Heaven The Temple, That Is, The Tabernacle Of The Testimony, Was Opened.",
+            "Out Of The Temple Came The Seven Angels With The Seven Plagues. They Were Dressed In Clean, Shining Linen And Wore Golden Sashes Around Their Chests.",
+            "Then One Of The Four Living Creatures Gave To The Seven Angels Seven Golden Bowls Filled With The Wrath Of God, Who Lives For Ever And Ever.",
+            "And The Temple Was Filled With Smoke From The Glory Of God And From His Power, And No One Could Enter The Temple Until The Seven Plagues Of The Seven Angels Were Completed."
+        ],
+        [
+            "Then I Heard A Loud Voice From The Temple Saying To The Seven Angels, \"Go, Pour Out The Seven Bowls Of God's Wrath On The Earth.\"",
+            "The First Angel Went And Poured Out His Bowl On The Land, And Ugly And Painful Sores Broke Out On The People Who Had The Mark Of The Beast And Worshiped His Image.",
+            "The Second Angel Poured Out His Bowl On The Sea, And It Turned Into Blood Like That Of A Dead Man, And Every Living Thing In The Sea Died.",
+            "The Third Angel Poured Out His Bowl On The Rivers And Springs Of Water, And They Became Blood.",
+            "Then I Heard The Angel In Charge Of The Waters Say: \"You Are Just In These Judgments, You Who Are And Who Were, The Holy One, Because You Have So Judged;",
+            "For They Have Shed The Blood Of Your Saints And Prophets, And You Have Given Them Blood To Drink As They Deserve.\"",
+            "And I Heard The Altar Respond: \"Yes, Lord God Almighty, True And Just Are Your Judgments.\"",
+            "The Fourth Angel Poured Out His Bowl On The Sun, And The Sun Was Given Power To Scorch People With Fire.",
+            "They Were Seared By The Intense Heat And They Cursed The Name Of God, Who Had Control Over These Plagues, But They Refused To Repent And Glorify Him.",
+            "The Fifth Angel Poured Out His Bowl On The Throne Of The Beast, And His Kingdom Was Plunged Into Darkness. Men Gnawed Their Tongues In Agony",
+            "And Cursed The God Of Heaven Because Of Their Pains And Their Sores, But They Refused To Repent Of What They Had Done.",
+            "The Sixth Angel Poured Out His Bowl On The Great River Euphrates, And Its Water Was Dried Up To Prepare The Way For The Kings From The East.",
+            "Then I Saw Three Evil Spirits That Looked Like Frogs; They Came Out Of The Mouth Of The Dragon, Out Of The Mouth Of The Beast And Out Of The Mouth Of The False Prophet.",
+            "They Are Spirits Of Demons Performing Miraculous Signs, And They Go Out To The Kings Of The Whole World, To Gather Them For The Battle On The Great Day Of God Almighty.",
+            "\"Behold, I Come Like A Thief! Blessed Is He Who Stays Awake And Keeps His Clothes With Him, So That He May Not Go Naked And Be Shamefully Exposed.\"",
+            "Then They Gathered The Kings Together To The Place That In Hebrew Is Called Armageddon.",
+            "The Seventh Angel Poured Out His Bowl Into The Air, And Out Of The Temple Came A Loud Voice From The Throne, Saying, \"It Is Done!\"",
+            "Then There Came Flashes Of Lightning, Rumblings, Peals Of Thunder And A Severe Earthquake. No Earthquake Like It Has Ever Occurred Since Man Has Been On Earth, So Tremendous Was The Quake.",
+            "The Great City Split Into Three Parts, And The Cities Of The Nations Collapsed. God Remembered Babylon The Great And Gave Her The Cup Filled With The Wine Of The Fury Of His Wrath.",
+            "Every Island Fled Away And The Mountains Could Not Be Found.",
+            "From The Sky Huge Hailstones Of About A Hundred Pounds Each Fell Upon Men. And They Cursed God On Account Of The Plague Of Hail, Because The Plague Was So Terrible."
+        ],
+        [
+            "One Of The Seven Angels Who Had The Seven Bowls Came And Said To Me, \"Come, I Will Show You The Punishment Of The Great Prostitute, Who Sits On Many Waters.",
+            "With Her The Kings Of The Earth Committed Adultery And The Inhabitants Of The Earth Were Intoxicated With The Wine Of Her Adulteries.\"",
+            "Then The Angel Carried Me Away In The Spirit Into A Desert. There I Saw A Woman Sitting On A Scarlet Beast That Was Covered With Blasphemous Names And Had Seven Heads And Ten Horns.",
+            "The Woman Was Dressed In Purple And Scarlet, And Was Glittering With Gold, Precious Stones And Pearls. She Held A Golden Cup In Her Hand, Filled With Abominable Things And The Filth Of Her Adulteries.",
+            "This Title Was Written On Her Forehead:",
+            "I Saw That The Woman Was Drunk With The Blood Of The Saints, The Blood Of Those Who Bore Testimony To Jesus.",
+            "When I Saw Her, I Was Greatly Astonished. Then The Angel Said To Me: \"Why Are You Astonished? I Will Explain To You The Mystery Of The Woman And Of The Beast She Rides, Which Has The Seven Heads And Ten Horns.",
+            "The Beast, Which You Saw, Once Was, Now Is Not, And Will Come Up Out Of The Abyss And Go To His Destruction. The Inhabitants Of The Earth Whose Names Have Not Been Written In The Book Of Life From The Creation Of The World Will Be Astonished When They See The Beast, Because He Once Was, Now Is Not, And Yet Will Come.",
+            "\"This Calls For A Mind With Wisdom. The Seven Heads Are Seven Hills On Which The Woman Sits.",
+            "They Are Also Seven Kings. Five Have Fallen, One Is, The Other Has Not Yet Come; But When He Does Come, He Must Remain For A Little While.",
+            "The Beast Who Once Was, And Now Is Not, Is An Eighth King. He Belongs To The Seven And Is Going To His Destruction.",
+            "\"The Ten Horns You Saw Are Ten Kings Who Have Not Yet Received A Kingdom, But Who For One Hour Will Receive Authority As Kings Along With The Beast.",
+            "They Have One Purpose And Will Give Their Power And Authority To The Beast.",
+            "They Will Make War Against The Lamb, But The Lamb Will Overcome Them Because He Is Lord Of Lords And King Of Kings--and With Him Will Be His Called, Chosen And Faithful Followers.\"",
+            "Then The Angel Said To Me, \"The Waters You Saw, Where The Prostitute Sits, Are Peoples, Multitudes, Nations And Languages.",
+            "The Beast And The Ten Horns You Saw Will Hate The Prostitute. They Will Bring Her To Ruin And Leave Her Naked; They Will Eat Her Flesh And Burn Her With Fire.",
+            "For God Has Put It Into Their Hearts To Accomplish His Purpose By Agreeing To Give The Beast Their Power To Rule, Until God's Words Are Fulfilled.",
+            "The Woman You Saw Is The Great City That Rules Over The Kings Of The Earth.\""
+        ],
+        [
+            "After This I Saw Another Angel Coming Down From Heaven. He Had Great Authority, And The Earth Was Illuminated By His Splendor.",
+            "With A Mighty Voice He Shouted: \"Fallen! Fallen Is Babylon The Great! She Has Become A Home For Demons And A Haunt For Every Evil Spirit, A Haunt For Every Unclean And Detestable Bird.",
+            "For All The Nations Have Drunk The Maddening Wine Of Her Adulteries. The Kings Of The Earth Committed Adultery With Her, And The Merchants Of The Earth Grew Rich From Her Excessive Luxuries.\"",
+            "Then I Heard Another Voice From Heaven Say: \"Come Out Of Her, My People, So That You Will Not Share In Her Sins, So That You Will Not Receive Any Of Her Plagues;",
+            "For Her Sins Are Piled Up To Heaven, And God Has Remembered Her Crimes.",
+            "Give Back To Her As She Has Given; Pay Her Back Double For What She Has Done. Mix Her A Double Portion From Her Own Cup.",
+            "Give Her As Much Torture And Grief As The Glory And Luxury She Gave Herself. In Her Heart She Boasts, 'I Sit As Queen; I Am Not A Widow, And I Will Never Mourn.'",
+            "Therefore In One Day Her Plagues Will Overtake Her: Death, Mourning And Famine. She Will Be Consumed By Fire, For Mighty Is The Lord God Who Judges Her.",
+            "\"When The Kings Of The Earth Who Committed Adultery With Her And Shared Her Luxury See The Smoke Of Her Burning, They Will Weep And Mourn Over Her.",
+            "Terrified At Her Torment, They Will Stand Far Off And Cry: \" 'Woe! Woe, O Great City, O Babylon, City Of Power! In One Hour Your Doom Has Come!'",
+            "\"The Merchants Of The Earth Will Weep And Mourn Over Her Because No One Buys Their Cargoes Any More--",
+            "Cargoes Of Gold, Silver, Precious Stones And Pearls; Fine Linen, Purple, Silk And Scarlet Cloth; Every Sort Of Citron Wood, And Articles Of Every Kind Made Of Ivory, Costly Wood, Bronze, Iron And Marble;",
+            "Cargoes Of Cinnamon And Spice, Of Incense, Myrrh And Frankincense, Of Wine And Olive Oil, Of Fine Flour And Wheat; Cattle And Sheep; Horses And Carriages; And Bodies And Souls Of Men.",
+            "\"They Will Say, 'The Fruit You Longed For Is Gone From You. All Your Riches And Splendor Have Vanished, Never To Be Recovered.'",
+            "The Merchants Who Sold These Things And Gained Their Wealth From Her Will Stand Far Off, Terrified At Her Torment. They Will Weep And Mourn",
+            "And Cry Out: \" 'Woe! Woe, O Great City, Dressed In Fine Linen, Purple And Scarlet, And Glittering With Gold, Precious Stones And Pearls!",
+            "In One Hour Such Great Wealth Has Been Brought To Ruin!'",
+            "\"Every Sea Captain, And All Who Travel By Ship, The Sailors, And All Who Earn Their Living From The Sea, Will Stand Far Off. When They See The Smoke Of Her Burning, They Will Exclaim, 'Was There Ever A City Like This Great City?'",
+            "They Will Throw Dust On Their Heads, And With Weeping And Mourning Cry Out: \" 'Woe! Woe, O Great City, Where All Who Had Ships On The Sea Became Rich Through Her Wealth! In One Hour She Has Been Brought To Ruin!",
+            "Rejoice Over Her, O Heaven! Rejoice, Saints And Apostles And Prophets! God Has Judged Her For The Way She Treated You.' \"",
+            "Then A Mighty Angel Picked Up A Boulder The Size Of A Large Millstone And Threw It Into The Sea, And Said: \"With Such Violence The Great City Of Babylon Will Be Thrown Down, Never To Be Found Again.",
+            "The Music Of Harpists And Musicians, Flute Players And Trumpeters, Will Never Be Heard In You Again. No Workman Of Any Trade Will Ever Be Found In You Again. The Sound Of A Millstone Will Never Be Heard In You Again.",
+            "The Light Of A Lamp Will Never Shine In You Again. The Voice Of Bridegroom And Bride Will Never Be Heard In You Again. Your Merchants Were The World's Great Men. By Your Magic Spell All The Nations Were Led Astray.",
+            "In Her Was Found The Blood Of Prophets And Of The Saints, And Of All Who Have Been Killed On The Earth.\""
+        ],
+        [
+            "After This I Heard What Sounded Like The Roar Of A Great Multitude In Heaven Shouting: \"Hallelujah! Salvation And Glory And Power Belong To Our God,",
+            "For True And Just Are His Judgments. He Has Condemned The Great Prostitute Who Corrupted The Earth By Her Adulteries. He Has Avenged On Her The Blood Of His Servants.\"",
+            "And Again They Shouted: \"Hallelujah! The Smoke From Her Goes Up For Ever And Ever.\"",
+            "The Twenty-four Elders And The Four Living Creatures Fell Down And Worshiped God, Who Was Seated On The Throne. And They Cried: \"Amen, Hallelujah!\"",
+            "Then A Voice Came From The Throne, Saying: \"Praise Our God, All You His Servants, You Who Fear Him, Both Small And Great!\"",
+            "Then I Heard What Sounded Like A Great Multitude, Like The Roar Of Rushing Waters And Like Loud Peals Of Thunder, Shouting: \"Hallelujah! For Our Lord God Almighty Reigns.",
+            "Let Us Rejoice And Be Glad And Give Him Glory! For The Wedding Of The Lamb Has Come, And His Bride Has Made Herself Ready.",
+            "Fine Linen, Bright And Clean, Was Given Her To Wear.\" (Fine Linen Stands For The Righteous Acts Of The Saints.)",
+            "Then The Angel Said To Me, \"Write: 'Blessed Are Those Who Are Invited To The Wedding Supper Of The Lamb!' \" And He Added, \"These Are The True Words Of God.\"",
+            "At This I Fell At His Feet To Worship Him. But He Said To Me, \"Do Not Do It! I Am A Fellow Servant With You And With Your Brothers Who Hold To The Testimony Of Jesus. Worship God! For The Testimony Of Jesus Is The Spirit Of Prophecy.\"",
+            "I Saw Heaven Standing Open And There Before Me Was A White Horse, Whose Rider Is Called Faithful And True. With Justice He Judges And Makes War.",
+            "His Eyes Are Like Blazing Fire, And On His Head Are Many Crowns. He Has A Name Written On Him That No One Knows But He Himself.",
+            "He Is Dressed In A Robe Dipped In Blood, And His Name Is The Word Of God.",
+            "The Armies Of Heaven Were Following Him, Riding On White Horses And Dressed In Fine Linen, White And Clean.",
+            "Out Of His Mouth Comes A Sharp Sword With Which To Strike Down The Nations. \"He Will Rule Them With An Iron Scepter.\" He Treads The Winepress Of The Fury Of The Wrath Of God Almighty.",
+            "On His Robe And On His Thigh He Has This Name Written:",
+            "And I Saw An Angel Standing In The Sun, Who Cried In A Loud Voice To All The Birds Flying In Midair, \"Come, Gather Together For The Great Supper Of God,",
+            "So That You May Eat The Flesh Of Kings, Generals, And Mighty Men, Of Horses And Their Riders, And The Flesh Of All People, Free And Slave, Small And Great.\"",
+            "Then I Saw The Beast And The Kings Of The Earth And Their Armies Gathered Together To Make War Against The Rider On The Horse And His Army.",
+            "But The Beast Was Captured, And With Him The False Prophet Who Had Performed The Miraculous Signs On His Behalf. With These Signs He Had Deluded Those Who Had Received The Mark Of The Beast And Worshiped His Image. The Two Of Them Were Thrown Alive Into The Fiery Lake Of Burning Sulfur.",
+            "The Rest Of Them Were Killed With The Sword That Came Out Of The Mouth Of The Rider On The Horse, And All The Birds Gorged Themselves On Their Flesh."
+        ],
+        [
+            "And I Saw An Angel Coming Down Out Of Heaven, Having The Key To The Abyss And Holding In His Hand A Great Chain.",
+            "He Seized The Dragon, That Ancient Serpent, Who Is The Devil, Or Satan, And Bound Him For A Thousand Years.",
+            "He Threw Him Into The Abyss, And Locked And Sealed It Over Him, To Keep Him From Deceiving The Nations Anymore Until The Thousand Years Were Ended. After That, He Must Be Set Free For A Short Time.",
+            "I Saw Thrones On Which Were Seated Those Who Had Been Given Authority To Judge. And I Saw The Souls Of Those Who Had Been Beheaded Because Of Their Testimony For Jesus And Because Of The Word Of God. They Had Not Worshiped The Beast Or His Image And Had Not Received His Mark On Their Foreheads Or Their Hands. They Came To Life And Reigned With Christ A Thousand Years.",
+            "(The Rest Of The Dead Did Not Come To Life Until The Thousand Years Were Ended.) This Is The First Resurrection.",
+            "Blessed And Holy Are Those Who Have Part In The First Resurrection. The Second Death Has No Power Over Them, But They Will Be Priests Of God And Of Christ And Will Reign With Him For A Thousand Years.",
+            "When The Thousand Years Are Over, Satan Will Be Released From His Prison",
+            "And Will Go Out To Deceive The Nations In The Four Corners Of The Earth--gog And Magog--to Gather Them For Battle. In Number They Are Like The Sand On The Seashore.",
+            "They Marched Across The Breadth Of The Earth And Surrounded The Camp Of God's People, The City He Loves. But Fire Came Down From Heaven And Devoured Them.",
+            "And The Devil, Who Deceived Them, Was Thrown Into The Lake Of Burning Sulfur, Where The Beast And The False Prophet Had Been Thrown. They Will Be Tormented Day And Night For Ever And Ever.",
+            "Then I Saw A Great White Throne And Him Who Was Seated On It. Earth And Sky Fled From His Presence, And There Was No Place For Them.",
+            "And I Saw The Dead, Great And Small, Standing Before The Throne, And Books Were Opened. Another Book Was Opened, Which Is The Book Of Life. The Dead Were Judged According To What They Had Done As Recorded In The Books.",
+            "The Sea Gave Up The Dead That Were In It, And Death And Hades Gave Up The Dead That Were In Them, And Each Person Was Judged According To What He Had Done.",
+            "Then Death And Hades Were Thrown Into The Lake Of Fire. The Lake Of Fire Is The Second Death.",
+            "If Anyone's Name Was Not Found Written In The Book Of Life, He Was Thrown Into The Lake Of Fire."
+        ],
+        [
+            "Then I Saw A New Heaven And A New Earth, For The First Heaven And The First Earth Had Passed Away, And There Was No Longer Any Sea.",
+            "I Saw The Holy City, The New Jerusalem, Coming Down Out Of Heaven From God, Prepared As A Bride Beautifully Dressed For Her Husband.",
+            "And I Heard A Loud Voice From The Throne Saying, \"Now The Dwelling Of God Is With Men, And He Will Live With Them. They Will Be His People, And God Himself Will Be With Them And Be Their God.",
+            "He Will Wipe Every Tear From Their Eyes. There Will Be No More Death Or Mourning Or Crying Or Pain, For The Old Order Of Things Has Passed Away.\"",
+            "He Who Was Seated On The Throne Said, \"I Am Making Everything New!\" Then He Said, \"Write This Down, For These Words Are Trustworthy And True.\"",
+            "He Said To Me: \"It Is Done. I Am The Alpha And The Omega, The Beginning And The End. To Him Who Is Thirsty I Will Give To Drink Without Cost From The Spring Of The Water Of Life.",
+            "He Who Overcomes Will Inherit All This, And I Will Be His God And He Will Be My Son.",
+            "But The Cowardly, The Unbelieving, The Vile, The Murderers, The Sexually Immoral, Those Who Practice Magic Arts, The Idolaters And All Liars--their Place Will Be In The Fiery Lake Of Burning Sulfur. This Is The Second Death.\"",
+            "One Of The Seven Angels Who Had The Seven Bowls Full Of The Seven Last Plagues Came And Said To Me, \"Come, I Will Show You The Bride, The Wife Of The Lamb.\"",
+            "And He Carried Me Away In The Spirit To A Mountain Great And High, And Showed Me The Holy City, Jerusalem, Coming Down Out Of Heaven From God.",
+            "It Shone With The Glory Of God, And Its Brilliance Was Like That Of A Very Precious Jewel, Like A Jasper, Clear As Crystal.",
+            "It Had A Great, High Wall With Twelve Gates, And With Twelve Angels At The Gates. On The Gates Were Written The Names Of The Twelve Tribes Of Israel.",
+            "There Were Three Gates On The East, Three On The North, Three On The South And Three On The West.",
+            "The Wall Of The City Had Twelve Foundations, And On Them Were The Names Of The Twelve Apostles Of The Lamb.",
+            "The Angel Who Talked With Me Had A Measuring Rod Of Gold To Measure The City, Its Gates And Its Walls.",
+            "The City Was Laid Out Like A Square, As Long As It Was Wide. He Measured The City With The Rod And Found It To Be , Stadia In Length, And As Wide And High As It Is Long.",
+            "He Measured Its Wall And It Was  Cubits Thick, By Man's Measurement, Which The Angel Was Using.",
+            "The Wall Was Made Of Jasper, And The City Of Pure Gold, As Pure As Glass.",
+            "The Foundations Of The City Walls Were Decorated With Every Kind Of Precious Stone. The First Foundation Was Jasper, The Second Sapphire, The Third Chalcedony, The Fourth Emerald,",
+            "The Fifth Sardonyx, The Sixth Carnelian, The Seventh Chrysolite, The Eighth Beryl, The Ninth Topaz, The Tenth Chrysoprase, The Eleventh Jacinth, And The Twelfth Amethyst.",
+            "The Twelve Gates Were Twelve Pearls, Each Gate Made Of A Single Pearl. The Great Street Of The City Was Of Pure Gold, Like Transparent Glass.",
+            "I Did Not See A Temple In The City, Because The Lord God Almighty And The Lamb Are Its Temple.",
+            "The City Does Not Need The Sun Or The Moon To Shine On It, For The Glory Of God Gives It Light, And The Lamb Is Its Lamp.",
+            "The Nations Will Walk By Its Light, And The Kings Of The Earth Will Bring Their Splendor Into It.",
+            "On No Day Will Its Gates Ever Be Shut, For There Will Be No Night There.",
+            "The Glory And Honor Of The Nations Will Be Brought Into It.",
+            "Nothing Impure Will Ever Enter It, Nor Will Anyone Who Does What Is Shameful Or Deceitful, But Only Those Whose Names Are Written In The Lamb's Book Of Life."
+        ],
+        [
+            "Then The Angel Showed Me The River Of The Water Of Life, As Clear As Crystal, Flowing From The Throne Of God And Of The Lamb",
+            "Down The Middle Of The Great Street Of The City. On Each Side Of The River Stood The Tree Of Life, Bearing Twelve Crops Of Fruit, Yielding Its Fruit Every Month. And The Leaves Of The Tree Are For The Healing Of The Nations.",
+            "No Longer Will There Be Any Curse. The Throne Of God And Of The Lamb Will Be In The City, And His Servants Will Serve Him.",
+            "They Will See His Face, And His Name Will Be On Their Foreheads.",
+            "There Will Be No More Night. They Will Not Need The Light Of A Lamp Or The Light Of The Sun, For The Lord God Will Give Them Light. And They Will Reign For Ever And Ever.",
+            "The Angel Said To Me, \"These Words Are Trustworthy And True. The Lord, The God Of The Spirits Of The Prophets, Sent His Angel To Show His Servants The Things That Must Soon Take Place.\"",
+            "\"Behold, I Am Coming Soon! Blessed Is He Who Keeps The Words Of The Prophecy In This Book.\"",
+            "I, John, Am The One Who Heard And Saw These Things. And When I Had Heard And Seen Them, I Fell Down To Worship At The Feet Of The Angel Who Had Been Showing Them To Me.",
+            "But He Said To Me, \"Do Not Do It! I Am A Fellow Servant With You And With Your Brothers The Prophets And Of All Who Keep The Words Of This Book. Worship God!\"",
+            "Then He Told Me, \"Do Not Seal Up The Words Of The Prophecy Of This Book, Because The Time Is Near.",
+            "Let Him Who Does Wrong Continue To Do Wrong; Let Him Who Is Vile Continue To Be Vile; Let Him Who Does Right Continue To Do Right; And Let Him Who Is Holy Continue To Be Holy.\"",
+            "\"Behold, I Am Coming Soon! My Reward Is With Me, And I Will Give To Everyone According To What He Has Done.",
+            "I Am The Alpha And The Omega, The First And The Last, The Beginning And The End.",
+            "\"Blessed Are Those Who Wash Their Robes, That They May Have The Right To The Tree Of Life And May Go Through The Gates Into The City.",
+            "Outside Are The Dogs, Those Who Practice Magic Arts, The Sexually Immoral, The Murderers, The Idolaters And Everyone Who Loves And Practices Falsehood.",
+            "\"I, Jesus, Have Sent My Angel To Give You This Testimony For The Churches. I Am The Root And The Offspring Of David, And The Bright Morning Star.\"",
+            "The Spirit And The Bride Say, \"Come!\" And Let Him Who Hears Say, \"Come!\" Whoever Is Thirsty, Let Him Come; And Whoever Wishes, Let Him Take The Free Gift Of The Water Of Life.",
+            "I Warn Everyone Who Hears The Words Of The Prophecy Of This Book: If Anyone Adds Anything To Them, God Will Add To Him The Plagues Described In This Book.",
+            "And If Anyone Takes Words Away From This Book Of Prophecy, God Will Take Away From Him His Share In The Tree Of Life And In The Holy City, Which Are Described In This Book.",
+            "He Who Testifies To These Things Says, \"Yes, I Am Coming Soon.\" Amen. Come, Lord Jesus.",
+            "The Grace Of The Lord Jesus Be With God's People. Amen."
+        ]
+    ]
 }

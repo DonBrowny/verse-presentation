@@ -1,60 +1,19 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "62000000",
-          "Verse": "The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;"
-        },
-        {
-          "Verseid": "62000001",
-          "Verse": "For the truth's sake, which dwells in us, and shall be with us for ever."
-        },
-        {
-          "Verseid": "62000002",
-          "Verse": "Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love."
-        },
-        {
-          "Verseid": "62000003",
-          "Verse": "I rejoiced greatly that I found of your children walking in truth, as we have received a commandment from the Father."
-        },
-        {
-          "Verseid": "62000004",
-          "Verse": "And now I plead to you, lady, not as though I wrote a new commandment unto you, but that which we had from the beginning, that we love one another."
-        },
-        {
-          "Verseid": "62000005",
-          "Verse": "And this is love, that we walk after his commandments. This is the commandment, That, as all of you have heard from the beginning, all of you should walk in it."
-        },
-        {
-          "Verseid": "62000006",
-          "Verse": "For many deceivers are entered into the world, who confess not that Jesus Christ has come in the flesh. This is a deceiver and an antichrist."
-        },
-        {
-          "Verseid": "62000007",
-          "Verse": "Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward."
-        },
-        {
-          "Verseid": "62000008",
-          "Verse": "Whosoever trangresses, and abides not in the doctrine of Christ, has not God. He that abides in the doctrine of Christ, he has both the Father and the Son."
-        },
-        {
-          "Verseid": "62000009",
-          "Verse": "If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:"
-        },
-        {
-          "Verseid": "62000010",
-          "Verse": "For he that bids him God speed is partaker of his evil deeds."
-        },
-        {
-          "Verseid": "62000011",
-          "Verse": "Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full."
-        },
-        {
-          "Verseid": "62000012",
-          "Verse": "The children of your elect sister greet you. Amen."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "The Elder,",
+            "To The Chosen Lady And Her Children, Whom I Love In The Truth--and Not I Only, But Also All Who Know The Truth-- Because Of The Truth, Which Lives In Us And Will Be With Us Forever:",
+            "Grace, Mercy And Peace From God The Father And From Jesus Christ, The Father's Son, Will Be With Us In Truth And Love.",
+            "It Has Given Me Great Joy To Find Some Of Your Children Walking In The Truth, Just As The Father Commanded Us.",
+            "And Now, Dear Lady, I Am Not Writing You A New Command But One We Have Had From The Beginning. I Ask That We Love One Another.",
+            "And This Is Love: That We Walk In Obedience To His Commands. As You Have Heard From The Beginning, His Command Is That You Walk In Love.",
+            "Many Deceivers, Who Do Not Acknowledge Jesus Christ As Coming In The Flesh, Have Gone Out Into The World. Any Such Person Is The Deceiver And The Antichrist.",
+            "Watch Out That You Do Not Lose What You Have Worked For, But That You May Be Rewarded Fully.",
+            "Anyone Who Runs Ahead And Does Not Continue In The Teaching Of Christ Does Not Have God; Whoever Continues In The Teaching Has Both The Father And The Son.",
+            "If Anyone Comes To You And Does Not Bring This Teaching, Do Not Take Him Into Your House Or Welcome Him.",
+            "Anyone Who Welcomes Him Shares In His Wicked Work.",
+            "I Have Much To Write To You, But I Do Not Want To Use Paper And Ink. Instead, I Hope To Visit You And Talk With You Face To Face, So That Our Joy May Be Complete.",
+            "The Children Of Your Chosen Sister Send Their Greetings."
+        ]
+    ]
 }

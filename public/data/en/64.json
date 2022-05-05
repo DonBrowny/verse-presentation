@@ -1,108 +1,31 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "64000000",
-          "Verse": "Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:"
-        },
-        {
-          "Verseid": "64000001",
-          "Verse": "Mercy unto you, and peace, and love, be multiplied."
-        },
-        {
-          "Verseid": "64000002",
-          "Verse": "Beloved, when I gave all diligence to write unto you of the common salvation, it was necessary for me to write unto you, and exhort you that all of you should earnestly contend for the faith which was once delivered unto the saints."
-        },
-        {
-          "Verseid": "64000003",
-          "Verse": "For there are certain men crept in unexpectedly, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ."
-        },
-        {
-          "Verseid": "64000004",
-          "Verse": "I will therefore put you in remembrance, though all of you once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not."
-        },
-        {
-          "Verseid": "64000005",
-          "Verse": "And the angels which kept not their first estate, but left their own habitation, he has reserved in everlasting chains under darkness unto the judgment of the great day."
-        },
-        {
-          "Verseid": "64000006",
-          "Verse": "Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire."
-        },
-        {
-          "Verseid": "64000007",
-          "Verse": "Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities."
-        },
-        {
-          "Verseid": "64000008",
-          "Verse": "Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke you."
-        },
-        {
-          "Verseid": "64000009",
-          "Verse": "But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves."
-        },
-        {
-          "Verseid": "64000010",
-          "Verse": "Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core."
-        },
-        {
-          "Verseid": "64000011",
-          "Verse": "These are spots in your feasts of love, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withers, without fruit, twice dead, plucked up by the roots;"
-        },
-        {
-          "Verseid": "64000012",
-          "Verse": "Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever."
-        },
-        {
-          "Verseid": "64000013",
-          "Verse": "And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord comes with ten thousands of his saints,"
-        },
-        {
-          "Verseid": "64000014",
-          "Verse": "To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him."
-        },
-        {
-          "Verseid": "64000015",
-          "Verse": "These are murmurers, complainers, walking after their own lusts; and their mouth speaks great swelling words, having men's persons in admiration because of advantage."
-        },
-        {
-          "Verseid": "64000016",
-          "Verse": "But, beloved, remember all of you the words which were spoken before of the apostles of our Lord Jesus Christ;"
-        },
-        {
-          "Verseid": "64000017",
-          "Verse": "How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts."
-        },
-        {
-          "Verseid": "64000018",
-          "Verse": "These be they who separate themselves, sensual, having not the Spirit."
-        },
-        {
-          "Verseid": "64000019",
-          "Verse": "But all of you, beloved, building up yourselves on your most holy faith, praying in the Holy Spirit,"
-        },
-        {
-          "Verseid": "64000020",
-          "Verse": "Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life."
-        },
-        {
-          "Verseid": "64000021",
-          "Verse": "And of some have compassion, making a difference:"
-        },
-        {
-          "Verseid": "64000022",
-          "Verse": "And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh."
-        },
-        {
-          "Verseid": "64000023",
-          "Verse": "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,"
-        },
-        {
-          "Verseid": "64000024",
-          "Verse": "To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "Jude, A Servant Of Jesus Christ And A Brother Of James, To Those Who Have Been Called, Who Are Loved By God The Father And Kept By Jesus Christ:",
+            "Mercy, Peace And Love Be Yours In Abundance.",
+            "Dear Friends, Although I Was Very Eager To Write To You About The Salvation We Share, I Felt I Had To Write And Urge You To Contend For The Faith That Was Once For All Entrusted To The Saints.",
+            "For Certain Men Whose Condemnation Was Written About Long Ago Have Secretly Slipped In Among You. They Are Godless Men, Who Change The Grace Of Our God Into A License For Immorality And Deny Jesus Christ Our Only Sovereign And Lord.",
+            "Though You Already Know All This, I Want To Remind You That The Lord Delivered His People Out Of Egypt, But Later Destroyed Those Who Did Not Believe.",
+            "And The Angels Who Did Not Keep Their Positions Of Authority But Abandoned Their Own Home--these He Has Kept In Darkness, Bound With Everlasting Chains For Judgment On The Great Day.",
+            "In A Similar Way, Sodom And Gomorrah And The Surrounding Towns Gave Themselves Up To Sexual Immorality And Perversion. They Serve As An Example Of Those Who Suffer The Punishment Of Eternal Fire.",
+            "In The Very Same Way, These Dreamers Pollute Their Own Bodies, Reject Authority And Slander Celestial Beings.",
+            "But Even The Archangel Michael, When He Was Disputing With The Devil About The Body Of Moses, Did Not Dare To Bring A Slanderous Accusation Against Him, But Said, \"The Lord Rebuke You!\"",
+            "Yet These Men Speak Abusively Against Whatever They Do Not Understand; And What Things They Do Understand By Instinct, Like Unreasoning Animals--these Are The Very Things That Destroy Them.",
+            "Woe To Them! They Have Taken The Way Of Cain; They Have Rushed For Profit Into Balaam's Error; They Have Been Destroyed In Korah's Rebellion.",
+            "These Men Are Blemishes At Your Love Feasts, Eating With You Without The Slightest Qualm--shepherds Who Feed Only Themselves. They Are Clouds Without Rain, Blown Along By The Wind; Autumn Trees, Without Fruit And Uprooted--twice Dead.",
+            "They Are Wild Waves Of The Sea, Foaming Up Their Shame; Wandering Stars, For Whom Blackest Darkness Has Been Reserved Forever.",
+            "Enoch, The Seventh From Adam, Prophesied About These Men: \"See, The Lord Is Coming With Thousands Upon Thousands Of His Holy Ones",
+            "To Judge Everyone, And To Convict All The Ungodly Of All The Ungodly Acts They Have Done In The Ungodly Way, And Of All The Harsh Words Ungodly Sinners Have Spoken Against Him.\"",
+            "These Men Are Grumblers And Faultfinders; They Follow Their Own Evil Desires; They Boast About Themselves And Flatter Others For Their Own Advantage.",
+            "But, Dear Friends, Remember What The Apostles Of Our Lord Jesus Christ Foretold.",
+            "They Said To You, \"In The Last Times There Will Be Scoffers Who Will Follow Their Own Ungodly Desires.\"",
+            "These Are The Men Who Divide You, Who Follow Mere Natural Instincts And Do Not Have The Spirit.",
+            "But You, Dear Friends, Build Yourselves Up In Your Most Holy Faith And Pray In The Holy Spirit.",
+            "Keep Yourselves In God's Love As You Wait For The Mercy Of Our Lord Jesus Christ To Bring You To Eternal Life.",
+            "Be Merciful To Those Who Doubt;",
+            "Snatch Others From The Fire And Save Them; To Others Show Mercy, Mixed With Fear--hating Even The Clothing Stained By Corrupted Flesh.",
+            "To Him Who Is Able To Keep You From Falling And To Present You Before His Glorious Presence Without Fault And With Great Joy--",
+            "To The Only God Our Savior Be Glory, Majesty, Power And Authority, Through Jesus Christ Our Lord, Before All Ages, Now And Forevermore! Amen."
+        ]
+    ]
 }

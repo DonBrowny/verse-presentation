@@ -1,1084 +1,287 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "46000000",
-          "Verse": "Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:"
-        },
-        {
-          "Verseid": "46000001",
-          "Verse": "Grace be to you and peace from God our Father, and from the Lord Jesus Christ."
-        },
-        {
-          "Verseid": "46000002",
-          "Verse": "Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;"
-        },
-        {
-          "Verseid": "46000003",
-          "Verse": "Who comforts us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God."
-        },
-        {
-          "Verseid": "46000004",
-          "Verse": "For as the sufferings of Christ abound in us, so our consolation also abounds by Christ."
-        },
-        {
-          "Verseid": "46000005",
-          "Verse": "And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation."
-        },
-        {
-          "Verseid": "46000006",
-          "Verse": "And our hope of you is steadfast, knowing, that as all of you are partakers of the sufferings, so shall all of you be also of the consolation."
-        },
-        {
-          "Verseid": "46000007",
-          "Verse": "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:"
-        },
-        {
-          "Verseid": "46000008",
-          "Verse": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raises the dead:"
-        },
-        {
-          "Verseid": "46000009",
-          "Verse": "Who delivered us from so great a death, and does deliver: in whom we trust that he will yet deliver us;"
-        },
-        {
-          "Verseid": "46000010",
-          "Verse": "All of you also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf."
-        },
-        {
-          "Verseid": "46000011",
-          "Verse": "For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly toward you."
-        },
-        {
-          "Verseid": "46000012",
-          "Verse": "For we write no other things unto you, than what all of you read or acknowledge; and I trust all of you shall acknowledge even to the end;"
-        },
-        {
-          "Verseid": "46000013",
-          "Verse": "As also all of you have acknowledged us in part, that we are your rejoicing, even as all of you also are our's in the day of the Lord Jesus."
-        },
-        {
-          "Verseid": "46000014",
-          "Verse": "And in this confidence I was minded to come unto you before, that all of you might have a second benefit;"
-        },
-        {
-          "Verseid": "46000015",
-          "Verse": "And to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judaea."
-        },
-        {
-          "Verseid": "46000016",
-          "Verse": "When I therefore was thus minded, did I use levity? or the things that I purpose, do I purpose according to the flesh, that with me there should be yea yea, and nay nay?"
-        },
-        {
-          "Verseid": "46000017",
-          "Verse": "But as God is true, our word toward you was not yea and nay."
-        },
-        {
-          "Verseid": "46000018",
-          "Verse": "For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea."
-        },
-        {
-          "Verseid": "46000019",
-          "Verse": "For all the promises of God in him are yea, and in him Amen, unto the glory of God by us."
-        },
-        {
-          "Verseid": "46000020",
-          "Verse": "Now he which establishes us with you in Christ, and has anointed us, is God;"
-        },
-        {
-          "Verseid": "46000021",
-          "Verse": "Who has also sealed us, and given the earn of the Spirit in our hearts."
-        },
-        {
-          "Verseid": "46000022",
-          "Verse": "Moreover I call God for a record upon my soul, that to spare you I came not as yet unto Corinth."
-        },
-        {
-          "Verseid": "46000023",
-          "Verse": "Not for that we have dominion over your faith, but are helpers of your joy: for by faith all of you stand."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46001000",
-          "Verse": "But I determined this with myself, that I would not come again to you in heaviness."
-        },
-        {
-          "Verseid": "46001001",
-          "Verse": "For if I make you sorry, who is he then that makes me glad, but the same which is made sorry by me?"
-        },
-        {
-          "Verseid": "46001002",
-          "Verse": "And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is the joy of you all."
-        },
-        {
-          "Verseid": "46001003",
-          "Verse": "For out of much affliction and anguish of heart I wrote unto you with many tears; not that all of you should be grieved, but that all of you might know the love which I have more abundantly unto you."
-        },
-        {
-          "Verseid": "46001004",
-          "Verse": "But if any have caused grief, he has not grieved me, but in part: that I may not burden you all."
-        },
-        {
-          "Verseid": "46001005",
-          "Verse": "Sufficient to such a man is this punishment, which was inflicted of many."
-        },
-        {
-          "Verseid": "46001006",
-          "Verse": "So that contrariwise all of you ought rather to forgive him, and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow."
-        },
-        {
-          "Verseid": "46001007",
-          "Verse": "Wherefore I plead to you that all of you would confirm your love toward him."
-        },
-        {
-          "Verseid": "46001008",
-          "Verse": "In order to this end also did I write, that I might know the proof of you, whether all of you be obedient in all things."
-        },
-        {
-          "Verseid": "46001009",
-          "Verse": "To whom all of you forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;"
-        },
-        {
-          "Verseid": "46001010",
-          "Verse": "Lest Satan should get an advantage of us: for we are not ignorant of his devices."
-        },
-        {
-          "Verseid": "46001011",
-          "Verse": "Furthermore, when I came to Troas to preach Christ's gospel, and a door was opened unto me of the Lord,"
-        },
-        {
-          "Verseid": "46001012",
-          "Verse": "I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from thence into Macedonia."
-        },
-        {
-          "Verseid": "46001013",
-          "Verse": "Now thanks be unto God, which always causes us to triumph in Christ, and makes manifest the savour of his knowledge by us in every place."
-        },
-        {
-          "Verseid": "46001014",
-          "Verse": "For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:"
-        },
-        {
-          "Verseid": "46001015",
-          "Verse": "To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?"
-        },
-        {
-          "Verseid": "46001016",
-          "Verse": "For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46002000",
-          "Verse": "Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?"
-        },
-        {
-          "Verseid": "46002001",
-          "Verse": "All of you are our epistle written in our hearts, known and read of all men:"
-        },
-        {
-          "Verseid": "46002002",
-          "Verse": "Forasmuch as all of you are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart."
-        },
-        {
-          "Verseid": "46002003",
-          "Verse": "And such trust have we through Christ toward God:"
-        },
-        {
-          "Verseid": "46002004",
-          "Verse": "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;"
-        },
-        {
-          "Verseid": "46002005",
-          "Verse": "Who also has made us able ministers of the new testament; not of the letter, but of the spirit: for the letter kills, but the spirit gives life."
-        },
-        {
-          "Verseid": "46002006",
-          "Verse": "But if the ministration of death, written and engraved in stones, was glorious, so that the children of Israel could not steadfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:"
-        },
-        {
-          "Verseid": "46002007",
-          "Verse": "How shall not the ministration of the spirit be rather glorious?"
-        },
-        {
-          "Verseid": "46002008",
-          "Verse": "For if the ministration of condemnation be glory, much more does the ministration of righteousness exceed in glory."
-        },
-        {
-          "Verseid": "46002009",
-          "Verse": "For even that which was made glorious had no glory in this respect, by reason of the glory that excels."
-        },
-        {
-          "Verseid": "46002010",
-          "Verse": "For if that which is done away was glorious, much more that which remains is glorious."
-        },
-        {
-          "Verseid": "46002011",
-          "Verse": "Seeing then that we have such hope, we use great plainness of speech:"
-        },
-        {
-          "Verseid": "46002012",
-          "Verse": "And not as Moses, which put a vail over his face, that the children of Israel could not steadfastly look to the end of that which is abolished:"
-        },
-        {
-          "Verseid": "46002013",
-          "Verse": "But their minds were blinded: for until this day remains the same vail untaken away in the reading of the old testament; which vail is done away in Christ."
-        },
-        {
-          "Verseid": "46002014",
-          "Verse": "But even unto this day, when Moses is read, the vail is upon their heart."
-        },
-        {
-          "Verseid": "46002015",
-          "Verse": "Nevertheless when it shall turn to the Lord, the vail shall be taken away."
-        },
-        {
-          "Verseid": "46002016",
-          "Verse": "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty."
-        },
-        {
-          "Verseid": "46002017",
-          "Verse": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the LORD."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46003000",
-          "Verse": "Therefore seeing we have this ministry, as we have received mercy, we faint not;"
-        },
-        {
-          "Verseid": "46003001",
-          "Verse": "But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man's conscience in the sight of God."
-        },
-        {
-          "Verseid": "46003002",
-          "Verse": "But if our gospel be hid, it is hid to them that are lost:"
-        },
-        {
-          "Verseid": "46003003",
-          "Verse": "In whom the god of this world has blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them."
-        },
-        {
-          "Verseid": "46003004",
-          "Verse": "For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake."
-        },
-        {
-          "Verseid": "46003005",
-          "Verse": "For God, who commanded the light to shine out of darkness, has shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ."
-        },
-        {
-          "Verseid": "46003006",
-          "Verse": "But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us."
-        },
-        {
-          "Verseid": "46003007",
-          "Verse": "We are troubled on every side, yet not distressed; we are perplexed, but not in despair;"
-        },
-        {
-          "Verseid": "46003008",
-          "Verse": "Persecuted, but not forsaken; cast down, but not destroyed;"
-        },
-        {
-          "Verseid": "46003009",
-          "Verse": "Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body."
-        },
-        {
-          "Verseid": "46003010",
-          "Verse": "For we which live are always delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh."
-        },
-        {
-          "Verseid": "46003011",
-          "Verse": "So then death works in us, but life in you."
-        },
-        {
-          "Verseid": "46003012",
-          "Verse": "We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;"
-        },
-        {
-          "Verseid": "46003013",
-          "Verse": "Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you."
-        },
-        {
-          "Verseid": "46003014",
-          "Verse": "For all things are for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God."
-        },
-        {
-          "Verseid": "46003015",
-          "Verse": "For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day."
-        },
-        {
-          "Verseid": "46003016",
-          "Verse": "For our light affliction, which is but for a moment, works for us a far more exceeding and eternal weight of glory;"
-        },
-        {
-          "Verseid": "46003017",
-          "Verse": "While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46004000",
-          "Verse": "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens."
-        },
-        {
-          "Verseid": "46004001",
-          "Verse": "For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:"
-        },
-        {
-          "Verseid": "46004002",
-          "Verse": "If so be that being clothed we shall not be found naked."
-        },
-        {
-          "Verseid": "46004003",
-          "Verse": "For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life."
-        },
-        {
-          "Verseid": "46004004",
-          "Verse": "Now he that has wrought us for the very same thing is God, who also has given unto us the earn of the Spirit."
-        },
-        {
-          "Verseid": "46004005",
-          "Verse": "Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:"
-        },
-        {
-          "Verseid": "46004006",
-          "Verse": "(For we walk by faith, not by sight:)"
-        },
-        {
-          "Verseid": "46004007",
-          "Verse": "We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord."
-        },
-        {
-          "Verseid": "46004008",
-          "Verse": "Wherefore we labour, that, whether present or absent, we may be accepted of him."
-        },
-        {
-          "Verseid": "46004009",
-          "Verse": "For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he has done, whether it be good or bad."
-        },
-        {
-          "Verseid": "46004010",
-          "Verse": "Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences."
-        },
-        {
-          "Verseid": "46004011",
-          "Verse": "For we commend not ourselves again unto you, but give you occasion to glory on our behalf, that all of you may have somewhat to answer them which glory in appearance, and not in heart."
-        },
-        {
-          "Verseid": "46004012",
-          "Verse": "For whether we be beside ourselves, it is to God: or whether we be sober, it is for your cause."
-        },
-        {
-          "Verseid": "46004013",
-          "Verse": "For the love of Christ constrains us; because we thus judge, that if one died for all, then were all dead:"
-        },
-        {
-          "Verseid": "46004014",
-          "Verse": "And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again."
-        },
-        {
-          "Verseid": "46004015",
-          "Verse": "Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we him no more."
-        },
-        {
-          "Verseid": "46004016",
-          "Verse": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new."
-        },
-        {
-          "Verseid": "46004017",
-          "Verse": "And all things are of God, who has reconciled us to himself by Jesus Christ, and has given to us the ministry of reconciliation;"
-        },
-        {
-          "Verseid": "46004018",
-          "Verse": "To know, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and has committed unto us the word of reconciliation."
-        },
-        {
-          "Verseid": "46004019",
-          "Verse": "Now then we are ambassadors for Christ, as though God did plead to you by us: we pray you in Christ's position, be all of you reconciled to God."
-        },
-        {
-          "Verseid": "46004020",
-          "Verse": "For he has made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46005000",
-          "Verse": "We then, as workers together with him, plead to you also that all of you receive not the grace of God in vain."
-        },
-        {
-          "Verseid": "46005001",
-          "Verse": "(For he says, I have heard you in a time accepted, and in the day of salvation have I helped you: behold, now is the accepted time; behold, now is the day of salvation.)"
-        },
-        {
-          "Verseid": "46005002",
-          "Verse": "Giving no offence in any thing, that the ministry be not blamed:"
-        },
-        {
-          "Verseid": "46005003",
-          "Verse": "But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,"
-        },
-        {
-          "Verseid": "46005004",
-          "Verse": "In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;"
-        },
-        {
-          "Verseid": "46005005",
-          "Verse": "By pureness, by knowledge, by longsuffering, by kindness, by the Holy Spirit, by love sincere,"
-        },
-        {
-          "Verseid": "46005006",
-          "Verse": "By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,"
-        },
-        {
-          "Verseid": "46005007",
-          "Verse": "By honour and dishonour, by evil report and good report: as deceivers, and yet true;"
-        },
-        {
-          "Verseid": "46005008",
-          "Verse": "As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;"
-        },
-        {
-          "Verseid": "46005009",
-          "Verse": "As sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things."
-        },
-        {
-          "Verseid": "46005010",
-          "Verse": "O all of you Corinthians, our mouth is open unto you, our heart is enlarged."
-        },
-        {
-          "Verseid": "46005011",
-          "Verse": "All of you are not straitened in us, but all of you are straitened in your own bowels."
-        },
-        {
-          "Verseid": "46005012",
-          "Verse": "Now for a recompence in the same, (I speak as unto my children,) be all of you also enlarged."
-        },
-        {
-          "Verseid": "46005013",
-          "Verse": "Be all of you not unequally yoked together with unbelievers: for what fellowship has righteousness with unrighteousness? and what communion has light with darkness?"
-        },
-        {
-          "Verseid": "46005014",
-          "Verse": "And what concord has Christ with Belial? or what part has he that believes with an infidel?"
-        },
-        {
-          "Verseid": "46005015",
-          "Verse": "And what agreement has the temple of God with idols? for all of you are the temple of the living God; as God has said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people."
-        },
-        {
-          "Verseid": "46005016",
-          "Verse": "Wherefore come out from among them, and be all of you separate, says the Lord, and touch not the unclean thing; and I will receive you."
-        },
-        {
-          "Verseid": "46005017",
-          "Verse": "And will be a Father unto you, and all of you shall be my sons and daughters, says the Lord Almighty."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46006000",
-          "Verse": "Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God."
-        },
-        {
-          "Verseid": "46006001",
-          "Verse": "Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man."
-        },
-        {
-          "Verseid": "46006002",
-          "Verse": "I speak not this to condemn you: for I have said before, that all of you are in our hearts to die and live with you."
-        },
-        {
-          "Verseid": "46006003",
-          "Verse": "Great is my boldness of speech toward you, great is my glorying of you: I am filled with comfort, I am exceeding joyful in all our tribulation."
-        },
-        {
-          "Verseid": "46006004",
-          "Verse": "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears."
-        },
-        {
-          "Verseid": "46006005",
-          "Verse": "Nevertheless God, that comforts those that are cast down, comforted us by the coming of Titus;"
-        },
-        {
-          "Verseid": "46006006",
-          "Verse": "And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earn desire, your mourning, your fervent mind toward me; so that I rejoiced the more."
-        },
-        {
-          "Verseid": "46006007",
-          "Verse": "For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle has made you sorry, though it were but for a season."
-        },
-        {
-          "Verseid": "46006008",
-          "Verse": "Now I rejoice, not that all of you were made sorry, but that all of you sorrowed to repentance: for all of you were made sorry after a godly manner, that all of you might receive damage by us in nothing."
-        },
-        {
-          "Verseid": "46006009",
-          "Verse": "For godly sorrow works repentance to salvation not to be repented of: but the sorrow of the world works death."
-        },
-        {
-          "Verseid": "46006010",
-          "Verse": "For behold this very same thing, that all of you sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things all of you have approved yourselves to be clear in this matter."
-        },
-        {
-          "Verseid": "46006011",
-          "Verse": "Wherefore, though I wrote unto you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you."
-        },
-        {
-          "Verseid": "46006012",
-          "Verse": "Therefore we were comforted in your comfort: yea, and exceedingly more rejoice did we for the joy of Titus, because his spirit was refreshed by you all."
-        },
-        {
-          "Verseid": "46006013",
-          "Verse": "For if I have boasted any thing to him of you, I am not ashamed; but as we spoke all things to you in truth, even so our boasting, which I made before Titus, is found a truth."
-        },
-        {
-          "Verseid": "46006014",
-          "Verse": "And his inward affection is more abundant toward you, whilst he remembers the obedience of you all, how with fear and trembling all of you received him."
-        },
-        {
-          "Verseid": "46006015",
-          "Verse": "I rejoice therefore that I have confidence in you in all things."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46007000",
-          "Verse": "Moreover, brethren, we do you to know of the grace of God bestowed on the churches of Macedonia;"
-        },
-        {
-          "Verseid": "46007001",
-          "Verse": "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality."
-        },
-        {
-          "Verseid": "46007002",
-          "Verse": "In order to their power, I bear record, yea, and beyond their power they were willing of themselves;"
-        },
-        {
-          "Verseid": "46007003",
-          "Verse": "Praying us with much entreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints."
-        },
-        {
-          "Verseid": "46007004",
-          "Verse": "And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God."
-        },
-        {
-          "Verseid": "46007005",
-          "Verse": "Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also."
-        },
-        {
-          "Verseid": "46007006",
-          "Verse": "Therefore, as all of you abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that all of you abound in this grace also."
-        },
-        {
-          "Verseid": "46007007",
-          "Verse": "I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love."
-        },
-        {
-          "Verseid": "46007008",
-          "Verse": "For all of you know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that all of you through his poverty might be rich."
-        },
-        {
-          "Verseid": "46007009",
-          "Verse": "And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago."
-        },
-        {
-          "Verseid": "46007010",
-          "Verse": "Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which all of you have."
-        },
-        {
-          "Verseid": "46007011",
-          "Verse": "For if there be first a willing mind, it is accepted according to that a man has, and not according to that he has not."
-        },
-        {
-          "Verseid": "46007012",
-          "Verse": "For I mean not that other men be eased, and all of you burdened:"
-        },
-        {
-          "Verseid": "46007013",
-          "Verse": "But by an equality, that now at this time your abundance may be a supply for their lack, that their abundance also may be a supply for your lack: that there may be equality:"
-        },
-        {
-          "Verseid": "46007014",
-          "Verse": "As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack."
-        },
-        {
-          "Verseid": "46007015",
-          "Verse": "But thanks be to God, which put the same earn care into the heart of Titus for you."
-        },
-        {
-          "Verseid": "46007016",
-          "Verse": "For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you."
-        },
-        {
-          "Verseid": "46007017",
-          "Verse": "And we have sent with him the brother, whose praise is in the gospel throughout all the churches;"
-        },
-        {
-          "Verseid": "46007018",
-          "Verse": "And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind:"
-        },
-        {
-          "Verseid": "46007019",
-          "Verse": "Avoiding this, that no man should blame us in this abundance which is administered by us:"
-        },
-        {
-          "Verseid": "46007020",
-          "Verse": "Providing for honest things, not only in the sight of the Lord, but also in the sight of men."
-        },
-        {
-          "Verseid": "46007021",
-          "Verse": "And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you."
-        },
-        {
-          "Verseid": "46007022",
-          "Verse": "Whether any do enquire of Titus, he is my partner and fellow-helper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ."
-        },
-        {
-          "Verseid": "46007023",
-          "Verse": "Wherefore show all of you to them, and before the churches, the proof of your love, and of our boasting on your behalf."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46008000",
-          "Verse": "For as concerning the ministering to the saints, it is superfluous for me to write to you:"
-        },
-        {
-          "Verseid": "46008001",
-          "Verse": "For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal has provoked very many."
-        },
-        {
-          "Verseid": "46008002",
-          "Verse": "Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, all of you may be ready:"
-        },
-        {
-          "Verseid": "46008003",
-          "Verse": "Lest lest by any means if they of Macedonia come with me, and find you unprepared, we (that we say not, all of you) should be ashamed in this same confident boasting."
-        },
-        {
-          "Verseid": "46008004",
-          "Verse": "Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof all of you had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness."
-        },
-        {
-          "Verseid": "46008005",
-          "Verse": "But this I say, He which sows sparingly shall reap also sparingly; and he which sows bountifully shall reap also bountifully."
-        },
-        {
-          "Verseid": "46008006",
-          "Verse": "Every man according as he purposes in his heart, so let him give; not grudgingly, or of necessity: for God loves a cheerful giver."
-        },
-        {
-          "Verseid": "46008007",
-          "Verse": "And God is able to make all grace abound toward you; that all of you, always having all sufficiency in all things, may abound to every good work:"
-        },
-        {
-          "Verseid": "46008008",
-          "Verse": "(As it is written, He has dispersed abroad; he has given to the poor: his righteousness remains for ever."
-        },
-        {
-          "Verseid": "46008009",
-          "Verse": "Now he that ministers seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)"
-        },
-        {
-          "Verseid": "46008010",
-          "Verse": "Being enriched in every thing to all bountifulness, which causes through us thanksgiving to God."
-        },
-        {
-          "Verseid": "46008011",
-          "Verse": "For the administration of this service not only supplies the lack of the saints, but is abundant also by many thanksgivings unto God;"
-        },
-        {
-          "Verseid": "46008012",
-          "Verse": "While by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;"
-        },
-        {
-          "Verseid": "46008013",
-          "Verse": "And by their prayer for you, which long after you for the exceeding grace of God in you."
-        },
-        {
-          "Verseid": "46008014",
-          "Verse": "Thanks be unto God for his unspeakable gift."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46009000",
-          "Verse": "Now I Paul myself plead to you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:"
-        },
-        {
-          "Verseid": "46009001",
-          "Verse": "But I plead to you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh."
-        },
-        {
-          "Verseid": "46009002",
-          "Verse": "For though we walk in the flesh, we do not war after the flesh:"
-        },
-        {
-          "Verseid": "46009003",
-          "Verse": "(For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)"
-        },
-        {
-          "Verseid": "46009004",
-          "Verse": "Casting down imaginations, and every high thing that exalts itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;"
-        },
-        {
-          "Verseid": "46009005",
-          "Verse": "And being alert to revenge all disobedience, when your obedience is fulfilled."
-        },
-        {
-          "Verseid": "46009006",
-          "Verse": "Do all of you look on things after the outward appearance? If any man trust to himself that he is Christ's, let him of himself think this again, that, as he is Christ's, even so are we Christ's."
-        },
-        {
-          "Verseid": "46009007",
-          "Verse": "For though I should boast somewhat more of our authority, which the Lord has given us for edification, and not for your destruction, I should not be ashamed:"
-        },
-        {
-          "Verseid": "46009008",
-          "Verse": "That I may not seem as if I would terrify you by letters."
-        },
-        {
-          "Verseid": "46009009",
-          "Verse": "For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible."
-        },
-        {
-          "Verseid": "46009010",
-          "Verse": "Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present."
-        },
-        {
-          "Verseid": "46009011",
-          "Verse": "For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise."
-        },
-        {
-          "Verseid": "46009012",
-          "Verse": "But we will not boast of things without our measure, but according to the measure of the rule which God has distributed to us, a measure to reach even unto you."
-        },
-        {
-          "Verseid": "46009013",
-          "Verse": "For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ:"
-        },
-        {
-          "Verseid": "46009014",
-          "Verse": "Not boasting of things without our measure, that is, of other men's labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,"
-        },
-        {
-          "Verseid": "46009015",
-          "Verse": "To preach the gospel in the regions beyond you, and not to boast in another man's line of things made ready to our hand."
-        },
-        {
-          "Verseid": "46009016",
-          "Verse": "But he that glories, let him glory in the Lord."
-        },
-        {
-          "Verseid": "46009017",
-          "Verse": "For not he that commends himself is approved, but whom the Lord commends."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46010000",
-          "Verse": "Would to God all of you could bear with me a little in my folly: and indeed bear with me."
-        },
-        {
-          "Verseid": "46010001",
-          "Verse": "For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ."
-        },
-        {
-          "Verseid": "46010002",
-          "Verse": "But I fear, lest by any means, as the serpent misled Eve through his subtlety, so your minds should be corrupted from the simplicity that is in Christ."
-        },
-        {
-          "Verseid": "46010003",
-          "Verse": "For if he that comes preaches another Jesus, whom we have not preached, or if all of you receive another spirit, which all of you have not received, or another gospel, which all of you have not accepted, all of you might well bear with him."
-        },
-        {
-          "Verseid": "46010004",
-          "Verse": "For I suppose I was not a thing behind the very chiefest apostles."
-        },
-        {
-          "Verseid": "46010005",
-          "Verse": "But though I be rude in speech, yet not in knowledge; but we have been thoroughly made manifest among you in all things."
-        },
-        {
-          "Verseid": "46010006",
-          "Verse": "Have I committed an offence in abasing myself that all of you might be exalted, because I have preached to you the gospel of God freely?"
-        },
-        {
-          "Verseid": "46010007",
-          "Verse": "I robbed other churches, taking wages of them, to do you service."
-        },
-        {
-          "Verseid": "46010008",
-          "Verse": "And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself."
-        },
-        {
-          "Verseid": "46010009",
-          "Verse": "As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia."
-        },
-        {
-          "Verseid": "46010010",
-          "Verse": "Wherefore? because I love you not? God knows."
-        },
-        {
-          "Verseid": "46010011",
-          "Verse": "But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we."
-        },
-        {
-          "Verseid": "46010012",
-          "Verse": "For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ."
-        },
-        {
-          "Verseid": "46010013",
-          "Verse": "And no marvel; for Satan himself is transformed into an angel of light."
-        },
-        {
-          "Verseid": "46010014",
-          "Verse": "Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works."
-        },
-        {
-          "Verseid": "46010015",
-          "Verse": "I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little."
-        },
-        {
-          "Verseid": "46010016",
-          "Verse": "That which I speak, I speak it not after the Lord, but as it were foolishly, in this confidence of boasting."
-        },
-        {
-          "Verseid": "46010017",
-          "Verse": "Seeing that many glory after the flesh, I will glory also."
-        },
-        {
-          "Verseid": "46010018",
-          "Verse": "For all of you suffer fools gladly, seeing all of you yourselves are wise."
-        },
-        {
-          "Verseid": "46010019",
-          "Verse": "For all of you suffer, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man strike you on the face."
-        },
-        {
-          "Verseid": "46010020",
-          "Verse": "I speak as concerning reproach, as though we had been weak. Nevertheless whatever that anyone is bold, (I speak foolishly,) I am bold also."
-        },
-        {
-          "Verseid": "46010021",
-          "Verse": "Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I."
-        },
-        {
-          "Verseid": "46010022",
-          "Verse": "Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths often."
-        },
-        {
-          "Verseid": "46010023",
-          "Verse": "Of the Jews five times received I forty stripes save one."
-        },
-        {
-          "Verseid": "46010024",
-          "Verse": "Three times was I beaten with rods, once was I stoned, three times I suffered shipwreck, a night and a day I have been in the deep;"
-        },
-        {
-          "Verseid": "46010025",
-          "Verse": "In journeys often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;"
-        },
-        {
-          "Verseid": "46010026",
-          "Verse": "In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness."
-        },
-        {
-          "Verseid": "46010027",
-          "Verse": "Beside those things that are without, that which comes upon me daily, the care of all the churches."
-        },
-        {
-          "Verseid": "46010028",
-          "Verse": "Who is weak, and I am not weak? who is offended, and I burn not?"
-        },
-        {
-          "Verseid": "46010029",
-          "Verse": "If I must essentially glory, I will glory of the things which concern mine infirmities."
-        },
-        {
-          "Verseid": "46010030",
-          "Verse": "The God and Father of our Lord Jesus Christ, which is blessed for evermore, knows that I lie not."
-        },
-        {
-          "Verseid": "46010031",
-          "Verse": "In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:"
-        },
-        {
-          "Verseid": "46010032",
-          "Verse": "And through a window in a basket was I let down by the wall, and escaped his hands."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46011000",
-          "Verse": "It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord."
-        },
-        {
-          "Verseid": "46011001",
-          "Verse": "I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knows;) such an one caught up to the third heaven."
-        },
-        {
-          "Verseid": "46011002",
-          "Verse": "And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knows;)"
-        },
-        {
-          "Verseid": "46011003",
-          "Verse": "How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter."
-        },
-        {
-          "Verseid": "46011004",
-          "Verse": "Of such an one will I glory: yet of myself I will not glory, but in mine infirmities."
-        },
-        {
-          "Verseid": "46011005",
-          "Verse": "For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he sees me to be, or that he hears of me."
-        },
-        {
-          "Verseid": "46011006",
-          "Verse": "And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure."
-        },
-        {
-          "Verseid": "46011007",
-          "Verse": "For this thing I besought the Lord three times, that it might depart from me."
-        },
-        {
-          "Verseid": "46011008",
-          "Verse": "And he said unto me, My grace is sufficient for you: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me."
-        },
-        {
-          "Verseid": "46011009",
-          "Verse": "Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong."
-        },
-        {
-          "Verseid": "46011010",
-          "Verse": "I am become a fool in glorying; all of you have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing."
-        },
-        {
-          "Verseid": "46011011",
-          "Verse": "Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds."
-        },
-        {
-          "Verseid": "46011012",
-          "Verse": "For what is it wherein all of you were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong."
-        },
-        {
-          "Verseid": "46011013",
-          "Verse": "Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not your's but you: for the children ought not to lay up for the parents, but the parents for the children."
-        },
-        {
-          "Verseid": "46011014",
-          "Verse": "And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved."
-        },
-        {
-          "Verseid": "46011015",
-          "Verse": "But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile."
-        },
-        {
-          "Verseid": "46011016",
-          "Verse": "Did I make a gain of you by any of them whom I sent unto you?"
-        },
-        {
-          "Verseid": "46011017",
-          "Verse": "I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?"
-        },
-        {
-          "Verseid": "46011018",
-          "Verse": "Again, think all of you that we excuse ourselves unto you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying."
-        },
-        {
-          "Verseid": "46011019",
-          "Verse": "For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as all of you would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:"
-        },
-        {
-          "Verseid": "46011020",
-          "Verse": "And lest, when I come again, my God will humble me among you, and that I shall mourn for many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "46012000",
-          "Verse": "This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established."
-        },
-        {
-          "Verseid": "46012001",
-          "Verse": "I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which in time past have sinned, and to all other, that, if I come again, I will not spare:"
-        },
-        {
-          "Verseid": "46012002",
-          "Verse": "Since all of you seek a proof of Christ speaking in me, which toward you is not weak, but is mighty in you."
-        },
-        {
-          "Verseid": "46012003",
-          "Verse": "For though he was crucified through weakness, yet he lives by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you."
-        },
-        {
-          "Verseid": "46012004",
-          "Verse": "Examine yourselves, whether all of you be in the faith; prove your own selves. Know all of you not your own selves, how that Jesus Christ is in you, except all of you be reprobates?"
-        },
-        {
-          "Verseid": "46012005",
-          "Verse": "But I trust that all of you shall know that we are not reprobates."
-        },
-        {
-          "Verseid": "46012006",
-          "Verse": "Now I pray to God that all of you do no evil; not that we should appear approved, but that all of you should do that which is honest, though we be as reprobates."
-        },
-        {
-          "Verseid": "46012007",
-          "Verse": "For we can do nothing against the truth, but for the truth."
-        },
-        {
-          "Verseid": "46012008",
-          "Verse": "For we are glad, when we are weak, and all of you are strong: and this also we wish, even your perfection."
-        },
-        {
-          "Verseid": "46012009",
-          "Verse": "Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord has given me to edification, and not to destruction."
-        },
-        {
-          "Verseid": "46012010",
-          "Verse": "Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you."
-        },
-        {
-          "Verseid": "46012011",
-          "Verse": "Greet one another with an holy kiss."
-        },
-        {
-          "Verseid": "46012012",
-          "Verse": "All the saints salute you."
-        },
-        {
-          "Verseid": "46012013",
-          "Verse": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit, be with you all. Amen."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "Paul, An Apostle Of Christ Jesus By The Will Of God, And Timothy Our Brother, To The Church Of God In Corinth, Together With All The Saints Throughout Achaia:",
+            "Grace And Peace To You From God Our Father And The Lord Jesus Christ.",
+            "Praise Be To The God And Father Of Our Lord Jesus Christ, The Father Of Compassion And The God Of All Comfort,",
+            "Who Comforts Us In All Our Troubles, So That We Can Comfort Those In Any Trouble With The Comfort We Ourselves Have Received From God.",
+            "For Just As The Sufferings Of Christ Flow Over Into Our Lives, So Also Through Christ Our Comfort Overflows.",
+            "If We Are Distressed, It Is For Your Comfort And Salvation; If We Are Comforted, It Is For Your Comfort, Which Produces In You Patient Endurance Of The Same Sufferings We Suffer.",
+            "And Our Hope For You Is Firm, Because We Know That Just As You Share In Our Sufferings, So Also You Share In Our Comfort.",
+            "We Do Not Want You To Be Uninformed, Brothers, About The Hardships We Suffered In The Province Of Asia. We Were Under Great Pressure, Far Beyond Our Ability To Endure, So That We Despaired Even Of Life.",
+            "Indeed, In Our Hearts We Felt The Sentence Of Death. But This Happened That We Might Not Rely On Ourselves But On God, Who Raises The Dead.",
+            "He Has Delivered Us From Such A Deadly Peril, And He Will Deliver Us. On Him We Have Set Our Hope That He Will Continue To Deliver Us,",
+            "As You Help Us By Your Prayers. Then Many Will Give Thanks On Our Behalf For The Gracious Favor Granted Us In Answer To The Prayers Of Many.",
+            "Now This Is Our Boast: Our Conscience Testifies That We Have Conducted Ourselves In The World, And Especially In Our Relations With You, In The Holiness And Sincerity That Are From God. We Have Done So Not According To Worldly Wisdom But According To God's Grace.",
+            "For We Do Not Write You Anything You Cannot Read Or Understand. And I Hope That,",
+            "As You Have Understood Us In Part, You Will Come To Understand Fully That You Can Boast Of Us Just As We Will Boast Of You In The Day Of The Lord Jesus.",
+            "Because I Was Confident Of This, I Planned To Visit You First So That You Might Benefit Twice.",
+            "I Planned To Visit You On My Way To Macedonia And To Come Back To You From Macedonia, And Then To Have You Send Me On My Way To Judea.",
+            "When I Planned This, Did I Do It Lightly? Or Do I Make My Plans In A Worldly Manner So That In The Same Breath I Say, \"Yes, Yes\" And \"No, No\"?",
+            "But As Surely As God Is Faithful, Our Message To You Is Not \"Yes\" And \"No.\"",
+            "For The Son Of God, Jesus Christ, Who Was Preached Among You By Me And Silas And Timothy, Was Not \"Yes\" And \"No,\" But In Him It Has Always Been \"Yes.\"",
+            "For No Matter How Many Promises God Has Made, They Are \"Yes\" In Christ. And So Through Him The \"Amen\" Is Spoken By Us To The Glory Of God.",
+            "Now It Is God Who Makes Both Us And You Stand Firm In Christ. He Anointed Us,",
+            "Set His Seal Of Ownership On Us, And Put His Spirit In Our Hearts As A Deposit, Guaranteeing What Is To Come.",
+            "I Call God As My Witness That It Was In Order To Spare You That I Did Not Return To Corinth.",
+            "Not That We Lord It Over Your Faith, But We Work With You For Your Joy, Because It Is By Faith You Stand Firm."
+        ],
+        [
+            "So I Made Up My Mind That I Would Not Make Another Painful Visit To You.",
+            "For If I Grieve You, Who Is Left To Make Me Glad But You Whom I Have Grieved?",
+            "I Wrote As I Did So That When I Came I Should Not Be Distressed By Those Who Ought To Make Me Rejoice. I Had Confidence In All Of You, That You Would All Share My Joy.",
+            "For I Wrote You Out Of Great Distress And Anguish Of Heart And With Many Tears, Not To Grieve You But To Let You Know The Depth Of My Love For You.",
+            "If Anyone Has Caused Grief, He Has Not So Much Grieved Me As He Has Grieved All Of You, To Some Extent--not To Put It Too Severely.",
+            "The Punishment Inflicted On Him By The Majority Is Sufficient For Him.",
+            "Now Instead, You Ought To Forgive And Comfort Him, So That He Will Not Be Overwhelmed By Excessive Sorrow.",
+            "I Urge You, Therefore, To Reaffirm Your Love For Him.",
+            "The Reason I Wrote You Was To See If You Would Stand The Test And Be Obedient In Everything.",
+            "If You Forgive Anyone, I Also Forgive Him. And What I Have Forgiven--if There Was Anything To Forgive--i Have Forgiven In The Sight Of Christ For Your Sake,",
+            "In Order That Satan Might Not Outwit Us. For We Are Not Unaware Of His Schemes.",
+            "Now When I Went To Troas To Preach The Gospel Of Christ And Found That The Lord Had Opened A Door For Me,",
+            "I Still Had No Peace Of Mind, Because I Did Not Find My Brother Titus There. So I Said Good-by To Them And Went On To Macedonia.",
+            "But Thanks Be To God, Who Always Leads Us In Triumphal Procession In Christ And Through Us Spreads Everywhere The Fragrance Of The Knowledge Of Him.",
+            "For We Are To God The Aroma Of Christ Among Those Who Are Being Saved And Those Who Are Perishing.",
+            "To The One We Are The Smell Of Death; To The Other, The Fragrance Of Life. And Who Is Equal To Such A Task?",
+            "Unlike So Many, We Do Not Peddle The Word Of God For Profit. On The Contrary, In Christ We Speak Before God With Sincerity, Like Men Sent From God."
+        ],
+        [
+            "Are We Beginning To Commend Ourselves Again? Or Do We Need, Like Some People, Letters Of Recommendation To You Or From You?",
+            "You Yourselves Are Our Letter, Written On Our Hearts, Known And Read By Everybody.",
+            "You Show That You Are A Letter From Christ, The Result Of Our Ministry, Written Not With Ink But With The Spirit Of The Living God, Not On Tablets Of Stone But On Tablets Of Human Hearts.",
+            "Such Confidence As This Is Ours Through Christ Before God.",
+            "Not That We Are Competent In Ourselves To Claim Anything For Ourselves, But Our Competence Comes From God.",
+            "He Has Made Us Competent As Ministers Of A New Covenant--not Of The Letter But Of The Spirit; For The Letter Kills, But The Spirit Gives Life.",
+            "Now If The Ministry That Brought Death, Which Was Engraved In Letters On Stone, Came With Glory, So That The Israelites Could Not Look Steadily At The Face Of Moses Because Of Its Glory, Fading Though It Was,",
+            "Will Not The Ministry Of The Spirit Be Even More Glorious?",
+            "If The Ministry That Condemns Men Is Glorious, How Much More Glorious Is The Ministry That Brings Righteousness!",
+            "For What Was Glorious Has No Glory Now In Comparison With The Surpassing Glory.",
+            "And If What Was Fading Away Came With Glory, How Much Greater Is The Glory Of That Which Lasts!",
+            "Therefore, Since We Have Such A Hope, We Are Very Bold.",
+            "We Are Not Like Moses, Who Would Put A Veil Over His Face To Keep The Israelites From Gazing At It While The Radiance Was Fading Away.",
+            "But Their Minds Were Made Dull, For To This Day The Same Veil Remains When The Old Covenant Is Read. It Has Not Been Removed, Because Only In Christ Is It Taken Away.",
+            "Even To This Day When Moses Is Read, A Veil Covers Their Hearts.",
+            "But Whenever Anyone Turns To The Lord, The Veil Is Taken Away.",
+            "Now The Lord Is The Spirit, And Where The Spirit Of The Lord Is, There Is Freedom.",
+            "And We, Who With Unveiled Faces All Reflect The Lord's Glory, Are Being Transformed Into His Likeness With Ever-increasing Glory, Which Comes From The Lord, Who Is The Spirit."
+        ],
+        [
+            "Therefore, Since Through God's Mercy We Have This Ministry, We Do Not Lose Heart.",
+            "Rather, We Have Renounced Secret And Shameful Ways; We Do Not Use Deception, Nor Do We Distort The Word Of God. On The Contrary, By Setting Forth The Truth Plainly We Commend Ourselves To Every Man's Conscience In The Sight Of God.",
+            "And Even If Our Gospel Is Veiled, It Is Veiled To Those Who Are Perishing.",
+            "The God Of This Age Has Blinded The Minds Of Unbelievers, So That They Cannot See The Light Of The Gospel Of The Glory Of Christ, Who Is The Image Of God.",
+            "For We Do Not Preach Ourselves, But Jesus Christ As Lord, And Ourselves As Your Servants For Jesus' Sake.",
+            "For God, Who Said, \"Let Light Shine Out Of Darkness,\" Made His Light Shine In Our Hearts To Give Us The Light Of The Knowledge Of The Glory Of God In The Face Of Christ.",
+            "But We Have This Treasure In Jars Of Clay To Show That This All-surpassing Power Is From God And Not From Us.",
+            "We Are Hard Pressed On Every Side, But Not Crushed; Perplexed, But Not In Despair;",
+            "Persecuted, But Not Abandoned; Struck Down, But Not Destroyed.",
+            "We Always Carry Around In Our Body The Death Of Jesus, So That The Life Of Jesus May Also Be Revealed In Our Body.",
+            "For We Who Are Alive Are Always Being Given Over To Death For Jesus' Sake, So That His Life May Be Revealed In Our Mortal Body.",
+            "So Then, Death Is At Work In Us, But Life Is At Work In You.",
+            "It Is Written: \"I Believed; Therefore I Have Spoken.\" With That Same Spirit Of Faith We Also Believe And Therefore Speak,",
+            "Because We Know That The One Who Raised The Lord Jesus From The Dead Will Also Raise Us With Jesus And Present Us With You In His Presence.",
+            "All This Is For Your Benefit, So That The Grace That Is Reaching More And More People May Cause Thanksgiving To Overflow To The Glory Of God.",
+            "Therefore We Do Not Lose Heart. Though Outwardly We Are Wasting Away, Yet Inwardly We Are Being Renewed Day By Day.",
+            "For Our Light And Momentary Troubles Are Achieving For Us An Eternal Glory That Far Outweighs Them All.",
+            "So We Fix Our Eyes Not On What Is Seen, But On What Is Unseen. For What Is Seen Is Temporary, But What Is Unseen Is Eternal."
+        ],
+        [
+            "Now We Know That If The Earthly Tent We Live In Is Destroyed, We Have A Building From God, An Eternal House In Heaven, Not Built By Human Hands.",
+            "Meanwhile We Groan, Longing To Be Clothed With Our Heavenly Dwelling,",
+            "Because When We Are Clothed, We Will Not Be Found Naked.",
+            "For While We Are In This Tent, We Groan And Are Burdened, Because We Do Not Wish To Be Unclothed But To Be Clothed With Our Heavenly Dwelling, So That What Is Mortal May Be Swallowed Up By Life.",
+            "Now It Is God Who Has Made Us For This Very Purpose And Has Given Us The Spirit As A Deposit, Guaranteeing What Is To Come.",
+            "Therefore We Are Always Confident And Know That As Long As We Are At Home In The Body We Are Away From The Lord.",
+            "We Live By Faith, Not By Sight.",
+            "We Are Confident, I Say, And Would Prefer To Be Away From The Body And At Home With The Lord.",
+            "So We Make It Our Goal To Please Him, Whether We Are At Home In The Body Or Away From It.",
+            "For We Must All Appear Before The Judgment Seat Of Christ, That Each One May Receive What Is Due Him For The Things Done While In The Body, Whether Good Or Bad.",
+            "Since, Then, We Know What It Is To Fear The Lord, We Try To Persuade Men. What We Are Is Plain To God, And I Hope It Is Also Plain To Your Conscience.",
+            "We Are Not Trying To Commend Ourselves To You Again, But Are Giving You An Opportunity To Take Pride In Us, So That You Can Answer Those Who Take Pride In What Is Seen Rather Than In What Is In The Heart.",
+            "If We Are Out Of Our Mind, It Is For The Sake Of God; If We Are In Our Right Mind, It Is For You.",
+            "For Christ's Love Compels Us, Because We Are Convinced That One Died For All, And Therefore All Died.",
+            "And He Died For All, That Those Who Live Should No Longer Live For Themselves But For Him Who Died For Them And Was Raised Again.",
+            "So From Now On We Regard No One From A Worldly Point Of View. Though We Once Regarded Christ In This Way, We Do So No Longer.",
+            "Therefore, If Anyone Is In Christ, He Is A New Creation; The Old Has Gone, The New Has Come!",
+            "All This Is From God, Who Reconciled Us To Himself Through Christ And Gave Us The Ministry Of Reconciliation:",
+            "That God Was Reconciling The World To Himself In Christ, Not Counting Men's Sins Against Them. And He Has Committed To Us The Message Of Reconciliation.",
+            "We Are Therefore Christ's Ambassadors, As Though God Were Making His Appeal Through Us. We Implore You On Christ's Behalf: Be Reconciled To God.",
+            "God Made Him Who Had No Sin To Be Sin For Us, So That In Him We Might Become The Righteousness Of God."
+        ],
+        [
+            "As God's Fellow Workers We Urge You Not To Receive God's Grace In Vain.",
+            "For He Says, \"In The Time Of My Favor I Heard You, And In The Day Of Salvation I Helped You.\" I Tell You, Now Is The Time Of God's Favor, Now Is The Day Of Salvation.",
+            "We Put No Stumbling Block In Anyone's Path, So That Our Ministry Will Not Be Discredited.",
+            "Rather, As Servants Of God We Commend Ourselves In Every Way: In Great Endurance; In Troubles, Hardships And Distresses;",
+            "In Beatings, Imprisonments And Riots; In Hard Work, Sleepless Nights And Hunger;",
+            "In Purity, Understanding, Patience And Kindness; In The Holy Spirit And In Sincere Love;",
+            "In Truthful Speech And In The Power Of God; With Weapons Of Righteousness In The Right Hand And In The Left;",
+            "Through Glory And Dishonor, Bad Report And Good Report; Genuine, Yet Regarded As Impostors;",
+            "Known, Yet Regarded As Unknown; Dying, And Yet We Live On; Beaten, And Yet Not Killed;",
+            "Sorrowful, Yet Always Rejoicing; Poor, Yet Making Many Rich; Having Nothing, And Yet Possessing Everything.",
+            "We Have Spoken Freely To You, Corinthians, And Opened Wide Our Hearts To You.",
+            "We Are Not Withholding Our Affection From You, But You Are Withholding Yours From Us.",
+            "As A Fair Exchange--i Speak As To My Children--open Wide Your Hearts Also.",
+            "Do Not Be Yoked Together With Unbelievers. For What Do Righteousness And Wickedness Have In Common? Or What Fellowship Can Light Have With Darkness?",
+            "What Harmony Is There Between Christ And Belial ? What Does A Believer Have In Common With An Unbeliever?",
+            "What Agreement Is There Between The Temple Of God And Idols? For We Are The Temple Of The Living God. As God Has Said: \"I Will Live With Them And Walk Among Them, And I Will Be Their God, And They Will Be My People.\"",
+            "\"Therefore Come Out From Them And Be Separate, Says The Lord. Touch No Unclean Thing, And I Will Receive You.\"",
+            "\"I Will Be A Father To You, And You Will Be My Sons And Daughters, Says The Lord Almighty.\""
+        ],
+        [
+            "Since We Have These Promises, Dear Friends, Let Us Purify Ourselves From Everything That Contaminates Body And Spirit, Perfecting Holiness Out Of Reverence For God.",
+            "Make Room For Us In Your Hearts. We Have Wronged No One, We Have Corrupted No One, We Have Exploited No One.",
+            "I Do Not Say This To Condemn You; I Have Said Before That You Have Such A Place In Our Hearts That We Would Live Or Die With You.",
+            "I Have Great Confidence In You; I Take Great Pride In You. I Am Greatly Encouraged; In All Our Troubles My Joy Knows No Bounds.",
+            "For When We Came Into Macedonia, This Body Of Ours Had No Rest, But We Were Harassed At Every Turn--conflicts On The Outside, Fears Within.",
+            "But God, Who Comforts The Downcast, Comforted Us By The Coming Of Titus,",
+            "And Not Only By His Coming But Also By The Comfort You Had Given Him. He Told Us About Your Longing For Me, Your Deep Sorrow, Your Ardent Concern For Me, So That My Joy Was Greater Than Ever.",
+            "Even If I Caused You Sorrow By My Letter, I Do Not Regret It. Though I Did Regret It--i See That My Letter Hurt You, But Only For A Little While--",
+            "Yet Now I Am Happy, Not Because You Were Made Sorry, But Because Your Sorrow Led You To Repentance. For You Became Sorrowful As God Intended And So Were Not Harmed In Any Way By Us.",
+            "Godly Sorrow Brings Repentance That Leads To Salvation And Leaves No Regret, But Worldly Sorrow Brings Death.",
+            "See What This Godly Sorrow Has Produced In You: What Earnestness, What Eagerness To Clear Yourselves, What Indignation, What Alarm, What Longing, What Concern, What Readiness To See Justice Done. At Every Point You Have Proved Yourselves To Be Innocent In This Matter.",
+            "So Even Though I Wrote To You, It Was Not On Account Of The One Who Did The Wrong Or Of The Injured Party, But Rather That Before God You Could See For Yourselves How Devoted To Us You Are.",
+            "By All This We Are Encouraged.",
+            "In Addition To Our Own Encouragement, We Were Especially Delighted To See How Happy Titus Was, Because His Spirit Has Been Refreshed By All Of You. I Had Boasted To Him About You, And You Have Not Embarrassed Me. But Just As Everything We Said To You Was True, So Our Boasting About You To Titus Has Proved To Be True As Well.",
+            "And His Affection For You Is All The Greater When He Remembers That You Were All Obedient, Receiving Him With Fear And Trembling.",
+            "I Am Glad I Can Have Complete Confidence In You."
+        ],
+        [
+            "And Now, Brothers, We Want You To Know About The Grace That God Has Given The Macedonian Churches.",
+            "Out Of The Most Severe Trial, Their Overflowing Joy And Their Extreme Poverty Welled Up In Rich Generosity.",
+            "For I Testify That They Gave As Much As They Were Able, And Even Beyond Their Ability. Entirely On Their Own,",
+            "They Urgently Pleaded With Us For The Privilege Of Sharing In This Service To The Saints.",
+            "And They Did Not Do As We Expected, But They Gave Themselves First To The Lord And Then To Us In Keeping With God's Will.",
+            "So We Urged Titus, Since He Had Earlier Made A Beginning, To Bring Also To Completion This Act Of Grace On Your Part.",
+            "But Just As You Excel In Everything--in Faith, In Speech, In Knowledge, In Complete Earnestness And In Your Love For Us --See That You Also Excel In This Grace Of Giving.",
+            "I Am Not Commanding You, But I Want To Test The Sincerity Of Your Love By Comparing It With The Earnestness Of Others.",
+            "For You Know The Grace Of Our Lord Jesus Christ, That Though He Was Rich, Yet For Your Sakes He Became Poor, So That You Through His Poverty Might Become Rich.",
+            "And Here Is My Advice About What Is Best For You In This Matter: Last Year You Were The First Not Only To Give But Also To Have The Desire To Do So.",
+            "Now Finish The Work, So That Your Eager Willingness To Do It May Be Matched By Your Completion Of It, According To Your Means.",
+            "For If The Willingness Is There, The Gift Is Acceptable According To What One Has, Not According To What He Does Not Have.",
+            "Our Desire Is Not That Others Might Be Relieved While You Are Hard Pressed, But That There Might Be Equality.",
+            "At The Present Time Your Plenty Will Supply What They Need, So That In Turn Their Plenty Will Supply What You Need. Then There Will Be Equality,",
+            "As It Is Written: \"He Who Gathered Much Did Not Have Too Much, And He Who Gathered Little Did Not Have Too Little.\"",
+            "I Thank God, Who Put Into The Heart Of Titus The Same Concern I Have For You.",
+            "For Titus Not Only Welcomed Our Appeal, But He Is Coming To You With Much Enthusiasm And On His Own Initiative.",
+            "And We Are Sending Along With Him The Brother Who Is Praised By All The Churches For His Service To The Gospel.",
+            "What Is More, He Was Chosen By The Churches To Accompany Us As We Carry The Offering, Which We Administer In Order To Honor The Lord Himself And To Show Our Eagerness To Help.",
+            "We Want To Avoid Any Criticism Of The Way We Administer This Liberal Gift.",
+            "For We Are Taking Pains To Do What Is Right, Not Only In The Eyes Of The Lord But Also In The Eyes Of Men.",
+            "In Addition, We Are Sending With Them Our Brother Who Has Often Proved To Us In Many Ways That He Is Zealous, And Now Even More So Because Of His Great Confidence In You.",
+            "As For Titus, He Is My Partner And Fellow Worker Among You; As For Our Brothers, They Are Representatives Of The Churches And An Honor To Christ.",
+            "Therefore Show These Men The Proof Of Your Love And The Reason For Our Pride In You, So That The Churches Can See It."
+        ],
+        [
+            "There Is No Need For Me To Write To You About This Service To The Saints.",
+            "For I Know Your Eagerness To Help, And I Have Been Boasting About It To The Macedonians, Telling Them That Since Last Year You In Achaia Were Ready To Give; And Your Enthusiasm Has Stirred Most Of Them To Action.",
+            "But I Am Sending The Brothers In Order That Our Boasting About You In This Matter Should Not Prove Hollow, But That You May Be Ready, As I Said You Would Be.",
+            "For If Any Macedonians Come With Me And Find You Unprepared, We--not To Say Anything About You--would Be Ashamed Of Having Been So Confident.",
+            "So I Thought It Necessary To Urge The Brothers To Visit You In Advance And Finish The Arrangements For The Generous Gift You Had Promised. Then It Will Be Ready As A Generous Gift, Not As One Grudgingly Given.",
+            "Remember This: Whoever Sows Sparingly Will Also Reap Sparingly, And Whoever Sows Generously Will Also Reap Generously.",
+            "Each Man Should Give What He Has Decided In His Heart To Give, Not Reluctantly Or Under Compulsion, For God Loves A Cheerful Giver.",
+            "And God Is Able To Make All Grace Abound To You, So That In All Things At All Times, Having All That You Need, You Will Abound In Every Good Work.",
+            "As It Is Written: \"He Has Scattered Abroad His Gifts To The Poor; His Righteousness Endures Forever.\"",
+            "Now He Who Supplies Seed To The Sower And Bread For Food Will Also Supply And Increase Your Store Of Seed And Will Enlarge The Harvest Of Your Righteousness.",
+            "You Will Be Made Rich In Every Way So That You Can Be Generous On Every Occasion, And Through Us Your Generosity Will Result In Thanksgiving To God.",
+            "This Service That You Perform Is Not Only Supplying The Needs Of God's People But Is Also Overflowing In Many Expressions Of Thanks To God.",
+            "Because Of The Service By Which You Have Proved Yourselves, Men Will Praise God For The Obedience That Accompanies Your Confession Of The Gospel Of Christ, And For Your Generosity In Sharing With Them And With Everyone Else.",
+            "And In Their Prayers For You Their Hearts Will Go Out To You, Because Of The Surpassing Grace God Has Given You.",
+            "Thanks Be To God For His Indescribable Gift!"
+        ],
+        [
+            "By The Meekness And Gentleness Of Christ, I Appeal To You--i, Paul, Who Am \"Timid\" When Face To Face With You, But \"Bold\" When Away!",
+            "I Beg You That When I Come I May Not Have To Be As Bold As I Expect To Be Toward Some People Who Think That We Live By The Standards Of This World.",
+            "For Though We Live In The World, We Do Not Wage War As The World Does.",
+            "The Weapons We Fight With Are Not The Weapons Of The World. On The Contrary, They Have Divine Power To Demolish Strongholds.",
+            "We Demolish Arguments And Every Pretension That Sets Itself Up Against The Knowledge Of God, And We Take Captive Every Thought To Make It Obedient To Christ.",
+            "And We Will Be Ready To Punish Every Act Of Disobedience, Once Your Obedience Is Complete.",
+            "You Are Looking Only On The Surface Of Things. If Anyone Is Confident That He Belongs To Christ, He Should Consider Again That We Belong To Christ Just As Much As He.",
+            "For Even If I Boast Somewhat Freely About The Authority The Lord Gave Us For Building You Up Rather Than Pulling You Down, I Will Not Be Ashamed Of It.",
+            "I Do Not Want To Seem To Be Trying To Frighten You With My Letters.",
+            "For Some Say, \"His Letters Are Weighty And Forceful, But In Person He Is Unimpressive And His Speaking Amounts To Nothing.\"",
+            "Such People Should Realize That What We Are In Our Letters When We Are Absent, We Will Be In Our Actions When We Are Present.",
+            "We Do Not Dare To Classify Or Compare Ourselves With Some Who Commend Themselves. When They Measure Themselves By Themselves And Compare Themselves With Themselves, They Are Not Wise.",
+            "We, However, Will Not Boast Beyond Proper Limits, But Will Confine Our Boasting To The Field God Has Assigned To Us, A Field That Reaches Even To You.",
+            "We Are Not Going Too Far In Our Boasting, As Would Be The Case If We Had Not Come To You, For We Did Get As Far As You With The Gospel Of Christ.",
+            "Neither Do We Go Beyond Our Limits By Boasting Of Work Done By Others. Our Hope Is That, As Your Faith Continues To Grow, Our Area Of Activity Among You Will Greatly Expand,",
+            "So That We Can Preach The Gospel In The Regions Beyond You. For We Do Not Want To Boast About Work Already Done In Another Man's Territory.",
+            "But, \"Let Him Who Boasts Boast In The Lord.\"",
+            "For It Is Not The One Who Commends Himself Who Is Approved, But The One Whom The Lord Commends."
+        ],
+        [
+            "I Hope You Will Put Up With A Little Of My Foolishness; But You Are Already Doing That.",
+            "I Am Jealous For You With A Godly Jealousy. I Promised You To One Husband, To Christ, So That I Might Present You As A Pure Virgin To Him.",
+            "But I Am Afraid That Just As Eve Was Deceived By The Serpent's Cunning, Your Minds May Somehow Be Led Astray From Your Sincere And Pure Devotion To Christ.",
+            "For If Someone Comes To You And Preaches A Jesus Other Than The Jesus We Preached, Or If You Receive A Different Spirit From The One You Received, Or A Different Gospel From The One You Accepted, You Put Up With It Easily Enough.",
+            "But I Do Not Think I Am In The Least Inferior To Those \"Super-apostles.\"",
+            "I May Not Be A Trained Speaker, But I Do Have Knowledge. We Have Made This Perfectly Clear To You In Every Way.",
+            "Was It A Sin For Me To Lower Myself In Order To Elevate You By Preaching The Gospel Of God To You Free Of Charge?",
+            "I Robbed Other Churches By Receiving Support From Them So As To Serve You.",
+            "And When I Was With You And Needed Something, I Was Not A Burden To Anyone, For The Brothers Who Came From Macedonia Supplied What I Needed. I Have Kept Myself From Being A Burden To You In Any Way, And Will Continue To Do So.",
+            "As Surely As The Truth Of Christ Is In Me, Nobody In The Regions Of Achaia Will Stop This Boasting Of Mine.",
+            "Why? Because I Do Not Love You? God Knows I Do!",
+            "And I Will Keep On Doing What I Am Doing In Order To Cut The Ground From Under Those Who Want An Opportunity To Be Considered Equal With Us In The Things They Boast About.",
+            "For Such Men Are False Apostles, Deceitful Workmen, Masquerading As Apostles Of Christ.",
+            "And No Wonder, For Satan Himself Masquerades As An Angel Of Light.",
+            "It Is Not Surprising, Then, If His Servants Masquerade As Servants Of Righteousness. Their End Will Be What Their Actions Deserve.",
+            "I Repeat: Let No One Take Me For A Fool. But If You Do, Then Receive Me Just As You Would A Fool, So That I May Do A Little Boasting.",
+            "In This Self-confident Boasting I Am Not Talking As The Lord Would, But As A Fool.",
+            "Since Many Are Boasting In The Way The World Does, I Too Will Boast.",
+            "You Gladly Put Up With Fools Since You Are So Wise!",
+            "In Fact, You Even Put Up With Anyone Who Enslaves You Or Exploits You Or Takes Advantage Of You Or Pushes Himself Forward Or Slaps You In The Face.",
+            "To My Shame I Admit That We Were Too Weak For That!",
+            "What Anyone Else Dares To Boast About--i Am Speaking As A Fool--i Also Dare To Boast About. Are They Hebrews? So Am I. Are They Israelites? So Am I. Are They Abraham's Descendants? So Am I.",
+            "Are They Servants Of Christ? (I Am Out Of My Mind To Talk Like This.) I Am More. I Have Worked Much Harder, Been In Prison More Frequently, Been Flogged More Severely, And Been Exposed To Death Again And Again.",
+            "Five Times I Received From The Jews The Forty Lashes Minus One.",
+            "Three Times I Was Beaten With Rods, Once I Was Stoned, Three Times I Was Shipwrecked, I Spent A Night And A Day In The Open Sea,",
+            "I Have Been Constantly On The Move. I Have Been In Danger From Rivers, In Danger From Bandits, In Danger From My Own Countrymen, In Danger From Gentiles; In Danger In The City, In Danger In The Country, In Danger At Sea; And In Danger From False Brothers.",
+            "I Have Labored And Toiled And Have Often Gone Without Sleep; I Have Known Hunger And Thirst And Have Often Gone Without Food; I Have Been Cold And Naked.",
+            "Besides Everything Else, I Face Daily The Pressure Of My Concern For All The Churches.",
+            "Who Is Weak, And I Do Not Feel Weak? Who Is Led Into Sin, And I Do Not Inwardly Burn?",
+            "If I Must Boast, I Will Boast Of The Things That Show My Weakness.",
+            "The God And Father Of The Lord Jesus, Who Is To Be Praised Forever, Knows That I Am Not Lying.",
+            "In Damascus The Governor Under King Aretas Had The City Of The Damascenes Guarded In Order To Arrest Me.",
+            "But I Was Lowered In A Basket From A Window In The Wall And Slipped Through His Hands."
+        ],
+        [
+            "I Must Go On Boasting. Although There Is Nothing To Be Gained, I Will Go On To Visions And Revelations From The Lord.",
+            "I Know A Man In Christ Who Fourteen Years Ago Was Caught Up To The Third Heaven. Whether It Was In The Body Or Out Of The Body I Do Not Know--god Knows.",
+            "And I Know That This Man--whether In The Body Or Apart From The Body I Do Not Know, But God Knows--",
+            "Was Caught Up To Paradise. He Heard Inexpressible Things, Things That Man Is Not Permitted To Tell.",
+            "I Will Boast About A Man Like That, But I Will Not Boast About Myself, Except About My Weaknesses.",
+            "Even If I Should Choose To Boast, I Would Not Be A Fool, Because I Would Be Speaking The Truth. But I Refrain, So No One Will Think More Of Me Than Is Warranted By What I Do Or Say.",
+            "To Keep Me From Becoming Conceited Because Of These Surpassingly Great Revelations, There Was Given Me A Thorn In My Flesh, A Messenger Of Satan, To Torment Me.",
+            "Three Times I Pleaded With The Lord To Take It Away From Me.",
+            "But He Said To Me, \"My Grace Is Sufficient For You, For My Power Is Made Perfect In Weakness.\" Therefore I Will Boast All The More Gladly About My Weaknesses, So That Christ's Power May Rest On Me.",
+            "That Is Why, For Christ's Sake, I Delight In Weaknesses, In Insults, In Hardships, In Persecutions, In Difficulties. For When I Am Weak, Then I Am Strong.",
+            "I Have Made A Fool Of Myself, But You Drove Me To It. I Ought To Have Been Commended By You, For I Am Not In The Least Inferior To The \"Super-apostles,\" Even Though I Am Nothing.",
+            "The Things That Mark An Apostle--signs, Wonders And Miracles--were Done Among You With Great Perseverance.",
+            "How Were You Inferior To The Other Churches, Except That I Was Never A Burden To You? Forgive Me This Wrong!",
+            "Now I Am Ready To Visit You For The Third Time, And I Will Not Be A Burden To You, Because What I Want Is Not Your Possessions But You. After All, Children Should Not Have To Save Up For Their Parents, But Parents For Their Children.",
+            "So I Will Very Gladly Spend For You Everything I Have And Expend Myself As Well. If I Love You More, Will You Love Me Less?",
+            "Be That As It May, I Have Not Been A Burden To You. Yet, Crafty Fellow That I Am, I Caught You By Trickery!",
+            "Did I Exploit You Through Any Of The Men I Sent You?",
+            "I Urged Titus To Go To You And I Sent Our Brother With Him. Titus Did Not Exploit You, Did He? Did We Not Act In The Same Spirit And Follow The Same Course?",
+            "Have You Been Thinking All Along That We Have Been Defending Ourselves To You? We Have Been Speaking In The Sight Of God As Those In Christ; And Everything We Do, Dear Friends, Is For Your Strengthening.",
+            "For I Am Afraid That When I Come I May Not Find You As I Want You To Be, And You May Not Find Me As You Want Me To Be. I Fear That There May Be Quarreling, Jealousy, Outbursts Of Anger, Factions, Slander, Gossip, Arrogance And Disorder.",
+            "I Am Afraid That When I Come Again My God Will Humble Me Before You, And I Will Be Grieved Over Many Who Have Sinned Earlier And Have Not Repented Of The Impurity, Sexual Sin And Debauchery In Which They Have Indulged."
+        ],
+        [
+            "This Will Be My Third Visit To You. \"Every Matter Must Be Established By The Testimony Of Two Or Three Witnesses.\"",
+            "I Already Gave You A Warning When I Was With You The Second Time. I Now Repeat It While Absent: On My Return I Will Not Spare Those Who Sinned Earlier Or Any Of The Others,",
+            "Since You Are Demanding Proof That Christ Is Speaking Through Me. He Is Not Weak In Dealing With You, But Is Powerful Among You.",
+            "For To Be Sure, He Was Crucified In Weakness, Yet He Lives By God's Power. Likewise, We Are Weak In Him, Yet By God's Power We Will Live With Him To Serve You.",
+            "Examine Yourselves To See Whether You Are In The Faith; Test Yourselves. Do You Not Realize That Christ Jesus Is In You--unless, Of Course, You Fail The Test?",
+            "And I Trust That You Will Discover That We Have Not Failed The Test.",
+            "Now We Pray To God That You Will Not Do Anything Wrong. Not That People Will See That We Have Stood The Test But That You Will Do What Is Right Even Though We May Seem To Have Failed.",
+            "For We Cannot Do Anything Against The Truth, But Only For The Truth.",
+            "We Are Glad Whenever We Are Weak But You Are Strong; And Our Prayer Is For Your Perfection.",
+            "This Is Why I Write These Things When I Am Absent, That When I Come I May Not Have To Be Harsh In My Use Of Authority--the Authority The Lord Gave Me For Building You Up, Not For Tearing You Down.",
+            "Finally, Brothers, Good-by. Aim For Perfection, Listen To My Appeal, Be Of One Mind, Live In Peace. And The God Of Love And Peace Will Be With You.",
+            "Greet One Another With A Holy Kiss.",
+            "All The Saints Send Their Greetings.",
+            "May The Grace Of The Lord Jesus Christ, And The Love Of God, And The Fellowship Of The Holy Spirit Be With You All."
+        ]
+    ]
 }

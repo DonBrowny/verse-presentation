@@ -1,240 +1,67 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "38000000",
-          "Verse": "The burden of the word of the LORD to Israel by Malachi."
-        },
-        {
-          "Verseid": "38000001",
-          "Verse": "I have loved you, says the LORD. Yet all of you say, Wherein have you loved us? Was not Esau Jacob's brother? says the LORD: yet I loved Jacob,"
-        },
-        {
-          "Verseid": "38000002",
-          "Verse": "And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness."
-        },
-        {
-          "Verseid": "38000003",
-          "Verse": "Whereas Edom says, We are impoverished, but we will return and build the desolate places; thus says the LORD of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the LORD has indignation for ever."
-        },
-        {
-          "Verseid": "38000004",
-          "Verse": "And your eyes shall see, and all of you shall say, The LORD will be magnified from the border of Israel."
-        },
-        {
-          "Verseid": "38000005",
-          "Verse": "A son honors his father, and a servant his master: if then I be a father, where is mine honour? and if I be a master, where is my fear? says the LORD of hosts unto you, O priests, that despise my name. And all of you say, Wherein have we despised your name?"
-        },
-        {
-          "Verseid": "38000006",
-          "Verse": "All of you offer polluted bread upon mine altar; and all of you say, Wherein have we polluted you? In that all of you say, The table of the LORD is contemptible."
-        },
-        {
-          "Verseid": "38000007",
-          "Verse": "And if all of you offer the blind for sacrifice, is it not evil? and if all of you offer the lame and sick, is it not evil? offer it now unto your governor; will he be pleased with you, or accept your person? says the LORD of hosts."
-        },
-        {
-          "Verseid": "38000008",
-          "Verse": "And now, I pray you, plead to God that he will be gracious unto us: this has been by your means: will he regard your persons? says the LORD of hosts."
-        },
-        {
-          "Verseid": "38000009",
-          "Verse": "Who is there even among you that would shut the doors for nothing? neither do all of you kindle fire on mine altar for nothing. I have no pleasure in you, says the LORD of hosts, neither will I accept an offering at your hand."
-        },
-        {
-          "Verseid": "38000010",
-          "Verse": "For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles; and in every place incense shall be offered unto my name, and a pure offering: for my name shall be great among the heathen, says the LORD of hosts."
-        },
-        {
-          "Verseid": "38000011",
-          "Verse": "But all of you have profaned it, in that all of you say, The table of the LORD is polluted; and the fruit thereof, even his food, is contemptible."
-        },
-        {
-          "Verseid": "38000012",
-          "Verse": "All of you said also, Behold, what a weariness is it! and all of you have snuffed at it, says the LORD of hosts; and all of you brought that which was torn, and the lame, and the sick; thus all of you brought an offering: should I accept this of your hand? says the LORD."
-        },
-        {
-          "Verseid": "38000013",
-          "Verse": "But cursed be the deceiver, which has in his flock a male, and vows, and sacrifices unto the LORD a corrupt thing: for I am a great King, says the LORD of hosts, and my name is dreadful among the heathen."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "38001000",
-          "Verse": "And now, O all of you priests, this commandment is for you."
-        },
-        {
-          "Verseid": "38001001",
-          "Verse": "If all of you will not hear, and if all of you will not lay it to heart, to give glory unto my name, says the LORD of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because all of you do not lay it to heart."
-        },
-        {
-          "Verseid": "38001002",
-          "Verse": "Behold, I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts; and one shall take you away with it."
-        },
-        {
-          "Verseid": "38001003",
-          "Verse": "And all of you shall know that I have sent this commandment unto you, that my covenant might be with Levi, says the LORD of hosts."
-        },
-        {
-          "Verseid": "38001004",
-          "Verse": "My covenant was with him of life and peace; and I gave them to him for the fear wherewith he feared me, and was afraid before my name."
-        },
-        {
-          "Verseid": "38001005",
-          "Verse": "The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity."
-        },
-        {
-          "Verseid": "38001006",
-          "Verse": "For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the LORD of hosts."
-        },
-        {
-          "Verseid": "38001007",
-          "Verse": "But all of you are departed out of the way; all of you have caused many to stumble at the law; all of you have corrupted the covenant of Levi, says the LORD of hosts."
-        },
-        {
-          "Verseid": "38001008",
-          "Verse": "Therefore have I also made you contemptible and base before all the people, according as all of you have not kept my ways, but have been partial in the law."
-        },
-        {
-          "Verseid": "38001009",
-          "Verse": "Have we not all one father? has not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?"
-        },
-        {
-          "Verseid": "38001010",
-          "Verse": "Judah has dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah has profaned the holiness of the LORD which he loved, and has married the daughter of a strange god."
-        },
-        {
-          "Verseid": "38001011",
-          "Verse": "The LORD will cut off the man that does this, the master and the scholar, out of the tabernacles of Jacob, and him that offers an offering unto the LORD of hosts."
-        },
-        {
-          "Verseid": "38001012",
-          "Verse": "And this have all of you done again, covering the altar of the LORD with tears, with weeping, and with crying out, insomuch that he regards not the offering any more, or receives it with good will at your hand."
-        },
-        {
-          "Verseid": "38001013",
-          "Verse": "Yet all of you say, Wherefore? Because the LORD has been witness between you and the wife of your youth, against whom you have dealt treacherously: yet is she your companion, and the wife of your covenant."
-        },
-        {
-          "Verseid": "38001014",
-          "Verse": "And did not he make one? Yet had he the residue of the spirit. And wherefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth."
-        },
-        {
-          "Verseid": "38001015",
-          "Verse": "For the LORD, the God of Israel, says that he hates putting away: for one covers violence with his garment, says the LORD of hosts: therefore take heed to your spirit, that all of you deal not treacherously."
-        },
-        {
-          "Verseid": "38001016",
-          "Verse": "All of you have wearied the LORD with your words. Yet all of you say, Wherein have we wearied him? When all of you say, Every one that does evil is good in the sight of the LORD, and he delights in them; or, Where is the God of judgment?"
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "38002000",
-          "Verse": "Behold, I will send my messenger, and he shall prepare the way before me: and the LORD, whom all of you seek, shall suddenly come to his temple, even the messenger of the covenant, whom all of you delight in: behold, he shall come, says the LORD of hosts."
-        },
-        {
-          "Verseid": "38002001",
-          "Verse": "But who may abide the day of his coming? and who shall stand when he appears? for he is like a refiner's fire, and like fullers' soap:"
-        },
-        {
-          "Verseid": "38002002",
-          "Verse": "And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness."
-        },
-        {
-          "Verseid": "38002003",
-          "Verse": "Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years."
-        },
-        {
-          "Verseid": "38002004",
-          "Verse": "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the worker in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, says the LORD of hosts."
-        },
-        {
-          "Verseid": "38002005",
-          "Verse": "For I am the LORD, I change not; therefore all of you sons of Jacob are not consumed."
-        },
-        {
-          "Verseid": "38002006",
-          "Verse": "Even from the days of your fathers all of you are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, says the LORD of hosts. But all of you said, Wherein shall we return?"
-        },
-        {
-          "Verseid": "38002007",
-          "Verse": "Will a man rob God? Yet all of you have robbed me. But all of you say, Wherein have we robbed you? In tithes and offerings."
-        },
-        {
-          "Verseid": "38002008",
-          "Verse": "All of you are cursed with a curse: for all of you have robbed me, even this whole nation."
-        },
-        {
-          "Verseid": "38002009",
-          "Verse": "Bring all of you all the tithes into the storehouse, that there may be food in mine house, and prove me now herewith, says the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it."
-        },
-        {
-          "Verseid": "38002010",
-          "Verse": "And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, says the LORD of hosts."
-        },
-        {
-          "Verseid": "38002011",
-          "Verse": "And all nations shall call you blessed: for all of you shall be a delightsome land, says the LORD of hosts."
-        },
-        {
-          "Verseid": "38002012",
-          "Verse": "Your words have been stout against me, says the LORD. Yet all of you say, What have we spoken so much against you?"
-        },
-        {
-          "Verseid": "38002013",
-          "Verse": "All of you have said, It is vain to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the LORD of hosts?"
-        },
-        {
-          "Verseid": "38002014",
-          "Verse": "And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered."
-        },
-        {
-          "Verseid": "38002015",
-          "Verse": "Then they that feared the LORD spoke often one to another: and the LORD hearkened, and heard it, and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name."
-        },
-        {
-          "Verseid": "38002016",
-          "Verse": "And they shall be mine, says the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spares his own son that serves him."
-        },
-        {
-          "Verseid": "38002017",
-          "Verse": "Then shall all of you return, and discern between the righteous and the wicked, between him that serves God and him that serves him not."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "38003000",
-          "Verse": "For, behold, the day comes, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that comes shall burn them up, says the LORD of hosts, that it shall leave them neither root nor branch."
-        },
-        {
-          "Verseid": "38003001",
-          "Verse": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and all of you shall go forth, and grow up as calves of the stall."
-        },
-        {
-          "Verseid": "38003002",
-          "Verse": "And all of you shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, says the LORD of hosts."
-        },
-        {
-          "Verseid": "38003003",
-          "Verse": "Remember all of you the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments."
-        },
-        {
-          "Verseid": "38003004",
-          "Verse": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:"
-        },
-        {
-          "Verseid": "38003005",
-          "Verse": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and strike the earth with a curse."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "An Oracle: The Word Of The Lord To Israel Through Malachi.",
+            "\"I Have Loved You,\" Says The Lord . \"But You Ask, 'How Have You Loved Us?' \"Was Not Esau Jacob's Brother?\" The Lord Says. \"Yet I Have Loved Jacob,",
+            "But Esau I Have Hated, And I Have Turned His Mountains Into A Wasteland And Left His Inheritance To The Desert Jackals.\"",
+            "Edom May Say, \"Though We Have Been Crushed, We Will Rebuild The Ruins.\" But This Is What The Lord Almighty Says: \"They May Build, But I Will Demolish. They Will Be Called The Wicked Land, A People Always Under The Wrath Of The Lord .",
+            "You Will See It With Your Own Eyes And Say, 'Great Is The Lord -Even Beyond The Borders Of Israel!'",
+            "\"A Son Honors His Father, And A Servant His Master. If I Am A Father, Where Is The Honor Due Me? If I Am A Master, Where Is The Respect Due Me?\" Says The Lord Almighty. \"It Is You, O Priests, Who Show Contempt For My Name. \"But You Ask, 'How Have We Shown Contempt For Your Name?'",
+            "\"You Place Defiled Food On My Altar. \"But You Ask, 'How Have We Defiled You?' \"By Saying That The Lord 'S Table Is Contemptible.",
+            "When You Bring Blind Animals For Sacrifice, Is That Not Wrong? When You Sacrifice Crippled Or Diseased Animals, Is That Not Wrong? Try Offering Them To Your Governor! Would He Be Pleased With You? Would He Accept You?\" Says The Lord Almighty.",
+            "\"Now Implore God To Be Gracious To Us. With Such Offerings From Your Hands, Will He Accept You?\"-says The Lord Almighty.",
+            "\"Oh, That One Of You Would Shut The Temple Doors, So That You Would Not Light Useless Fires On My Altar! I Am Not Pleased With You,\" Says The Lord Almighty, \"And I Will Accept No Offering From Your Hands.",
+            "My Name Will Be Great Among The Nations, From The Rising To The Setting Of The Sun. In Every Place Incense And Pure Offerings Will Be Brought To My Name, Because My Name Will Be Great Among The Nations,\" Says The Lord Almighty.",
+            "\"But You Profane It By Saying Of The Lord's Table, 'It Is Defiled,' And Of Its Food, 'It Is Contemptible.'",
+            "And You Say, 'What A Burden!' And You Sniff At It Contemptuously,\" Says The Lord Almighty. \"When You Bring Injured, Crippled Or Diseased Animals And Offer Them As Sacrifices, Should I Accept Them From Your Hands?\" Says The Lord .",
+            "\"Cursed Is The Cheat Who Has An Acceptable Male In His Flock And Vows To Give It, But Then Sacrifices A Blemished Animal To The Lord. For I Am A Great King,\" Says The Lord Almighty, \"And My Name Is To Be Feared Among The Nations."
+        ],
+        [
+            "\"And Now This Admonition Is For You, O Priests.",
+            "If You Do Not Listen, And If You Do Not Set Your Heart To Honor My Name,\" Says The Lord Almighty, \"I Will Send A Curse Upon You, And I Will Curse Your Blessings. Yes, I Have Already Cursed Them, Because You Have Not Set Your Heart To Honor Me.",
+            "\"Because Of You I Will Rebuke Your Descendants ; I Will Spread On Your Faces The Offal From Your Festival Sacrifices, And You Will Be Carried Off With It.",
+            "And You Will Know That I Have Sent You This Admonition So That My Covenant With Levi May Continue,\" Says The Lord Almighty.",
+            "\"My Covenant Was With Him, A Covenant Of Life And Peace, And I Gave Them To Him; This Called For Reverence And He Revered Me And Stood In Awe Of My Name.",
+            "True Instruction Was In His Mouth And Nothing False Was Found On His Lips. He Walked With Me In Peace And Uprightness, And Turned Many From Sin.",
+            "\"For The Lips Of A Priest Ought To Preserve Knowledge, And From His Mouth Men Should Seek Instruction-because He Is The Messenger Of The Lord Almighty.",
+            "But You Have Turned From The Way And By Your Teaching Have Caused Many To Stumble; You Have Violated The Covenant With Levi,\" Says The Lord Almighty.",
+            "\"So I Have Caused You To Be Despised And Humiliated Before All The People, Because You Have Not Followed My Ways But Have Shown Partiality In Matters Of The Law.\"",
+            "Have We Not All One Father ? Did Not One God Create Us? Why Do We Profane The Covenant Of Our Fathers By Breaking Faith With One Another?",
+            "Judah Has Broken Faith. A Detestable Thing Has Been Committed In Israel And In Jerusalem: Judah Has Desecrated The Sanctuary The Lord Loves, By Marrying The Daughter Of A Foreign God.",
+            "As For The Man Who Does This, Whoever He May Be, May The Lord Cut Him Off From The Tents Of Jacob -Even Though He Brings Offerings To The Lord Almighty.",
+            "Another Thing You Do: You Flood The Lord 'S Altar With Tears. You Weep And Wail Because He No Longer Pays Attention To Your Offerings Or Accepts Them With Pleasure From Your Hands.",
+            "You Ask, \"Why?\" It Is Because The Lord Is Acting As The Witness Between You And The Wife Of Your Youth, Because You Have Broken Faith With Her, Though She Is Your Partner, The Wife Of Your Marriage Covenant.",
+            "Has Not The Lord Made Them One? In Flesh And Spirit They Are His. And Why One? Because He Was Seeking Godly Offspring. So Guard Yourself In Your Spirit, And Do Not Break Faith With The Wife Of Your Youth.",
+            "\"I Hate Divorce,\" Says The Lord God Of Israel, \"And I Hate A Man's Covering Himself With Violence As Well As With His Garment,\" Says The Lord Almighty. So Guard Yourself In Your Spirit, And Do Not Break Faith.",
+            "You Have Wearied The Lord With Your Words. \"How Have We Wearied Him?\" You Ask. By Saying, \"All Who Do Evil Are Good In The Eyes Of The Lord , And He Is Pleased With Them\" Or \"Where Is The God Of Justice?\""
+        ],
+        [
+            "\"See, I Will Send My Messenger, Who Will Prepare The Way Before Me. Then Suddenly The Lord You Are Seeking Will Come To His Temple; The Messenger Of The Covenant, Whom You Desire, Will Come,\" Says The Lord Almighty.",
+            "But Who Can Endure The Day Of His Coming? Who Can Stand When He Appears? For He Will Be Like A Refiner's Fire Or A Launderer's Soap.",
+            "He Will Sit As A Refiner And Purifier Of Silver; He Will Purify The Levites And Refine Them Like Gold And Silver. Then The Lord Will Have Men Who Will Bring Offerings In Righteousness,",
+            "And The Offerings Of Judah And Jerusalem Will Be Acceptable To The Lord , As In Days Gone By, As In Former Years.",
+            "\"So I Will Come Near To You For Judgment. I Will Be Quick To Testify Against Sorcerers, Adulterers And Perjurers, Against Those Who Defraud Laborers Of Their Wages, Who Oppress The Widows And The Fatherless, And Deprive Aliens Of Justice, But Do Not Fear Me,\" Says The Lord Almighty.",
+            "\"I The Lord Do Not Change. So You, O Descendants Of Jacob, Are Not Destroyed.",
+            "Ever Since The Time Of Your Forefathers You Have Turned Away From My Decrees And Have Not Kept Them. Return To Me, And I Will Return To You,\" Says The Lord Almighty. \"But You Ask, 'How Are We To Return?'",
+            "\"Will A Man Rob God? Yet You Rob Me. \"But You Ask, 'How Do We Rob You?' \"In Tithes And Offerings.",
+            "You Are Under A Curse-the Whole Nation Of You-because You Are Robbing Me.",
+            "Bring The Whole Tithe Into The Storehouse, That There May Be Food In My House. Test Me In This,\" Says The Lord Almighty, \"And See If I Will Not Throw Open The Floodgates Of Heaven And Pour Out So Much Blessing That You Will Not Have Room Enough For It.",
+            "I Will Prevent Pests From Devouring Your Crops, And The Vines In Your Fields Will Not Cast Their Fruit,\" Says The Lord Almighty.",
+            "\"Then All The Nations Will Call You Blessed, For Yours Will Be A Delightful Land,\" Says The Lord Almighty.",
+            "\"You Have Said Harsh Things Against Me,\" Says The Lord . \"Yet You Ask, 'What Have We Said Against You?'",
+            "\"You Have Said, 'It Is Futile To Serve God. What Did We Gain By Carrying Out His Requirements And Going About Like Mourners Before The Lord Almighty?",
+            "But Now We Call The Arrogant Blessed. Certainly The Evildoers Prosper, And Even Those Who Challenge God Escape.' \"",
+            "Then Those Who Feared The Lord Talked With Each Other, And The Lord Listened And Heard. A Scroll Of Remembrance Was Written In His Presence Concerning Those Who Feared The Lord And Honored His Name.",
+            "\"They Will Be Mine,\" Says The Lord Almighty, \"In The Day When I Make Up My Treasured Possession. I Will Spare Them, Just As In Compassion A Man Spares His Son Who Serves Him.",
+            "And You Will Again See The Distinction Between The Righteous And The Wicked, Between Those Who Serve God And Those Who Do Not."
+        ],
+        [
+            "\"Surely The Day Is Coming; It Will Burn Like A Furnace. All The Arrogant And Every Evildoer Will Be Stubble, And That Day That Is Coming Will Set Them On Fire,\" Says The Lord Almighty. \"Not A Root Or A Branch Will Be Left To Them.",
+            "But For You Who Revere My Name, The Sun Of Righteousness Will Rise With Healing In Its Wings. And You Will Go Out And Leap Like Calves Released From The Stall.",
+            "Then You Will Trample Down The Wicked; They Will Be Ashes Under The Soles Of Your Feet On The Day When I Do These Things,\" Says The Lord Almighty.",
+            "\"Remember The Law Of My Servant Moses, The Decrees And Laws I Gave Him At Horeb For All Israel.",
+            "\"See, I Will Send You The Prophet Elijah Before That Great And Dreadful Day Of The Lord Comes.",
+            "He Will Turn The Hearts Of The Fathers To Their Children, And The Hearts Of The Children To Their Fathers; Or Else I Will Come And Strike The Land With A Curse.\""
+        ]
+    ]
 }

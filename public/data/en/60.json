@@ -1,260 +1,71 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "60000000",
-          "Verse": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:"
-        },
-        {
-          "Verseid": "60000001",
-          "Verse": "Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,"
-        },
-        {
-          "Verseid": "60000002",
-          "Verse": "According as his divine power has given unto us all things that pertain unto life and godliness, through the knowledge of him that has called us to glory and virtue:"
-        },
-        {
-          "Verseid": "60000003",
-          "Verse": "Whereby are given unto us exceeding great and precious promises: that by these all of you might be partakers of the divine nature, having escaped the corruption that is in the world through lust."
-        },
-        {
-          "Verseid": "60000004",
-          "Verse": "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;"
-        },
-        {
-          "Verseid": "60000005",
-          "Verse": "And to knowledge wilful restrain; and to wilful restrain patience; and to patience godliness;"
-        },
-        {
-          "Verseid": "60000006",
-          "Verse": "And to godliness brotherly kindness; and to brotherly kindness love."
-        },
-        {
-          "Verseid": "60000007",
-          "Verse": "For if these things be in you, and abound, they make you that all of you shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ."
-        },
-        {
-          "Verseid": "60000008",
-          "Verse": "But he that lacks these things is blind, and cannot see far off, and has forgotten that he was purged from his old sins."
-        },
-        {
-          "Verseid": "60000009",
-          "Verse": "Wherefore the rather, brethren, give diligence to make your calling and election sure: for if all of you do these things, all of you shall never fall:"
-        },
-        {
-          "Verseid": "60000010",
-          "Verse": "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ."
-        },
-        {
-          "Verseid": "60000011",
-          "Verse": "Wherefore I will not be negligent to put you always in remembrance of these things, though all of you know them, and be established in the present truth."
-        },
-        {
-          "Verseid": "60000012",
-          "Verse": "Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;"
-        },
-        {
-          "Verseid": "60000013",
-          "Verse": "Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ has showed me."
-        },
-        {
-          "Verseid": "60000014",
-          "Verse": "Moreover I will endeavour that all of you may be able after my decease to have these things always in remembrance."
-        },
-        {
-          "Verseid": "60000015",
-          "Verse": "For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty."
-        },
-        {
-          "Verseid": "60000016",
-          "Verse": "For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased."
-        },
-        {
-          "Verseid": "60000017",
-          "Verse": "And this voice which came from heaven we heard, when we were with him in the holy mount."
-        },
-        {
-          "Verseid": "60000018",
-          "Verse": "We have also a more sure word of prophecy; unto which all of you do well that all of you take heed, as unto a light that shines in a dark place, until the day dawn, and the day star arise in your hearts:"
-        },
-        {
-          "Verseid": "60000019",
-          "Verse": "Knowing this first, that no prophecy of the scripture is of any private interpretation."
-        },
-        {
-          "Verseid": "60000020",
-          "Verse": "For the prophecy came not in old time by the will of man: but holy men of God spoke as they were moved by the Holy Spirit."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "60001000",
-          "Verse": "But there were false prophets also among the people, even as there shall be false teachers among you, who privately shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction."
-        },
-        {
-          "Verseid": "60001001",
-          "Verse": "And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of."
-        },
-        {
-          "Verseid": "60001002",
-          "Verse": "And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingers not, and their damnation slumbers not."
-        },
-        {
-          "Verseid": "60001003",
-          "Verse": "For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;"
-        },
-        {
-          "Verseid": "60001004",
-          "Verse": "And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;"
-        },
-        {
-          "Verseid": "60001005",
-          "Verse": "And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an example unto those that after should live ungodly;"
-        },
-        {
-          "Verseid": "60001006",
-          "Verse": "And delivered just Lot, vexed with the filthy conversation of the wicked:"
-        },
-        {
-          "Verseid": "60001007",
-          "Verse": "(For that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their unlawful deeds;)"
-        },
-        {
-          "Verseid": "60001008",
-          "Verse": "The Lord knows how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:"
-        },
-        {
-          "Verseid": "60001009",
-          "Verse": "But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Arrogant are they, self-willed, they are not afraid to speak evil of dignities."
-        },
-        {
-          "Verseid": "60001010",
-          "Verse": "Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord."
-        },
-        {
-          "Verseid": "60001011",
-          "Verse": "But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;"
-        },
-        {
-          "Verseid": "60001012",
-          "Verse": "And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. Spots they are and blemishes, sporting themselves with their own deceits while they feast with you;"
-        },
-        {
-          "Verseid": "60001013",
-          "Verse": "Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:"
-        },
-        {
-          "Verseid": "60001014",
-          "Verse": "Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;"
-        },
-        {
-          "Verseid": "60001015",
-          "Verse": "But was rebuked for his iniquity: the dumb ass speaking with man's voice forbad the madness of the prophet."
-        },
-        {
-          "Verseid": "60001016",
-          "Verse": "These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever."
-        },
-        {
-          "Verseid": "60001017",
-          "Verse": "For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much wantonness, those that were clean escaped from them who live in error."
-        },
-        {
-          "Verseid": "60001018",
-          "Verse": "While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage."
-        },
-        {
-          "Verseid": "60001019",
-          "Verse": "For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning."
-        },
-        {
-          "Verseid": "60001020",
-          "Verse": "For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them."
-        },
-        {
-          "Verseid": "60001021",
-          "Verse": "But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "60002000",
-          "Verse": "This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:"
-        },
-        {
-          "Verseid": "60002001",
-          "Verse": "That all of you may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:"
-        },
-        {
-          "Verseid": "60002002",
-          "Verse": "Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,"
-        },
-        {
-          "Verseid": "60002003",
-          "Verse": "And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation."
-        },
-        {
-          "Verseid": "60002004",
-          "Verse": "For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:"
-        },
-        {
-          "Verseid": "60002005",
-          "Verse": "Whereby the world that then was, being overflowed with water, perished:"
-        },
-        {
-          "Verseid": "60002006",
-          "Verse": "But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men."
-        },
-        {
-          "Verseid": "60002007",
-          "Verse": "But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day."
-        },
-        {
-          "Verseid": "60002008",
-          "Verse": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering toward us, not willing that any should perish, but that all should come to repentance."
-        },
-        {
-          "Verseid": "60002009",
-          "Verse": "But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up."
-        },
-        {
-          "Verseid": "60002010",
-          "Verse": "Seeing then that all these things shall be dissolved, what manner of persons ought all of you to be in all holy conversation and godliness,"
-        },
-        {
-          "Verseid": "60002011",
-          "Verse": "Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?"
-        },
-        {
-          "Verseid": "60002012",
-          "Verse": "Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwells righteousness."
-        },
-        {
-          "Verseid": "60002013",
-          "Verse": "Wherefore, beloved, seeing that all of you look for such things, be diligent that all of you may be found of him in peace, without spot, and blameless."
-        },
-        {
-          "Verseid": "60002014",
-          "Verse": "And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him has written unto you;"
-        },
-        {
-          "Verseid": "60002015",
-          "Verse": "As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable shift, as they do also the other scriptures, unto their own destruction."
-        },
-        {
-          "Verseid": "60002016",
-          "Verse": "All of you therefore, beloved, seeing all of you know these things before, beware lest all of you also, being led away with the error of the wicked, fall from your own steadfastness."
-        },
-        {
-          "Verseid": "60002017",
-          "Verse": "But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "Simon Peter, A Servant And Apostle Of Jesus Christ, To Those Who Through The Righteousness Of Our God And Savior Jesus Christ Have Received A Faith As Precious As Ours:",
+            "Grace And Peace Be Yours In Abundance Through The Knowledge Of God And Of Jesus Our Lord.",
+            "His Divine Power Has Given Us Everything We Need For Life And Godliness Through Our Knowledge Of Him Who Called Us By His Own Glory And Goodness.",
+            "Through These He Has Given Us His Very Great And Precious Promises, So That Through Them You May Participate In The Divine Nature And Escape The Corruption In The World Caused By Evil Desires.",
+            "For This Very Reason, Make Every Effort To Add To Your Faith Goodness; And To Goodness, Knowledge;",
+            "And To Knowledge, Self-control; And To Self-control, Perseverance; And To Perseverance, Godliness;",
+            "And To Godliness, Brotherly Kindness; And To Brotherly Kindness, Love.",
+            "For If You Possess These Qualities In Increasing Measure, They Will Keep You From Being Ineffective And Unproductive In Your Knowledge Of Our Lord Jesus Christ.",
+            "But If Anyone Does Not Have Them, He Is Nearsighted And Blind, And Has Forgotten That He Has Been Cleansed From His Past Sins.",
+            "Therefore, My Brothers, Be All The More Eager To Make Your Calling And Election Sure. For If You Do These Things, You Will Never Fall,",
+            "And You Will Receive A Rich Welcome Into The Eternal Kingdom Of Our Lord And Savior Jesus Christ.",
+            "So I Will Always Remind You Of These Things, Even Though You Know Them And Are Firmly Established In The Truth You Now Have.",
+            "I Think It Is Right To Refresh Your Memory As Long As I Live In The Tent Of This Body,",
+            "Because I Know That I Will Soon Put It Aside, As Our Lord Jesus Christ Has Made Clear To Me.",
+            "And I Will Make Every Effort To See That After My Departure You Will Always Be Able To Remember These Things.",
+            "We Did Not Follow Cleverly Invented Stories When We Told You About The Power And Coming Of Our Lord Jesus Christ, But We Were Eyewitnesses Of His Majesty.",
+            "For He Received Honor And Glory From God The Father When The Voice Came To Him From The Majestic Glory, Saying, \"This Is My Son, Whom I Love; With Him I Am Well Pleased.\"",
+            "We Ourselves Heard This Voice That Came From Heaven When We Were With Him On The Sacred Mountain.",
+            "And We Have The Word Of The Prophets Made More Certain, And You Will Do Well To Pay Attention To It, As To A Light Shining In A Dark Place, Until The Day Dawns And The Morning Star Rises In Your Hearts.",
+            "Above All, You Must Understand That No Prophecy Of Scripture Came About By The Prophet's Own Interpretation.",
+            "For Prophecy Never Had Its Origin In The Will Of Man, But Men Spoke From God As They Were Carried Along By The Holy Spirit."
+        ],
+        [
+            "But There Were Also False Prophets Among The People, Just As There Will Be False Teachers Among You. They Will Secretly Introduce Destructive Heresies, Even Denying The Sovereign Lord Who Bought Them--bringing Swift Destruction On Themselves.",
+            "Many Will Follow Their Shameful Ways And Will Bring The Way Of Truth Into Disrepute.",
+            "In Their Greed These Teachers Will Exploit You With Stories They Have Made Up. Their Condemnation Has Long Been Hanging Over Them, And Their Destruction Has Not Been Sleeping.",
+            "For If God Did Not Spare Angels When They Sinned, But Sent Them To Hell, Putting Them Into Gloomy Dungeons To Be Held For Judgment;",
+            "If He Did Not Spare The Ancient World When He Brought The Flood On Its Ungodly People, But Protected Noah, A Preacher Of Righteousness, And Seven Others;",
+            "If He Condemned The Cities Of Sodom And Gomorrah By Burning Them To Ashes, And Made Them An Example Of What Is Going To Happen To The Ungodly;",
+            "And If He Rescued Lot, A Righteous Man, Who Was Distressed By The Filthy Lives Of Lawless Men",
+            "(For That Righteous Man, Living Among Them Day After Day, Was Tormented In His Righteous Soul By The Lawless Deeds He Saw And Heard)--",
+            "If This Is So, Then The Lord Knows How To Rescue Godly Men From Trials And To Hold The Unrighteous For The Day Of Judgment, While Continuing Their Punishment.",
+            "This Is Especially True Of Those Who Follow The Corrupt Desire Of The Sinful Nature And Despise Authority.",
+            "Bold And Arrogant, These Men Are Not Afraid To Slander Celestial Beings; Yet Even Angels, Although They Are Stronger And More Powerful, Do Not Bring Slanderous Accusations Against Such Beings In The Presence Of The Lord.",
+            "But These Men Blaspheme In Matters They Do Not Understand. They Are Like Brute Beasts, Creatures Of Instinct, Born Only To Be Caught And Destroyed, And Like Beasts They Too Will Perish.",
+            "They Will Be Paid Back With Harm For The Harm They Have Done. Their Idea Of Pleasure Is To Carouse In Broad Daylight. They Are Blots And Blemishes, Reveling In Their Pleasures While They Feast With You.",
+            "With Eyes Full Of Adultery, They Never Stop Sinning; They Seduce The Unstable; They Are Experts In Greed--an Accursed Brood!",
+            "They Have Left The Straight Way And Wandered Off To Follow The Way Of Balaam Son Of Beor, Who Loved The Wages Of Wickedness.",
+            "But He Was Rebuked For His Wrongdoing By A Donkey--a Beast Without Speech--who Spoke With A Man's Voice And Restrained The Prophet's Madness.",
+            "These Men Are Springs Without Water And Mists Driven By A Storm. Blackest Darkness Is Reserved For Them.",
+            "For They Mouth Empty, Boastful Words And, By Appealing To The Lustful Desires Of Sinful Human Nature, They Entice People Who Are Just Escaping From Those Who Live In Error.",
+            "They Promise Them Freedom, While They Themselves Are Slaves Of Depravity--for A Man Is A Slave To Whatever Has Mastered Him.",
+            "If They Have Escaped The Corruption Of The World By Knowing Our Lord And Savior Jesus Christ And Are Again Entangled In It And Overcome, They Are Worse Off At The End Than They Were At The Beginning.",
+            "It Would Have Been Better For Them Not To Have Known The Way Of Righteousness, Than To Have Known It And Then To Turn Their Backs On The Sacred Command That Was Passed On To Them.",
+            "Of Them The Proverbs Are True: \"A Dog Returns To Its Vomit,\" And, \"A Sow That Is Washed Goes Back To Her Wallowing In The Mud.\""
+        ],
+        [
+            "Dear Friends, This Is Now My Second Letter To You. I Have Written Both Of Them As Reminders To Stimulate You To Wholesome Thinking.",
+            "I Want You To Recall The Words Spoken In The Past By The Holy Prophets And The Command Given By Our Lord And Savior Through Your Apostles.",
+            "First Of All, You Must Understand That In The Last Days Scoffers Will Come, Scoffing And Following Their Own Evil Desires.",
+            "They Will Say, \"Where Is This 'Coming' He Promised? Ever Since Our Fathers Died, Everything Goes On As It Has Since The Beginning Of Creation.\"",
+            "But They Deliberately Forget That Long Ago By God's Word The Heavens Existed And The Earth Was Formed Out Of Water And By Water.",
+            "By These Waters Also The World Of That Time Was Deluged And Destroyed.",
+            "By The Same Word The Present Heavens And Earth Are Reserved For Fire, Being Kept For The Day Of Judgment And Destruction Of Ungodly Men.",
+            "But Do Not Forget This One Thing, Dear Friends: With The Lord A Day Is Like A Thousand Years, And A Thousand Years Are Like A Day.",
+            "The Lord Is Not Slow In Keeping His Promise, As Some Understand Slowness. He Is Patient With You, Not Wanting Anyone To Perish, But Everyone To Come To Repentance.",
+            "But The Day Of The Lord Will Come Like A Thief. The Heavens Will Disappear With A Roar; The Elements Will Be Destroyed By Fire, And The Earth And Everything In It Will Be Laid Bare.",
+            "Since Everything Will Be Destroyed In This Way, What Kind Of People Ought You To Be? You Ought To Live Holy And Godly Lives",
+            "As You Look Forward To The Day Of God And Speed Its Coming. That Day Will Bring About The Destruction Of The Heavens By Fire, And The Elements Will Melt In The Heat.",
+            "But In Keeping With His Promise We Are Looking Forward To A New Heaven And A New Earth, The Home Of Righteousness.",
+            "So Then, Dear Friends, Since You Are Looking Forward To This, Make Every Effort To Be Found Spotless, Blameless And At Peace With Him.",
+            "Bear In Mind That Our Lord's Patience Means Salvation, Just As Our Dear Brother Paul Also Wrote You With The Wisdom That God Gave Him.",
+            "He Writes The Same Way In All His Letters, Speaking In Them Of These Matters. His Letters Contain Some Things That Are Hard To Understand, Which Ignorant And Unstable People Distort, As They Do The Other Scriptures, To Their Own Destruction.",
+            "Therefore, Dear Friends, Since You Already Know This, Be On Your Guard So That You May Not Be Carried Away By The Error Of Lawless Men And Fall From Your Secure Position.",
+            "But Grow In The Grace And Knowledge Of Our Lord And Savior Jesus Christ. To Him Be Glory Both Now And Forever! Amen."
+        ]
+    ]
 }

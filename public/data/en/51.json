@@ -1,380 +1,103 @@
 {
-  "Chapter": [
-    {
-      "Verse": [
-        {
-          "Verseid": "51000000",
-          "Verse": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ."
-        },
-        {
-          "Verseid": "51000001",
-          "Verse": "We give thanks to God always for you all, making mention of you in our prayers;"
-        },
-        {
-          "Verseid": "51000002",
-          "Verse": "Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;"
-        },
-        {
-          "Verseid": "51000003",
-          "Verse": "Knowing, brethren beloved, your election of God."
-        },
-        {
-          "Verseid": "51000004",
-          "Verse": "For our gospel came not unto you in word only, but also in power, and in the Holy Spirit, and in much assurance; as all of you know what manner of men we were among you for your sake."
-        },
-        {
-          "Verseid": "51000005",
-          "Verse": "And all of you became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Spirit."
-        },
-        {
-          "Verseid": "51000006",
-          "Verse": "So that all of you were ensamples to all that believe in Macedonia and Achaia."
-        },
-        {
-          "Verseid": "51000007",
-          "Verse": "For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith toward God is spread abroad; so that we need not to speak any thing."
-        },
-        {
-          "Verseid": "51000008",
-          "Verse": "For they themselves show of us what manner of entering in we had unto you, and how all of you turned to God from idols to serve the living and true God;"
-        },
-        {
-          "Verseid": "51000009",
-          "Verse": "And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "51001000",
-          "Verse": "For yourselves, brethren, know our entrance in unto you, that it was not in vain:"
-        },
-        {
-          "Verseid": "51001001",
-          "Verse": "But even after that we had suffered before, and were shamefully pleaded, as all of you know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention."
-        },
-        {
-          "Verseid": "51001002",
-          "Verse": "For our exhortation was not of deceit, nor of uncleanness, nor in guile:"
-        },
-        {
-          "Verseid": "51001003",
-          "Verse": "But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which tries our hearts."
-        },
-        {
-          "Verseid": "51001004",
-          "Verse": "For neither at any time used we flattering words, as all of you know, nor a coat of covetousness; God is witness:"
-        },
-        {
-          "Verseid": "51001005",
-          "Verse": "Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ."
-        },
-        {
-          "Verseid": "51001006",
-          "Verse": "But we were gentle among you, even as a nurse cherishes her children:"
-        },
-        {
-          "Verseid": "51001007",
-          "Verse": "So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because all of you were dear unto us."
-        },
-        {
-          "Verseid": "51001008",
-          "Verse": "For all of you remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable unto any of you, we preached unto you the gospel of God."
-        },
-        {
-          "Verseid": "51001009",
-          "Verse": "All of you are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe:"
-        },
-        {
-          "Verseid": "51001010",
-          "Verse": "As all of you know how we exhorted and comforted and charged every one of you, as a father does his children,"
-        },
-        {
-          "Verseid": "51001011",
-          "Verse": "That all of you would walk worthy of God, who has called you unto his kingdom and glory."
-        },
-        {
-          "Verseid": "51001012",
-          "Verse": "For this cause also thank we God without ceasing, because, when all of you received the word of God which all of you heard of us, all of you received it not as the word of men, but as it is in truth, the word of God, which effectually works also in you that believe."
-        },
-        {
-          "Verseid": "51001013",
-          "Verse": "For all of you, brethren, became followers of the churches of God which in Judaea are in Christ Jesus: for all of you also have suffered like things of your own countrymen, even as they have of the Jews:"
-        },
-        {
-          "Verseid": "51001014",
-          "Verse": "Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:"
-        },
-        {
-          "Verseid": "51001015",
-          "Verse": "Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins always: for the wrath has come upon them to the uttermost."
-        },
-        {
-          "Verseid": "51001016",
-          "Verse": "But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire."
-        },
-        {
-          "Verseid": "51001017",
-          "Verse": "Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us."
-        },
-        {
-          "Verseid": "51001018",
-          "Verse": "For what is our hope, or joy, or crown of rejoicing? Are not even all of you in the presence of our Lord Jesus Christ at his coming?"
-        },
-        {
-          "Verseid": "51001019",
-          "Verse": "For all of you are our glory and joy."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "51002000",
-          "Verse": "Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;"
-        },
-        {
-          "Verseid": "51002001",
-          "Verse": "And sent Timotheus, our brother, and minister of God, and our fellow labourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:"
-        },
-        {
-          "Verseid": "51002002",
-          "Verse": "That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto."
-        },
-        {
-          "Verseid": "51002003",
-          "Verse": "For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and all of you know."
-        },
-        {
-          "Verseid": "51002004",
-          "Verse": "For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain."
-        },
-        {
-          "Verseid": "51002005",
-          "Verse": "But now when Timotheus came from you unto us, and brought us good tidings of your faith and love, and that all of you have good remembrance of us always, desiring greatly to see us, as we also to see you:"
-        },
-        {
-          "Verseid": "51002006",
-          "Verse": "Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:"
-        },
-        {
-          "Verseid": "51002007",
-          "Verse": "For now we live, if all of you stand fast in the Lord."
-        },
-        {
-          "Verseid": "51002008",
-          "Verse": "For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;"
-        },
-        {
-          "Verseid": "51002009",
-          "Verse": "Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?"
-        },
-        {
-          "Verseid": "51002010",
-          "Verse": "Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you."
-        },
-        {
-          "Verseid": "51002011",
-          "Verse": "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:"
-        },
-        {
-          "Verseid": "51002012",
-          "Verse": "To the end he may establish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "51003000",
-          "Verse": "Furthermore then we plead to you, brethren, and exhort you by the Lord Jesus, that as all of you have received of us how all of you ought to walk and to please God, so all of you would abound more and more."
-        },
-        {
-          "Verseid": "51003001",
-          "Verse": "For all of you know what commandments we gave you by the Lord Jesus."
-        },
-        {
-          "Verseid": "51003002",
-          "Verse": "For this is the will of God, even your sanctification, that all of you should abstain from fornication:"
-        },
-        {
-          "Verseid": "51003003",
-          "Verse": "That every one of you should know how to possess his vessel in sanctification and honour;"
-        },
-        {
-          "Verseid": "51003004",
-          "Verse": "Not in the lust of concupiscence, even as the Gentiles which know not God:"
-        },
-        {
-          "Verseid": "51003005",
-          "Verse": "That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified."
-        },
-        {
-          "Verseid": "51003006",
-          "Verse": "For God has not called us unto uncleanness, but unto holiness."
-        },
-        {
-          "Verseid": "51003007",
-          "Verse": "He therefore that despises, despises not man, but God, who has also given unto us his holy Spirit."
-        },
-        {
-          "Verseid": "51003008",
-          "Verse": "But as concerning brotherly love all of you need not that I write unto you: for all of you yourselves are taught of God to love one another."
-        },
-        {
-          "Verseid": "51003009",
-          "Verse": "And indeed all of you do it toward all the brethren which are in all Macedonia: but we plead to you, brethren, that all of you increase more and more;"
-        },
-        {
-          "Verseid": "51003010",
-          "Verse": "And that all of you study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;"
-        },
-        {
-          "Verseid": "51003011",
-          "Verse": "That all of you may walk honestly toward them that are without, and that all of you may have lack of nothing."
-        },
-        {
-          "Verseid": "51003012",
-          "Verse": "But I would not have you to be ignorant, brethren, concerning them which are asleep, that all of you sorrow not, even as others which have no hope."
-        },
-        {
-          "Verseid": "51003013",
-          "Verse": "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him."
-        },
-        {
-          "Verseid": "51003014",
-          "Verse": "For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep."
-        },
-        {
-          "Verseid": "51003015",
-          "Verse": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:"
-        },
-        {
-          "Verseid": "51003016",
-          "Verse": "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
-        },
-        {
-          "Verseid": "51003017",
-          "Verse": "Wherefore comfort one another with these words."
-        }
-      ]
-    },
-    {
-      "Verse": [
-        {
-          "Verseid": "51004000",
-          "Verse": "But of the times and the seasons, brethren, all of you have no need that I write unto you."
-        },
-        {
-          "Verseid": "51004001",
-          "Verse": "For yourselves know perfectly that the day of the Lord so comes as a thief in the night."
-        },
-        {
-          "Verseid": "51004002",
-          "Verse": "For when they shall say, Peace and safety; then sudden destruction comes upon them, as travail upon a woman with child; and they shall not escape."
-        },
-        {
-          "Verseid": "51004003",
-          "Verse": "But all of you, brethren, are not in darkness, that that day should overtake you as a thief."
-        },
-        {
-          "Verseid": "51004004",
-          "Verse": "All of you are all the children of light, and the children of the day: we are not of the night, nor of darkness."
-        },
-        {
-          "Verseid": "51004005",
-          "Verse": "Therefore let us not sleep, as do others; but let us watch and be sober."
-        },
-        {
-          "Verseid": "51004006",
-          "Verse": "For they that sleep sleep in the night; and they that be drunken are drunken in the night."
-        },
-        {
-          "Verseid": "51004007",
-          "Verse": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation."
-        },
-        {
-          "Verseid": "51004008",
-          "Verse": "For God has not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
-        },
-        {
-          "Verseid": "51004009",
-          "Verse": "Who died for us, that, whether we wake or sleep, we should live together with him."
-        },
-        {
-          "Verseid": "51004010",
-          "Verse": "Wherefore comfort yourselves together, and edify one another, even as also all of you do."
-        },
-        {
-          "Verseid": "51004011",
-          "Verse": "And we plead to you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;"
-        },
-        {
-          "Verseid": "51004012",
-          "Verse": "And to esteem them very highly in love for their work's sake. And be at peace among yourselves."
-        },
-        {
-          "Verseid": "51004013",
-          "Verse": "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men."
-        },
-        {
-          "Verseid": "51004014",
-          "Verse": "See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men."
-        },
-        {
-          "Verseid": "51004015",
-          "Verse": "Rejoice evermore."
-        },
-        {
-          "Verseid": "51004016",
-          "Verse": "Pray without ceasing."
-        },
-        {
-          "Verseid": "51004017",
-          "Verse": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
-        },
-        {
-          "Verseid": "51004018",
-          "Verse": "Quench not the Spirit."
-        },
-        {
-          "Verseid": "51004019",
-          "Verse": "Despise not prophesyings."
-        },
-        {
-          "Verseid": "51004020",
-          "Verse": "Prove all things; hold fast that which is good."
-        },
-        {
-          "Verseid": "51004021",
-          "Verse": "Abstain from all appearance of evil."
-        },
-        {
-          "Verseid": "51004022",
-          "Verse": "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ."
-        },
-        {
-          "Verseid": "51004023",
-          "Verse": "Faithful is he that calls you, who also will do it."
-        },
-        {
-          "Verseid": "51004024",
-          "Verse": "Brethren, pray for us."
-        },
-        {
-          "Verseid": "51004025",
-          "Verse": "Greet all the brethren with an holy kiss."
-        },
-        {
-          "Verseid": "51004026",
-          "Verse": "I charge you by the Lord that this epistle be read unto all the holy brethren."
-        },
-        {
-          "Verseid": "51004027",
-          "Verse": "The grace of our Lord Jesus Christ be with you. Amen."
-        }
-      ]
-    }
-  ]
+    "chapter": [
+        [
+            "Paul, Silas And Timothy, To The Church Of The Thessalonians In God The Father And The Lord Jesus Christ: Grace And Peace To You.",
+            "We Always Thank God For All Of You, Mentioning You In Our Prayers.",
+            "We Continually Remember Before Our God And Father Your Work Produced By Faith, Your Labor Prompted By Love, And Your Endurance Inspired By Hope In Our Lord Jesus Christ.",
+            "For We Know, Brothers Loved By God, That He Has Chosen You,",
+            "Because Our Gospel Came To You Not Simply With Words, But Also With Power, With The Holy Spirit And With Deep Conviction. You Know How We Lived Among You For Your Sake.",
+            "You Became Imitators Of Us And Of The Lord; In Spite Of Severe Suffering, You Welcomed The Message With The Joy Given By The Holy Spirit.",
+            "And So You Became A Model To All The Believers In Macedonia And Achaia.",
+            "The Lord's Message Rang Out From You Not Only In Macedonia And Achaia--your Faith In God Has Become Known Everywhere. Therefore We Do Not Need To Say Anything About It,",
+            "For They Themselves Report What Kind Of Reception You Gave Us. They Tell How You Turned To God From Idols To Serve The Living And True God,",
+            "And To Wait For His Son From Heaven, Whom He Raised From The Dead--jesus, Who Rescues Us From The Coming Wrath."
+        ],
+        [
+            "You Know, Brothers, That Our Visit To You Was Not A Failure.",
+            "We Had Previously Suffered And Been Insulted In Philippi, As You Know, But With The Help Of Our God We Dared To Tell You His Gospel In Spite Of Strong Opposition.",
+            "For The Appeal We Make Does Not Spring From Error Or Impure Motives, Nor Are We Trying To Trick You.",
+            "On The Contrary, We Speak As Men Approved By God To Be Entrusted With The Gospel. We Are Not Trying To Please Men But God, Who Tests Our Hearts.",
+            "You Know We Never Used Flattery, Nor Did We Put On A Mask To Cover Up Greed--god Is Our Witness.",
+            "We Were Not Looking For Praise From Men, Not From You Or Anyone Else.",
+            "As Apostles Of Christ We Could Have Been A Burden To You, But We Were Gentle Among You, Like A Mother Caring For Her Little Children.",
+            "We Loved You So Much That We Were Delighted To Share With You Not Only The Gospel Of God But Our Lives As Well, Because You Had Become So Dear To Us.",
+            "Surely You Remember, Brothers, Our Toil And Hardship; We Worked Night And Day In Order Not To Be A Burden To Anyone While We Preached The Gospel Of God To You.",
+            "You Are Witnesses, And So Is God, Of How Holy, Righteous And Blameless We Were Among You Who Believed.",
+            "For You Know That We Dealt With Each Of You As A Father Deals With His Own Children,",
+            "Encouraging, Comforting And Urging You To Live Lives Worthy Of God, Who Calls You Into His Kingdom And Glory.",
+            "And We Also Thank God Continually Because, When You Received The Word Of God, Which You Heard From Us, You Accepted It Not As The Word Of Men, But As It Actually Is, The Word Of God, Which Is At Work In You Who Believe.",
+            "For You, Brothers, Became Imitators Of God's Churches In Judea, Which Are In Christ Jesus: You Suffered From Your Own Countrymen The Same Things Those Churches Suffered From The Jews,",
+            "Who Killed The Lord Jesus And The Prophets And Also Drove Us Out. They Displease God And Are Hostile To All Men",
+            "In Their Effort To Keep Us From Speaking To The Gentiles So That They May Be Saved. In This Way They Always Heap Up Their Sins To The Limit. The Wrath Of God Has Come Upon Them At Last.",
+            "But, Brothers, When We Were Torn Away From You For A Short Time (In Person, Not In Thought), Out Of Our Intense Longing We Made Every Effort To See You.",
+            "For We Wanted To Come To You--certainly I, Paul, Did, Again And Again--but Satan Stopped Us.",
+            "For What Is Our Hope, Our Joy, Or The Crown In Which We Will Glory In The Presence Of Our Lord Jesus When He Comes? Is It Not You?",
+            "Indeed, You Are Our Glory And Joy."
+        ],
+        [
+            "So When We Could Stand It No Longer, We Thought It Best To Be Left By Ourselves In Athens.",
+            "We Sent Timothy, Who Is Our Brother And God's Fellow Worker In Spreading The Gospel Of Christ, To Strengthen And Encourage You In Your Faith,",
+            "So That No One Would Be Unsettled By These Trials. You Know Quite Well That We Were Destined For Them.",
+            "In Fact, When We Were With You, We Kept Telling You That We Would Be Persecuted. And It Turned Out That Way, As You Well Know.",
+            "For This Reason, When I Could Stand It No Longer, I Sent To Find Out About Your Faith. I Was Afraid That In Some Way The Tempter Might Have Tempted You And Our Efforts Might Have Been Useless.",
+            "But Timothy Has Just Now Come To Us From You And Has Brought Good News About Your Faith And Love. He Has Told Us That You Always Have Pleasant Memories Of Us And That You Long To See Us, Just As We Also Long To See You.",
+            "Therefore, Brothers, In All Our Distress And Persecution We Were Encouraged About You Because Of Your Faith.",
+            "For Now We Really Live, Since You Are Standing Firm In The Lord.",
+            "How Can We Thank God Enough For You In Return For All The Joy We Have In The Presence Of Our God Because Of You?",
+            "Night And Day We Pray Most Earnestly That We May See You Again And Supply What Is Lacking In Your Faith.",
+            "Now May Our God And Father Himself And Our Lord Jesus Clear The Way For Us To Come To You.",
+            "May The Lord Make Your Love Increase And Overflow For Each Other And For Everyone Else, Just As Ours Does For You.",
+            "May He Strengthen Your Hearts So That You Will Be Blameless And Holy In The Presence Of Our God And Father When Our Lord Jesus Comes With All His Holy Ones."
+        ],
+        [
+            "Finally, Brothers, We Instructed You How To Live In Order To Please God, As In Fact You Are Living. Now We Ask You And Urge You In The Lord Jesus To Do This More And More.",
+            "For You Know What Instructions We Gave You By The Authority Of The Lord Jesus.",
+            "It Is God's Will That You Should Be Sanctified: That You Should Avoid Sexual Immorality;",
+            "That Each Of You Should Learn To Control His Own Body In A Way That Is Holy And Honorable,",
+            "Not In Passionate Lust Like The Heathen, Who Do Not Know God;",
+            "And That In This Matter No One Should Wrong His Brother Or Take Advantage Of Him. The Lord Will Punish Men For All Such Sins, As We Have Already Told You And Warned You.",
+            "For God Did Not Call Us To Be Impure, But To Live A Holy Life.",
+            "Therefore, He Who Rejects This Instruction Does Not Reject Man But God, Who Gives You His Holy Spirit.",
+            "Now About Brotherly Love We Do Not Need To Write To You, For You Yourselves Have Been Taught By God To Love Each Other.",
+            "And In Fact, You Do Love All The Brothers Throughout Macedonia. Yet We Urge You, Brothers, To Do So More And More.",
+            "Make It Your Ambition To Lead A Quiet Life, To Mind Your Own Business And To Work With Your Hands, Just As We Told You,",
+            "So That Your Daily Life May Win The Respect Of Outsiders And So That You Will Not Be Dependent On Anybody.",
+            "Brothers, We Do Not Want You To Be Ignorant About Those Who Fall Asleep, Or To Grieve Like The Rest Of Men, Who Have No Hope.",
+            "We Believe That Jesus Died And Rose Again And So We Believe That God Will Bring With Jesus Those Who Have Fallen Asleep In Him.",
+            "According To The Lord's Own Word, We Tell You That We Who Are Still Alive, Who Are Left Till The Coming Of The Lord, Will Certainly Not Precede Those Who Have Fallen Asleep.",
+            "For The Lord Himself Will Come Down From Heaven, With A Loud Command, With The Voice Of The Archangel And With The Trumpet Call Of God, And The Dead In Christ Will Rise First.",
+            "After That, We Who Are Still Alive And Are Left Will Be Caught Up Together With Them In The Clouds To Meet The Lord In The Air. And So We Will Be With The Lord Forever.",
+            "Therefore Encourage Each Other With These Words."
+        ],
+        [
+            "Now, Brothers, About Times And Dates We Do Not Need To Write To You,",
+            "For You Know Very Well That The Day Of The Lord Will Come Like A Thief In The Night.",
+            "While People Are Saying, \"Peace And Safety,\" Destruction Will Come On Them Suddenly, As Labor Pains On A Pregnant Woman, And They Will Not Escape.",
+            "But You, Brothers, Are Not In Darkness So That This Day Should Surprise You Like A Thief.",
+            "You Are All Sons Of The Light And Sons Of The Day. We Do Not Belong To The Night Or To The Darkness.",
+            "So Then, Let Us Not Be Like Others, Who Are Asleep, But Let Us Be Alert And Self-controlled.",
+            "For Those Who Sleep, Sleep At Night, And Those Who Get Drunk, Get Drunk At Night.",
+            "But Since We Belong To The Day, Let Us Be Self-controlled, Putting On Faith And Love As A Breastplate, And The Hope Of Salvation As A Helmet.",
+            "For God Did Not Appoint Us To Suffer Wrath But To Receive Salvation Through Our Lord Jesus Christ.",
+            "He Died For Us So That, Whether We Are Awake Or Asleep, We May Live Together With Him.",
+            "Therefore Encourage One Another And Build Each Other Up, Just As In Fact You Are Doing.",
+            "Now We Ask You, Brothers, To Respect Those Who Work Hard Among You, Who Are Over You In The Lord And Who Admonish You.",
+            "Hold Them In The Highest Regard In Love Because Of Their Work. Live In Peace With Each Other.",
+            "And We Urge You, Brothers, Warn Those Who Are Idle, Encourage The Timid, Help The Weak, Be Patient With Everyone.",
+            "Make Sure That Nobody Pays Back Wrong For Wrong, But Always Try To Be Kind To Each Other And To Everyone Else.",
+            "Be Joyful Always;",
+            "Pray Continually;",
+            "Give Thanks In All Circumstances, For This Is God's Will For You In Christ Jesus.",
+            "Do Not Put Out The Spirit's Fire;",
+            "Do Not Treat Prophecies With Contempt.",
+            "Test Everything. Hold On To The Good.",
+            "Avoid Every Kind Of Evil.",
+            "May God Himself, The God Of Peace, Sanctify You Through And Through. May Your Whole Spirit, Soul And Body Be Kept Blameless At The Coming Of Our Lord Jesus Christ.",
+            "The One Who Calls You Is Faithful And He Will Do It.",
+            "Brothers, Pray For Us.",
+            "Greet All The Brothers With A Holy Kiss.",
+            "I Charge You Before The Lord To Have This Letter Read To All The Brothers.",
+            "The Grace Of Our Lord Jesus Christ Be With You."
+        ]
+    ]
 }
