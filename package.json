@@ -61,5 +61,9 @@
   },
   "devDependencies": {
     "workbox-build": "^6.1.5"
+  },
+  "engines" : { 
+    "npm" : ">=7.7.0",
+    "node" : ">=15.0.0"
   }
 }
