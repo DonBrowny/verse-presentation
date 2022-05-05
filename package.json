@@ -38,7 +38,7 @@
     "build-sw": "react-scripts build && node ./src/sw-build.js",
     "start-cr": "craco start",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "npm run build-sw",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -61,7 +61,7 @@
     ]
   },
   "engines": {
-    "npm": ">=7.7.0",
-    "node": ">=15.0.0"
+    "npm": "<=7.7.0",
+    "node": "<=15.0.0"
   }
 }
