@@ -55,7 +55,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "heroku-postbuild": "npm install && npm run build",
-    "lint:fix": "eslint --fix",
+    "lint": "eslint --fix",
     "pretty": "prettier --write .",
     "prepare": "husky install"
   },
@@ -67,7 +67,7 @@
   },
   "lint-staged": {
     "**/*.{js,jsx}": [
-      "npm run lint",
+      "eslint --fix",
       "prettier --write"
     ]
   },
