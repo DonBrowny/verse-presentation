@@ -73,12 +73,12 @@ const Receiver = () => {
 
   return (
     <div
-      className="receiver"
+      className='receiver'
       style={{
         background: `rgba(${receiverSettings.backgroundColor.r}, ${receiverSettings.backgroundColor.g}, ${receiverSettings.backgroundColor.b}, ${receiverSettings.backgroundColor.a})`,
       }}
     >
-      <div className="receiver-center">
+      <div className='receiver-center'>
         <h1
           style={{
             color: `rgba(${receiverSettings.headerColor.r}, ${receiverSettings.headerColor.g}, ${receiverSettings.headerColor.b}, ${receiverSettings.headerColor.a})`,

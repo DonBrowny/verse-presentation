@@ -11,12 +11,12 @@ const NavBar = ({ children }) => {
 
   return (
     checkVisibility() && (
-      <nav className="navbar">
-        <a href="/">
-          <img className="navbar-logo" src={Logo} alt="Logo" />
-          <span className="navbar-name">Verse Presentation</span>
+      <nav className='navbar'>
+        <a href='/'>
+          <img className='navbar-logo' src={Logo} alt='Logo' />
+          <span className='navbar-name'>Verse Presentation</span>
         </a>
-        <div className="navbar-links">{children}</div>
+        <div className='navbar-links'>{children}</div>
       </nav>
     )
   );

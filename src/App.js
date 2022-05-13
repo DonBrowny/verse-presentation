@@ -11,36 +11,34 @@ import { getFromStorage, saveToStorage } from './utils/utils';
 import { PresentationProvider } from './context/PresentationContext';
 
 function createLink(links) {
-  return links.map((link) => {
-    return (
-      <NavLink activeClassName="active" exact key={link.path} to={link.path}>
-        {link.name}
-      </NavLink>
-    );
-  });
+  return links.map((link) => (
+    <NavLink activeClassName='active' exact key={link.path} to={link.path}>
+      {link.name}
+    </NavLink>
+  ));
 }
 
 function App() {
+  function setDefaultSettings() {
+    const receiverSettings = {
+      contentMinSize: 40,
+      contentMaxSize: 60,
+      contentColor: { r: 255, g: 255, b: 255, a: 1 },
+      headerColor: { r: 255, g: 255, b: 255, a: 1 },
+      backgroundColor: { r: 0, g: 0, b: 0, a: 1 },
+    };
+    saveToStorage('receiverSettings', receiverSettings);
+  }
+
   if (typeof PresentationRequest !== 'undefined') {
     window.PRESENTATION = new PresentationApi('/receiver');
-
-    function setDefaultSettings() {
-      const receiverSettings = {
-        contentMinSize: 40,
-        contentMaxSize: 60,
-        contentColor: { r: 255, g: 255, b: 255, a: 1 },
-        headerColor: { r: 255, g: 255, b: 255, a: 1 },
-        backgroundColor: { r: 0, g: 0, b: 0, a: 1 },
-      };
-      saveToStorage('receiverSettings', receiverSettings);
-    }
 
     if (!getFromStorage('receiverSettings')) {
       setDefaultSettings();
     }
 
     return (
-      <div className="app">
+      <div className='app'>
         <BrowserRouter>
           <PresentationProvider>
             <NavBar>{createLink(ROUTES)}</NavBar>
@@ -55,8 +53,8 @@ function App() {
   }
   return (
     <div>
-      This browser doesn't support Presentation API. Please use Chrome 48+ or
-      Edge 79+
+      This browser doesn&apos;t support Presentation API. Please use Chrome 48+
+      or Edge 79+
     </div>
   );
 }

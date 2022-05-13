@@ -1,5 +1,4 @@
 import React from 'react';
-import { useTranslation } from 'react-i18next';
 import './Badge.scss';
 
 function Badge({ item, content, onClose }) {
@@ -8,14 +7,17 @@ function Badge({ item, content, onClose }) {
   };
 
   return (
-    <>
-      {content && (
-        <div className="badge inline-flex">
-          <span>{content}</span>
-          <button className="badge-circle" onClick={onBadgeClose}></button>
-        </div>
-      )}
-    </>
+    content && (
+      <div className='badge inline-flex'>
+        <span>{content}</span>
+        <button
+          type='button'
+          aria-label='close'
+          className='badge-circle'
+          onClick={onBadgeClose}
+        />
+      </div>
+    )
   );
 }
 

@@ -9,7 +9,7 @@ const Verse = () => {
   const { t } = useTranslation('verse');
   const [searchResult, setSearchResult] = useState('');
 
-  const stringifyVerse = function ({book, chapter , result:resultList}) {
+  const stringifyVerse = function ({ book, chapter, result: resultList }) {
     if (resultList.length && resultList.length > 0) {
       return `${t(BOOKS[book])} : ${chapter + 1}`;
     }
@@ -21,7 +21,7 @@ const Verse = () => {
     });
   }, []);
 
-  const arrayToDiv = ({book, chapter , result:resultList}) => {
+  const arrayToDiv = ({ book, chapter, result: resultList }) => {
     if (resultList.length && resultList.length > 0) {
       return resultList.map((verse, index) => {
         return (
@@ -31,7 +31,7 @@ const Verse = () => {
             ref={(element) => {
               refs.current[index] = element;
             }}
-            className="card"
+            className='card'
           >
             <b>{index + 1}.</b> {verse}
           </div>
@@ -55,15 +55,15 @@ const Verse = () => {
   };
 
   return (
-    <article className="verse flex-stretch">
+    <article className='verse flex-stretch'>
       <VerseSearch
         onResultAvailable={setSearchResult}
         onVerseClick={onVerseClick}
       />
-      <section className="verse-results">
+      <section className='verse-results'>
         <h3>{t('FORM.SEARCH_RESULT')}</h3>
         <h3>{searchResult && stringifyVerse(searchResult)}</h3>
-        <div className="results-list" onClick={searchSelect}>
+        <div className='results-list' onClick={searchSelect}>
           {searchResult && arrayToDiv(searchResult)}
         </div>
       </section>

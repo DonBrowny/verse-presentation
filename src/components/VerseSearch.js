@@ -28,11 +28,9 @@ function VerseSearch({ onResultAvailable, onVerseClick }) {
   };
 
   useEffect(() => {
-    let result =
-      data.chapter && typeof chapter === 'number'
-        ? data.chapter[chapter]
-        : '';
-    onResultAvailable({book, chapter, result});
+    const result =
+      data.chapter && typeof chapter === 'number' ? data.chapter[chapter] : '';
+    onResultAvailable({ book, chapter, result });
   }, [data, book, chapter, onResultAvailable]);
 
   useEffect(() => {
@@ -73,56 +71,57 @@ function VerseSearch({ onResultAvailable, onVerseClick }) {
     [onVerseClick]
   );
   return (
-    <section className="verse-search">
-      <h3 className="row">{t('FORM.VERSE_SEARCH')}</h3>
+    <section className='verse-search'>
+      <h3 className='row'>{t('FORM.VERSE_SEARCH')}</h3>
       <span>{t('FORM.BOOK')}:</span>
       <span>{t('FORM.CHAPTER')}:</span>
       <span>{t('FORM.VERSE')}:</span>
       <List
-        listId="book"
+        listId='book'
         selected={book}
         items={convertToSelectObject(bookList)}
         onSelectionChange={onFormChange}
       />
       <List
-        listId="chapter"
+        listId='chapter'
         selected={chapter}
         items={data.chapter && convertToSelectObject(data.chapter.length)}
         onSelectionChange={onFormChange}
       />
       <List
-        listId="verse"
+        listId='verse'
         items={
           typeof chapter === 'number' &&
           convertToSelectObject(data.chapter[chapter].length)
         }
         onSelectionChange={onFormChange}
       />
-      <span className="row bold">{t('FORM.WORD_SEARCH_IN')}:</span>
-      <div className="row inline-flex">
+      <span className='row bold'>{t('FORM.WORD_SEARCH_IN')}:</span>
+      <div className='row inline-flex'>
         {typeof book !== 'undefined' ? (
           <>
             <Badge
-              item="book"
+              item='book'
               onClose={onBadgeClose}
               content={bookList[book]}
             />
             <Badge
-              item="chapter"
+              item='chapter'
               onClose={onBadgeClose}
               content={chapter ? chapter + 1 : ''}
             />
           </>
         ) : (
           <span>
-            <sup>*</sup>Select a book to search
+            <sup>*</sup>
+            Select a book to search
           </span>
         )}
       </div>
-      <span className="row bold">{t('FORM.WORD_SEARCH')}:</span>
-      <input className="row-2" type="text" name="" id="" />
-      <button className="icon-button">
-        <img src="/icons/search-solid.svg" alt="Search" />
+      <span className='row bold'>{t('FORM.WORD_SEARCH')}:</span>
+      <input className='row-2' type='text' name='' id='' />
+      <button type='button' className='icon-button'>
+        <img src='/icons/search-solid.svg' alt='Search' />
       </button>
     </section>
   );
