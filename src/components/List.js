@@ -46,10 +46,10 @@ const List = ({ listId, selected, items, onSelectionChange }) => {
 
   return (
     <div>
-      <input type="text" name="" id={listId} onChange={searchChange} />
+      <input type='text' name='' id={listId} onChange={searchChange} />
       <select
         key={listId}
-        className="list"
+        className='list'
         multiple
         onChange={selectionChange}
         value={selectedValue}

@@ -17,17 +17,17 @@ const Settings = () => {
   }
 
   return (
-    <div className="settings">
-      <h3 className="settings-header">Verse Settings</h3>
-      <div className="settings-content">
+    <div className='settings'>
+      <h3 className='settings-header'>Verse Settings</h3>
+      <div className='settings-content'>
         <span>Default Language</span>
         <select>
           <option>English</option>
           <option>தமிழ்</option>
         </select>
       </div>
-      <h3 className="settings-header">Lyrics Settings</h3>
-      <div className="settings-content">
+      <h3 className='settings-header'>Lyrics Settings</h3>
+      <div className='settings-content'>
         <span>Default Language</span>
         <select>
           <option>English</option>
@@ -35,30 +35,30 @@ const Settings = () => {
         </select>
       </div>
 
-      <h3 className="settings-header">Presentation Settings</h3>
-      <div className="settings-content">
+      <h3 className='settings-header'>Presentation Settings</h3>
+      <div className='settings-content'>
         <span>Minimum Font Size</span>
         <input
-          type="number"
+          type='number'
           value={receiverSettings.contentMinSize}
-          step="1"
+          step='1'
           onChange={(event) => {
             onSettingsChange({ contentMinSize: parseInt(event.target.value) });
           }}
         />
       </div>
-      <div className="settings-content">
+      <div className='settings-content'>
         <span>Maximum Font Size</span>
         <input
-          type="number"
+          type='number'
           value={receiverSettings.contentMaxSize}
-          step="1"
+          step='1'
           onChange={(event) => {
             onSettingsChange({ contentMaxSize: parseInt(event.target.value) });
           }}
         />
       </div>
-      <div className="settings-content">
+      <div className='settings-content'>
         <span>Background color</span>
         <ColorButton
           selectedColor={receiverSettings.backgroundColor}
@@ -67,7 +67,7 @@ const Settings = () => {
           }}
         />
       </div>
-      <div className="settings-content">
+      <div className='settings-content'>
         <span>Header color</span>
         <ColorButton
           selectedColor={receiverSettings.headerColor}
@@ -76,7 +76,7 @@ const Settings = () => {
           }}
         />
       </div>
-      <div className="settings-content">
+      <div className='settings-content'>
         <span>Content color</span>
         <ColorButton
           selectedColor={receiverSettings.contentColor}
@@ -85,7 +85,7 @@ const Settings = () => {
           }}
         />
       </div>
-      <div className="settings-header">
+      <div className='settings-header'>
         <button onClick={saveChanges}>Save</button>
       </div>
     </div>

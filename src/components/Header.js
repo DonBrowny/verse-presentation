@@ -66,7 +66,7 @@ const Header = () => {
 
   return (
     isVisible && (
-      <header className="header">
+      <header className='header'>
         <h3>{pathName.toUpperCase()}</h3>
         <span>Language:</span>
         <button
@@ -92,12 +92,12 @@ const Header = () => {
 
         <img
           src={presentationStatus === STATUS.OPEN ? PAUSE_ICON : PLAY_ICON}
-          alt="Play Icon"
+          alt='Play Icon'
           onClick={startOrPausePresentation}
         />
         <img
-          src="/icons/stop-circle.svg"
-          alt="Play Icon"
+          src='/icons/stop-circle.svg'
+          alt='Play Icon'
           onClick={terminatePresentation}
         />
       </header>

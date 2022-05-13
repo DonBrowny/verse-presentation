@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
@@ -15,17 +16,16 @@ app.get('/api/hello', (req, res) => {
 
 app.post('/api/world', (req, res) => {
   res.send(
-    `I received your POST request. This is what you sent me: ${req.body.post}`,
+    `I received your POST request. This is what you sent me: ${req.body.post}`
   );
 });
 
+// Serve any static files
+app.use(express.static(path.join(__dirname, 'build')));
 
-  // Serve any static files
-  app.use(express.static(path.join(__dirname, 'build')));
-
-  // Handle React routing, return all requests to React app
-  app.get('/*', function(req, res) {
-    res.sendFile(path.join(__dirname, 'build', 'index.html'));
-  });
+// Handle React routing, return all requests to React app
+app.get('/*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+});
 
 app.listen(port, () => console.log(`Listening on port ${port}`));

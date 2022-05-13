@@ -27,14 +27,14 @@ const ColorButton = ({ selectedColor = undefined, onChangeCompleted }) => {
         style={{
           background: `rgba(${color.r}, ${color.g}, ${color.b}, ${color.a})`,
         }}
-        className="swatch"
+        className='swatch'
         onClick={openPicker}
       >
-        <div className="color" />
+        <div className='color' />
       </div>
       {displayColorPicker && (
-        <div className="popover">
-          <div className="cover" onClick={closePicker} />
+        <div className='popover'>
+          <div className='cover' onClick={closePicker} />
           <SketchPicker color={color} onChange={handleChange} />
         </div>
       )}
